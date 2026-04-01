@@ -1,25 +1,47 @@
-from sklearn.feature_extraction.text import TfidfVectorizer
+from pathlib import Path
+import argparse
 import pandas as pd
+from sklearn.feature_extraction.text import TfidfVectorizer
 
-# 1. 영문 분석 데이터 (Corpus)
-corpus = [
-  'Data science is an interdisciplinary field that uses scientific methods.',
-  'Python is a popular programming language for data analysis.',
-  'Machine learning is a subset of artificial intelligence and data science.',
-  'Data analysis and machine learning are key parts of data science.'
-]
+SRC_DIR = Path(__file__).resolve().parent / "src"
 
-# 2. TF-IDF 벡터라이저 설정
-# stop_words='english': 영어의 일반적인 불용어(the, a, is 등)를 자동으로 제외합니다.
-vectorizer = TfidfVectorizer(stop_words='english')
 
-# 3. TF-IDF 변환
-tfidf_matrix = vectorizer.fit_transform(corpus)
+def load_corpus(file_path: str) -> list[str]:
+    path = Path(file_path)
+    path = path if path.is_absolute() else SRC_DIR / path
 
-# 4. 결과 시각화를 위한 데이터프레임 생성
-words = vectorizer.get_feature_names_out()
-df_tfidf = pd.DataFrame(tfidf_matrix.toarray(), columns=words)
+    if not path.is_file():
+        raise FileNotFoundError(f"파일을 찾을 수 없습니다: {path}")
 
-# 결과를 보기 좋게 전치(Transpose)하여 출력 (행: 단어, 열: 문서 번호)
-print("### English TF-IDF Analysis Result ###")
-print(df_tfidf.T)
+    docs = [line.strip() for line in path.read_text(encoding="utf-8").splitlines() if line.strip()]
+    if not docs:
+        raise ValueError("파일에 분석할 텍스트가 없습니다. (빈 줄 제외)")
+    return docs
+
+
+def build_tfidf_df(corpus: list[str]) -> pd.DataFrame:
+    vectorizer = TfidfVectorizer(stop_words="english")
+    matrix = vectorizer.fit_transform(corpus)
+    return pd.DataFrame(matrix.toarray(), columns=vectorizer.get_feature_names_out())
+
+
+def parse_args() -> argparse.Namespace:
+    parser = argparse.ArgumentParser(description="TF-IDF 분석 스크립트")
+    parser.add_argument(
+        "file_path",
+        nargs="?",
+        default="sample.txt",
+        help="분석할 텍스트 파일 경로 (상대경로는 src 기준, 기본값: sample.txt)",
+    )
+    return parser.parse_args()
+
+
+def main() -> None:
+    args = parse_args()
+    df_tfidf = build_tfidf_df(load_corpus(args.file_path))
+    print("English TF-IDF Analysis Result")
+    print(df_tfidf.T)
+
+
+if __name__ == "__main__":
+    main()
