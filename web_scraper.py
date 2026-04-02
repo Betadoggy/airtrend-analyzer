@@ -1,6 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 import urllib3
+import re
 
 # 1. Disable SSL warnings for clean output
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
@@ -21,15 +22,18 @@ try:
         
         # Extract data
         page_title = soup.title.string if soup.title else "No Title Found"
-        page_content = soup.get_text()
+        
+        # 방법: 모든 텍스트를 가져온 뒤 2번 이상의 줄바꿈을 1번으로 축소
+        raw_text = soup.get_text()
+        cleaned_text = re.sub(r'\n\s*\n+', '\n\n', raw_text).strip()
         
         # --- Save to Text File ---
         file_name = "crawling_result.txt"
         with open(file_name, "w", encoding="utf-8") as f:
             f.write(f"Source URL: {url}\n")
             f.write(f"Page Title: {page_title}\n")
-            f.write("-" * 50 + "\n")
-            f.write(page_content.strip())
+            f.write("-" * 50 + "\n\n")
+            f.write(cleaned_text)
         
         print(f"\n[Success] Data has been saved!")
         print(f"File Name: {file_name}")
