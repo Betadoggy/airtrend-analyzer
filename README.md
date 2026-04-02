@@ -22,3 +22,8 @@ push
 ```
 git push
 ```
+
+repository clone
+```
+git clone https://github.com/username/project-name.git
+```
