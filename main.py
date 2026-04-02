@@ -30,8 +30,8 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument(
         "file_path",
         nargs="?",
-        default="sample.txt",
-        help="분석할 텍스트 파일 경로 (상대경로는 src 기준, 기본값: sample.txt)",
+        default="crawling_result.txt",
+        help="분석할 텍스트 파일 경로 (상대경로는 src 기준, 기본값: crawling_result.txt)",
     )
     return parser.parse_args()
 

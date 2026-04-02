@@ -2,6 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import urllib3
 import re
+from pathlib import Path
 
 # 1. Disable SSL warnings for clean output
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
@@ -28,7 +29,9 @@ try:
         cleaned_text = re.sub(r'\n\s*\n+', '\n\n', raw_text).strip()
         
         # --- Save to Text File ---
-        file_name = "crawling_result.txt"
+        src_dir = Path(__file__).resolve().parent / "src"
+        src_dir.mkdir(exist_ok=True)
+        file_name = src_dir / "crawling_result.txt"
         with open(file_name, "w", encoding="utf-8") as f:
             f.write(f"Source URL: {url}\n")
             f.write(f"Page Title: {page_title}\n")
