@@ -1,51 +1,51 @@
-import requests
+import requests, os, time, certifi, urllib3
 from bs4 import BeautifulSoup
-import urllib3
-import re
 from pathlib import Path
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
 
-# 1. Disable SSL warnings for clean output
-urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
+# 1. 환경 설정 및 세션 초기화
+CA_PATH = r'C:\temp\somansa.cer'
+API_KEY = '05f7ae68fafc47a0a45ade59ea38edd9'
+QUERY, PAGE_SIZE = 'airport', 5
+SAVE_DIR = Path(__file__).resolve().parent / "news_results"
 
-url = 'https://www.jll.com/en-us/insights/2026-aviation-trends'
-headers = {
-    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
-}
+def get_session():
+    s = requests.Session()
+    retries = Retry(total=3, backoff_factor=1, status_forcelist=[429, 500, 502, 503, 504])
+    s.mount("https://", HTTPAdapter(max_retries=retries))
+    s.verify = CA_PATH if os.path.exists(CA_PATH) else certifi.where()
+    s.headers.update({'User-Agent': 'Mozilla/5.0...'})
+    return s
+
+session = get_session()
+
+def fetch_content(url):
+    try:
+        res = session.get(url, timeout=10)
+        if res.status_code == 200:
+            soup = BeautifulSoup(res.text, 'html.parser')
+            return "\n".join([p.text for p in soup.find_all('p') if len(p.text) > 30])
+    except: pass
+    return "본문을 불러올 수 없습니다."
+
+# 2. 기사 검색 및 수집
+url = f'https://newsapi.org/v2/everything?q={QUERY}&language=en&pageSize={PAGE_SIZE}&sortBy=relevancy&apiKey={API_KEY}'
+print(f"'{QUERY}' 검색 중...")
 
 try:
-    print(f"Connecting to...: {url}")
+    data = session.get(url).json()
+    if data.get('status') != 'ok': raise Exception(data.get('message'))
     
-    # Use verify=False to bypass SSL certificate issues
-    response = requests.get(url, headers=headers, verify=False, timeout=10)
-    
-    if response.status_code == 200:
-        soup = BeautifulSoup(response.text, 'html.parser')
+    SAVE_DIR.mkdir(exist_ok=True)
+    for i, art in enumerate(data.get('articles', [])):
+        print(f"[{i+1}] 수집: {art['title'][:30]}...")
+        content = fetch_content(art['url'])
         
-        # Extract data
-        page_title = soup.title.string if soup.title else "No Title Found"
-        
-        # 방법: 모든 텍스트를 가져온 뒤 2번 이상의 줄바꿈을 1번으로 축소
-        raw_text = soup.get_text()
-        cleaned_text = re.sub(r'\n\s*\n+', '\n\n', raw_text).strip()
-        
-        # --- Save to Text File ---
-        src_dir = Path(__file__).resolve().parent / "src"
-        src_dir.mkdir(exist_ok=True)
-        file_name = src_dir / "crawling_result.txt"
-        with open(file_name, "w", encoding="utf-8") as f:
-            f.write(f"Source URL: {url}\n")
-            f.write(f"Page Title: {page_title}\n")
-            f.write("-" * 50 + "\n\n")
-            f.write(cleaned_text)
-        
-        print(f"\n[Success] Data has been saved!")
-        print(f"File Name: {file_name}")
-        print(f"Page Title: {page_title}")
-        print("-" * 30)
-        
-    else:
-        print(f"\n[Failure] Status Code: {response.status_code}")
+        with open(SAVE_DIR / f"article_{i+1}.txt", "w", encoding="utf-8") as f:
+            f.write(f"Title: {art['title']}\nSource: {art['source']['name']}\nURL: {art['url']}\n{'-'*50}\n\n{content}")
+        time.sleep(1)
+    print(f"\n[완료] {len(data.get('articles', []))}개 저장됨: {SAVE_DIR}")
 
 except Exception as e:
-    print(f"\n[Error] An unexpected error occurred:")
-    print(f"Details: {e}")
+    print(f"오류 발생: {e}")
