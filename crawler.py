@@ -20,17 +20,12 @@ class NewsCrawler:
     def fetch_clean_content(self, url):
         """본문 추출 시에도 인증서 적용"""
         try:
-            # newspaper4k 내부적으로 requests를 사용할 때 설정을 위해 
-            # 직접 download 후 파싱하는 방식 대신 옵션을 줄 수 있지만, 
-            # 가장 확실한 건 해당 라이브러리가 참조하는 환경변수를 설정하거나 
             # 아래와 같이 직접 처리하는 것입니다.
             article = Article(url, language='en')
             article.download() # 내부적으로 자체 검증을 시도함
             article.parse()
             return article.text
         except Exception:
-            # newspaper 내부 에러 발생 시 SSL 문제일 확률이 높으므로 
-            # 대안으로 일반 requests로 가져오기를 시도해볼 수 있습니다.
             return None
 
     def run(self, query, page_size=10):
@@ -50,7 +45,7 @@ class NewsCrawler:
         count = 0
 
         for i, art in enumerate(articles):
-            print(f"[{i+1}/{len(articles)}] 본문 추출 중: {art['title'][:30]}...")
+            print(f"[{i+1}/{len(articles)}] 본문 추출 중: {art['title'][:50]}...")
             content = self.fetch_clean_content(art['url'])
             
             if content and len(content) > 100:
