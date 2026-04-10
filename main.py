@@ -1,47 +1,48 @@
+import os
 from pathlib import Path
-import argparse
-import pandas as pd
-from sklearn.feature_extraction.text import TfidfVectorizer
 
-SRC_DIR = Path(__file__).resolve().parent / "src"
+# 모든 HTTP 통신 라이브러리가 이 인증서를 참조하도록 강제 설정
+CERT_PATH = r'C:\temp\somansa.cer'
+os.environ['REQUESTS_CA_BUNDLE'] = CERT_PATH
+os.environ['SSL_CERT_FILE'] = CERT_PATH
 
+from crawler import NewsCrawler
+from analyzer import TextAnalyzer
 
-def load_corpus(file_path: str) -> list[str]:
-    path = Path(file_path)
-    path = path if path.is_absolute() else SRC_DIR / path
+# 설정 값
+API_KEY = '05f7ae68fafc47a0a45ade59ea38edd9' # 본인의 API Key
+SEARCH_QUERY = 'airport'
+DATA_FOLDER = "news_data"
 
-    if not path.is_file():
-        raise FileNotFoundError(f"파일을 찾을 수 없습니다: {path}")
+def main():
+    # 1. 수집 단계
+    crawler = NewsCrawler(api_key=API_KEY, save_dir=DATA_FOLDER)
+    crawler.run(query=SEARCH_QUERY, page_size=5)
 
-    docs = [line.strip() for line in path.read_text(encoding="utf-8").splitlines() if line.strip()]
-    if not docs:
-        raise ValueError("파일에 분석할 텍스트가 없습니다. (빈 줄 제외)")
-    return docs
+    print("\n" + "="*30)
+    
+    # 2. 분석 단계
+    analyzer = TextAnalyzer(data_dir=DATA_FOLDER)
+    corpus = analyzer.load_corpus()
 
-
-def build_tfidf_df(corpus: list[str]) -> pd.DataFrame:
-    vectorizer = TfidfVectorizer(stop_words="english")
-    matrix = vectorizer.fit_transform(corpus)
-    return pd.DataFrame(matrix.toarray(), columns=vectorizer.get_feature_names_out())
-
-
-def parse_args() -> argparse.Namespace:
-    parser = argparse.ArgumentParser(description="TF-IDF 분석 스크립트")
-    parser.add_argument(
-        "file_path",
-        nargs="?",
-        default="crawling_result.txt",
-        help="분석할 텍스트 파일 경로 (상대경로는 src 기준, 기본값: crawling_result.txt)",
-    )
-    return parser.parse_args()
-
-
-def main() -> None:
-    args = parse_args()
-    df_tfidf = build_tfidf_df(load_corpus(args.file_path))
-    print("English TF-IDF Analysis Result")
-    print(df_tfidf.T)
-
+    if corpus:
+        print(">>> TF-IDF 분석 결과 (상위 키워드 가중치):")
+        df_result = analyzer.build_tfidf(corpus)
+        
+        # 전치(T)해서 보기 좋게 출력
+        print(df_result.T)
+        
+        # outputs 폴더에 CSV 저장 로직
+        OUTPUT_DIR = Path(__file__).resolve().parent / "outputs"
+        OUTPUT_DIR.mkdir(exist_ok=True)  # 폴더가 없으면 생성
+        
+        save_path = OUTPUT_DIR / "analysis_result.csv"
+        
+        # 행(index)은 단어, 열(column)은 문서 번호인 상태로 저장 (전치 행렬 .T 사용 추천)
+        df_result.T.to_csv(save_path, encoding="utf-8-sig")
+        
+        print("-" * 50)
+        print(f"[저장 완료] 분석 결과가 다음 경로에 저장되었습니다: {save_path}")
 
 if __name__ == "__main__":
     main()
