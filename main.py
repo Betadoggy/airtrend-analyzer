@@ -10,14 +10,19 @@ from crawler import NewsCrawler
 from analyzer import TextAnalyzer
 
 # 설정 값
-API_KEY = '05f7ae68fafc47a0a45ade59ea38edd9' # 본인의 API Key
-SEARCH_QUERY = 'airport'
+API_KEY = '0ae709890d054bbba717b80b3a76c039' # 본인의 API Key
+KEYWORDS = ['airport', 'environment', 'technology', 'war']
+COMBINED_QUERY = " AND ".join(KEYWORDS)  # AND 연산자로 결함됨,
+PAGE_SIZE = 5
 DATA_FOLDER = "news_data"
 
 def main():
     # 1. 수집 단계
     crawler = NewsCrawler(api_key=API_KEY, save_dir=DATA_FOLDER)
-    crawler.run(query=SEARCH_QUERY, page_size=5)
+    
+    # 루프를 돌지 않고 결합된 쿼리 하나만 실행
+    print(f">>> 통합 검색어 실행: {COMBINED_QUERY}")
+    crawler.run(query=COMBINED_QUERY, page_size=PAGE_SIZE)
 
     print("\n" + "="*30)
     

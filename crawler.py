@@ -29,7 +29,7 @@ class NewsCrawler:
             return None
 
     def run(self, query, page_size=10):
-        url = f'https://newsapi.org/v2/everything?q={query}&language=en&pageSize={page_size}&sortBy=relevancy&apiKey={self.api_key}'
+        url = f'https://newsapi.org/v2/everything?q={query}&pageSize={page_size}&sortBy=relevancy&apiKey={self.api_key}'
         
         print(f">>> '{query}' 키워드로 기사 검색 중...")
         
@@ -49,7 +49,7 @@ class NewsCrawler:
             content = self.fetch_clean_content(art['url'])
             
             if content and len(content) > 100:
-                file_path = self.save_dir / f"article_{i+1}.txt"
+                file_path = self.save_dir / f"article_{query.replace(' ', '_')}_{i+1}.txt"
                 with open(file_path, "w", encoding="utf-8") as f:
                     f.write(f"Title: {art['title']}\nSource: {art['source']['name']}\nURL: {art['url']}\n{'-'*50}\n\n{content}")
                 count += 1
