@@ -1,0 +1,178 @@
+Title: DJI drones, Ukraine, and Russia — what we know about AeroScope
+Source: The Verge
+URL: https://www.theverge.com/22985101/dji-aeroscope-ukraine-russia-drone-tracking
+--------------------------------------------------
+
+Last week, Ukraine accused DJI — the world’s leading drone maker — of letting Russia target innocent civilians with missiles using DJI drone technology. “Are you sure you want to be a partner in these murders?” tweeted Ukraine Vice Prime Minister Mykhailo Fedorov last Wednesday. “Block your products that are helping Russia to kill the Ukrainians!”
+
+Reading those words, you might imagine DJI is now shipping killer drones to Russia or perhaps that Russia is using DJI drones as spotters for separate missile systems of its own. But that’s not even remotely what Ukraine’s request is about. It’s actually about DJI AeroScope, a system for locating drones and their operators — which Russia is now allegedly using to find Ukrainian drone pilots and wipe them out.
+
+Nearly a month after we published this report, DJI announced that it’s stopping all shipments to both Ukraine and Russia.
+
+DJI AeroScope was originally designed for public safety: if a rogue DJI drone gets near an airport runway, a stadium full of people, or, say, a political rally, law enforcement can warn people and find those drones. As part of the AeroScope system, every DJI drone broadcasts a signal that specialized receivers can use to decipher the drone’s position and the position of its pilot. If police need to monitor DJI drone activity in an area and track down their pilots, it’s as simple as planting a receiver and monitoring the signals.
+
+Even in peacetime, that idea might sound a little bit risky: what if a bad actor gets access to an AeroScope receiver and goes around harassing, assaulting, or stealing from people whose eyes legally have to be glued to their drones in the sky? That’s why DJI says they’re only sold to valid law enforcement and security agencies.
+
+But DJI didn’t plan for what might happen when a valid buyer pairs them with a guided missile battery in wartime. Now that Ukrainian civilians and their consumer-grade drones have been enlisted to defend against the Russian army, a deadly and possibly unforeseen consequence of Aeroscope may have emerged. If Aeroscope lets the Russian military know exactly where a Ukrainian drone pilot is standing, Russians could use that information to target an aerial strike at the pilot.
+
+Importantly, we haven’t found any confirmed reports that’s actually happening, even if that’s the story that’s spreading around parts of the internet (often paired with footage of this drone pilot seemingly surviving a near miss). But DJI has confirmed that some of Ukraine’s AeroScope receivers weren’t working properly, and Fedorov is now asking DJI to block Russia’s DJI gear.
+
+That’s likely a non-starter because DJI is a Chinese company, and China is broadly aligned with Russia, not Ukraine — to the point that US officials now believe China might actually provide Russia with assistance instead of staying neutral. DJI is reportedly funded by the Chinese government and has been repeatedly sanctioned by the United States; most recently, the US Treasury named it one of eight “Non-SDN Chinese Military-Industrial Complex Companies,” and the USA has repeatedly accused it of helping China surveil its Uyghur population with drones.
+
+Here’s everything we know about AeroScope, after chatting with DJI spokesperson Adam Lisberg; drone forensics expert David Kovar; Brandon Lugo, director of operations at Aerial Armor, a prominent Aeroscope dealer in the US; and Taras Troiak, a DJI reseller who ran multiple authorized DJI stores in Ukraine and serves as administrator of the 15,000-strong Ukrainian UAV Owners Fan Club, which claims that some of its pilots have been targeted by Russian airstrikes and even killed.
+
+What is DJI AeroScope, and how does it work?
+
+There are two main elements to the AeroScope system:
+
+A signal, automatically broadcast by every DJI drone sold since 2017, that provides the drone’s position, altitude, speed, direction, serial number, and the location of the pilot
+
+The receivers that can pick up those signals up to 50 kilometers (31 miles) away
+
+The AeroScope signals are not encrypted, despite what we wrote in a previous version of this post — even though DJI and an independent source both told us they were encrypted, and DJI insisted they were when we did a fact-check, DJI now admits that they aren’t encrypted at all. So they could be picked up by other kinds of receivers.
+
+As for DJI, it primarily sells two different types of receivers: a short-range football of a “Portable Unit” with its own clamshell case, screen, antennas and batteries, and a long-range “Stationary Unit” that’s designed to jack into a giant omnidirectional outdoor antenna and needs to connect to a server via an Ethernet cable or cellular modem.
+
+There are multiple ways to set up a Stationary Unit, too: transmitting data to DJI’s public servers (hosted by Amazon’s AWS), to an owner’s private cloud, or even an offline server for security. No internet is technically required, says Aerial Armor’s Lugo, and the Portable Unit doesn’t even have the option. “You open the little Pelican case, you sit there, you monitor all the data locally,” he says. “The Ethernet port doesn’t even enable any sort of connectivity; it’s for programming only.”
+
+The Portable Unit only has a tenth of the quoted range of the Stationary Unit at 5 kilometers, but that 50km number is a stretch. In practice, DJI’s Lisberg says that 50 kilometers is “the upper bound of what I’ve heard, on a clear day with no solar flares, a totally rocking antenna, at the edge of the desert or something.” Lugo points out that smaller drones like the DJI Spark transmit more weakly, too, but that even in an urban environment, you should be able to spot a small drone a couple miles away with an AeroScope receiver.
+
+Prices seem to vary a lot: Lugo says he’s seen the Portable Unit going for $10,000 and a medium-range G8 Stationary kit sold anywhere between $25,000 and $150,000. DJI, meanwhile, says it should cost under $10,000 for a full installation.
+
+Wait, are you telling me that every DJI drone is quietly broadcasting my position, not just my drone’s position, to anyone who buys one of these gadgets?
+
+Yes. “It’s essentially a system where the user of the drone is signing a EULA acknowledging that my information will be made available,” says Kovar.
+
+“Since the start, we’ve made clear to all our dealers and distributors that Aeroscopes can only be sold to legitimate operators, police and security forces,” says Lisberg. “We hear reports now and then of a billionaire who gets one to watch their yacht or something, but by and large, those are the people using AeroScopes.”
+
+Does Russia have a third, military version of the AeroScope receiver with longer range than Ukraine?
+
+That’s what Troiak tells me explicitly, and Vice PM Fedorov seemingly implies it in his letter to DJI, too. “The Russian army uses an extended version of DJI Aeroscope which were taken from Syria,” writes Fedorov. “The distance is up to 50 km.”
+
+But again, 50 kilometers is the same range that DJI already quotes for its Stationary Unit — when the right antennas are attached — and DJI’s Lisberg says he’s never heard of a longer-range military version.
+
+One thing that’s not in dispute: both Ukraine and Russia have access to AeroScope receivers, including the long-range Stationary versions.
+
+Did DJI disable or weaken Ukraine’s AeroScope receivers, then?
+
+That’s been another accusation out of Ukraine, but the evidence is shaky at best. Troiak — the DJI reseller who appears to be acting as middleman between their operators and DJI, trying to get them fixed — showed me screenshots of an email conversation that allegedly depicts several AeroScope receivers stationed at nuclear power plants mysteriously going offline after Russia invaded Ukraine. But Troiak could not provide better evidence, suggesting his sources might be killed or jailed if he put them in touch, and Vice PM Fedorov’s office didn’t respond to requests for comment.
+
+Accusations are flying
+
+While DJI does confirm that some of Ukraine’s AeroScope receivers went offline, it vehemently denies that the company had anything to do with it.
+
+“All allegations that DJI has deliberately adjusted the functionality of AeroScope to help some parties or hurt other parties are absolutely, thoroughly false,” Lisberg tells The Verge, suggesting they might have been down because of power or internet outages instead. “Nobody credible has alleged that the technical problems we’ve been having with AeroScopes are anything other than technical problems.”
+
+And both Troiak and Lisberg agree that DJI has already helped bring some of Ukraine’s non-working AeroScope receivers back online. “Others, we have not been able to diagnose or fix, but we continue to work with their operators,” DJI’s Lisberg says.
+
+Why can’t DJI or Ukraine just shut off the Aeroscope signals so pilots aren’t targeted?
+
+First off, this isn’t something that DJI can switch off over the internet — the drones themselves are broadcasting the AeroScope signals locally over standard 2.4GHz and 5.8GHz frequencies to any nearby receiver that’s listening. They’re not being sent over the internet.
+
+And DJI says drone owners can’t turn them off either. “This is all encoded in a data packet that’s part of the same data transmission you can use to command and control the drones,” says Lisberg. “You cannot shut that off without also losing control of the drone.”
+
+All that said, AeroScope was retroactively added to some early DJI drones as a firmware update, so theoretically possible a new firmware update could turn it off again. “If you engineered new firmware with no AeroScope, the drone would still fly fine,” Lisberg admits. But that might defeat the public safety purpose of AeroScope since DJI can’t guarantee only resistance fighters would receive the firmware. It could allow bad actors to cloak their drones as well.
+
+But perhaps just as importantly, Ukraine isn’t actually asking DJI to shut off the AeroScope signals — remember, Ukraine is using AeroScope receivers as well, and it wants them turned on.
+
+So what is Ukraine actually asking for?
+
+Vice PM Fedorov wants DJI to cough up information about every DJI product in Ukraine — including where they were purchased and a map of their locations — and to explicitly block DJI products from functioning if they came from Russia, Syria and Lebanon.
+
+Does DJI actually have that map of where its products are?
+
+The company says no. “We have no way of tracking where an AeroScope is,” says Lisberg — though weeks after we published this story, he admits that DJI could theoretically look up the GPS coordinates of the stationary AeroScope units that connect to its AWS cloud.
+
+“We sell mostly through distributors, which sell to dealers, which sell to the public... there’s a big gap between the information people think we have on our users and what we actually have on our users,” he adds, when I ask if DJI might at least have sales data on its drones.
+
+Aerial Armor’s Lugo backs that up. “They don’t have immediate visibility, if any, into the clients we sell to... they might know we have an NFL stadium, but they don’t know which one or where it’s at.”
+
+Can’t DJI see the positions of the drones? Isn’t it tracking flight data too?
+
+That was the theory in 2017, but DJI says it’s not happening at all.
+
+“I was one of the people five years ago or so who was accusing them of doing that, and at the time, they might well have been. There were strong indications that telemetry data was flowing off of the drone and through the app to some domains, likely controlled by DJI,” says Kovar, the drone forensics expert.
+
+The short version: in 2017, a hacker named Kevin Finisterre discovered that DJI had left some of its Amazon AWS cloud data publicly accessible, with Ars Technica writing that it included “flight logs from accounts associated with government and military domains.” That’s when the US Army got suspicious and began to ground its own DJI drones.
+
+“it was not done, those programs do not exist”
+
+In 2020, Finisterre uploaded another chunk of data from that same breach, which appears to show an online heatmap of drone activity around the globe — something DJI theoretically wouldn’t be able to generate without tracking of some sort. (The ominous name “DJI Sentinel & Supervisor” didn’t help.)
+
+But DJI’s Lisberg says that “Sentinel & Supervisor” never actually existed: it was an internal proposal that didn’t go anywhere. “[Finisterre] came across a presentation someone put together about something that could be done; it was not done, those programs do not exist,” he says.
+
+And DJI firmly says it doesn’t have your flight data unless you upload it yourself. Though Finisterre has suggested that the DJI Fly app might do that automatically with its “Auto-sync Flight Records” feature, I was able to confirm that at least the current US version of the app has that feature turned off by default.
+
+While the app does push you into sharing the location of your own drone, hardware info, and your device’s “daily diagnostic and usage data,” you can opt out of all of those, and Kovar says he’s convinced that the company’s not siphoning off flight info now. Repeated independent security audits by consulting firms and US government agencies also found nothing of the sort.
+
+“People have looked at the traffic, and they have been unable to come to any conclusion that there’s telemetry data flowing across the link anymore,” he says, adding that DJI has managed to convince many law enforcement agencies since 2017 that their data is safe as well.
+
+Couldn’t DJI access AeroScope receivers based in Ukraine to find the data Ukraine wants?
+
+Theoretically — if Russia or Ukraine set their Aeroscope receivers to upload their data to DJI’s public AWS cloud servers, and if DJI had access, then DJI would have the same information that Ukraine’s own receivers can already get on the ground. It depends on where the data is hosted. “If a stationary AeroScope customer uses our AWS server, it is theoretically possible for us to access it,” says Lisberg. And Lugo says that in his experience, AeroScope dealers tend to put their clients on the cheaper AWS “demo cloud” more often than not.
+
+That said, some of the AeroScope stations upload to a private cloud rather than AWS — and that’s the kind that you’d be likely to use to secure military data. They would only connect to DJI’s servers once a year to get a new digital certificate so they can operate, according to Kovar and Lugo.
+
+Even if DJI did have the data, it wouldn’t give it to Ukraine, says Kovar, because that would be providing military intelligence to one side of the war. “It’s a request DJI is not going to go along with because DJI is a Chinese company, and Russia is a Chinese ally.”
+
+If the AeroScope receivers need a digital certificate to work, couldn’t DJI just shut them off?
+
+Perhaps. While DJI tells me there’s no explicit kill switch — “it was not something that we contemplated,” says Lisberg — Lugo confirms that an AeroScope sensor will drop offline if its certificate expires, after repeatedly warning its owners that it’s time to pay up.
+
+DJI’s Lisberg confirms that the company could revoke a certificate prematurely, but it’s never done that in the past, and they otherwise last an entire year before they expire. Lugo says the Portable Units don’t require one at all, and since many Stationary Units aren’t connected to the internet, it wouldn’t be possible to send a signal to cut them off early. Lisberg says prematurely revoking a cert “ could only affect a stationary unit that is connected to an AWS server in our cloud.”
+
+Either way, shutting down the AeroScope receivers is not what Ukraine is asking for, and DJI is trying to maintain a neutral stance anyhow.
+
+Couldn’t DJI establish a neutral no-fly zone for its drones over Ukraine?
+
+Yes, but not a particularly effective one. DJI has the ability to set up geofences, and it’s one of the few things DJI has actually offered to do in response to Ukraine’s ask — but as DJI points out, it’s not foolproof.
+
+Russian and Ukrainian pilots could dodge the geofence by not installing the latest software update. “There are software hacks that disable most of that,” too, says Kovar. Pilots could also physically block the antennas from seeing satellite signals or disable GPS positioning entirely — which is actually what Troiak is already recommending Ukrainian drone pilots do to avoid getting spotted by Russia’s AeroScope sensors. Those drones would still broadcast an AeroScope signal, but it wouldn’t accurately provide the exact coordinates of a drone or its pilot.
+
+How are Ukrainians using their DJI drones in wartime, anyhow?
+
+“Civilians have been using the aerial cameras to track Russian convoys and then relay the images and GPS coordinates to Ukrainian troops,” according to the Associated Press. While there have also been reports on a drone that can drop Molotov cocktails, the pictures only show it dropping a beer bottle. “I think it’s mostly aspirational,” says Kovar, while adding how ISIS and others have indeed used DJI products to drop 40mm grenades in the past.
+
+Nevertheless, Ukraine does have some history with makeshift drone weaponry. In 2018, Smithsonian Magazine reported on the custom-made “fighting drones of Ukraine,” and the Ukrainian National Guard was reportedly using DJI Mavic 2 drones to direct airstrikes and drop homemade bombs in 2020, according to Coffee or Die.
+
+DJI drones aside, Ukraine has reportedly also been using inexpensive military-grade drones from Turkey that drop laser-guided bombs. The US is sending 100 “Switchblade” kamikaze drones to Ukraine as well.
+
+Has DJI stopped sales in either Russia or Ukraine?
+
+No. “We’ve always told our distributors and our dealers, you have to follow any applicable export control laws of any country where you’re operating and the US... we’ve reemphasized that guidance since this began,” says Lisberg.
+
+Stopping sales of AeroScope receivers wouldn’t necessarily deter the Russian military from tracking down these drones, anyhow. Troiak believes Russia already has hundreds of them in the country. And, “state-level militaries have probably figured out how to decrypt that information as well,” says Kovar.
+
+Over four hundred companies have withdrawn from Russia in protest. Will DJI?
+
+No.
+
+“For 15 years, DJI has tried our best to stay out of geopolitics,” says Lisberg.
+
+What kind of oversight keeps an AeroScope station owner from, say, logging all nearby flights and selling that data?
+
+Nothing, it seems.
+
+“[A]s with all DJI products, your data is your data,” writes Lisberg. “We’re not a data company. We don’t want to be the repository for our customers’ data. Just like with our drones, we offer data hosting as a convenience for customers who want to use it and who have no security concerns about it. And once you generate data with our products, it’s yours to use and control and keep.”
+
+In hindsight, is the AeroScope system a good idea?
+
+DJI has said publicly that the situation in Ukraine goes to show that the company’s drones don’t belong in a warzone, and it’s hard to disagree. AeroScope clearly wasn’t designed for that.
+
+“In this situation, no, it’s clearly a bad idea,” says Kovar. “[AeroScope] is exposing people fighting for democracy, whose nation is under attack, who are trying to use a powerful, very commercially available drone to defend their country, to being identified and located by opposing forces. In that regard, it’s a horrible, horrible idea. But for law enforcement purposes, to protect our critical infrastructure and such, it was an excellent idea.”
+
+Unforeseen consequences
+
+He likens it to other unforeseen uses of technology that have unfortunate implications for their owners, like how Toyota might be associated with images of insurgents with machine guns mounted to its pickups or Caterpillar with their bulldozers that have been used to demolish settlements in the West Bank.
+
+Lisberg also wants to be clear that DJI thought a technology like AeroScope was inevitable and saw government regulation heading its way if it didn’t produce it voluntarily. “The message was delivered clearly that if solutions like this weren’t developed, the government would go ahead and develop them and mandate them for us.”
+
+According to a 2020 Bloomberg Businessweek feature, one country that clearly delivered that message was China itself.
+
+DJI AeroScope is just part of a much larger conversation about who and what should be able to identify a drone and its owner, by the way — new FAA Remote ID rules could be shaking that up again soon.
+
+Update March 24th, 3:26PM ET: Clarified that DJI and Kovar claimed the AeroScope signals are encrypted rather than stating it as fact — however, DJI has gone back to double-check at our request and says that yes, they’re encrypted.
+
+Correction, April 28th, 2:37PM ET: DJI now tells us its AeroScope signals are not encrypted after all — even though it told us twice that they were, even though it checked with a product manager in China for that second confirmation, and even though Kovar told us the same. It’s not clear why DJI told us that, though Lisberg apologizes for the error. Thanks to Kevin Finisterre for verifying and helping push DJI to correct the error.
+
+Update, April 28th, 2:37PM ET: In addition to the correction, DJI’s Lisberg confirms that the company could theoretically revoke AeroScope certificates prematurely, but that would only affect stationary units that are connected to its own AWS servers — and that it could also theoretically see the GPS positions of those AeroScope receivers that way (though likely not the ones used by Russian military, or the portable ones which do not connect to AWS at all). Lisberg also says “I have been once again told that Sentinel and Supervisor do not exist.” Also, DJI has announced it has halted all business in Russia and Ukraine indefinitely.
