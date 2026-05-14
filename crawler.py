@@ -3,6 +3,7 @@ import os
 import certifi
 from pathlib import Path
 from newspaper import Article
+from datetime import datetime, timedelta  # 날짜 계산을 위해 추가
 
 class NewsCrawler:
     def __init__(self, api_key, save_dir="data"):
@@ -14,7 +15,6 @@ class NewsCrawler:
         self.ca_path = r'C:\temp\somansa.cer'
         # 파일이 존재하면 해당 경로 사용, 없으면 기본 파이썬 인증서 사용
         self.verify = self.ca_path if os.path.exists(self.ca_path) else certifi.where()
-        
         self.headers = {'User-Agent': 'Mozilla/5.0'}
 
     def fetch_clean_content(self, url):
@@ -29,11 +29,23 @@ class NewsCrawler:
             return None
 
     def run(self, query, page_size=10):
-        url = f'https://newsapi.org/v2/everything?q={query}&pageSize={page_size}&sortBy=relevancy&apiKey={self.api_key}'
-        
+        # 2. 날짜 범위 설정 (최근 2년)
+        two_years_ago = (datetime.now() - timedelta(days=365 * 2)).strftime('%Y-%m-%d')
+        current_day = datetime.now().strftime('%Y-%m-%d')
+
+        url = (
+            f'https://newsapi.org/v2/everything?q={query}'
+            f'&from={two_years_ago}'
+            f'&to={current_day}'
+            f'&pageSize={page_size}'
+            f'&sortBy=relevancy'
+            f'&apiKey={self.api_key}'
+        )
+
+        print(f">>> 기간 설정: {two_years_ago} ~ {current_day}")
         print(f">>> '{query}' 키워드로 기사 검색 중...")
         
-        # 2. requests 호출 시 verify 옵션에 인증서 경로 전달
+        # 3. requests 호출 시 verify 옵션에 인증서 경로 전달
         res = requests.get(url, verify=self.verify)
         data = res.json()
 

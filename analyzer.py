@@ -6,20 +6,19 @@ from nltk import pos_tag, word_tokenize
 from nltk.corpus import stopwords as nltk_stopwords
 
 # NLTK 데이터 다운로드
-try:
-    nltk.data.find('tokenizers/punkt')
-except LookupError:
-    nltk.download('punkt')
+required_resources = [
+    ('tokenizers/punkt', 'punkt'),
+    ('tokenizers/punkt_tab', 'punkt_tab'),
+    ('taggers/averaged_perceptron_tagger_eng', 'averaged_perceptron_tagger_eng'),
+    ('corpora/stopwords', 'stopwords')
+]
 
-try:
-    nltk.data.find('taggers/averaged_perceptron_tagger')
-except LookupError:
-    nltk.download('averaged_perceptron_tagger')
-
-try:
-    nltk.data.find('corpora/stopwords')
-except LookupError:
-    nltk.download('stopwords')
+for res_path, res_name in required_resources:
+    try:
+        nltk.data.find(res_path)
+    except LookupError:
+        print(f"NLTK 리소스 다운로드 중: {res_name}")
+        nltk.download(res_name)
 
 # 영어 불용어만 정의
 COMBINED_STOPWORDS = set(nltk_stopwords.words('english'))
