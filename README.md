@@ -4,7 +4,7 @@ main.py를 실행
 ### 명령어
 pandas, newspaper4k, scikit-learn, requests, beautifulsoup4 라이브러리 설치
 ```
-pip install pandas newspaper4k newspaper4k[nlp] scikit-learn requests beautifulsoup4
+pip install pandas "newspaper4k[nlp]" scikit-learn requests beautifulsoup4
 ```
 
 ### 윈도우 인증서 관리자에서 추출하기
