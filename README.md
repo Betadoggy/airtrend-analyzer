@@ -13,6 +13,7 @@ pip install pandas "newspaper4k[nlp]" scikit-learn requests beautifulsoup4
 3. 목록에서 회사 보안 관련 이름(예: Somansa, Company Root CA 등)을 찾습니다.
 4. 해당 인증서 우클릭 → 모든 작업 → 내보내기.
 5. 인증서 내보내기 마법사에서 **'Base-64로 인코딩된 X.509(.CER)'**를 선택하여 저장합니다 
+6. 내보낼 파일 이름 경로 지정: C:\Temp\somansa.cer
 
 ### 내가 까먹을까봐 넣은 git 명령어
 stage
