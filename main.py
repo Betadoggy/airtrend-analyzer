@@ -1,28 +1,43 @@
 import os
 from pathlib import Path
+from crawler import NewsCrawler
+from analyzer import TextAnalyzer
 
 # 모든 HTTP 통신 라이브러리가 이 인증서를 참조하도록 강제 설정
 CERT_PATH = r'C:\temp\somansa.cer'
 os.environ['REQUESTS_CA_BUNDLE'] = CERT_PATH
 os.environ['SSL_CERT_FILE'] = CERT_PATH
 
-from crawler import NewsCrawler
-from analyzer import TextAnalyzer
-
 # 설정 값
 API_KEY = '0ae709890d054bbba717b80b3a76c039' # 본인의 API Key
-KEYWORDS = ['airport', 'environment', 'technology', 'war']
-COMBINED_QUERY = " AND ".join(KEYWORDS)  # AND 연산자로 결함됨,
 PAGE_SIZE = 5
 DATA_FOLDER = "news_data"
+
+# 쿼리 그룹 설정
+BASE_QUERY = "(airport OR aviation OR vertiport OR airline)"
+
+TOPIC_GROUPS = {
+    "environment": '("carbon neutral" OR "net zero" OR SAF OR hydrogen)',
+    "technology": '(AI OR Robotics OR "Digital twin" OR Drone OR UAM OR AR OR VR)',
+    "war": '("Russia-Ukraine war" OR "Iran war")'
+}
 
 def main():
     # 1. 수집 단계
     crawler = NewsCrawler(api_key=API_KEY, save_dir=DATA_FOLDER)
     
-    # 루프를 돌지 않고 결합된 쿼리 하나만 실행
-    print(f">>> 통합 검색어 실행: {COMBINED_QUERY}")
-    crawler.run(query=COMBINED_QUERY, page_size=PAGE_SIZE)
+    print(f">>> 그룹별 뉴스 수집 시작 (기본 키워드: {BASE_QUERY})")
+    
+    # TOPIC_GROUPS를 순회하며 검색 수행
+    for topic_name, topic_query in TOPIC_GROUPS.items():
+        # 기본 쿼리와 토픽 쿼리를 결합
+        combined_query = f"{BASE_QUERY} AND {topic_query}"
+        
+        print(f"\n[그룹: {topic_name}] 실행 중...")
+        print(f"쿼리: {combined_query}")
+        
+        # 검색 실행 (결과는 DATA_FOLDER에 파일로 저장됨)
+        crawler.run(query=combined_query, page_size=PAGE_SIZE)
 
     print("\n" + "="*30)
     

@@ -1,0 +1,84 @@
+Title: The New UK Government Wants Clean Energy, Sustainable Aviation Fuel, and Public Transport Reform
+Source: Wired
+URL: https://www.wired.com/story/kings-speech-starmer-labour-climate-environment-policy/
+--------------------------------------------------
+
+The new Labour government in the UK set out its legislative priorities today after winning a landslide election on July 4. At the official state opening of parliament, King Charles III read a speech outlining the bills that Prime Minister Keir Starmer’s government will attempt to pass over the coming months and years.
+
+There were few surprises in the king’s speech—most of the major bills announced were heavily trailed in Labour’s manifesto and election campaign. Updating planning laws, improving transport infrastructure, and reforming Parliament’s upper chamber, the House of Lords, all featured prominently in the speech.
+
+The speech and accompanying briefing document also outlined a few bills aimed at tackling the climate crisis. Here’s what you need to know about the environmental bills just announced.
+
+Great British Energy
+
+Labour’s plan to create a publicly owned clean power company featured prominently in the party’s election campaign. It was one of Labour’s six “steps for change” presented to voters in the run-up to the election, and the only flagship pledge by Labour that directly addressed the climate crisis.
+
+The bill will establish Great British Energy, a taxpayer-owned company that will “develop, own, and operate assets” by investing in partnership with the private sector. The company will be backed with £8.3 billion ($10.8 billion), and will be headquartered in Scotland, which produces a large share of the UK’s renewable electricity.
+
+Labour has already moved quickly on promoting renewable energy in the UK, scrapping a de facto ban on onshore wind farms in the first few days of its government. It has also announced a “mission control” to achieve clean power by 2030, headed up by Chris Stark, the erstwhile most senior climate adviser to the UK government.
+
+The plan is also couched in terms of the UK’s energy security. Russia’s invasion of Ukraine caused a spike in gas prices across Europe, and highlighted the UK’s dependence on this fossil fuel. Labour will hope that increasing investment in producing, moving, and storing clean power through Great British Energy will help reduce the reliance on gas, cleaning up the UK’s energy mix and improving its energy security.
+
+Sustainable Aviation Fuel
+
+Aviation makes up a small but growing portion of the UK’s greenhouse gas emissions. In 2019, emissions from civil aviation made up 8 percent of the UK’s emissions, and with electric planes still a distant prospect, this sector is generally considered one of the hardest areas to tackle.
+
+Sustainable aviation fuels (SAFs) are produced from alternatives to fossil fuels, such as crops or waste oil. These SAFs are attractive to airline operators because they can be mixed with normal jet fuel without requiring significant (and costly) adaptations to planes.
+
+The proposed bill will mandate that fuel supplies mix at least 10 percent of SAFs into their fuel blends and provide support for companies and investors who are looking to scale up SAF production in the UK. The Conservatives also backed SAFs in their manifesto, although it’s worth noting the benefits of SAFs are disputed, and increased demand for air travel will mean rising emissions from this sector.
+
+The Crown Estate
+
+The King—through the Crown Estate—is a major landowner in England, Wales, and Northern Ireland. Its holdings include much of the UK’s seabed, and with it rights to grant permissions to build offshore wind farms, lay pipelines, and store carbon under the seabed. In recent years this marine portfolio has become a lucrative part of the Crown Estate’s holdings.
+
+Labour is seeking to modernize the Crown Estate by giving it the power to borrow money from the treasury, freeing up cash reserves to invest in renewable energy projects in particular. It also wants to widen the Crown Estate’s investment powers so it can support other aspects of green infrastructure, such as digital technology for wind farms and port infrastructure.
+
+Read More
+
+Dating Is a Rich Person’s Game Now
+
+The problem isn’t just the apps. People actually can’t afford to date anymore.
+
+The UK’s Answer to Darpa Wants to Rewire the Human Brain
+
+ARIA has a billion-dollar budget and big aspirations for tackling everything from epilepsy to Alzheimer's.
+
+Anthropic Plots Major London Expansion
+
+As tensions with the US government mount, Anthropic has leased a new office with enough space to quadruple its 200-person head count in London.
+
+The UK Launches Its $675 Million Sovereign AI Fund
+
+In a bid to minimize dependence on technology from other countries, the UK government is plowing resources into homegrown AI startups.
+
+Spoofed Tankers Are Flooding the Strait of Hormuz. These Analysts Are Tracking Them
+
+Marine insurers and oil traders want to know what’s going on in one of the world’s most critical waterways. As the volume of disappearing ships in the area increases, analysts are getting creative.
+
+Here’s What You Need to Know About the Hantavirus
+
+While the outbreak aboard a cruise ship in the Atlantic is concerning, the virus isn’t easily transmitted through casual contact.
+
+Hyundai's New Ioniq 3 Has Hot-Hatch Looks, but Can It Beat BYD?
+
+The brand’s new 300-mile urban EV has great interior space and driving smarts, but a lot of competition. And, yes, there's a chance it is US-bound.
+
+This Summer, the American Water Crisis Becomes Real
+
+Concern over water access are poised to consume summer in the US, as crises in Corpus Christi and across the Colorado River threaten to boil over.
+
+Reid Hoffman Thinks Doctors Should Ask AI for a Second Opinion
+
+The LinkedIn cofounder now has an AI drug discovery startup—and thinks not asking chatbots for medical advice is “bordering on committing malpractice.”
+
+A Library Dedicated Solely to the Epstein Files Is Opening in New York
+
+The Institute for Primary Facts has compiled more than 3.5 million pages of the Epstein files for public display at the newly opened Donald J. Trump and Jeffrey Epstein Memorial Reading Room.
+
+How AI Could Help Combat Antibiotic Resistance
+
+At WIRED Health, British surgeon Ara Darzi said AI is set to transform the diagnosis and treatment of drug-resistant infections. But a lack of incentives means innovation may not reach patients.
+
+Diabetes Detection Needs Better Tools. They’re on the Way
+
+Blood glucose levels can be a reliable indicator of diabetes risk. But in some populations, it's not enough to catch the disease early.

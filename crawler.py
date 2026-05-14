@@ -61,7 +61,10 @@ class NewsCrawler:
             content = self.fetch_clean_content(art['url'])
             
             if content and len(content) > 100:
-                file_path = self.save_dir / f"article_{query.replace(' ', '_')}_{i+1}.txt"
+                safe_query = query.replace('"', '').replace('/', '_').replace(' ', '_')
+                
+                file_path = self.save_dir / f"article_{safe_query}_{i+1}.txt"
+                
                 with open(file_path, "w", encoding="utf-8") as f:
                     f.write(f"Title: {art['title']}\nSource: {art['source']['name']}\nURL: {art['url']}\n{'-'*50}\n\n{content}")
                 count += 1
