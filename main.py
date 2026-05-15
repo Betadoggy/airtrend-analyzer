@@ -10,7 +10,7 @@ os.environ['SSL_CERT_FILE'] = CERT_PATH
 
 # 설정 값
 API_KEY = '0ae709890d054bbba717b80b3a76c039' # 본인의 API Key
-PAGE_SIZE = 100
+PAGE_SIZE = 1000
 DATA_FOLDER = "news_data"
 
 # 쿼리 그룹 설정
