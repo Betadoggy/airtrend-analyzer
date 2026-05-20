@@ -1,0 +1,54 @@
+Title: More than greenwashing? Sustainable aviation fuels struggle to take off
+Source: Ars Technica
+URL: https://arstechnica.com/cars/2024/08/more-than-greenwashing-sustainable-aviation-fuels-struggle-to-take-off/
+--------------------------------------------------
+
+Last November, Virgin Atlantic Airways made headlines for completing the world’s first transatlantic flight using “100 percent sustainable aviation fuel.”
+
+This week, the Advertising Standard Authority (ASA) of the U.K. banned a Virgin radio ad released prior to the flight, in which they touted their “unique flight mission.” While Virgin did use fuel that releases fewer emissions than traditional supplies, the regulatory agency deemed the company’s sustainability claim “misleading” because it failed to give a full picture of the adverse environmental and climate impacts of fuel.
+
+“It’s important that claims for sustainable aviation fuel spell out what the reality is, so consumers aren’t misled into thinking that the flight they are taking is greener than it really is,” Miles Lockwood, director of complaints and investigations at the ASA, said in a statement.
+
+The ruling is the latest in a string of greenwashing crackdowns against sustainable aviation fuels (SAFs), which are made of components other than fossil fuels. In recent years, the U.K. and U.S. governments and private sector have offered incentives and funds to help ramp up SAF production. But skeptics say the alternative fuels will hardly make a dent in the airline industry’s large carbon footprint.
+
+Plant-powered flights
+
+Aviation accounts for roughly 2.5 percent of global emissions, largely from the burning of petroleum-based fuels. Sustainable aviation fuels have been made with a number of alternative ingredients—from worn-out tires to plastic waste (though my colleague James Bruggers has previously covered some setbacks in the plastic-to-jet-fuel field).
+
+The majority of SAFs are made using materials already found in the environment, such as cooking fats or plant oils. These alternative fuels still emit carbon dioxide when they burn, but they typically have lower “lifecycle” emissions than petroleum-based fuels due to the way they are harvested. SAFs tap into renewable resources found in the environment instead of fossil fuels that have trapped carbon underground for millions of years.
+
+Currently, international standards require SAFs to be mixed with conventional fuels, which enables airlines to continue using the same infrastructure rather than developing new aircraft that can handle exclusively bio-based accelerants. To qualify as “sustainable” for U.S. tax credits, though, the mixture must cut net emissions by at least 50 percent compared with exclusively oil-based fuels.
+
+Over the past few years, governments and airlines have made big bets on sustainable aviation fuels. In 2021, the Biden administration set a goal of increasing production of SAFs by at least 3 billion gallons per year by the end of the decade. To do this, the federal government is offering tax creditsthrough the Inflation Reduction Act to help boost domestic supplies.
+
+The U.K has an even tighter and more ambitious timeline, mandating that 2 percent of jet fuel supplied in the U.K. next year be SAF—with an eventual target of 10 percent by 2030.
+
+These commitments set off an SAF bonanza across the airline industry. For example, JetBlue announced it will purchase up to 5 million gallons of sustainable aviation fuel for use at New York City’s John F. Kennedy Airport. In a similar move, United Airlines said last week it will purchase 1 million gallons of SAFs to use at Chicago O’Hare International Airport through the end of 2024.
+
+In April, a coalition of 40 airlines, agricultural enterprises, manufacturers and other businesses launched efforts to scale up SAF production. The group has steadily grown to include companies like Amazon, engineering company Honeywell and fossil fuel giant Shell.
+
+Are SAFs taking off?
+
+Despite some lofty targets and investments, data shows that SAFs have had some trouble getting off the ground. Last year, the U.S. burned through 24.5 million gallons of SAF, according to the Environmental Protection Agency. This may sound like a lot, but Canary Media’s Aaron Mok notes that it pales in comparison to the roughly 69.3 million gallons of petroleum-based fuels that the country uses … per day.
+
+Experts say the main hurdles are the lack of supply to meet growing demands and the cost, typically double or triple the price of conventional fuels. One estimate found that meeting the SAF target in the U.S. will require a more than 18,000 percent increase in production compared to 2022 levels.
+
+Much of the SAF used in the U.S. and U.K. comes from used cooking oil and animal fat waste, but projections show that these resources are not going to be enough to meet demand. To make up the difference, corn and soy farmers are arguing for more biofuels using ethanol. This expansion of agricultural operations could release toxic chemicals around farming communities and fuel deforestation, which could paradoxically increase emissions related to SAF production and deplete groundwater, The New York Times reports.
+
+With all this in mind, critics argue that SAFs are largely a “false solution” to decarbonize the airline industry, often pushed by companies to avoid more meaningful climate actions.
+
+“Sustainable aviation fuel development is not moving at the speed of climate change,” Chuck Collins, a director at the progressive think tank Institute for Policy, said in a statement. “While it may be scientifically possible to create alternative jet fuels, it may be reckless in terms of the impact of land-use changes, government subsidies, and competing decarbonization needs in other sectors of the economy.”
+
+The institute recently published a report, dubbed “Greenwashing the Skies,” outlining how scaling up current SAF production could get in the way of emission-reduction goals.
+
+These concerns have been echoed by federal consumer protection agencies across the European Union. The European Commission sent a letter to 20 airlines in April identifying “potentially misleading green claims” and requested they bring their practices in line with EU consumer law within 30 days.
+
+In response to the recent ASA decision banning Virgin Atlantic’s radio ad, a spokesperson for the company told Inside Climate News in an emailed statement that the “radio advert for Flight100 used SAF, and other factually accurate wording, to share that the flight would be operated as a single, non-commercial flight using 100% SAF.
+
+“While we are disappointed that the ASA has ruled in favour of a small number of complaints, we remain committed to open, accurate and transparent engagement on the challenge of decarbonisation,” the spokesperson said, adding that the company will continue to use SAF to achieve its goal of net zero by 2050. The ASA heard from five complainants prior to issuing its decision.
+
+Some experts point out that efforts to decarbonize the airline industry are still in their infancy and face a unique set of constraints that other vehicles do not. For example, aircraft cannot use many of the electric batteries on the market because the added weight would make it too difficult to get off the ground.
+
+“There’s an underappreciation of how big the energy problem is for aviation,” Phil Ansell, director of the Center for Sustainable Aviation at the University of Illinois, told The Guardian. “We are now trying to find solutions, but we are working at this problem and realizing it’s a lot harder than we thought. We are late to the game. We are in the dark ages in terms of sustainability, compared to other sectors.”
+
+This story originally appeared on Inside Climate News.

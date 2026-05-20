@@ -92,17 +92,16 @@ class TextAnalyzer:
             print("TF-IDF를 생성할 유효한 텍스트가 없습니다. 문서에 명사 또는 분석 가능한 내용이 포함되어 있는지 확인하세요.")
             return pd.DataFrame()
 
-        # 불용어를 다시 한 번 필터링하는 customanalyzer 정의
+        # 1. 커스텀 분석기 내부에서 불용어(COMBINED_STOPWORDS)를 직접 필터링하도록 수정
         def noun_analyzer(text):
             tokens = text.split()
-            return [t for t in tokens if t and len(t) > 2]
+            return [t for t in tokens if t and len(t) > 2 and t not in COMBINED_STOPWORDS]
         
-        # TF-IDF 벡터화 (명사 기반, 불용어 제거)
+        # 2. 무시되던 stop_words 인자를 제거하여 경고 문구 해결
         vectorizer = TfidfVectorizer(
             analyzer=noun_analyzer,
-            stop_words=list(COMBINED_STOPWORDS),
             min_df=1,  # 최소 1개 문서에서 나타나야 함
-            max_df=0.95  # 95% 이상의 문서에 나타나는 단어 제외
+            max_df=1.0  # (참고) 100% 문서를 뜻하려면 정수 1 대신 실수 1.0을 쓰는 것이 안전합니다.
         )
         try:
             matrix = vectorizer.fit_transform(noun_corpus)
@@ -117,13 +116,13 @@ class TextAnalyzer:
         if len(feature_names) == 0:
             print("TF-IDF로 추출된 특성이 없습니다. 더 많은 텍스트 또는 다른 전처리 설정을 확인하세요.")
             return pd.DataFrame()
-        # matrix.sum(axis=0) 반환값은 (1, n_features) sparse matrix 형태일 수 있음
+            
         col_sums = np.asarray(matrix.sum(axis=0)).ravel()
         top_k = min(50, len(feature_names))
         top_idx = np.argsort(col_sums)[::-1][:top_k]
         top_features = feature_names[top_idx]
 
-        # 상위 피처들만 컬럼으로 사용하여 데이터프레임 생성 (내림차순으로 정렬된 컬럼)
+        # 상위 피처들만 컬럼으로 사용하여 데이터프레임 생성
         df = pd.DataFrame(
             matrix.toarray()[:, top_idx],
             columns=top_features
