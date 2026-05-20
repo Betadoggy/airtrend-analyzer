@@ -1,0 +1,48 @@
+Title: IATA Pushes ICAO For Action On SAF As Feedstocks Raise Questions
+Source: Forbes
+URL: https://www.forbes.com/sites/marisagarcia/2025/09/23/iata-pushes-icao-for-action-on-saf-as-feedstocks-raise-questions/
+--------------------------------------------------
+
+The International Air Transport Association is urging governments meeting at the 42nd ICAO Assembly in Montreal to accelerate support for sustainable aviation fuel. The airline association warns that an adequate supply of SAF remains the industry’s most significant hurdle to decarbonization.
+
+At the same time, troubling reports over the environmental impact of some feedstocks used to produce sustainable aviation fuel raise questions over whether there is reliable control of the supply chain.
+
+SAF Supply Is Critical To Meet Airline Net Zero Targets
+
+“SAF is absolutely critical to the industry achieving its net zero CO₂ emissions by 2050,” said Willie Walsh, IATA’s Director General, during a press briefing last week, ahead of the International Civil Aviation Organization’s meeting. “We’re disappointed at the progress that has been made in relation to the production of SAF. It’s not where we need it to be…The problem, as we see it, is one of supply and not one of demand.”
+
+IATA urges governments to provide direct incentives to producers, harmonize global standards, and reaffirm the Carbon Offsetting and Reduction Scheme for International Aviation (CORSIA) as the only international framework for carbon offsetting. Walsh warned that SAF costs are rising, without resulting in higher production levels, due to overlapping national and regional mandates to adopt sustainable fuels.
+
+MORE FOR YOU
+
+SAF Supply Chain Credibility Under Pressure
+
+For many years, IATA has said that it supports sustainable feedstocks for SAF. However, a recent Reuters investigation revealed that Diamond Green Diesel, a major U.S. biofuel refinery in Port Arthur, Texas, sourced beef tallow from Brazilian suppliers linked to illegal deforestation in the Amazon.
+
+Despite the links, the refinery’s fuels are certified under the International Sustainability & Carbon Certification system and count toward CORSIA compliance. This allows airlines such as JetBlue and Southwest to claim emissions reductions. Critics argue that certification loopholes—specifically, treating tallow as a byproduct of beef production—mask indirect deforestation impacts.
+
+Since 2022, the refinery has received more than $3 billion in U.S. tax credits.
+
+From Sargassum To SAF: Innovation From Mexico’s Caribbean Coast
+
+New pathways for SAF feedstock are emerging. Mexico is exploring the potential for sargassum algae—an invasive seaweed that has overwhelmed Caribbean beaches in recent years—as a potential SAF input. The project, supported by Mexico’s environment ministry and EU partners, will process sargassum at a new Circular Economy Centre in Quintana Roo.
+
+Researchers in Puerto Rico, backed by the U.S. Department of Energy, are also exploring how to convert the troublesome algae into biofuels. The approach offers significant advantages: sargassum is abundant, does not require farmland, and provides a solution to an environmental problem that threatens local ecosystems and tourism.
+
+For IATA SAF Technology Delays Outweigh Feedstock Supply Issues
+
+However, IATA doesn’t feel that developing new feedstocks alone can fix the problem of SAF production.
+
+“Feedstock is not the hindrance here for us reaching the 500 million tons of SAF that we need in 2050,” said Marie Owens Thomsen, IATA’s Chief Economist and SVP for Sustainability, during the IATA briefing. “The main bottleneck is actually how quickly we can mature and bring the technologies to commercial viability. They need a lot of support and incentives to be able to mature quickly.”
+
+Walsh agreed, saying: “There’s a strong case to be made for aviation to have a fair share of the available feedstocks, principally because the airline industry is difficult to decarbonize. In the short to medium term, there’s plenty of feedstock available to fulfill the requirements for the airline industry.”
+
+Setting A Successful SAF Policy
+
+The 42nd ICAO Assembly could establish the framework for global aviation sustainability policy in the years to come. For IATA, the priorities are to ensure aviation has access to a fair share of available feedstocks, that governments provide incentives for producers to scale up, and to prevent policy fragmentation that could drive SAF costs higher without boosting output.
+
+“We’re concerned that we’re not making sufficient progress in that area. We’re also concerned about the unintended consequences of some of the mandates that have been introduced, particularly under EU RefuelEU and in the UK, where fuel suppliers are mandated to produce 2% of SAF,” Walsh said. “This has led to a significant increase in fuel costs for airlines operating in the EU and in the UK, but has not translated into a significant increase in the production of SAF.”
+
+Whether the airline argument results in favorable government action after the Montreal meeting is still an open question, though Walsh expressed optimism that it would.
+
+The ICAO Assembly will decide whether SAF is a credible path toward net-zero aviation or if supply shortages, skepticism, and failed policies undermine airlines’ climate commitments.

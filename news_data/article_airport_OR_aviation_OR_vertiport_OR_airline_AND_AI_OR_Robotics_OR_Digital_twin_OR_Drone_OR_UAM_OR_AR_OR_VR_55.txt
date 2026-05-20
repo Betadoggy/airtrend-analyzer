@@ -1,0 +1,36 @@
+Title: The Cause of the LA Fires Might Never Be Known—but AI Is Hunting for Clues
+Source: Wired
+URL: https://www.wired.com/story/what-sparks-a-wildfire-the-answer-often-remains-a-mystery/
+--------------------------------------------------
+
+This story originally appeared on Grist and is part of the Climate Desk collaboration.
+
+What’s shaping up to be one of the worst wildfire disasters in US history had many causes. Before the blazes raged across Los Angeles last week, eight months with hardly any rain had left the brush-covered landscape bone-dry. Santa Ana winds blew through the mountains, their gusts turning small fires into infernos and sending embers flying miles ahead. As many as 12,000 buildings have burned down, some hundred thousand people have fled their homes, and at least two dozen people have died.
+
+As winds picked up again this week, key questions about the fires remain unanswered: What sparked the flames in the first place? And could they have been prevented? Some theorize that the Eaton Fire in Pasadena was caused by wind-felled power lines, or that the Palisades Fire was seeded by the embers of a smaller fire the week before. But the list of possible culprits is long—even a car engine idling over dry grass can ignite a fire.
+
+“To jump to any conclusions right now is speculation,” said Ginger Colbrun, a spokesperson for the US Bureau of Alcohol, Tobacco, Firearms and Explosives, the lead agency investigating the cause of the Palisades Fire, to the Los Angeles Times. Figuring it out will likely take months. It took the bureau more than a year to conclude that the fire in August 2023 that devastated Lahaina, Maui, which was similarly lashed by high winds, was started by broken power lines.
+
+Even given enough time, the causes of the Los Angeles fires might remain a mystery. According to a recent study, authorities never find the source of ignition for more than half of all of wildfires in the Western US—a knowledge gap that can hamper prevention efforts even as climate change ramps up the frequency of these deadly events. If authorities can anticipate likely causes of a fire, they can help build more resilient neighborhoods and educate the public on how to avoid the next deadly event.
+
+“Fire research is so incredibly difficult. It’s more difficult than looking for a needle in the haystack,” said Costas Synolakis, a professor at the University of Southern California who studies natural disasters. Synolakis said fires with especially high temperatures, such as those in Los Angeles, often obliterate the evidence. “That’s why it’s so challenging to mitigate fire losses,” he said. “You just don’t know what triggers them.”
+
+The US Forest Service is teaming up with computer scientists to see if artificial intelligence can help crack old cases. A study led by data scientists at Boise State University, published in the journal Earth’s Future earlier this month, analyzed the conditions surrounding more than 150,000 unsolved wildfire cases from 1992 to 2020 in Western states and found that 80 percent of wildfires were likely caused by people (whether accidentally or intentionally), with lightning responsible for just 20 percent. According to Cal Fire, people have caused 95 percent of California’s wildfires.
+
+Karen Short, a research ecologist with the Forest Service who contributed to the study and maintains a historical database of national wildfire reports, says understanding why they start is essential for preventing them and educating the public. Strategic prevention appears to work: According to the National Fire Protection Association, house fires in the US have decreased by nearly half since the 1980s.
+
+In 2024, Short expanded her wildfire archive to include more information useful to investigators, such as weather, elevation, population density, and a fire’s timing. “We need to have those things captured in the data to track them over time. We still track things from the 1900s,” she said.
+
+According to Short, wildfire trends across the western United States have shifted with human activity. In recent decades, ignitions from power lines, fireworks, and firearms have become more common, in contrast with the railroad- and sawmill-caused fires that were once more common.
+
+The study found that vehicles and equipment are likely the number one culprit, potentially causing 21 percent of wildfires without a known cause since 1992. Last fall, the Airport Fire in California was just such an event, burning over 23,000 acres. And an increasing number of fires are the result of arson and accidental ignition—whether from smoking, gunfire, or campfires—that make up another 18 percent. In 2017, an Arizona couple’s choice of a blue smoke-spewing firework for a baby gender reveal party lit the Sawmill Fire, torching close to 47,000 acres.
+
+But these results aren’t definitive. Machine-learning models such as those used for the study are trained to predict the likelihood of a given fire’s cause, rather than prove that a particular ignition happened. Although the study’s model showed 90 percent accuracy selecting between lightning or human activity as the ignition source when tested on fires with known causes, it had more difficulty determining exactly which of 11 possible human behaviors were to blame, only getting it right half the time.
+
+Yavar Pourmohamad, a data science PhD researcher at Boise State University who led the study, says that knowing the probable causes of a fire could help authorities warn people in high-risk areas before a blaze actually starts. “It could give people a hint of what is most important to be careful of,” he said. “Maybe in the future, AI can become a trustworthy tool for real-world action.”
+
+Synolakis, the USC professor, says Pourmohamad and Short’s research is important for understanding how risks are changing. He advocates for proactive actions like burying power lines underground where they can’t be buffeted by winds.
+
+A 2018 study found that fires set off by downed power lines—such as the Camp Fire in Paradise, California, that same year—have been increasing. Although the authors note that while power lines do not account for many fires, they’re associated with larger swaths of burned land.
+
+“We have to really make sure that our communities are more resilient to climate change,” Synolakis said. “As we’re seeing with the extreme conditions in Los Angeles, fire suppression alone doesn’t do it.”

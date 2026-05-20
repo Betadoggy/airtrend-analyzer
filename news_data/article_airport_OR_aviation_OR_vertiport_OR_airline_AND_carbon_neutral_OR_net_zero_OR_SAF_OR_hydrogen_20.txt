@@ -1,0 +1,50 @@
+Title: United, RTX, Northrop Bet on JetZero's ‘All-Wing' Aircraft
+Source: Flyingmag.com
+URL: https://www.flyingmag.com/united-rtx-northrop-jetzero-blended-wing/
+--------------------------------------------------
+
+United Airlines, RTX, and Northrop Grumman are all betting on a clean-sheet aircraft that promises to reduce fuel burn by as much as 50 percent per passenger mile, compared to similarly sized tube-and-wing models.
+
+California-based JetZero—which has ditched the conventional tube-and-wing for a blended-wing body (BWB) or “all-wing” configuration—said Tuesday that it raised $175 million in a Series B round led by B Capital, a new investor.
+
+The round also included participation from United Airlines Ventures, RTX Ventures, and Northrop Grumman, all of which have existing ties to JetZero.
+
+United Airlines Ventures in April made an undisclosed investment and signed a purchase agreement for up to 100 aircraft and 100 options, contingent upon the flight of a full-scale demonstrator in 2027, among other conditions. JetZero in 2023 won a $235 million Defense Innovation Unit (DIU) contract to build and fly an early version of its flagship Z4 that is expected to deliver fuel efficiency gains of 30 percent, with added lift and improved mobility.
+
+Northrop’s Scaled Composites division is working with JetZero toward that demonstration.
+
+“A fleet of these could save the U.S. Department of the Air Force up to $1 billion in fuel costs per year,” Ravi Chaudhary, former assistant secretary of the Air Force for Energy, Installations, and Environment—and an adviser for JetZero for six months in 2025, per his LinkedIn—told The American Society of Mechanical Engineers in 2023.
+
+RTX is tied to JetZero through its Pratt and Whitney and Collins Aerospace units. The former is supplying its PW2040 turbofan engine and auxiliary power units for the Z4 demonstrator, while the latter will provide nacelles, fairings, and engine support structures.
+
+JetZero in 2025 also secured a formal partnership with Delta Air Lines and is part of the carrier’s Sustainable Skies Lab, which it said will provide maintenance, operational footprints, and other resources to validate the Z4’s technology. The two had been working together informally since 2021. Delta will also consult on the Z4’s interior design.
+
+Alaska Star Ventures, the investment arm of Alaska Airlines, participated in JetZero’s 2023 Series A round and has options for future aircraft orders.
+
+“If successful, JetZero has the potential to evolve our core mainline business by developing aircraft with a bigger, more comfortable cabin experience for our customers while increasing fuel efficiency across our network,” said Andrew Chang, head of United Airlines Ventures, in April.
+
+JetZero said the fresh funding will accelerate development of the full-scale demonstrator, reiterating its target for first flight in 2027. With Tuesday’s raise, the company added, it has secured more than $1 billion in funding and commitments.
+
+The Path to JetZero
+
+Despite the novelty of BWB aircraft, airlines such as United and Delta view the technology as a tool to drive down costs and meet commitments to achieve net-zero operational emissions by 2050.
+
+Few BWBs have advanced beyond the prototype phase, and none have been certified to carry passengers. The concept was first studied in earnest in the 1990s, after NASA challenged the industry to develop revolutionary gains in fuel efficiency compared to airframes like the Boeing 747, McDonnell Douglas MD-11, or Airbus A320.
+
+McDonnell Douglas accepted the challenge. It devised a 450-passenger concept that was used to develop two 8.5-percent dynamically scaled test vehicles, the X-48B and X-48C. Combined, the two aircraft flew 122 times between 2007 and 2013.
+
+All-wing designs like the Z4 integrate the wings and fuselage into a single shape, eliminating the traditional tail section. The result is a smooth airframe that reduces drag and produces lift across the entire wing, lowering fuel consumption.
+
+For example, JetZero estimates that a 3,400 nm flight from New York to Palma de Mallorca, Spain, would use up to 45 percent less fuel versus twin-aisle aircraft that fly that route today. The Z4’s 45,000-foot service ceiling and top-mounted engines—akin to NASA and Lockheed Martin’s X-59 supersonic demonstrator—are further expected to reduce noise.
+
+The model is designed for up to 250 passengers, similar to existing widebodies. But JetZero bills it as a “mid-market” aircraft due to its projected range of 5,000 nm. It is designed to fly on conventional jet fuel but in the future could use sustainable aviation fuel (SAF) blends or, potentially, liquid hydrogen.
+
+Per JetZero, the Z4 will fit into existing airport infrastructure, with no new jet bridges, runways, or taxiways required. Vertical takeoff and landing (VTOL) air taxis, by contrast, will eventually require vertiports and charging infrastructure. The company plans to certify the model under FAA Part 25, with planned passenger transport, commercial freighter, and military tanker and refueling variants.
+
+Beyond fuel efficiency, the Z4’s other standout feature is its spaciousness. Its vertical interior walls offer increased cabin space to accommodate larger doors and 18-inch-wide seats, with dedicated overhead bin space for each. It will be configurable as a 2-by-3 or without middle seats.
+
+JetZero in June announced plans to pour $4.7 billion into a Z4 production facility at Piedmont Triad International Airport (KGSO) in North Carolina.
+
+Competing with JetZero for airline customers is another California-based developer, Natilus.
+
+Natilus is developing two BWB models, the Kona for cargo and Horizon for passenger. Kona has a projected maximum takeoff weight (MTOW) of 19,000 pounds, speed of 250 knots, and range of 200 to 300 miles. Horizon is predicted to have a 160,000-pound MTOW and cruise at Mach 0.8. The latter is billed as a replacement for single-aisle narrowbodies such as the Boeing 737 Max 8 and 10 and Airbus A320neo.

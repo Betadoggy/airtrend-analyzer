@@ -1,0 +1,92 @@
+Title: Can An Airport Really Become Green? Christchurch Airport Is Trying
+Source: Forbes
+URL: https://www.forbes.com/sites/christopherelliott/2025/06/14/can-an-airport-really-become-green-christchurch-airport-is-trying/
+--------------------------------------------------
+
+Can an airport be sustainable? Before you answer that question, step outside any terminal and catch a whiff of burning jet fuel — a searing, earthy odor that reminds you air travel is one of the most carbon-intensive industries on the planet.
+
+But Christchurch Airport, a small aviation hub on New Zealand’s sparsely populated South Island, is determined to flip the script. Over the past two decades, the airport has quietly tried to transform itself into a sustainability innovator — and prove that even in an industry notorious for its environmental impact, meaningful change is possible.
+
+"It's a challenge," says Claire Waghorn, the airport's sustainability transition leader. "But we must rise to the challenge."
+
+Christchurch Airport has already slashed its operational emissions by 92 percent from a decade ago. And last week, it announced the adoption of a sophisticated new carbon emission tracking system. Now it's tackling the far greater challenge of reducing aircraft emissions. While the path to sustainability is fraught with challenges and occasional missteps, Christchurch Airport’s progress offers a possible blueprint for how airports — and perhaps entire industries — can reimagine their environmental impact.
+
+A sustainability journey rooted in indigenous wisdom
+
+Christchurch Airport’s approach to sustainability is deeply influenced by Māori principles, particularly the concept of kaitiakitanga, or guardianship.
+
+“It’s about recognizing that everything is interconnected,” Waghorn explains. “We can’t address climate change in isolation. We have to consider biodiversity, social equity, and economic resilience as part of the same puzzle. Alongside this, understanding we need to act with intergenerational interests at heart.”
+
+This holistic philosophy is reflected in the airport’s use of the “doughnut economics” framework, which balances environmental limits (the outer ring of the doughnut) with social minimum standards (the inner ring). The goal is to operate within these boundaries and ensure that the airport’s operations are not at the expense of the planet.
+
+Cutting emissions: Down 92 percent and counting
+
+Christchurch Airport’s sustainability journey began in 2006, long before most airports were even thinking about carbon footprints. Back then, their emissions tracking was rudimentary, but it laid the groundwork for what would become one of the most ambitious decarbonization plans in the aviation industry.
+
+By 2015, the airport had a clear road map in place. Since then, it has reduced its operational emissions by 92 percent. How did they do it?
+
+Ground source heat pumps. In a world-first engineering feat, the airport tapped into aquifers deep beneath the terminal to create a geothermal heating and cooling system. This innovation allowed it to ditch diesel generators and slash emissions.
+
+Electric ground power units. Planes can plug into clean electricity while parked at the gate, eliminating the need for jet fuel-powered auxiliary engines. The electricity comes from green sources, too.
+
+Electric fire trucks. After years of negotiating with manufacturers, the airport is transitioning its firefighting fleet to electric vehicles.
+
+Automated energy management. A smart building system ensures lights and HVAC systems are only active when needed, cutting energy waste.
+
+“We’ve got this little bit left on our own plate,” Waghorn said, referring to the remaining 8 percent of emissions. “It’s things like backup generators and fire extinguishers — tiny amounts that are surprisingly hard to eliminate.”
+
+The elephant on the runway: aircraft emissions
+
+While Christchurch Airport has made steady progress in reducing its own emissions, it’s quick to acknowledge the bigger challenge: aircraft emissions.
+
+“Our operational footprint is around 240 tons per year,” Waghorn noted. “The airlines? Eight hundred thousand tons.”
+
+To address this, the airport is positioning itself as a pioneer in the transition to low-carbon aviation. Its strategy focuses on three key technologies:
+
+Electric planes. For short-haul regional flights, electric aircraft are already being tested. Christchurch Airport welcomed ElectricAir onsite in 2020, and is working to ensure infrastructure will adequately support electric aviation needs.
+
+Green hydrogen. For domestic and medium-haul international flights, the airport formed the H2 in Aviation Consortium and is investigating hydrogen infrastructure, including liquefaction and refueling facilities.
+
+Sustainable Aviation Fuel (SAF). For long-haul flights, SAF — made from biofuels or green hydrogen with captured carbon — offers a promising, if still limited, solution.
+
+“Airlines sign contracts for new planes three to four years before delivery," says Waghorn, "but the infrastructure to support them takes seven to eight years to build. It's very challenging. We have to act now, even without certainty about which technologies will dominate.”
+
+A circular economy approach
+
+Sustainability at Christchurch Airport isn’t just about cutting emissions. It’s also about biodiversity, water conservation, energy efficiency, and rethinking waste. The airport has implemented a robust circular economy program, focusing on materials recovery and reducing single-use plastics.
+
+One standout initiative is its waste sorting system. The airport collects everything and sorts it back of house offsite. The results have been staggering: half of what was once considered general waste is now diverted to recycling or composting streams.
+
+“We’ve also partnered with local organizations to repurpose food waste from our lounges,” Waghorn added. “It’s about finding the best possible outcome for every item that comes through our terminal.”
+
+Challenges — and skepticism
+
+Despite the progress, Christchurch Airport faces its share of challenges and skeptics. For one, sustainability efforts often go unnoticed by passengers.
+
+“A lot of this work happens behind the scenes,” Waghorn acknowledges. “It’s not as tangible as, say, a solar panel or a wind turbine.”
+
+Sustainability is not entirely invisible. For example, you might see the airport's solar farm when you taxi for takeoff — it's being built on the southwestern side of the airport. And you might notice electric buses shuttling passengers around the airport and into the city.
+
+There have been a few missteps. The airport's attempt to replace milk bottles with milk kegs failed because of timing and fluctuations in milk use.
+
+Christchurch Airport’s sustainability journey is far from over. With a goal of achieving absolute zero emissions in airport operations by 2035 — no offsets, just real reductions — the facility is pushing the boundaries of what’s possible in airports, while continuing to explore how to support and accelerate the wider aviation transition.
+
+"It’s really, really hard to get consistent behavior from a transient crowd," says Waghhorn.
+
+Some of the missteps are funny, in hindsight. Consider the airport's purchase of an electric autonomous shuttle in 2017. Although the shuttle was a bold step toward modernizing airport transportation, it could not be used on the road because it wasn't street-legal.
+
+"We learned so much from that," laughs Waghorn. The airport quietly sold the shuttle and transitioned to an electric van driven by a human.
+
+The airport's experiences suggest that the path to sustainability is almost never linear. The airport has had to adapt, learn from its errors, and stay focused on the bigger picture, even when faced with setbacks and skepticism.
+
+"We always have to keep trying to do more," she says.
+
+A model for the future?
+
+Christchurch Airport’s sustainability journey is far from over. With a goal of achieving absolute zero emissions by 2035 — no offsets, just real reductions — the facility is pushing the boundaries of what’s possible in airports.
+
+But perhaps its greatest contribution lies in its willingness to share its successes — and failures.
+
+“Collaboration is everything,” Waghorn says. “We can’t do this alone. It’s about working with airports, airlines, manufacturers, energy providers, and communities to create a shared vision for the future.”
+
+For travelers, Christchurch Airport offers a glimmer of hope. It’s proof that even in an industry as carbon-intensive as aviation, sustainability is not just a buzzword. It’s a tangible, achievable goal. And while the road ahead is long and filled with pitfalls, the airport’s progress serves as a reminder that every step, no matter how small, may bring us closer to a sustainable future.

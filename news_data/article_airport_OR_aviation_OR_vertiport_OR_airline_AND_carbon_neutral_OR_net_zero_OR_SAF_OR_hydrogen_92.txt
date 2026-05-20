@@ -1,0 +1,36 @@
+Title: Scientists Say Net Zero Aviation Is Possible by 2050—If We Act Now
+Source: Singularity Hub
+URL: https://singularityhub.com/2024/09/27/scientists-say-net-zero-aviation-is-possible-by-2050-if-we-act-now/
+--------------------------------------------------
+
+Aviation has proven to be one of the most stubbornly difficult industries to decarbonize. But a new roadmap outlined by University of Cambridge researchers says the sector could reach net zero by 2050 if urgent action is taken.
+
+The biggest challenge when it comes to finding alternatives to fossil fuels in aviation is basic physics. Jet fuel is incredibly energy dense, which is crucial for a mode of transport where weight savings can dramatically impact range.
+
+While efforts are underway to build planes powered by batteries, hydrogen, or methane, none can come close to matching kerosene, pound for pound, at present. Sustainable aviation fuel is another option, but so far, its uptake has been limited, and its green credentials are debatable.
+
+Despite this, the authors of a new report from the University of Cambridge’s Aviation Impact Accelerator (AIA) say that with a concerted effort the industry can clean up its act. The report outlines four key sustainable aviation goals that, if implemented within the next five years, could help the sector become carbon neutral by the middle of the century.
+
+“Too often the discussions about how to achieve sustainable aviation lurch between overly optimistic thinking about current industry efforts and doom-laden cataloging of the sector’s environmental evils,” Eliot Whittington, executive director at the Cambridge Institute for Sustainability Leadership, said in a press release.
+
+“The Aviation Impact Accelerator modeling has drawn on the best available evidence to show that there are major challenges to be navigated if we’re to achieve net zero flying at scale, but that it is possible.”
+
+The report notes that time is of the essence. Aviation is responsible for roughly 4 percent of global warming despite only 10 percent of the population flying, a figure that’s likely to rise as the world continues to develop. Despite global leaders pledging to make aviation net zero, current efforts to get there are not ambitious enough, the authors say.
+
+After researching the interventions that could have the biggest impact and discussions at the inaugural meeting of the Transatlantic Sustainable Aviation Partnership at MIT last year, AIA came up with four focus areas that could put those goals within reach.
+
+The first of these is to reduce contrails. While most of the focus is on emissions from burning jet fuel, the generation of persistent contrails can trap heat in atmosphere and add significantly to warming.
+
+Contrails can be avoided by adjusting an aircraft’s altitude in areas where they’re most likely to be formed, but the underlying science is poorly understood as are potential strategies for adjusting air traffic. Therefore, the report suggests setting up several “living labs” in existing airspace to conduct data collection and experiments. These should be ready by the end of 2025, say the authors.
+
+The second goal is to reduce the amount of fuel airplanes use by introducing new aircraft and engine designs, improving operational efficiency of the sector, or just getting aircraft to fly slower. To catalyze action, governments need to set clear policies, such as establishing fuel burn reduction targets, loan guarantees for new aircraft purchases, or incentives to scrap old airplanes.
+
+The third goal is to ensure sustainable aviation fuel is actually sustainable, and its production is scalable. Most sustainable fuels rely on biomass, but limitations on production and competition from other sectors could mean they can’t realize the hoped for emissions reductions.
+
+In the near term, the report suggests aviation will have to work with other industries to set best practices and limit total cross-sector emissions. And in the long run, the industry will have to make efforts to find alternative ways to develop synthetic sustainable fuels.
+
+Lastly, the report argues the industry also needs to invest in “moonshot” technologies. By 2025, aviation should launch several high-risk, high-reward demonstration programs in technologies that could be truly transformative for the sector. These include the development of cryogenic hydrogen or methane fuels, hydrogen-electric propulsion technology, or the use of synthetic biology to dramatically lower the energy demands for sustainable fuel production.
+
+The report’s authors stress that, although they are confident these interventions could have the desired impact, time is of the essence. History suggests that getting global leaders to take decisive action on climate issues is tricky, but at least they now have a concrete roadmap.
+
+Image Credit: John McArthur / Unsplash

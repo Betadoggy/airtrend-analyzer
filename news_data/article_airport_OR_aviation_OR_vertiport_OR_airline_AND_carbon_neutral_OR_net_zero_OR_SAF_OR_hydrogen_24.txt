@@ -1,0 +1,74 @@
+Title: Airbus is predicting a 'gloves-off' competition to build the next generation of planes. This is the tech it's planning.
+Source: Business Insider
+URL: https://www.businessinsider.com/airbus-sketches-next-plane-folding-wings-radical-new-engines-2025-3
+--------------------------------------------------
+
+While Airbus has pushed back plans for a hydrogen-powered plane, it plans to build a high-tech plane that is cheaper and more environmentally friendly.
+
+Business Insider got a look at the tech that might drive it.
+
+At its recent summit in at its headquarters Toulouse, France, CEO Guillaume Faury told reporters it was developing a new single-aisle aircraft to succeed its A320 family and enter service in the second half of the 2030s.
+
+He said the hydrogen-powered plane was canceled as it risked being "a Concorde of hydrogen" and not commercially viable at scale.
+
+He said a next-generation plane would not come with "incremental optimization" but "clean sheet designs." He also predicted a "gloves-off" competition to build a next-generation airplane with Airbus' US rival Boeing.
+
+This is the new tech it's developing.
+
+Open-fan engines
+
+Higher fuel efficiency is a major discussion point in aviation, but making it happen will require "a fundamental change in the shape of the engine," said Mohamed Ali, GE Aerospace's chief technology and operations officer.
+
+Turbofan jet engines work by taking in air. Some of this air enters the engine core where it is mixed with fuel and combusts to drive the turbines. The rest of the air is accelerated by the fan and bypasses the core.
+
+Engines which have a higher proportion of bypassed air are more fuel efficient. However, this ratio is limited by the size of the intake duct.
+
+"Here is the solution, and that's the beauty of physics. You can remove that duct and go to open fan," Ali said.
+
+While today's engines have a bypass ratio of up to 12:1, Ali said current designs for an open-fan engine would improve that to 60:1.
+
+Airbus and CFM — a joint venture between GE and Safran — plan to test open-fan engines on an Airbus A380 by the end of the decade.
+
+They are also planning for the new engines to be able to operate entirely with sustainable aviation fuel. This can be produced from plants and cooking oil, but its takeup has so far been hindered by high costs and a lack of availability.
+
+Folding wings
+
+Airbus engineers are looking to longer wings to create more lift and reduce drag, which in turn means using less fuel. However, the size of a plane's wings is limited by the size of airport gates.
+
+Yet if the wingtips can fold, planes can still have longer wings in flight and fit into airport gates on the ground.
+
+If this sounds familiar, you might've seen something similar on the coming Boeing 777X, although Airbus is planning to first use it on narrow-body planes.
+
+"If you think about the next generation of single-aisle aircraft, it will fly many times a day, 24 hours a day, 7 days a week," said Sue Partridge, head of the Wing of Tomorrow program. "That folding wing system needs to work reliably."
+
+New materials and some automation
+
+Another step forward in fuel efficiency could be found in new composite materials.
+
+The latest generation of airliners, like the Airbus A350 and Boeing 787, use carbon fiber-reinforced polymers in the wings and fuselage. These are stronger and lighter than aluminum, but more advances could be made.
+
+"We are working on the next generation of composite materials, with our material suppliers working as partners with us," Partridge told the summit.
+
+Just before the summit began, Reuters reported that both planemakers are looking at thermoplastics for future aircraft.
+
+Single-aisle planes are more popular than widebodies, with Airbus eyeing a target of producing 75 a month.
+
+"We need to be able to make our aircraft and our wings at high rate and at a cost that's actually sustainable for our business," Partridge said.
+
+She added that the Wing of Tomorrow program was looking at robotic and automation technologies to see how they could speed up manufacturing.
+
+Automation won't just take place in the factories, however.
+
+At the summit, BI rode in a self-driving van testing Airbus' new autonomous technology, Optimate.
+
+It's been testing cameras, radar, and lidar to help follow airport lines for autonomous taxiing and to avoid potential collisions. Near misses have been growing more common in recent years, and Airbus also predicts there will be twice the number of aircraft in 20 years.
+
+AI could also be used to predict traffic and help pilots reroute around turbulence or bad weather.
+
+There are still more than 10 years before Airbus sees its next generation of planes taking to the skies.
+
+Faury, the CEO, compared the process to "a caterpillar in a cocoon becoming a butterfly."
+
+"In this transition, there's a bit of paralysis," he said. "There's a lot of forces at stake, it's painful, and then the butterfly takes off. We don't know what it looks like until we're there."
+
+"We remain committed to our purpose, which is to pioneer sustainable aerospace for a safe and united world," he added. "We think it's a beautiful purpose, but it's not an easy one."

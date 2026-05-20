@@ -1,0 +1,48 @@
+Title: How Heathrow partnered with Salesforce to build a customer-service AI agent
+Source: Business Insider
+URL: https://www.businessinsider.com/heathrow-salesforce-ai-chatbot-customer-service-2026-5
+--------------------------------------------------
+
+Nearly 85 million travelers passed through Heathrow Airport in 2025. Amid the hustle and bustle, they had plenty of questions: How long will it take to get through security? Which Starbucks is closest to my departure gate? If my bag was left behind at security, how can I find it?
+
+Peter Burns, Heathrow's director of digital, e-commerce, and marketing, told Business Insider that he wanted to improve customer service at Europe's busiest airport, where demand keeps increasing. "As we grow capacity, we have to find a technology solution," he said. To do that, Heathrow spent the past three years deepening its longtime partnership with Salesforce, which started in 2009, Burns said.
+
+Heathrow first implemented Salesforce's generative and agentic AI products in 2023, with a focus on customer service applications. These initial tests led to the launch of Hallie, the airport's customer service AI agent that lives on WhatsApp and answers nearly all traveler questions without human help, in March 2025, said Burns. Since finding earlier this year that Hallie significantly reduced the number of customer calls to the airport, Heathrow is looking to further implement the tool on its website and app.
+
+Customer service has been a popular use case for generative AI across industries since the debut of ChatGPT in 2022, said Gartner Research Vice President Bern Elliot. Elliot told Business Insider that a company's customer contact centers can act as AI incubators because their return-on-investment metrics — time saved, agent call volume, response times, and response quality, among others — are clearly defined.
+
+"You don't have to connect very many dots to get from what you deployed to what is the measurable improvement," Elliot said. "It makes for a great starting place in your AI journey."
+
+However, infusing AI into customer service systems isn't a straightforward process, said Elliot. AI systems should be trained on a company's most up-to-date data; otherwise, large language models are more susceptible to giving incorrect responses. "Having AI-ready data is a huge issue," Elliot said.
+
+Burns — along with Salesforce's senior vice president of solution engineering, Paul O'Sullivan — spoke with Business Insider about how Heathrow and Salesforce collaborated to navigate these data complexities and launch Hallie.
+
+The tech
+
+Though Heathrow's initial Salesforce investments lacked AI capabilities, Burns said they were critical to creating a unified database that would later serve as the foundation for the airport's customer service AI agents.
+
+Heathrow's relationship with Salesforce started in July 2009 when it deployed Salesforce Service Cloud, a platform that helps customer service agents manage inquiries across multiple channels. By July 2021, Heathrow's customer and marketing data had been uploaded to Salesforce's real-time data platform, giving airport employees in customer service, marketing, and e-commerce live views of passenger data.
+
+Burns said Heathrow became an early adopter of Salesforce's generative AI capabilities in 2023, largely because of the airport's existing Salesforce product use. AI deployment began that January with two internal use cases: autonomously drafting replies to customer inquiries and creating case wrapups, the summaries that customer service agents prepare after helping someone. These two tests fed more information into Heathrow's database, helping to continuously refine the quality of AI-drafted responses, Burns said.
+
+By late 2023, Salesforce's Agentforce — the software company's autonomous AI platform that can complete customer service, sales, and marketing tasks automatically — was deployed in the airport's contact center to assist human agents with two specific tasks: Writing responses to customer questions and, after a case was resolved, generating a summary. Previously, agents had to type out every response and case summary, Burns said.
+
+He added that Heathrow worked closely with O'Sullivan and his team of UK-based engineers to test and improve the airport's AI capabilities before Hallie's launch. Salesforce has regularly met with Heathrow's team since their partnership began in 2009, with in-person visits about once per quarter and regular virtual catch-ups every other week, O'Sullivan said. In recent years, their meetings have focused on observing contact agents' workflows and identifying pain points where AI could be applied.
+
+O'Sullivan told Business Insider that it is critical for executive leadership, product managers, engineers, and representatives from security, data, and cloud teams to be on the same page before deploying tools like Agentforce, since internal databases could be outdated and make the technology less useful. "The reality is these agents need to be exactly like you and I, and how we work, because we're constantly learning," he said.
+
+At Heathrow, Agentforce pulls from the airport's database of 500 articles outlining processes. However, some of the policies took several months to gather, update, and implement, Burns told Business Insider.
+
+In July 2024, Heathrow added more of its internal data to Salesforce's data platform, enabling the airport to provide customers with real-time flight-tracking data.
+
+Heathrow's unified data foundation, which brought together Heathrow customer data, airport maps, flight statuses, and advances in generative AI, led to the March 2025 launch of Heathrow's AI agent Hallie. On WhatsApp, travelers can ask Hallie questions about upcoming flights, how to find specific airport amenities and terminals, and the length of the security line.
+
+The outcome
+
+Prior to the launch of Hallie, 70% of customer inquiries were handled by phone, said Burns. Thanks to the bot's agentic capabilities, by March 2026, phone calls accounted for 10% of traveler inquiries.
+
+Later this year, Hallie will expand beyond WhatsApp so customers can access the tool on Heathrow's website and app, Burns added. The airport is also considering future rollouts for Hallie, like at kiosks throughout its terminals.
+
+Still, Hallie's guardrails are limited: it only scrapes data from Heathrow's website and internal database, Burns said. "We aren't letting the agent go out into the open web and pull out other information," he said. This decision somewhat limits the AI agent's outputs, as it cannot yet handle personalized questions like, "Where can I pick up my checked bags?"
+
+Burns said it was important for Hallie to provide accurate responses, and added that external sources could have inaccurate or out-of-date information. Looking forward, Heathrow plans to add more functionality to Hallie so passengers can use the tool on platforms beyond WhatsApp, Burns said.

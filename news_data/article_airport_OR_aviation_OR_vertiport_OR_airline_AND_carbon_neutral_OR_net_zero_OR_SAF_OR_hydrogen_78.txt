@@ -1,0 +1,56 @@
+Title: UK election: How can the next government get climate goals on track?
+Source: New Scientist
+URL: https://www.newscientist.com/article/2435579-uk-election-how-can-the-next-government-get-climate-goals-on-track/
+--------------------------------------------------
+
+This week, more than 400 climate scientists from UK institutions published an open letter, pleading with the UK’s political parties to pledge stronger climate action over the next parliament, ahead of the 4 July general election.
+
+Their demands included a “credible” carbon-cutting strategy for the country, amid an election campaign that has seen little in-depth discussion of the UK’s net-zero transition.
+
+Why are the scientists worried? After all, the UK has one of the most ambitious climate targets in the world – a legally binding goal to achieve net-zero emissions by 2050 – and has halved its greenhouse gas emissions since 1990.
+
+But the truth is that the UK’s race to net zero has slowed to a crawl in recent years, with annual emissions falling at half the rate required to meet interim targets.
+
+Although huge progress has been made in decarbonising the electricity supply, with zero-carbon sources now generating about half of all power, other sectors are lagging. Outside the electricity sector, the rate of emissions cuts must quadruple over the next seven years if the UK is to meet its promise to reduce emissions by 68 per cent by 2030, the UK government’s climate advisers, the Climate Change Committee, said in October. It warned that the UK is “unlikely” to get there under current plans.
+
+“There’s just a really strong sense of frustration in the climate science community,” says Emily Shuckburgh at the University of Cambridge, who jointly organised the scientists’ letter. “We just simply haven’t seen the level of response required.”
+
+Slow progress means problems have mounted, waiting in the wings for the next government to tackle.
+
+Transport and buildings
+
+By the end of the decade, emissions from surface transport – that is road, rail and ships – need to fall by almost 4 million tonnes of carbon dioxide-equivalent, quadruple the rate of the previous decade. Electric car sales may be growing strongly, but sales of electric vans and trucks are lagging and the number of public charge points isn’t growing quickly enough to keep pace with the volume of electric vehicles hitting the roads. Meanwhile, the use of public transport fell sharply during the covid-19 pandemic and hasn’t returned to its previous levels.
+
+Getting the transport sector to net zero will require more than just convincing everyone to buy an electric car, says Michael Pollitt at the University of Cambridge. Fewer cars, and smaller ones, are a crucial part of the puzzle. “One would like to see more radical thinking on inter-urban transport, such as prioritisation of lanes for smaller vehicles, and thinking of radically reducing vehicle sizes and vehicle weights,” he says. “If we can get people moving in radically smaller vehicles or in mass transit, that is the way that we are going to get to net zero in transport.”
+
+When it comes to buildings, home heating is the major headache. About 23 million homes in the UK are heated by gas boilers. All these homes need to be warmed by zero-carbon energy sources by mid-century, with most expected to switch to heat pumps.
+
+But the transition is going far too slowly. In 2022, just 69,000 heat pumps were installed in UK homes, far short of the 600,000 installations per year targeted by 2028. Part of the problem is financial: heat pumps cost far more to install than a gas boiler and often cost more to run due to extra levies on the cost of grid power. “We absolutely must get the price of heat pumps down,” says Pollitt. “Unless the price of heat pumps comes down substantially, that is a major roadblock to decarbonising heating.”
+
+There’s an urgency to solving these problems, says Nick Eyre at the University of Oxford, who signed the open letter. Gas boilers installed in 2035 will still be heating homes in 2050. “Heat pumps and vehicles, we will need to have pretty much cracked by the early 2040s. That means being very serious about it in the 2030s,” he says.
+
+That is why inaction during this decade, when the UK government should be focusing on getting industries ready for mass deployment, is so worrying. “We know what to do,” says Eyre. “But the last couple of years, in particular, have been a period where there’s not really been any action at all.”
+
+Farming and aviation
+
+Beyond heat, power and transport, even tougher choices lie ahead. Emissions from agriculture and land use, for example, have barely changed in a decade, but need to fall 29 per cent by 2035. Delivering these cuts is likely to involve action to change people’s diets. Likewise, cutting aviation emissions will require action to control demand, such as a tax on frequent fliers.
+
+“The biggest challenge will be starting to impose policies and regulations which affect people’s day-to-day lives,” says Leo Mercer at the London School of Economics. “If policies aren’t communicated well, people push back pretty strongly.”
+
+Alongside domestic challenges, the UK needs to regain its reputation on the international stage. Under former prime minister Boris Johnson, the UK hosted the COP26 climate summit and led international coalitions on deforestation, methane and electric vehicles.
+
+But the UK’s slowing progress on its domestic climate agenda, alongside cuts to international aid and climate diplomacy, has weakened its international reputation. UK government decisions to approve new domestic fossil fuel projects, while urging low-income countries to “transition away” from fossil fuels, has also rankled.
+
+Without countries like the UK demonstrating that net zero is achievable – and desirable – as a national strategy, convincing low-income countries to cut emissions is an uphill battle. It is therefore crucial for the UK to re-establish its reputation as a climate leader in the next parliament, says Caterina Brandmayr at Imperial College London.
+
+Next year, countries are due to submit new commitments to reduce their greenhouse gas emissions by 2035 under the Paris Agreement. “This, therefore, is a pivotal moment for the global community,” she says. “This parliament will be crucial not only to ensure delivery in the UK, but also to raise ambition globally.”
+
+What the parties are offering
+
+So, will any party deliver the scale of action needed to put the UK back on track? All the major parties agree on the need to reach net zero by mid-century. And there is striking agreement between Labour and the Conservatives on the need for more renewable power, particularly offshore wind.
+
+Labour, however, has the eye-catching promise to deliver a fully decarbonised grid by 2030. Adam Bell at UK consultancy Stonehaven, and a former senior energy official in the UK government, says this goal is “very, very ambitious”, and will push the civil service to the limits of what it can deliver. “On power, it’s difficult to find a way in which [Labour] could possibly be more ambitious.”
+
+But for Eyre, a manifesto that is credible on climate should also have ambitious aims in areas where the UK is seriously off track – on home energy efficiency, heat pump deployment, industrial emissions, land use, solar power and electric vans. “It is not a question of doing one or two of those,” he says. “We need to do all of them.”
+
+Privately, many experts doubt that any of the major parties have a policy programme with the pace and scale needed to deliver net zero by 2050. In its absence, looking for enthusiasm for the challenge ahead might be the next best sign of a party’s credibility. In Eyre’s eyes, the next UK government is embarking on a “decadal process of the same sort of scale as the introduction of steam engines”. “If you don’t have a positive vision yourself,” he says, “you can’t sell that to the rest of the population.”

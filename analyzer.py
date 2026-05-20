@@ -2,7 +2,8 @@ import pandas as pd
 from pathlib import Path
 from sklearn.feature_extraction.text import TfidfVectorizer
 import nltk
-from nltk import pos_tag, word_tokenize
+import numpy as np
+from nltk import word_tokenize
 from nltk.corpus import stopwords as nltk_stopwords
 
 # NLTK 데이터 다운로드
@@ -23,6 +24,16 @@ for res_path, res_name in required_resources:
 # 영어 불용어만 정의
 COMBINED_STOPWORDS = set(nltk_stopwords.words('english'))
 
+# 뉴스 및 공항 특화 불용어 강제 추가
+extra_stopwords = {
+    'according', 'air', 'aircraft', 'airline', 'airlines', 'airplane', 
+    'airport', 'airports', 'airspace', 'also', 'aviation', 'could', 
+    'first', 'flight', 'flights', 'last', 'like', 'new', 
+    'one', 'reported', 'said', 'says', 'since', 'told', 
+    'two', 'use', 'would', 'year', 'years'
+}
+COMBINED_STOPWORDS.update(extra_stopwords)
+
 class TextAnalyzer:
     def __init__(self, data_dir="data"):
         self.data_dir = Path(data_dir)
@@ -41,35 +52,46 @@ class TextAnalyzer:
             # 구분선(---) 이후의 본문만 추출
             if "--------------------------------------------------" in content:
                 body = content.split("-" * 50)[-1].strip()
-                if body:
-                    corpus.append(body)
+            else:
+                # 구분선이 없으면 전체 텍스트에서 메타데이터(Title/Source/URL) 이후를 사용
+                lines = content.splitlines()
+                body_lines = []
+                found_divider = False
+                for line in lines:
+                    if found_divider:
+                        body_lines.append(line)
+                    elif line.strip() == "":
+                        found_divider = True
+                body = "\n".join(body_lines).strip()
+
+            if body:
+                corpus.append(body)
+
         return corpus
 
     def extract_nouns(self, text):
-        """텍스트에서 명사만 추출하고 불용어 제거"""
+        """텍스트에서 단어를 토큰화하고 불용어를 제거"""
         try:
-            # 토큰화
             tokens = word_tokenize(text.lower())
-            
-            # POS 태깅
-            pos_tagged = pos_tag(tokens)
-            
-            # 명사만 필터링 (NN=단수명사, NNS=복수명사, NNP=고유명사(단수), NNPS=고유명사(복수))
-            nouns = [word for word, pos in pos_tagged if pos in ('NN', 'NNS', 'NNP', 'NNPS')]
-            
-            # 불용어 및 짧은 단어 제거
-            filtered_nouns = [n for n in nouns if n not in COMBINED_STOPWORDS and len(n) > 2]
-            
-            return ' '.join(filtered_nouns)
+            filtered_tokens = [
+                token for token in tokens
+                if token.isalpha() and token not in COMBINED_STOPWORDS and len(token) > 2
+            ]
+            return ' '.join(filtered_tokens)
         except Exception as e:
-            print(f"명사 추출 오류: {e}")
+            print(f"토큰 추출 오류: {e}")
             return ""
 
     def build_tfidf(self, corpus):
         """TF-IDF 매트릭스 생성 (명사 기반)"""
         # 각 문서에서 명사만 추출
         noun_corpus = [self.extract_nouns(doc) for doc in corpus]
-        
+        noun_corpus = [doc for doc in noun_corpus if doc.strip()]
+
+        if not noun_corpus:
+            print("TF-IDF를 생성할 유효한 텍스트가 없습니다. 문서에 명사 또는 분석 가능한 내용이 포함되어 있는지 확인하세요.")
+            return pd.DataFrame()
+
         # 불용어를 다시 한 번 필터링하는 customanalyzer 정의
         def noun_analyzer(text):
             tokens = text.split()
@@ -79,14 +101,31 @@ class TextAnalyzer:
         vectorizer = TfidfVectorizer(
             analyzer=noun_analyzer,
             stop_words=list(COMBINED_STOPWORDS),
-            max_features=50,
             min_df=1,  # 최소 1개 문서에서 나타나야 함
             max_df=0.95  # 95% 이상의 문서에 나타나는 단어 제외
         )
-        matrix = vectorizer.fit_transform(noun_corpus)
-        
+        try:
+            matrix = vectorizer.fit_transform(noun_corpus)
+        except ValueError as e:
+            if 'empty vocabulary' in str(e):
+                print("TF-IDF 생성 중 빈 어휘집 오류가 발생했습니다. 분석 대상 문서에 충분한 명사/토큰이 포함되어 있는지 확인하세요.")
+                return pd.DataFrame()
+            raise
+
+        # 전체 피처에 대해 모든 문서의 TF-IDF 합을 계산하고 상위 50개 선택
+        feature_names = vectorizer.get_feature_names_out()
+        if len(feature_names) == 0:
+            print("TF-IDF로 추출된 특성이 없습니다. 더 많은 텍스트 또는 다른 전처리 설정을 확인하세요.")
+            return pd.DataFrame()
+        # matrix.sum(axis=0) 반환값은 (1, n_features) sparse matrix 형태일 수 있음
+        col_sums = np.asarray(matrix.sum(axis=0)).ravel()
+        top_k = min(50, len(feature_names))
+        top_idx = np.argsort(col_sums)[::-1][:top_k]
+        top_features = feature_names[top_idx]
+
+        # 상위 피처들만 컬럼으로 사용하여 데이터프레임 생성 (내림차순으로 정렬된 컬럼)
         df = pd.DataFrame(
-            matrix.toarray(), 
-            columns=vectorizer.get_feature_names_out()
+            matrix.toarray()[:, top_idx],
+            columns=top_features
         )
         return df

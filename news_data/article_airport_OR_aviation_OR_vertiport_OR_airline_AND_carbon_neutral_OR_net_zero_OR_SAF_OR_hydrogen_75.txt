@@ -1,0 +1,60 @@
+Title: Transforming How We Connect: The Role Of Business In Decarbonizing Aviation
+Source: Forbes
+URL: https://www.forbes.com/sites/deloitte/2025/01/28/transforming-how-we-connect-the-role-of-business-in-decarbonizing-aviation/
+--------------------------------------------------
+
+Decarbonizing aviation will require continued increases in fuel efficiency, including through plane design and more efficient routing.
+
+Sustainable aviation fuel (SAF) value chains are expected to be more diverse than those associated with existing jet fuel production.
+
+Scaling synthetic SAF production is expected to require enormous volumes of low-cost zero-carbon electricity.
+
+Technology has fundamentally transformed the way we collectively work and connect over the last decade – from video calls with our teams and loved ones, to digital translation and working remotely, it has never been easier to collaborate seamlessly across geographic boundaries. However, in today’s complex global environment, it’s more important than ever for business leaders to create genuine human connections, to listen and learn.
+
+For decades, aviation has been the great enabler of global connectivity, underpinning business growth, cross-cultural understanding and value creation. Total air traffic is projected to increase by approximately 250% over the next 25 years, while at the same time our economies must decarbonize to reduce dangerous climate change. Depending on the sector, aviation can comprise up to one-third of total organizational emissions.
+
+Decarbonizing aviation will require continued increases in fuel efficiency, including through plane design and more efficient routing. Fuel efficiency measures have almost halved aviation emissions per passenger since 2020, and Deloitte Global’s recent study, Low-carbon fuels: The last mile to net zero, suggests these measures could deliver an additional 40% improvement by 2050. However, these efficiency gains will be outpaced by increasing air traffic demand, so to decarbonize aviation, new zero-carbon alternatives are needed.
+
+Zero carbon aviation
+
+Alternative fuel options for aviation:
+
+Battery-powered airplanes currently create restrictions on size and distance due to their weight.
+
+Hydrogen can power current airplane sizes for the distances needed for commercial aviation. However, making this a reality requires transformational change to aircraft, engines, and fuel distribution and storage infrastructure. Although these changes are possible, they are unlikely in the short to medium term.
+
+All other air traffic will rely upon sustainable aviation fuel (SAF) to decarbonize. SAF has similar properties to fossil jet fuel and can therefore readily be used as a drop-in replacement for today’s aircraft, engines, and infrastructure.
+
+What is SAF?
+
+SAF is produced from multiple feedstocks, unlike fossil jet fuel which is primarily derived from crude oil. As a result, SAF value chains are expected to be more diverse than those associated with existing jet fuel production, opening opportunities for a wider range of businesses to participate.
+
+Relatively small volumes of SAF are currently produced from biogenic feedstocks. Countries with access to significant volumes of these inputs, such as agricultural products, municipal waste, waste oil and algae, are likely to be the first movers in scaled SAF production, due to lower associated costs. SAF can also be produced from agricultural residues, potentially providing opportunities to increase farmer incomes, particularly in developing countries.
+
+Governments and producers must ensure biogenic SAF doesn’t compete with food production or cause biodiversity loss. As a result, limitations in the availability of biogenic feedstocks mean that synthetic fuels will also be required to meet net-zero jet fuel demand.
+
+Synthetic SAF will require the production of over 150 million tonnes of clean hydrogen in 2050, from almost nothing today, and almost 700 million tonnes of CO2, from biogenic sources produced through Direct Air Capture (DAC) technologies, which have not yet been developed at an industrial scale.
+
+Scaling synthetic SAF production is expected to require enormous volumes of low-cost zero-carbon electricity, so these value chains will likely be developed in countries with an abundance of sun and wind. Given the relative immaturity of the required technologies, synthetic SAF isn’t likely to be produced at scale until the late 2030s.
+
+A short runway with rapid take-off
+
+Transitioning to net-zero aviation will require coordinated action from each value chain participant, including policy-makers, international organizations, feedstock and fuel suppliers, airplane manufacturers, airports, airlines, logistics companies, and end users. Long-term offtake contracts and guarantee mechanisms will be needed to help reduce investment risk and finance costs.
+
+The higher costs of both biogenic and synthetic SAF mean the investment required for scaled production is unlikely to occur without government blending mandates. These are beginning to be instituted globally, with the EU’s SAF blending mandate already in place. These regulations require airlines to procure increasing percentages of SAF and are being coupled with incentives to catalyze business investment.
+
+The role of business
+
+Agri-food businesses, logistics providers, and existing biogenic ethanol and jet fuel producers are investigating how they can participate in these new SAF value chains. Challenges include the geographically dispersed nature of feedstocks, necessitating new sourcing models to help reduce cost and guarantee supply. Additionally, some feedstocks will likely require additional technological innovation to reach commercial viability. Feedstock competition across biofuel production also has the potential to hinder large-scale adoption, with synthetic SAF expected to dominate in the long run.
+
+The private sector can play an important role in catalyzing demand and stimulating investment:
+
+Account for aviation in scope 3 emissions reporting. Jurisdictions globally are increasingly requiring scope 3 emissions disclosure, and many large corporates already voluntarily disclose these emissions. In particular, businesses should consider future scenarios that may impact commercial aviation use.
+
+Develop a pragmatic strategy for optimizing business travel, reducing baseline emissions and associated costs, whilst balancing the need to connect in-person with stakeholders.
+
+Assess the value proposition of procuring SAF Certificates. Similar to carbon credits, these have the effect of reducing the procuring organization’s emissions footprint and provide an important demand signal to SAF producers.
+
+Engage with the market and consider participating in emerging SAF value chains, leveraging existing areas of competitive advantage.
+
+Deloitte’s low-carbon fuels research shows this new industry is poised for take-off – what role will your business play?

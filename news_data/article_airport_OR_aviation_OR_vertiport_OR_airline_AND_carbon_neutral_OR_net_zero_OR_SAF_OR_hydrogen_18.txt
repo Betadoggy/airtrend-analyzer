@@ -1,0 +1,70 @@
+Title: Inside Joby's Air Taxi Facility, I Saw the Future of Air Travel Take Flight
+Source: CNET
+URL: https://www.cnet.com/roadshow/news/inside-jobys-air-taxi-facility-i-saw-the-future-of-air-travel-take-flight/
+--------------------------------------------------
+
+There's an air taxi flying overhead, but you wouldn't notice unless you gazed toward the sky. Joby Aviation is conducting a test flight of its electric vertical takeoff and landing aircraft, or eVTOL, at the municipal airport in Marina, California. It sounds like a fan whirring in the distance, far less audible than the loud propeller plane chasing behind. I'm getting a preview of what's coming to the skies in 2025.
+
+That's the ambitious timeline Joby proposed when I asked how long it will take to see its air taxis take off for commercial flights. Pending approval from the Federal Aviation Administration in the US and other regulators around the world, the piloted air taxi will shuttle up to four passengers at a time between airports and city centers, bypassing road traffic. Apart from cutting down travel time, eVTOLs promise a number of advantages over traditional helicopters: zero emissions, higher speeds and lower costs.
+
+It sounds like the flying car future we've long been promised by The Jetsons, Blade Runner and other science fiction tales. But as I toured Joby's manufacturing facility and sat behind the controls of a flight simulator, I realized these aircraft are fast becoming reality.
+
+Air taxis are one answer to congestion issues around the world. Alongside Joby, companies like Archer Aviation, Hyundai and Boeing-backed Wisk Aviation are racing to bring their vehicles to the sky. Chinese manufacturer EHang's EH216-S is already approved for commercial flights by the Civil Aviation Administration of China.
+
+Research firm Mordor Intelligence estimates the air taxi industry will grow to $4 billion by 2029, and Joby is one of the most funded startups in the US advanced aerial mobility market, with investment from partners like Delta Airlines and Toyota. Joby also acquired Uber Elevate in 2020.
+
+The aerial mobility market is a new category of aviation that will integrate into existing airspace, including autonomous and piloted flights with new aircraft designs.
+
+But winning the public's trust -- and getting regulatory approvals -- is one of many hurdles Joby and other air taxi companies are yet to clear.
+
+One way to make people more comfortable with the idea of air taxis jetting across the sky is by making them quiet. "We're trying to have the vehicle integrate with communities as closely as we can," says Edward Stilson, special projects manager at Joby Aviation.
+
+To discover what makes this aircraft so quiet, and to see how close we truly are to hailing an air taxi from our phones, I went inside Joby's composite manufacturing process at its Marina facility.
+
+Seeing the air taxi up close
+
+At Joby's test flight hangar on the edge of the airport, one of the company's preproduction aircraft waits in the wings. I walk around it and the first thing I notice is how much more headroom there is compared to a traditional helicopter. I don't need to duck when I walk up to the door.
+
+"We designed this airplane to be very familiar," says Stilson as he points out all the components of the air taxi. "We wanted you to be able to walk up to it and feel like it was almost a more traditional car."
+
+Mounted on the wings and the tail of the aircraft are six tilting rotors, with five propeller blades on each. In a hover configuration, all the propellers face upward like a traditional helicopter. But as the aircraft transitions to forward flight, the rotors tilt 90 degrees to a forward-facing orientation. The US Air Force's V-22 Osprey has a similar tilt rotor system, although the aircraft itself looks very different.
+
+The electric propulsion unit spins the propellers slowly, which is why the aircraft is so quiet when hovering and in flight, according to Stilson. "We did some testing with NASA and we found that we're actually 100 times quieter than a traditional helicopter," he says. During takeoff and landing, NASA measured the aircraft's acoustic profile and found it was about that of a normal conversation.
+
+Many people will have reservations about jumping in an air taxi, but Stilson reassures me there are multiple layers of redundancy built in. There are four battery packs in the aircraft, multiple flight computers and flexible wiring patterns throughout. That means if something does go wrong, passengers inside shouldn't even be able to tell that something has turned off.
+
+Joby's production air taxi will have a 100-mile range and travel up to 200 miles per hour. While I don't get to see the test flight over the airport hit full throttle, the aircraft is moving fast enough that I struggle to capture it on my phone.
+
+Like an EV, the air taxi needs time to charge, but Stilson doesn't expect this to be a limitation. "A lot of the flights that we expect our future customers to want to go on are probably in the 25 mile range," he says. That means the aircraft could be charged in the time it takes to load and unload passengers for the next flight.
+
+Making a lightweight air taxi
+
+One of the challenges of building an eVTOL is weight. It needs to be light enough to get off the ground and get enough range, which is why they use carbon fiber. All of the Joby aircraft's main components are made from carbon fiber composites, including the fuselage, propellers and wings.
+
+Stilson walks me through the composite part manufacturing facility in a building located a short walk from the test flight hangar. He hands me an offcut piece of carbon fiber, and I can feel how tacky it is in its raw state. It's far removed from the carbon fiber I'm used to seeing in cars and bikes. Each composite aircraft part is made from multiple layers of carbon fiber, cut out one-by-one on specialized machines. These layers, also known as ply, then get assembled in a process called lamination.
+
+There are stations of technicians around the room, laminating these individual plies onto molds for different parts of the aircraft. I look closer at one of the stations and see green laser beams guiding the technicians where the next piece needs to go. This process takes anywhere from half a day to several days, depending on the complexity of the part.
+
+"This is pretty fun," says Stilson as we work our way to the back of the room. A long robot arm attached to a giant control panel is traveling the length of a wing, laying down strands of individual carbon fiber. The wing is almost 40 feet long and I can hear the robot arm make a loud clicking noise as it cuts each strand.
+
+The wing then gets additional reinforcement with carbon fiber spars that act as a backbone, or chassis. After the lamination process is complete, either by machine or by human technicians, the carbon fiber is still tacky and malleable. Before they can be assembled into an aircraft, these parts need to harden.
+
+To see that process, we pass through a series of doors and stand in front of a giant tunnel called an autoclave. It is essentially a giant oven that pressurizes and cooks each part at temperatures up to 350 degrees Fahrenheit so it cures. Once cooked, parts go through an ultrasonic inspection process where a robot arm uses water to send ultrasonic sound waves through it to find defects.
+
+Flying into the unknown
+
+Unlike some other air taxi companies like Wisk that are promising autonomous flight, Joby is starting off with a human behind the controls. I jump behind the controls of a flight simulator to see how it all works.
+
+Three screens around the simulator give me a near-unobstructed view of my surroundings. "The training has to be very immersive," says Peter Wilson, director of flight standards and training. "So we like to do it in the real flight deck."
+
+For today's flight simulation, I'm headed to the JRB heliport in downtown Manhattan from JFK airport. There's a control stick under my right hand that will make the aircraft go up when I pull it towards me, and down when I push it away. "That is a really unusual thing in the industry at this moment," explains Wilson. "But we do believe this is going to pick up and become something much broader across the industry, called unified control."
+
+Speed is controlled with my left hand and there are plenty of other buttons that take care of pretty much everything else you need, like starting the engines, to leveling off as we hit 1,000 feet.
+
+It's deceptively easy, so even a newbie like me can feel comfortable in the cockpit after just a short test flight and with expert guidance. But pilots will need to have at least 500 hours of training to get certified to fly, as specified by the FAA's Part 135 certification.
+
+Regulatory clearances are the next step forward for air taxis. Three production prototype aircraft have rolled off the production line so far, and Joby has four active aircraft in its test flight program, including a hydrogen-electric demonstrator I saw flying over the airport. The company has already completed three of the five steps needed to get FAA type certification for commercial flights in the US, and has taken steps to get certified for flights in Dubai. Is 2025 a realistic timeframe to see these jetting around the skies?
+
+Then there's cost. It's possible that air taxis may become the domain of the wealthy, while the rest of us sit in traffic on the ground. But Stilson is optimistic that the cost of hailing an air taxi will be on par with conventional transportation.
+
+"The holy grail is being able to have accessible, easy flight for everyone."

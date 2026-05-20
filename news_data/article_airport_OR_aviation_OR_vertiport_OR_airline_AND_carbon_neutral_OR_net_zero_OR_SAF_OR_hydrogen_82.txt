@@ -1,0 +1,14 @@
+Title: Beyond Aero Advances Hydrogen-Electric Jet with Key Refinements
+Source: HYPEBEAST
+URL: https://hypebeast.com/2025/3/beyond-aero-hydrogen-electric-jet-info
+--------------------------------------------------
+
+Beyond Aero has unveiled a refined version of its hydrogen-electric light jet, the BYA-1, incorporating engineering advancements to enhance safety, efficiency and certification readiness. The company remains on track with its goal to deliver the first certified hydrogen-electric light jet by 2030.
+
+The BYA-1 features a battery-free hydrogen fuel cell system with a 2.4MW fuel cell stack, eliminating the need for high-temperature turbines and reducing maintenance complexity. The aircraft’s electric ducted fans are managed by a custom FADEC system, optimizing propulsion efficiency across flight phases. For improved crashworthiness, Beyond Aero has integrated 700-bar gaseous hydrogen tanks above the wing box, eliminating high-pressure fuel lines inside the cabin. These refinements aim to enhance safety and also position the aircraft for regulatory approval under EASA’s evolving hydrogen-powered certification framework.
+
+Beyond Aero claims that the BYA-1 will cut fuel costs by 65 percent compared to Power-to-Liquid SAFs by 2025 and 17 percent vs. Jet A-1 by 2030. The all-electric powertrain, with 90 percent fewer moving parts, promises to reduce operational costs by up to 55 percent while improving reliability. Designed for business aviation, the jet seats six passengers and boasts an 800 NM range at 310 KTAS, covering over 80 percent of European flight routes. Its 620-meter takeoff roll and 5.5° approach angle enable operations at constrained airports like London City.
+
+An expert advisory committee of executives from Airbus, HondaJet, EASA and Air France has endorsed the aircraft’s technical viability. Beyond Aero is actively working with EASA to establish a regulatory framework for hydrogen-powered aircraft, shaping the future of zero-emission aviation.
+
+Backed by $44,000,000 USD in funding, 914 million in LOIs and recent milestones including France’s first manned hydrogen-electric flight, Beyond Aero is accelerating the push toward certified hydrogen aviation.

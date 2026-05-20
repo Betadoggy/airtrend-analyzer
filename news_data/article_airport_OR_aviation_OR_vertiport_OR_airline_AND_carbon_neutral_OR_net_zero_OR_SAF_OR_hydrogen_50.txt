@@ -1,0 +1,16 @@
+Title: A 'Peak Oil' Prediction Surprise From the International Energy Agency
+Source: Slashdot.org
+URL: https://hardware.slashdot.org/story/25/11/15/0352221/a-peak-oil-prediction-surprise-from-the-international-energy-agency
+--------------------------------------------------
+
+180078712 story
+
+A 'Peak Oil' Prediction Surprise From the International Energy Agency (cnbc.com)
+
+"The International Energy Agency's latest outlook signals that oil demand could keep growing through to the middle of the century," reports CNBC, "reflecting a sharp tonal shift from the world's energy watchdog and raising further questions about the future of fossil fuels." In its flagship World Energy Outlook, the Paris-based agency on Wednesday laid out a scenario in which demand for oil climbs to 113 million barrels per day by 2050, up 13% from 2024 levels. The IEA had previously estimated a peak in global fossil fuel demand before the end of this decade and said that, in order to reach net-zero emissions by 2050, there should be no new investments in coal, oil and gas projects... The IEA's end-of-decade peak oil forecast kick-started a long-running war of words with OPEC, an influential group of oil exporting countries, which accused the IEA of fearmongering and risking the destabilization of the global economy.
+
+The IEA's latest forecast of increasing oil demand was outlined in its "Current Policies Scenario" — one of a number of scenarios outlined by the IEA. This one assumes no new policies or regulations beyond those already in place. The CPS was dropped five years ago amid energy market turmoil during the coronavirus pandemic, and its reintroduction follows pressure from the Trump administration... Gregory Brew, an analyst at Eurasia Group's Energy, Climate and Resources team, said the IEA's retreat on peak oil demand signified "a major shift" from the group's position over the last five years. "The justifications offered for the shift include policy changes in the U.S., where slow EV penetration indicates robust oil [consumption], but is also tied to expected increases in petrochemical and aviation fuel in East and Southeast Asia," Brew told CNBC by email. "It's unlikely the agency is adjusting based on political pressure — though there has been some of that, with the Trump administration criticizing the group's supposed bias in favor of renewable energy — and the shift reflects a broader skepticism that oil demand is set to peak any time soon," he added...
+
+Alongside its CPS, the IEA also laid out projections under its so-called "Stated Policies Scenario" (STEPS), which reflects the prevailing direction of travel for the global energy system. In this assumption, the IEA said it expects oil demand to peak at 102 million barrels per day around 2030, before gradually declining. Global electric car sales are much stronger under this scenario compared to the CPS. The IEA said its multiple scenarios explore a range of consequences from various policy choices and should not be considered forecasts.
+
+Thanks to Slashdot reader magzteel for sharing the news.
