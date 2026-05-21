@@ -122,9 +122,12 @@ class TextAnalyzer:
         top_idx = np.argsort(col_sums)[::-1][:top_k]
         top_features = feature_names[top_idx]
 
+        # [메모리 최적화]: matrix 전체를 덤프하지 않고, 필요한 열(top_idx)만 먼저 슬라이싱한 뒤 배열로 변환합니다.
+        dense_top_matrix = matrix[:, top_idx].toarray()
+
         # 상위 피처들만 컬럼으로 사용하여 데이터프레임 생성
         df = pd.DataFrame(
-            matrix.toarray()[:, top_idx],
+            dense_top_matrix,
             columns=top_features
         )
         return df
