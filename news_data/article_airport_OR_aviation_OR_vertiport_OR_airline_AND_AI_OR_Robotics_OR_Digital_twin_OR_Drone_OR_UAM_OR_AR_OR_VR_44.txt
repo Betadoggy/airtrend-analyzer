@@ -1,0 +1,40 @@
+Title: Tesla will need some Hollywood magic for its robotaxi reveal
+Source: The Verge
+URL: https://www.theverge.com/2024/9/3/24234785/tesla-robotaxi-event-warner-bros-mapping-data-musk
+--------------------------------------------------
+
+The news that Tesla will likely reveal its long-awaited, much-debated autonomous robotaxi at the Warner Bros. movie studio in Los Angeles underscores how much ground the company needs to cover in order to catch up to its rivals in the self-driving space. It also inadvertently provides a ready-made metaphor for the types of Hollywood trickery Elon Musk and Co. will no doubt need to employ in order to convince their supporters that Tesla’s driverless technology is really ready this time.
+
+Over the weekend, Bloomberg reported that Tesla was planning on using the film studio’s lot in Burbank, California, to reveal its next-generation robotaxi on October 10th. (The event was originally supposed to take place on August 8th but was pushed back after Musk ordered more work on the prototype.)
+
+Tesla needs to catch up to its rivals in the self-driving space
+
+It was an interesting decision considering Tesla mostly likes to hold these types of events on its own turf. But as Bloomberg noted, the 110-acre lot contains over two dozen sound stages, including fake suburban towns that could be an ideal location to test a not-quite-ready-for-primetime autonomous vehicle. These include row houses, brownstones, and a virtual small downtown — all ready-made for a robotaxi demonstration.
+
+The report gained further credence after a Tesla software hacker known online as @greentheonly noted on X that the company had started gathering mapping data in and around the movie studio a few days prior to the report. Green, who has gained some notoriety in Tesla circles by going through the source code of Tesla’s software updates, said the company was also collecting data around other locations, including the still-under-construction Tesla Diner in Santa Monica and “various SF and Bay Area pieces.”
+
+The revelation that Tesla is collecting data on these areas in advance of its robotaxi event suggests a couple of things. First, the company wants to ensure that its demonstration of driverless technology goes off flawlessly, so it’s mapping the areas in which it could operate. That seems like sound reasoning. Tesla has a lot riding on this event given recent comments by Musk that the company should be seen as primarily a robotics company.
+
+“We are an AI, robotics company; if you value us otherwise, the right answer is impossible to the questions being asked,” Musk said earlier this year.
+
+Rerouting the company from its core business of making and selling electric vehicles to robotics and autonomy is crucial for Musk, especially as Tesla’s sales continue to sag globally. Tesla’s market cap is equal to almost all the other global automaker’s value combined. Much of this value is based on Musk’s promises to not only drive the electrification of the auto industry but also “solve” autonomy by releasing a truly revolutionary vehicle that can drive itself. Whatever Tesla reveals on October 10th needs to prove this is possible.
+
+Tesla has a lot riding on this event
+
+Any Tesla fan would be quick to point out that all the other autonomous vehicle operators also gather geographic data before launching their robotaxis. Waymo, Cruise, and all the others focus on making their autonomous driving systems work in geofenced areas of cities. But as Electrek rightly points out, Tesla has always claimed that its system would be different by using data gathered from its fleet of regular vehicle owners, who send camera images back to the company for annotation and labeling.
+
+With all that data, Musk has boasted that Tesla would be unrestrained by any geographic limitations. In other words, true “Level 5” autonomy — a driverless car that could drive anywhere, under any conditions.
+
+Of course, that’s not what we’re getting on October 10th. Tesla is likely to show a pretty good demo of a driverless car tooling around on the Warner Bros. lot, or around downtown San Francisco, or at the Supercharger location in Santa Monica. But the idea that any Tesla owner would be able to push a button and send their driverless vehicle out into the world to start collecting passive income as a robotaxi anytime soon is ludicrous.
+
+That’s because of all the glaring holes in Tesla’s approach to autonomy. For one, the company got rid of its radar and ultrasonic sensors and now only relies on cameras as part of its sensor suite. This approach lacks the redundancy that is a key component of higher-level autonomous systems that include radar, ultrasonic, and lidar to render a 3D environment around the vehicle. If some debris or mud hits one or more of the cameras, the vehicle would essentially be riding blind. That’s not going to work for a lot of people.
+
+There are glaring holes in Tesla’s approach to autonomy
+
+This also reinforces previous reporting that Tesla’s “data annotators” have been giving “special treatment” to Musk and several Tesla influencers when training the neural nets for its autonomous system, according to a Business Insider investigation. This suggests that the company’s efforts at developing a truly autonomous system are being misapplied and perhaps aren’t sufficient for what Tesla claims to be attempting.
+
+Another glaring hole in Tesla’s approach to self-driving is legal liability. To date, the company has been unwilling to accept any liability for crashes involving the company’s driver-assistance features, Autopilot and Full Self-Driving. In fact, Musk even laughed off a question as to whether his company would accept legal liability for its self-driving vehicles in the future. “There’s a lot of people who assume we have legal liability,” Musk has said, “judging by the lawsuits.”
+
+This strategy has worked so far. Last year, Tesla won a lawsuit that tried to blame Autopilot for a 2019 crash. But if the company attempts to deploy fully driverless vehicles, like Waymo or Cruise, it’s difficult to see how it can continue to avoid liability. There have been thousands of crashes involving the company’s vehicles with Autopilot and at least 44 deaths. Even one death in a Tesla autonomous vehicle would be a disaster.
+
+We’ll know more when the company finally pulls the curtain back on October 10th. Maybe Musk could ask some of his friends in Hollywood for a little help smoothing out the rough edges of what gets revealed.

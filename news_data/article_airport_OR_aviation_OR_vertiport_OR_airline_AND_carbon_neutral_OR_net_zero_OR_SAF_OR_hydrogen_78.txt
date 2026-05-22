@@ -1,0 +1,74 @@
+Title: Narrow-Body Electric Aircraft Not A Fantasy, Says European Startup
+Source: Forbes
+URL: https://www.forbes.com/sites/gauravsharma/2025/07/25/narrow-body-electric-aircraft-not-a-fantasy-says-european-startup/
+--------------------------------------------------
+
+In a bid to reduce its carbon footprint, the global aviation industry is taking serious notice of the concept of electric aircraft. However, existing battery technology and limitations mean most startups attempting it are unable to offer high passenger capacity concepts capable of being industry scale game-changers. That’s until now.
+
+For in the shadow of Schiphol Airport, one of Europe’s busiest travel hubs in Amsterdam, the Netherlands, one startup – Elysian Aircraft – is busy working on a viable concept for a narrow-body single aisle electric plane capable of carrying 90 passengers over 500 miles on a single charge.
+
+Elysian calls it the E9X and has an ambition for the aircraft’s service entry in the first half of the next decade. It could give airlines a workable passenger capacity for low-to-zero short-haul flights that is just around half that of a Boeing 737-800 or Airbus A320 aircraft.
+
+That makes Elysian standout in a crowded field of zero carbon aircraft developers but also courts intense skepticism. For starters, none of the company’s peers are offering concepts with such a high passenger capacity. U.S.-U.K. start-up ZeroAvia has a 19-seater nearing service, while German startup Vaeridion is well advanced on a 9-seater microliner.
+
+Many others are finding it difficult to just stay in the game. Italy’s Tecnam put its electric aircraft concept on hold in 2023 after three years of trying. Germany’s Volocopter recently initiated insolvency proceedings before surviving courtesy of a new buyer, and Lilium — an electric air-taxi startup — shut down after its second insolvency this year.
+
+MORE FOR YOU
+
+So, how will Elysian be different in its attempt to build something no one else is? By doing the simple things right, addressing challenging aspects of the aircraft design and subjecting its proof of concept to rigorous expert scrutiny, Elysian co-founders Daniel Rosen Jacobson (co-CEO), Reynard De Vries (chief engineer) and Rob Wolleswinkel (co-CEO and chief technology officer) said in a joint interview.
+
+Proof Of Concept And “Hot Potatoes”
+
+“Before we emerged out of the shadows and took our idea fully public in 2024, we could see both the skepticism as well as attempts by others at smaller aircraft. We are nothing but grateful to these industry peers for putting themselves out there and bringing electric aviation into view. However, to make a meaningful environmental impact, there’s simply no option but to go for a higher capacity aircraft,” Wolleswinkel said.
+
+In fact, Elysian started initial work on the concept in 2020, with research, ideation and calculations, ultimately coming up with its proof of concept. This was then subjected to academic scrutiny by third-party aircraft design experts at the Delft University of Technology.
+
+“They reverted to us describing our concept as very promising. Subsequently, in 2021, Panta Holdings, one of our main investors, came on board with seed funding. By the second half of 2022, we had come up with a design as we know it.”
+
+Thereafter, being their own harshest critics, the co-founders entered what Wolleswinkel described as a phase of risk reduction.
+
+“We highlighted ten ‘hot potatoes’ – or harsh technical problems that we needed to research and mitigate to succeed. Not only did we work on these internally at Elysian, but also outsourced them to some of the finest minds in aerospace, academia and engineering. Nearly all of them have now been addressed bringing our risk reduction phase to a close.”
+
+Subsequently, the startup has now entered a preliminary and detailed design phase, De Vries added. “Since October 2024, we have been ramping up Elysian’s capabilities with our team going up from the three of us (co-founders) to around 30, of which 80% are engineers.”
+
+And Jacobson noted: “While there’s much work to be done, the switch from risk reduction phase to the detailed design phase meant we were confident in taking our E9X concept aircraft public, as we have done.”
+
+The results are not what most people would visually imagine. The E9X’s current design will have eight propeller engines or four on each wing, with a propeller diameter length of 3.7 meters. Batteries located in the wing-box will power each of the eight 1.3 megawatt electric motors running the propellers.
+
+The aircraft will have a wingspan of almost 138 feet (or just over 42 meters). This will be around 20 feet more than existing narrow-body single aisle jets like the Boeing 737-800 (see illustration above). However, the E9X will also have a comparatively thinner fuselage.
+
+De Vries explained: “The latter design aspect will potentially improve both the structural and aerodynamic characteristics. We are now nearing the completion of version II of the E9X’s design. Version I of the design is solid but we are simply making some updates around the volume of the wing. The principles underlying it remain the same.”
+
+Tackling Range Anxiety
+
+The key thing for E9X’s next stage of development is that Elysian will only focus a small part of its existing resources on the total aircraft. “The majority of our resources will be on underlying technology bricks. Because, in order to design, build and ultimately mass produce this aircraft – we need to build these technology bricks further,” Wolleswinkel said.
+
+Central to these bricks is the integration of the batteries into the E9X’s wing and their power distribution into the motors, and Elysian’s concept of distributed electric propulsion via eight propellers. “This is what we are truly focused on. The landing gear, cockpit, pressurization, and other ancillary avionics mechanisms are all the same as with any aircraft and have been so for many years now. They do not require a reinvention of the wheel.”
+
+As for the range, Elysian remains confident of hitting its 500 miles target. It also hopes the aircraft would be ready for a turnaround with a recharge time of 45 mins or less. There are also plans for a turbogenerator in the rear fuselage to provide an additional 45 minute power reserve, should it be needed.
+
+Wolleswinkel, a qualified pilot himself, said that electric aviation or aviation in general is where the real travel range anxiety exists. “We often talk of improved battery technology and range anxieties for automobiles. Current technology exists that allows some electric vehicles to do around 400 miles. But who would drive such distances without stopping for a rest?
+
+“The same is not true for aviation where range capabilities define aircraft types. Elysian will never drop the ball on this one. The range we are predicting for our aircraft is not just based on current assessment, but also on where battery technology might well be by the end of this decade.”
+
+Elysian is also placing a heavy emphasis on industry and engineering collaborations as its journey progresses. It announced a partnership with Spanish aerostructures supplier Aernnova at this year’s Paris Air Show in June, to begin initial wing development studies incorporating batteries.
+
+The startup was also in the aviation sector’s spotlight when it recently launched a “knowledge-sharing initiative to accelerate battery-electric aviation development” with Dutch flag carrier KLM, and its low-cost airline subsidiary Transavia. Academic partnerships with several universities remain strong.
+
+Elysian also shares its current premises with Fokker Services, a unit of the Dutch legacy aircraft maker, acquired in 2021 by the startup’s backer Panta Holdings. The co-founders remain amenable to calling on Fokker Services’ neighborly expertise on certification and design “in due course.”
+
+Deep Pockets Needed
+
+Overall, Elysian exudes cautious optimism in finding its aviation horizon. “We remain on track for building the E9X prototype by 2030, and its service entry by 2033,” Jacobson said.
+
+“Our conversations with many airlines have been very encouraging. It is our belief that E9X will emerge as the cheapest clean aviation option on a cost per mile basis, when pitted against other alternatives such as hydrogen fuel cell, hydrogen turbine planes and sustainable aviation fuels.”
+
+While Elysian’s KLM and Transavia collaboration is in public domain, Jacobson said the startup was in talks with around ten airlines. However, Elysian’s commercial flightpath ahead will likely have turbulence.
+
+If the prototype is successful, it will have to fight incumbency of existing narrow-body single aisle aircraft that have an operating life of decades not years. Airports will also need to make infrastructural changes and bring in charging systems, and many may resist.
+
+“There is always resistance to change. Ultimately, we believe battery-electric aircraft like ours can replace 50% of current planned flights around the world bringing about a massive cut in carbon emissions,” Wolleswinkel said.
+
+Apart from a determination to succeed, Elysian will also need deep pockets. Jacobson noted that the development and construction of the prototype will cost around $350 million, and that a further $10 billion will likely be required to test, certify and produce the aircraft on initial orders.
+
+“Naturally, we will seek a major investor at some stage. Right now, we are focused on our Series A funding that is expected to close by the end of this quarter. We remain committed to our efforts, confident in our product offering, and, most importantly, our belief that zero carbon electric aircraft are the future of the aviation industry.”

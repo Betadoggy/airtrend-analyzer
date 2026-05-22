@@ -1,0 +1,44 @@
+Title: Why Dubai-based VCs are looking to invest in European climate tech
+Source: The Next Web
+URL: https://thenextweb.com/news/dubai-vcs-invest-european-climate-tech
+--------------------------------------------------
+
+Rising temperatures and unpredictable weather patterns have become a pressing concern within the UAE. In April, Dubai experienced its heaviest rainfall in 75 years over a 24-hour period, triggering floods and chaos. A team of researchers from the World Weather Attribution initiative reported that this event was driven partly by the climate crisis which was bringing on a 10%-40% intensity in rainfall levels.
+
+On July 20, temperatures also hit a high of 42 degrees centigrade at Dubai International Airport, according to data from the US National Weather Service. However, intense humidity that day compounded the heat to make it feel like more than 62 degrees.
+
+Due to its desert landscape and proximity to the Persian Gulf, the city is particularly susceptible to extreme weather, putting climate impact top of mind. But Dubai’s climate also presents opportunities for climate tech innovation.
+
+Dubai’s response plan
+
+Dubai is increasingly focused on driving significant sustainable transformation across various industries. At last year’s COP28 conference, there was a consensus that progress was too slow across all areas of climate action — from reducing emissions and building resilience within the changing climate to getting the financial and technological support to nations in need — and the host city is now responding with policies and decisions on how to accelerate climate action for the near future.
+
+The UAE’s Green Agenda 2030 was launched to increase its GDP by 4% to 5%, increase exports by about AED 24 to 25 billion, and greatly reduce the country’s emissions. This long-term plan is centered around creating a competitive knowledge economy, as well as a sustainable environment and valued natural resources. By 2030, the agenda proposes to bring about clean energy, green life, and sustainable use of resources.
+
+Building on this journey towards sustainable innovation, the UAE’s Net Zero 2050 strategy is designed to act as a stimulus for economic and societal advancement by leading the transition to net zero emissions. This is expected to create 200,000 job opportunities across the solar, battery, and hydrogen sub-sectors, as well as enhance prospects for growth.
+
+The Net Zero strategy has over 25 programs across the power, industry, transport, buildings, waste, and agriculture sectors. These will focus on improving efficiency, implementing sustainable transportation and green building practices, incorporating nature-based solutions, and employing carbon capture technologies.
+
+To enable this ecosystem to thrive, the UAE is looking to implement climate finance mechanisms, develop new technologies supported by research and development, and establish a dynamic upskilling and capabilities plan for businesses in the sector.
+
+What this means for climate tech startups
+
+As the emphasis on entrepreneurship and innovation was a focal point of COP28, Dubai and the wider UAE are transitioning to a more diversified economy and setting up the right infrastructure for startups and innovators. By applying their expertise, founders can work towards translating these national policies into actionable practices.
+
+The Frontier Technologies Readiness Index 2023, released by the United Nations, ranked the UAE as the top Arab country ready to adopt advanced technologies, such as AI with a focus on green innovation. Climate tech startups in the region also attracted about two-thirds of total funding in MENA between 2018 to 2022, accounting for $401 million — equivalent to 62% of total regional investment during the five-year period.
+
+In a major step forward for climate action, the EU launched the EU-GCC Cooperation on Green Transition project. This project aims to create a joint platform to exchange best practices and expertise between the EU and the Gulf Cooperation Council stakeholders, promoting and adopting technologies that support the Gulf’s green transition, and fostering a collaborative business environment between EU climate tech companies and their counterparts in the UAE.
+
+Europe’s tech founders and entrepreneurs can benefit from the UAE’s climate industry access by aligning their business plans with its sustainability strategies.
+
+For example, when the waste management app Full Bin announced its move to Dubai from Sweden, it developed sensors that monitor waste bin fullness, locations, temperature, and movement, enabling real-time, data-driven waste collection. German aircraft manufacturer, Volocopter, is also launching the world’s first sustainable and scalable urban air mobility business this year, with plans to operate in Dubai.
+
+What comes next
+
+Expand North Star Dubai is offering an exceptional platform for climate tech startups to explore new opportunities in the thriving Dubai and UAE markets. This year’s edition, which takes place at Dubai Harbour from October 13-16, introduces several innovative events for climate tech startups and unites some of the most sought-after investors and business leaders to explore the exciting opportunities emerging in Dubai while energising the future of the digital economy.
+
+The lineup of investors also includes the deep biotech fund H Tree Capital from the UK, the Estonian accelerator and fund Startup Wise Guys, the Portuguese research and developed-focused venture capital M4 Ventures, as well as VC giants like Climeworks, the Swiss unicorn backed by Microsoft Climate Fund and the technology provider holding a 10-year carbon removal offtake agreement to support Microsoft’s commitment to become carbon negative by 2030.
+
+Participants at Expand North Star Dubai can also enter the Sustainability Pitch Battle for a chance to compete for a $100,000 prize. The DMCC x AGCC: Global AI Challenge Sustainability Edition, will be aimed at discovering and showcasing AI-driven innovations with a positive impact on the GCC region.
+
+The largest AI-focused startup competition at Expand North Star 2024, this challenge invites startups, research teams and developers to present their most advanced AI solutions, demonstrating the potential to create positive change and scalability in the region. This will help uncover groundbreaking strategies that can contribute to the UN Sustainable Development Goals and create measurable, positive change.

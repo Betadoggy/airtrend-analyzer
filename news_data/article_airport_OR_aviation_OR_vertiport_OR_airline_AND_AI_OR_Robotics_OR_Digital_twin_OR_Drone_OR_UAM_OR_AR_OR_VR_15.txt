@@ -1,0 +1,48 @@
+Title: Apple and Google Pull ICE-Tracking Apps, Bowing to DOJ Pressure
+Source: Wired
+URL: https://www.wired.com/story/apple-and-google-pull-ice-tracking-apps-bowing-to-doj-pressure/
+--------------------------------------------------
+
+If you’re traveling to a country and, once you arrive, realize it’s in the midst of a Gen Z-fueled revolution, what do you do? If you’re Harry Jackson, a travel vlogger, you run straight into the action. This week, WIRED spoke with Jackson, who recounted his time documenting the overthrow of Nepal’s government for his social media channels and the millions of people who watched his videos.
+
+Tile tracking tags can be a useful way to find your lost keys, wallet, or pets. But be careful: Researchers say the Bluetooth-enabled tags can broadcast unencrypted data that could allow a tech-savvy stalker—or the company itself—to spy on your movements. Not only that, but an attacker could use an anti-theft feature to spoof your Tile device and make it seem like you (or at least your belongings) were in a location you never visited.
+
+Immigration and Customs Enforcement has been busy purchasing social media surveillance tools as it wages a nationwide crackdown on immigrants across the United States. Now, the agency is staffing up to make use of these tools, WIRED first reported. ICE plans to hire nearly 30 contract workers to build dossiers on people based on what they post online, then share that intel with ICE agents for the purposes of arrest and deportation.
+
+Password managers are one of the best tools available for keeping your online accounts properly protected—and that extends into the afterline. We’ve put together a guide for sharing your logins with loved ones in the event you pass away.
+
+And that’s not all. Each week, we round up the security and privacy news we didn’t report in depth ourselves. Click the headlines to read the full stories. And stay safe out there.
+
+Apple Pulls ICEBlock Amid DOJ Pressure
+
+In April, developer Joshua Aaron created the ICEBlock app to allow people to anonymously report nearby sightings of immigration enforcement officials and help protect at-risk communities. Hundreds of thousands of people quickly flocked to download Aaron’s app, which was only available on iPhones. That is no longer an option.
+
+Apple has now removed ICEBlock from its App Store—as well as other similar services—after US attorney general Pam Bondi claimed officials had “reached out” to Apple and were “demanding” it take down the app. Apple staff had previously reviewed and approved ICEBlock’s inclusion on the App Store. The company claims it has now removed the app and others based on “information we’ve received from law enforcement about the safety risks.”
+
+“We are determined to fight this with everything we have,” Aaron told 404 Media after the app was pulled. “Our mission has always been to protect our neighbors from the terror this administration continues to reign down on the people of this nation.” An email from Apple shared with the publication says the app was removed due to violating Apple’s policies on “objectionable content” and that “its purpose is to provide location information about law enforcement officers that can be used to harm such officers individually or as a group.”
+
+Since Aaron launched the app, it has provoked a ferocious backlash from Trump administration officials, who have led an unprecedented expansion of ICE agency. Earlier this year, Bondi said officials were “looking at” Aaron and that he “better watch out.” The attorney general has also said officials were considering prosecuting CNN for reporting about ICEBlock. Legal experts, however, have told WIRED that ICEBlock clearly falls under protected free speech under the First Amendment and that prosecuting the creator would be illegal.
+
+Google and Apple Pull Red Dot ICE-Tracking App
+
+ICEBlock isn’t the only app to be censored by mobile platforms this week. The ICE-tracking app Red Dot was also pulled from Apple’s App Store and Google Play following ICEBlock’s removal by Apple. 404 Media, which was first to report on Red Dot’s removal, spoke to at least one immigration support group in Chicago, a current target of ICE’s deportation efforts, that has used the app.
+
+In explaining its takedown decision, Google went so far as to tell 404 Media that it had removed the app because ICE is considered a vulnerable group that had been targeted in recent violence—an ironic description for an agency whose mission has become the indiscriminate, forcible, often warrantless, mass deportation of undocumented immigrants.
+
+11 Chinese Scam Compound Bosses Sentenced to Death
+
+Giant modern slavery compounds within Southeast Asia are a scourge on the world. Over the last decade, hundreds of thousands of people have been trafficked, from more than 60 countries, to Myanmar, Cambodia, and Laos, where they are then forced to run online scams and steal victims’ money. People around the globe have lost billions to the operations, which serve as a major revenue stream for the organized crime gangs that operate in the region and are also heavily involved in illegal online gambling operations.
+
+While some law enforcement efforts have tried to dismantle several of the compounds, their impact has been limited, and many sites continue to flourish. This week, however, a court in Eastern China handed down severe sentences to members of the Ming crime family, for their roles in setting up and running several barbaric compounds. In total, 11 members of the Ming family and their associates were sentenced to death, five others were given suspended death penalties, 11 others were sentenced to life in jail, while another dozen received prison sentences, according to a statement from the court.
+
+The family, according to CNN reporting, was linked to a notorious compound near the Chinese-Myanmar border area and at one point had 10,000 people conducting scams. The court statement alleges that, as well as committing fraud, opening casinos and selling drugs, the criminal group and others “killed and injured fraudsters who tried to escape or disobeyed management,” which resulted in 10 deaths.
+
+Europe Accelerates Plans for a “Drone Wall” to Counter Russian Airspace Violations
+
+Germany’s Munich airport briefly shut down this week—with 17 flights cancelled and more than 3,000 people disrupted—after suspected drone sightings forced air traffic controllers to take precautionary measures. Some passengers were given camp beds and food during the shutdown. While officials have not pointed the finger at anyone who may be responsible in Germany, the incident follows a wave of drone disruptions at airports around Europe and Russian incursions into European countries’ airspace.
+
+In recent weeks, Russian drones have entered Polish and Romanian airspace, while NATO has also said Finland, Latvia, Lithuania, and Norway have experienced “airspace violations by Russia.” In response to the increasing number of incidents—which experts believe signals Russia testing NATO and European countries—the European Union is working to create a “drone wall.” Details are, so far, scant, but the concept could see anti-drone technologies, as well as better detection systems and information sharing, being more widely deployed along Europe’s borders with Russia. “We need to act now—Europe must deliver a strong and united response to Russia’s drone incursions at our borders,” Ursula von der Leyen, the president of the European Commission, said.
+
+Comms System Built by Anduril and Palantir Are Deeply Flawed, Army Memo Says
+
+When the defense tech firm Anduril, along with a group of partners including Palantir and Microsoft, won a $100 million contract to rebuild the US Army’s battlefield communications network system, the companies’ involvement might have been seen as a project by agile tech firms to carry out needed reform of antiquated military systems. Instead, the system suffers from “fundamental security” problems and should be treated as “very high risk,” according to an Army internal assessment of the system. The system, for instance, allows users to access any data or application regardless of their clearance level or operational requirements, according to the memo obtained by Reuters and first reported by military news outlet Breaking Defense. As a result, there’s a high “likelihood of an adversary gaining persistent undetectable access," wrote Gabrielle Chiulli, the Army chief technology officer authorizing official. The assessment noted that third-party applications that would be hosted on the system also haven’t undergone Army security assessments, and one contained 25 high severity security flaws in its code.

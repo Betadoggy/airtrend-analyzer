@@ -1,0 +1,32 @@
+Title: Airbus presents new AI Wingman unmanned fighter jets at Berlin Aerospace exhibition
+Source: ReadWrite
+URL: https://readwrite.com/airbus-ai-wingman-unmanned-fighter-jets-berlin-aerospace-exhibition/
+--------------------------------------------------
+
+Airbus has showcased a full-scale model of its AI-powered Wingman drone at the International Aerospace Exhibition (ILA) in Berlin this week.
+
+In military aviation, a “Wingman” refers to a pilot in a separate aircraft who supports and defends the lead pilot, improving tactical capabilities and mission success. Airbus has reimagined this role with its concept, where the Wingman is not an actual pilot or a manned fighter jet.
+
+Instead, it is a drone resembling a fighter jet, controlled by a pilot from a modern combat aircraft like the Eurofighter. This drone is designed to undertake high-risk missions that would be more dangerous for aircraft with only human pilots.
+
+The 1:1 model displayed by Airbus from June 5 to 9 at ILA is similar to that of a “show car” in the automotive industry, used as a prototype. However, the drone takes the form of a fighter jet and is controlled remotely by a pilot from a modern combat aircraft like the Eurofighter.
+
+“The German Air Force has expressed a clear need for an unmanned aircraft flying with and supporting missions of its manned fighter jets before the Future Combat Air System will be operational in 2040,” said Michael Schoellhorn, CEO of Airbus Defence and Space in a statement on their website.
+
+“Our Wingman concept is the answer. We will further drive and fine-tune this innovation made in Germany so that ultimately we can offer the German Air Force an affordable solution with the performance it needs to maximise the effects and multiply the power of its fighter fleet for the 2030s.”
+
+What will the Airbus Wingman AI drone be able to do?
+
+This drone has been designed to handle high-risk missions that are too dangerous for manned aircraft. Dubbed the Wingman model, it includes capabilities such as stealth, integration of various weapons, advanced sensors, and connectivity and teaming solutions. Similar to “show cars,” not everything exhibited is guaranteed for mass production.
+
+The drone’s duties vary, but they can include reconnaissance, target jamming, and launching precision-guided munitions or missiles at ground or aerial targets.
+
+Pilots in manned aircraft, designated as “command fighters,” retain ultimate control over the mission, serving as the final decision-making authority. They benefit from reduced risk and better protection by assigning tactical tasks to unmanned systems.
+
+In addition, there is a focus on boosting the overall combat force economically, allowing air forces to effectively match the strength of opposing forces in conflicts with peer or near-peer forces.
+
+In the U.K, soldiers are already using AI to help them shoot drones down from the sky, with some being trained on how to use SmartShooter SMASH technology.
+
+While in Austria, politicians called for regulation on the use of AI in weapon systems as concerns arise around using machines that can kill people without any human intervention.
+
+Featured image: Airbus / Canva

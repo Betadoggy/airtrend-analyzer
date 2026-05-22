@@ -1,0 +1,28 @@
+Title: UK startup unveils ‘world’s most advanced’ vertiport for air taxis
+Source: The Next Web
+URL: https://thenextweb.com/news/uk-startup-worlds-most-advanced-vertiport-air-taxis
+--------------------------------------------------
+
+In collaboration with LG, UK startup Urban-Air Port has unveiled the AirOne vertiport, which merges robotics with AI integrated systems — a world first, according to the company.
+
+Vertiports promise to facilitate advanced urban air mobility, intended for vehicles such as drones and electric vertical take-off and landing (eVTOL) aircraft.
+
+Urban-Air Port first demostrated AirOne in 2022 in the UK. Now, the vertiport is commercially available.
+
+Through the partnership with LG, the startup has designed a vertiport that combines physical infrastructure with digital solutions across ground operations.
+
+AirOne features modulars stations with integrated digital systems. It leverages the startup’s Vertical Airfield robotics technology, which the company says allows for up to 80% smaller sites, up to 50% reduction in installation costs, as well as a smaller environmental footprint.
+
+The vertiport will also use LG’s data-driven management systems and AI-powered technologies. These can enable a range of services, spanning from biometric check-in and interactive lounges to EV charging hubs and a digital ecosystem for commercial services on site.
+
+Founded in 2019, Urban-Air Port targets four markets: passenger air taxis, cargo logistics, defence, and disaster emergency management and security. The company plans to deliver over 200 vertiports across the globe in the next five years.
+
+The case for vertiports (and air taxis)
+
+Vertiport infrastructure is integral to enabling the rollout of air taxis, or (e)VTOLs — which are appealing for several reasons.
+
+They don’t need runaways to operate and they can navigate small spaces, presenting a potential alternative for urban transport. Electric VTOLs, in particular, can also help reduce carbon emissions in cities.
+
+The UK’s aviation regulator has been investigating ways to adopt the technology and enable future operations. The EU has also published its own vertiport design guidelines. Meanwhile, a barge on the Seine will provide a temporary air taxi launch point during the Paris Olympics.
+
+Nevertheless, challenges such as safety, cost, and VTOL standardisation still persist. It remains to be seen whether AirOne will pave the way forward.

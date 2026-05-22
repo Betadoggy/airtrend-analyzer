@@ -1,0 +1,44 @@
+Title: This chart shows why your next plane ticket will likely be way more expensive
+Source: Business Insider
+URL: https://www.businessinsider.com/chart-rising-fuel-costs-make-plane-ticket-more-expensive-2026-4
+--------------------------------------------------
+
+Jet fuel prices have surged faster than oil since the Iran war began, meaning the next flight you book will likely be more expensive than you're used to.
+
+After labor, fuel costs are typically airlines' largest expenditure. Plus, unlike their European counterparts, major US carriers do not use financial derivatives to hedge against fuel prices, leaving them more exposed to volatility.
+
+Data shared by S&P Global Platts with Business Insider shows how jet fuel prices are outpacing oil prices, causing a big headache for airlines.
+
+The S&P data tracks two key benchmarks for jet fuel: Jet CIF NWE Cargo, which reflects the price of fuel delivered by ship into northwestern Europe, and Jet Kero 54 USGC Prompt Pipeline, for fuel moving through the US from the Gulf Coast.
+
+Since February 27, the day before the war started, they have risen 120% and 82%, respectively.
+
+Meanwhile, Brent Crude oil futures have increased about 50% over the same period, to over $100 a barrel.
+
+This widening crack spread — the difference between the crude oil and the refined jet fuel — shows why the war poses huge risks for aviation.
+
+S&P's data also shows that Spot Dated Brent, the physical benchmark for immediate oil delivery, has doubled in price to $141 a barrel.
+
+How airlines are handling rising fuel costs
+
+Airlines have responded with a spate of measures, but some are more affected than others.
+
+"This will be the first time with a pretty sudden fuel shock that we as an industry will go through it with no one with fuel hedges," Delta Air Lines CEO Ed Bastian said at a JP Morgan conference last month, referring to US airlines.
+
+Delta also owns an oil refinery in Pennsylvania. However, Bastian said: "It's not going to cover the crack entirely, but gives us a fairly significant hedge."
+
+On Friday, United Airlines hiked bag fees by $10, after JetBlue raised them on Monday.
+
+At the same conference last month, United CEO Scott Kirby said the airline aims this year to "fully offset the increase in fuel prices."
+
+Kirby suggested that strong demand this year means that United might be able to raise airfares without losing too many customers.
+
+Deutsche Bank data from Monday shows the average US cross-country flight costs about 50% more than a year ago, when booked 21 days in advance.
+
+In Europe, most airlines use financial derivatives to hedge against fuel costs. For example, Ryanair has locked in 80% of its jet fuel at a lower price until next March, CEO Michael O'Leary told Sky News on Wednesday. The budget airline boss also said bookings were healthy because more Europeans were choosing Spring vacations closer to home.
+
+But the Lufthansa Group, Europe's biggest by revenue, said Tuesday it was considering canceling unprofitable routes and retiring some older airplanes ahead of schedule, citing the "highly volatile" geopolitical environment and "market fluctuations."
+
+"Demand for travel remains high, even though ticket price increases have already been implemented," it added.
+
+Scandinavian Airlines, which last year suspended its hedging program, said it would cancel about 1,000 flights this month due to "a sharp rise in jet fuel prices."

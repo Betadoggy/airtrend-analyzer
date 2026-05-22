@@ -1,0 +1,56 @@
+Title: Carbon-removal tech startups like Equatic and Climeworks look to the future of sustainability
+Source: Business Insider
+URL: https://www.businessinsider.com/equatic-climeworks-transform-business-carbon-removal-2024-12
+--------------------------------------------------
+
+Out on a barge in Los Angeles, a team of engineers is hard at work tweaking the designs of a collection of machines with multiple tubes attached to tanks filled with air and different minerals.
+
+The team works for a startup called Equatic, which uses a process called sea electrolysis to remove carbon dioxide from the atmosphere. Seawater runs through an electrolyzer, which separates the water into an acid and a base. Rock minerals neutralize the acid, and the base mixes with CO2 from the atmosphere. This results in carbonates that can safely return to the ocean.
+
+Carbon removal technologies, like those developed by Equatic, can transform businesses by helping them reduce their legacy carbon footprint. For many companies with environmental, social, and governance goals, investing in carbon removal through the purchase of carbon credits helps them offset their emissions and get closer to their goal of being "net zero." For rapidly developing industries like artificial intelligence that massively consume energy, implementing carbon removal could help offset emissions in the long term.
+
+The idea of Equatic emerged in the research labs at the University of California, Los Angeles, with a team led by its cofounder Gaurav Sant, a sustainability professor at the school.
+
+Sant said that his team began thinking about how to activate and expand the capacity of oceans, which already naturally absorb CO2 from the atmosphere. Processes such as sea electrolysis have been used for decades, though scaling ocean carbon removal technology has started only in the past few years. Sant said his experience as a cement chemist helped him consider ways to reduce carbon emissions.
+
+"There was very little attention that was being paid truthfully to reducing the carbon intensity of cement production and concrete construction," Sant said. "The journey started with low-carbon cement and low-carbon concrete, and from there, it sort of went into a bunch of other things."
+
+For startups that want to break into the industry and market their product's integrity, they must make carbon removal measurable. At the development plant in Los Angeles, Equatic engineers measure the machinery's ability to remove carbon and produce hydrogen. They then quantify carbon removal results. They also publish their findings in peer-reviewed scientific research papers.
+
+Equatic is developing the world's largest ocean-based carbon removal plant in Singapore, a demonstration project in partnership with the country's National Water Agency. The plan for the new plant is to remove 4,000 tons of CO2 annually and create 300 kg of carbon-negative hydrogen a day, according to its website. If these projects succeed, Equatic intends to take its idea to a commercial scale.
+
+For Climeworks, a Zurich carbon removal startup, scaling has taken place gradually over the past fifteen years. The company uses direct air capture technology at its plants to suck CO2 out of the air and then later mineralize it into a solid rock form and store it underground.
+
+"What carbon removal can offer to businesses is making sure that CO2 in the atmosphere, or climate in general, is not a barrier to growth," Jan Wurzbacher, the CEO of Climeworks, said.
+
+The carbon credits market has shortcomings
+
+While these companies plan to scale commercially, startups like Equatic sell carbon credits to businesses and individuals who want to reduce their carbon footprint. Two of Equatic's customers are Boeing and Stripe. Climeworks counts Microsoft, Boston Consulting Group, and Shopify as clients.
+
+The carbon credits market is highly unregulated, dotted with stories of credits sold but followed by incomplete actions and scams. An investigation by The Washington Post found that some carbon credit ventures reaped profits from protected public lands in the Brazilian Amazon forests and failed to share profits with locals. Essentially, these ventures gave the impression that they would reduce emissions but used lands they had no rights to, possibly invalidating the credits they said they would offset for companies such as Netflix, Salesforce, and Boeing.
+
+"Some 'cheaper' carbon credits that you can buy are not easily verifiable," said Indroneil Ganguly, an environmental and forests sciences professor at the University of Washington.
+
+Critics of carbon credits argue that this system allows businesses to continue polluting. Some businesses, such as Occidental Petroleum, invest in carbon removal and use the process to extract more fossil fuels. While telling businesses to cut emissions would be ideal, Wurzbacher said that cutting them entirely or converting to more sustainable practices could be costly and not immediate.
+
+Carbon removal can be expensive
+
+Even at the rapid scaling rate of these carbon removal startups, their emissions removal is only a small drop in the sea. In 2022 alone, the global aviation industry emitted 800 megatons of CO2. In comparison, Climework's first commercial plant in Iceland, called Orca, can remove 4,000 tons a year, the company says. Climeworks said its larger Mammoth plant would be able to remove 36,000 tons.
+
+The biggest hurdle for carbon removal startups like Equatic and Climeworks is cost. A plus side of Equatic's sea electrolysis process is that it creates hydrogen, which can be used as a clean energy source and lower the technology's costs.
+
+"So you push the price down, right, and that's what stimulates the market," Edward Sanders, the CEO of Equatic, said.
+
+What's more, carbon removal is a voluntary purchase and an elastic good, meaning that it depends on the desire of individuals or businesses to participate, and the demand can shift significantly with price.
+
+"The way in which we are going to get the necessary volumes is going to be at a price point they can accept and still manufacture the goods they are making and clear the services they do," Sanders said.
+
+The cost to permanently remove 1 ton of CO2 right now is between $600-$1,000. Scaling up existing technology requires more laborers and building very specific machinery, Wurzbacher said. Both Climeworks and Equatic have received grants from the US Department of Energy, including a grant for Climeworks to subsidize its expansions in Louisiana and Texas.
+
+This year, Climeworks expanded beyond permanent carbon removal and began offering a new solutions branch of its business. If the direct air capture method is too expensive for customers, Climeworks finds a portfolio of other options they can use, such as reforestation and biomass storage.
+
+The incoming Trump administration raises questions about the future of carbon removal and whether companies will be motivated to cut emissions.
+
+Both Climeworks' and Equatic's respective CEOs said that while timelines and execution could change, these solutions still had bipartisan support and political momentum. Also, carbon removal itself is inherently adaptive.
+
+"The nice thing about direct air capture," Wurzbacher said, "is that you can basically do it anywhere in the world and have your customers at a very different place."

@@ -1,0 +1,54 @@
+Title: Inside Larry Page's secret bet to 3D-print the future of air travel
+Source: Business Insider
+URL: https://www.businessinsider.com/larry-page-new-aviation-startup-dynatomics-2025-1
+--------------------------------------------------
+
+When Google cofounder Larry Page's flying car startup, Kittyhawk, was winding down in late 2022, its chief technology officer, Chris Anderson, corralled a handful of employees and began working on something new.
+
+Anderson had for years been fascinated by the potential for additive manufacturing — also known as 3D printing — to transform the world. Page, for his part, had pushed Kittyhawk engineers to explore the use of 3D printing to build parts of its flying vehicles, believing it could dramatically cut the cost of production.
+
+Their interests have collided in a new startup they formed called Dynatomics, which explores ways to use AI and additive manufacturing to build aircraft, according to business filings reviewed by Business Insider and multiple people familiar with the startup, who asked to remain anonymous because they were not permitted to speak publicly about the project.
+
+Dynatomics is funded by Page and run by Anderson out of Palo Alto, California, those people said. State corporation filings show the business was registered in California in June 2023, and a website domain name for Dynatomics was secured around the same time. The site is almost entirely empty except for a logo and a teaser: "Working on something new."
+
+Two former Kittyhawk employees who work at Dynatomics are Stanford graduates who studied aerial robotics. On his personal website, Anderson describes working on a new stealth project "at the intersection of AI and advanced manufacturing." For a while, he had the name Dynatomics listed on his LinkedIn but later removed it.
+
+Anderson, as well as representatives for Page, did not respond to requests for comment from BI.
+
+Additive manufacturing involves building an object one layer of material at a time. The aviation industry already uses this process to reduce the cost and increase the speed of some components, but it becomes more difficult when producing larger parts or combining different materials. People familiar with the project say Page and Anderson are exploring how to use AI to improve the manufacturing process. The Information first reported on Page forming Dynatomics.
+
+At Kittyhawk, Page asked Anderson and then-CEO Sebastian Thrun to have employees design flying vehicles using 3D printed parts. Page believed it might be possible to reduce the cost of building flying cars by several magnitudes by using new forms of manufacturing, according to people who worked with him at the time.
+
+In 2023, Dynatomics turned to a research group at the Tallinn University of Technology in Estonia, which had just won a national research prize for its work in additive manufacturing of machines. Dynatomics paid the university 60,000 euros for consultation services "related to additively manufactured electrical machines," according to filings in an online database that posts grant information and a person familiar with the partnership. Dynatomics' name was scrubbed from the grant after BI reached out to the university to inquire about it.
+
+A 2023 research paper by one Tallinn University researcher who consulted with Dynatomics described how using AI with additive manufacturing can "mitigate print failure, reducing waste, cost, and production time."
+
+Page pushes for 3D printing
+
+Page was compelled by the idea that 3D printing and cheap off-the-shelf components could offer a new path forward for electric vertical take-off and landing, or eVTOL, aircraft. When he mandated Kittyhawk employees explore a series of projects using 3D printing technology in 2022, Anderson butted heads with some employees who felt Page was asking for things that defy the laws of physics.
+
+"He's a lot more knowledgeable about aviation than I had any reason to believe before coming here," Anderson told staff during a 2022 meeting with Kittyhawk, a recording of which was obtained by BI. "This is his thing." To illustrate Page's obsession with aviation, Anderson told staff that Page's son had given his dad a T-shirt for Christmas that read, "I'm plane crazy."
+
+The frustration sometimes went both ways. Anderson made notes in an online calendar that was accessible to other staff. In one case, he wrote how he wished he could fire everyone at the company and start over, according to three former Kittyhawk employees who saw the note.
+
+Dynatomics may be his opportunity. When Anderson began forming his Dynatomics project, he plucked at least two people who had worked in a highly secretive skunkworks group within Kittyhawk known as "Feather," which busied away on more ambitious and experimental ideas for flying vehicles — and had a rare direct line to Page.
+
+Page and Anderson's close ties
+
+Page's bet on Dynatomics is a bet on Anderson.
+
+An English-American writer and entrepreneur, Anderson was a journalist before he became a tech founder. He spent his early years studying physics and playing bass in a post-punk band named REM (culminating in a battle-of-the-bands showdown with the Michael Stipe-fronted namesake, which Anderson's band lost).
+
+He later worked as a journalist and editor at The Economist and Wired. In 2009, he cofounded the consumer drone company 3D Robotics and later sold it to Kittyhawk, the flying taxi startup run by driverless car luminary and ex-Googler Thrun and funded by Page. Anderson later became Kittyhawk's chief technology officer.
+
+While Anderson and Page knew each other long before Kittyhawk, former employees of the flying car company said the two men became closer after Anderson joined. Anderson would often visit Page's nearby home to discuss ideas, sometimes in Page's garage, which was filled with 3D printers that he would tinker with, said one of the people who heard it from Anderson.
+
+"He's a good engineer, which is what Larry likes," said a person familiar with both men.
+
+Page's decision to run Kittyhawk outside Alphabet — which houses a collection of moonshot projects — allowed him to fund the project wholesale without answering to stockholders, who had often scrutinized Alphabet's spend on blue-sky ideas like driverless cars and internet balloons.
+
+At Kittyhawk, Page eventually wanted to design a flying car that could be manufactured for $50,000, according to former employees, who said the company never got near that figure. Dynatomics could allow Anderson and Page to make good on what was once Kittyhawk's promise to "democratize electric aviation."
+
+"One of the reasons the sky is empty is because it's quite expensive to get up there, and if airplanes were as cheap as cars and were made in the same volume of cars, it would change the nature of transportation and perhaps our world," Anderson once said on "The Vertical Space" podcast.
+
+He later remarked: "The empty sky is market failure."

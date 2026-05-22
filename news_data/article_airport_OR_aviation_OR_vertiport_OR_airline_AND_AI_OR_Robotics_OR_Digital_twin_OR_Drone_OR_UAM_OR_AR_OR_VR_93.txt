@@ -1,0 +1,38 @@
+Title: US military bases are getting new high-tech 'flyaway kits' to deal with drones. Here's what's in them.
+Source: Business Insider
+URL: https://www.businessinsider.com/anti-drone-kits-headed-to-us-military-bases-amid-threats-2025-9
+--------------------------------------------------
+
+US military bases will soon get access to high-tech counter-drone kits to reinforce the installations against potential drone threats that could overwhelm existing defenses.
+
+The kits will initially be stationed at just three military installations, one on the East Coast, one on the West Coast, and one in Alaska, but can be dispatched to other bases as needed, a NORTHCOM spokesperson told Business Insider on a call on Friday.
+
+The new effort, first reported by defense outlet The War Zone, follows a number of drone incursions in recent years. The kit was unveiled during a recent military experiment focused on countering uncrewed aerial systems for base defense.
+
+The Pentagon has hundreds of bases across the US, each equipped with varying levels of counter-drone capabilities. These new "flyaway kits" are meant as a rapid response option, though NORTHCOM acknowledged that approvals to use them will need to be routed up the chain of command, a process that could take 24 hours.
+
+Deploying a kit, including trained operators, is also expected to take at least a day, meaning the kits can't be used to quickly help fight off surprise attacks.
+
+"The flyaway kits are designed to provide passive and active detection, as well as low-collateral kinetic and non-kinetic defeat capabilities," another NORTHCOM spokesperson explained in an email statement to Business Insider.
+
+"The kits are part of USNORTHCOM's phased response strategy," they said, sharing that "includes deploying these kits to installations when local resources and service-level solutions are insufficient."
+
+What comes with the kit?
+
+The first kits will be manufactured by defense-tech firm Anduril. Unlike battlefield systems, these packages are intended for use inside US airspace, the NORTHCOM spokesperson said, since any military operations must account for civilian concerns, including Federal Aviation Administration regulations.
+
+Among the Anduril tools included:
+
+Mobile Sentry, a ruggedized platform that uses artificial intelligence and multiple radars for autonomous ground and air threat detection and tracking.
+
+Wisp SkyFence, an AI-enabled, passive, 360-degree imaging system for persistent situational awareness.
+
+Pulsar, a radio-frequency detection and electromagnetic effects system, which also comes in an airborne variant that can be mounted on a drone.
+
+The kits highlight the military's increased focus on drone defense at home as the prevalence of cheap commercial quadcopters has created challenges for US bases still working to adapt to new threats, and also new opportunities for defense companies looking to capitalize on solutions.
+
+Anduril did not provide comment to BI on the new kits.
+
+Military bases within the US have faced a notable uptick in drone incursions in recent years, more than doubling from over 200 incidents in 2022 to 420 last year, according to NORTHCOM. One base was forced to close its airspace briefly in 2024.
+
+With only three kits available to cover more than 350 domestic installations, however, it is not clear what other emergency responses could look like during the wait for broader fielding of reliable counter-drone capabilities.

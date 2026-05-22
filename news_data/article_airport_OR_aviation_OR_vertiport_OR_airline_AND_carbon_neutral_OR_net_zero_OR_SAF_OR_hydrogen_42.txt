@@ -1,0 +1,40 @@
+Title: JetZero teams up with Delta to drag aviation into the future
+Source: Theregister.com
+URL: https://www.theregister.com/2025/03/06/jetzero_delta_partnership/
+--------------------------------------------------
+
+Airlines around the world continue to look for ways to be more sustainable and efficient without needing to reinvent the wheel – but in the case of Delta Air Lines' new partnership with JetZero, reinventing the wing is definitely on the table.
+
+Delta said yesterday it would partner with JetZero on a project where the airline would contribute resources to the aviation startup through its "Sustainable Skies Lab" program. While not involving any monetary investment, the program gives JetZero "the direct support of [Delta's] talent and access to its industry-leading operations."
+
+Delta's support is less about helping fund JetZero's development of its Z4 blended-wing-body (BWB) aircraft, and more about helping the company finalize a design that accounts for existing airport infrastructure and the needs of airline customers.
+
+REG AD
+
+"JetZero is designing the airplane to fit readily into the existing infrastructure," Jenny Dervin, the company's head of communications told The Register. "Delta is supporting JetZero with invaluable operational access to inform the design based on airline needs."
+
+REG AD
+
+The design is definitely a radical departure from the tube-and-wing gold standard that has filled skies since commercial aviation took off. A BWB aircraft like the one JetZero is working on has wings that blend directly into the fuselage. It's not a new concept, but hasn't ever gone much beyond the test phase. Attempts to build BWB aircraft in the early 20th century mostly failed, though NASA had success [PDF] testing a scale model in the 1990s.
+
+As with previous iterations, JetZero believes its design will be far more fuel-efficient than the current airliner paradigm. The Z4, in particular, will reportedly be up to 50 percent more fuel-efficient than tube-and-wing passenger aircraft due to reduced drag, increased lifting area and lighter weight.
+
+JetZero said its design will be able to carry more than 250 customers, putting it on par with the passenger capacity of widebody aircraft, with similar range and the ability to fit into existing airport infrastructure. The aircraft will reportedly also be quieter, as its engines are mounted on its top, directing noise upward instead of toward the ground.
+
+Speaking of engines, the Z4 is being designed with existing technology in mind, meaning it won't feature a newfangled, more highly efficient jet engine. JetZero noted that the BWB will be compatible with sustainable aviation fuel made, in part, from non-petroleum sources.
+
+The interior of the aircraft is also being designed for passenger comfort and faster boarding and deplaning, with additional aisles thanks to the wider fuselage, plans to ensure overhead baggage space for every passenger and to better position crew space and lavatories to reduce in-flight congestion.
+
+This all assumes that building the Z4 demonstrator goes according to plan. It's under construction with support from Northrop Grumman, but there's no plan to fly the craft until sometime in 2027. JetZero wants to reach commercial operation by 2030, giving it just three years to go from a prototype to full-scale assembly, and that's not a lot of time.
+
+There's also a need for design certification as well, which JetZero told us it has yet to achieve.
+
+"JetZero's scaled model test aircraft have FAA airworthiness certificate as of March 2024, clearing the way for our scaled model flight testing," Dervin told us, adding: "FAA certification will come after design review with the US Air Force."
+
+REG AD
+
+The US Air Force invested $235 million into JetZero in 2023 to develop its own version of the company's BWB aircraft. Alaska Airlines has also invested in JetZero's design last year, as it's understandably in the market for a next-generation passenger jet, with an option to purchase Z4 aircraft once they're commercially available.
+
+With a tight deadline ahead, founder and CEO Tom O'Leary said JetZero's work is crucial to reducing airline energy costs and emissions – not as a permanent solution, perhaps, but at least a stopgap while other next-gen aviation technology continues to develop.
+
+"The ability to realize such significant efficiency gains in the near future meaningfully impacts the industry's commitment to reach net-zero emissions by 2050 and will serve as the foundation on which other technologies and efficiencies can be realized," O'Leary said. ®

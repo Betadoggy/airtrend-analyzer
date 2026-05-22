@@ -1,0 +1,62 @@
+Title: Is that a drone or an airplane? How to check what's flying overhead.
+Source: Business Insider
+URL: https://www.businessinsider.com/plane-or-drone-what-is-flying-overhead-flight-tracking-apps-2024-12
+--------------------------------------------------
+
+Mysterious drones flying over the US East Coast have sparked concern and skepticism among locals and government representatives.
+
+Officials from the Federal Bureau of Investigation and the Department of Homeland Security told reporters over the weekend that they were still investigating the events but had no evidence the aircraft posed a threat to the public or was connected to a foreign adversary.
+
+The uncertainty and contradictions, plus a social media rumor mill, have prompted some people to point to every moving object in the sky as a possible drone sighting.
+
+But not everything flying overhead is an anomaly. National security officials have repeatedly stressed that many of the reported drone sightings are "actually manned aircraft, operating lawfully."
+
+This points to commercial, military, or general aviation aircraft, and there are free, public ways to check for yourself.
+
+Many airplanes can be spotted using FAA data
+
+The Federal Aviation Administration handles 45,000 flights every day, with some 5,400 commercial planes flying in the sky at once during peak travel times.
+
+Most commercial planes can be tracked via free websites like FlightAware and Flightradar24 because they use FAA data. With these tools, you can confidently say the Boeing and Airbus planes that take off from the highly congested New York City airports every day aren't more mystery drones.
+
+For example, on the FlightAware or Flightradar24 website or app, you can search for New Jersey's Newark Liberty International Airport, airport code "EWR," to see all of the planes overhead.
+
+The websites also provide data like aircraft type, location, speed, altitude, and operator.
+
+You can also spot a commercial plane based on where it's flying, as airliners use specific flight paths when heading into and out of NYC.
+
+A large number of them fly along the New Jersey coast, so if you see low-altitude flashing lights in the night sky heading northbound, for example, it's quite likely a passenger airplane landing.
+
+Flight paths can differ depending on the route and winds, but flight-tracking websites can give you the best idea of what's flying overhead.
+
+Federal regulations prevent commercial and recreational drones from operating too close to an airport or flying higher than 400 feet unless authorized.
+
+The FAA will sometimes provide waivers, but its unlikely an aircraft operating within these parameters is a drone. In some cases, drone activity has forced a handful of airports, including an air force base, to close entirely for short periods of time.
+
+Some hidden aircraft can be tracked via ADS-B Exchange
+
+Using flight paths and tracking websites doesn't eliminate all of the potential aircraft that could be flying overhead — it simply identifies an aircraft as an airliner.
+
+However, people can use a free website called ADS-B Exchange to filter for military and private aircraft that are blocked from websites that use FAA data.
+
+These operators use specific federal programs called "LADD" and "PIA" to avoid flight tracking because they don't want their location data easily available to the public. Elon Musk and Taylor Swift are famous examples.
+
+Still, military aircraft, including drones, can turn off their ADS-B software to maintain stealth or secrecy, meaning they can't be seen using free and public websites. Drones with sinister motives — the kinds officials have said they aren't concerned about with these sightings — assumably also would not use public transponders.
+
+Many general aviation aircraft used for personal use — some of which are smaller, fly much slower, and could be mistaken for a drone or unidentified aircraft — are also not equipped with ADS-B and could be another unidentifiable object in the night sky.
+
+Drones are quieter, with similar but different lighting
+
+Nearly 800,000 commercial and recreational drones are registered with the FAA. There are a few easy ways to visually distinguish a drone from an airplane.
+
+Most drones and airplanes both have four lights — though lighting on a drone will usually be in a square pattern, while an airplane has lights on both wings, the nose, and the tail.
+
+Most drones will also have red or white anti-collision lights for use at night, though many will be red and green for easier operation. The wing lights on airplanes are also red and green.
+
+Observers can use sound and movement as indicators if lighting doesn't help identify an airplane.
+
+Drones commonly hover or whip quickly in different directions, which are not characteristics of airplanes. Drones also usually emit a buzz or hum noise from their rotors, while passenger aircraft engines have a distinctively louder sound.
+
+Former FBI supervisory special agent Tom Adams told CNN on Friday that some of these reported drones could be people flying their own drones to hype up coverage. He added the sightings may have a simple answer.
+
+"I can tell you from my firsthand experience conducting operations for the FBI, as well as investigations into the suspected sighting of drones at critical infrastructure, it was fairly common for planets, crewed aircraft, and even low Earth orbit satellites to be misidentified as drones at night," Adams said.

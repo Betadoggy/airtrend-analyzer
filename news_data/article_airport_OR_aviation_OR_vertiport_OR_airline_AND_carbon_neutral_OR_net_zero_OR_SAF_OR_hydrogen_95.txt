@@ -1,0 +1,30 @@
+Title: First hydrogen helicopter just proved it can fly a real mission
+Source: New Atlas
+URL: https://newatlas.com/aircraft/unither-caam-hydrogen-helicopter-test-flight/
+--------------------------------------------------
+
+Last month, a modified Robinson R44 lifted off from Roland-Désourdy Airport in Bromont, Quebec, and completed what may be the most consequential short flight in rotorcraft history. It was the first hydrogen-powered helicopter to complete a full operational circuit – takeoff, climb, pattern flight, approach, and landing – under real-world conditions.
+
+That distinction matters more than it sounds. A previous test in March 2025 had already shown the system could hover for just over three minutes. Impressive, but hovering is not flying. The April flight was the difference between a lab result and a proof of concept regulators can actually use.
+
+Behind the milestone is Unither Bioélectronique, a Canadian subsidiary of biotech company United Therapeutics, and its Project Proticity program. The goal isn't tourism or air taxis – it's delivering transplant organs.
+
+"This milestone shows that piloted hydrogen-electric vertical flight can move from theory to repeatable, safe, real-world testing," said Mikaël Cardinal, vice president of program management & business development, organ delivery systems for Unither Bioélectronique. "For Unither, the goal is clear: build the aircraft and aerial logistics systems needed to help deliver manufactured organ alternatives to patients in need while creating a scalable zero-emission transportation network."
+
+The prototype swaps the R44's conventional combustion engine for a compact electric powertrain built around two PEM (Proton Exchange Membrane) fuel cells – devices that convert hydrogen and oxygen into electricity, producing only water as a byproduct – housed in the rear cabin. A magniX electric motor sits in the original engine bay, and a lithium-ion battery pack handles sudden power spikes, like during takeoff or sharp maneuvers.
+
+During early flights, the system hit a peak output of around 178 kW (239 hp), with roughly 155 kW (208 hp) at the rotor shaft during hover. More than 90% of that power came from the fuel cells, with the battery covering the rest.
+
+The current version runs on compressed gaseous hydrogen, which is limited by tank volume and energy density. But the company's target is liquid hydrogen (LH2), which stores far more energy in the same space and is essential for long-range missions carrying the kinds of payloads needed for organ transport.
+
+The next step is scaling the entire architecture up to the Robinson R66, a larger turbine-powered platform better suited to earning type certification – the formal regulatory approval that clears a design for commercial production – from Transport Canada and the FAA. The target range is between 200 and 250 nautical miles (370 to 463 km).
+
+Unither isn't alone in the race. Piasecki Aircraft is developing the PA-890, a seven-passenger helicopter using high-temperature PEM fuel cells with a similar 200-nautical-mile (370 km) range target. Startup Hydroplane, founded by former NASA engineer Anita Sengupta, is building a modular 200-kW hydrogen system designed as a drop-in replacement for existing helicopters and cargo drones. And Joby Aviation has already flown a hydrogen-electric air taxi 523 miles (840 km) on liquid hydrogen.
+
+For aircraft, the energy math heavily favors hydrogen over batteries. Fuel cells today achieve power densities of around 2,900 W/kg, with targets of 4,500 W/kg by 2030 – compared to roughly 380–400 W/kg for the best lithium batteries currently available. Engineering studies for light helicopters suggest hydrogen-fuel-cell configurations can deliver between 1.8 and 2.2 times the range of a fully battery-electric equivalent.
+
+The remaining obstacle is regulatory. Certifying hydrogen aircraft requires new airworthiness standards covering fuel cells, high-pressure hydrogen storage, and high-voltage systems – a process still underway at the FAA and Transport Canada. For now, operators must fly under experimental permits in controlled environments.
+
+Unither already has a track record here. In 2021, the company used its own drone to transport a pair of donor lungs between two Toronto hospitals in a six-minute urban flight. The hydrogen helicopter is the next step in that same vision.
+
+"Hydrogen flight is no longer a distant concept sitting on a roadmap," said R Hammond, executive director of the Canadian Advanced Air Mobility (CAAM). "It is flying, completing circuits, being tested, being learned from, and being built into a pathway for healthcare, emergency response, and regional logistics. CAAM’s role is to help ensure that the ecosystem around this technology – regulation, infrastructure, investment, and public trust – moves with the same urgency."

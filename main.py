@@ -11,7 +11,7 @@ os.environ.update({'REQUESTS_CA_BUNDLE': CERT, 'SSL_CERT_FILE': CERT})
 # 설정값
 CONFIG = {
     "API_KEY": '0ae709890d054bbba717b80b3a76c039',
-    "PAGE_SIZE": 1000,
+    "PAGE_SIZE": 100,
     "DATA_FOLDER": "news_data",
     "BASE_QUERY": "(airport OR aviation OR vertiport OR airline)",
     "TOPICS": {
