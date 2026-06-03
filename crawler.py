@@ -2,6 +2,8 @@
 import os
 import certifi
 import time
+import re
+import html as _html
 from pathlib import Path
 from newspaper import Article
 from datetime import datetime, timedelta
@@ -18,13 +20,46 @@ class NewsCrawler:
 
     def fetch_clean_content(self, url):
         """본문 추출 (성공 시에만 텍스트 반환)"""
+        # 1) 우선 newspaper로 시도
         try:
-            article = Article(url, language='en')
+            article = Article(url)
             article.download()
             article.parse()
-            return article.text
-        except Exception:
-            return None
+            text = article.text or ''
+            if text and len(text.strip()) > 200:
+                return text
+        except Exception as e:
+            print(f"    [Article Error] {e}")
+
+        # 2) 대체: HTML에서 <p> 태그를 모아 텍스트 구성
+        try:
+            res = requests.get(url, headers=self.headers, verify=self.verify, timeout=20)
+            res.raise_for_status()
+            html_text = res.text
+
+            # 간단한 p 태그 추출(완벽하진 않음)
+            paras = re.findall(r'<p[^>]*>(.*?)</p>', html_text, flags=re.S | re.I)
+            cleaned = []
+            for p in paras:
+                # 태그 제거
+                p_text = re.sub(r'<[^>]+>', '', p)
+                p_text = _html.unescape(p_text).strip()
+                if len(p_text) > 50:
+                    cleaned.append(p_text)
+
+            text2 = '\n\n'.join(cleaned)
+            if text2 and len(text2.strip()) > 200:
+                print(f"    [HTML Fallback] URL={url} extracted {len(text2)} chars")
+                return text2
+        except Exception as e:
+            print(f"    [Fallback Error] {e}")
+
+        return None
+
+    def is_truncated_preview(self, text):
+        if not isinstance(text, str):
+            return False
+        return '[+' in text and 'chars]' in text
 
     def run(self, query, page_size=1000):
         # 1. 날짜 설정 (최근 2년)
@@ -32,30 +67,44 @@ class NewsCrawler:
         
         total_collected = 0
         page = 1
-        # NewsAPI는 유료 플랜이라도 통상 1,000~2,000번 이후 페이지는 제한될 수 있으므로 안전장치 설정
-        max_pages = 100 
+        # NewsAPI는 최대 10,000개 결과까지만 검색 가능 (page * pageSize <= 10,000)
+        # PAGE_SIZE=100일 때: max_pages=30 → 3,000개까지 가능
+        max_pages = 30 
 
         print(f"\n>>> '{query}' 검색 시작 (목표: {page_size}개)")
 
         while total_collected < page_size and page <= max_pages:
-            url = (
-                f'https://newsapi.org/v2/everything?q={query}'
-                f'&from={two_years_ago}'
-                f'&pageSize=100'  # 한 페이지당 최대 개수
-                f'&page={page}'
-                f'&sortBy=relevancy'
-                f'&apiKey={self.api_key}'
-            )
+            params = {
+                'q': query,
+                'from': two_years_ago,
+                'pageSize': 100,
+                'page': page,
+                'sortBy': 'relevancy',
+                'apiKey': self.api_key,
+            }
 
-            print(f"  [Request] API Page {page} 호출 중...")
-            res = requests.get(url, verify=self.verify)
-            data = res.json()
+            print(f"  [Request] API Page {page} 호출 중... query={query}")
+            try:
+                res = requests.get('https://newsapi.org/v2/everything', params=params, verify=self.verify, headers=self.headers, timeout=30)
+                res.raise_for_status()
+            except requests.RequestException as exc:
+                print(f"  [Request Error] {exc}")
+                break
+
+            try:
+                data = res.json()
+            except ValueError:
+                print("  [Error] JSON 파싱 실패")
+                break
 
             if data.get('status') != 'ok':
-                print(f"  [Error] {data.get('message')}")
+                print(f"  [Error] {data.get('message')} (code={data.get('code')})")
                 break
 
             articles = data.get('articles', [])
+            total_results = data.get('totalResults', 'unknown')
+            print(f"  [Response] status=ok, totalResults={total_results}, articles={len(articles)}")
+
             if not articles:
                 print("  - 더 이상 검색 결과가 없습니다.")
                 break
@@ -64,14 +113,17 @@ class NewsCrawler:
                 if total_collected >= page_size:
                     break
 
-                # 실제 본문 수집 시도
                 content = self.fetch_clean_content(art['url'])
+                if not content or len(content.strip()) <= 200:
+                    api_fallback = art.get('content') or art.get('description') or ''
+                    if api_fallback and not self.is_truncated_preview(api_fallback):
+                        content = api_fallback
+                        print(f"    [Fallback] API content 사용: URL={art.get('url')}")
+                    elif api_fallback:
+                        print(f"    [Truncated fallback] URL={art.get('url')} skipped API preview")
 
-                # 유효한 본문이 있는 경우에만 파일 저장 및 카운트 증가
                 if content and len(content.strip()) > 200:
                     total_collected += 1
-                    
-                    # 파일명 특수문자 제거
                     safe_query = "".join([c for c in query if c.isalnum() or c in (' ', '_')]).replace(' ', '_')
                     file_path = self.save_dir / f"article_{safe_query}_{total_collected}.txt"
 
@@ -81,16 +133,14 @@ class NewsCrawler:
                         f.write(f"URL: {art['url']}\n")
                         f.write(f"{'-'*50}\n\n")
                         f.write(content)
-                    
-                    # 수집 진행률 표시
+
                     if total_collected % 10 == 0:
                         print(f"    > 현재 {total_collected}/{page_size} 완료...")
                 else:
-                    # 추출 실패 시 카운트를 올리지 않고 다음 기사로 진행
+                    print(f"    [Skip] URL={art.get('url')} title={art.get('title')} (본문 없음 또는 너무 짧음)")
                     continue
 
-            # 한 페이지를 다 검사했는데 아직 모자라면 다음 페이지로
             page += 1
-            time.sleep(0.1) # 짧은 지연시간
+            time.sleep(0.1)
 
         print(f">>> [최종 완료] '{query}' 그룹: 총 {total_collected}개 저장됨.")

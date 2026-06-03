@@ -6,12 +6,15 @@ from analyzer import TextAnalyzer
 
 # 인증서 설정
 CERT = r'C:\temp\somansa.cer'
-os.environ.update({'REQUESTS_CA_BUNDLE': CERT, 'SSL_CERT_FILE': CERT})
+if os.path.exists(CERT):
+    os.environ.update({'REQUESTS_CA_BUNDLE': CERT, 'SSL_CERT_FILE': CERT})
+else:
+    print(f"경고: 인증서 파일이 없습니다. 기본 CA 번들을 사용합니다: {CERT}")
 
 # 설정값
 CONFIG = {
     "API_KEY": '0ae709890d054bbba717b80b3a76c039',
-    "PAGE_SIZE": 100,
+    "PAGE_SIZE": 1000,
     "DATA_FOLDER": "news_data",
     "BASE_QUERY": "(airport OR aviation OR vertiport OR airline)",
     "TOPICS": {
