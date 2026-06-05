@@ -54,7 +54,7 @@ def run_analysis(analyzer):
 def main():
     total_start = time.time()
     
-    #run_crawling(NewsCrawler(api_key=CONFIG['API_KEY'], save_dir=CONFIG['DATA_FOLDER']), CONFIG['TOPICS'])
+    run_crawling(NewsCrawler(api_key=CONFIG['API_KEY'], save_dir=CONFIG['DATA_FOLDER']), CONFIG['TOPICS'])
     run_analysis(TextAnalyzer(data_dir=CONFIG['DATA_FOLDER']))
     
     print(f"\n>>> 전체 작업 완료 (총 {time.time() - total_start:.2f}초)")
