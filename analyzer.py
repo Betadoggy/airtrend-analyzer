@@ -4,12 +4,6 @@ from pathlib import Path
 import numpy as np
 from sklearn.feature_extraction.text import TfidfVectorizer
 
-# optional morphological analyzer (better noun extraction)
-try:
-    from konlpy.tag import Okt
-except Exception:
-    Okt = None
-
 # 의존명사나 과도하게 일반적인 단어만 제외
 KOREAN_STOPWORDS = {
     '것', '수', '등'  # 의존명사들
@@ -18,13 +12,6 @@ KOREAN_STOPWORDS = {
 class TextAnalyzer:
     def __init__(self, data_dir="data"):
         self.data_dir = Path(data_dir)
-        if Okt:
-            try:
-                self.okt = Okt()
-            except Exception:
-                self.okt = None
-        else:
-            self.okt = None
 
     def load_corpus(self):
         corpus = []
@@ -41,13 +28,6 @@ class TextAnalyzer:
     def extract_korean_nouns(self, text):
         """한국어 텍스트에서 명사와 주요 단어를 추출합니다."""
         try:
-            # Prefer POS-based noun extraction when konlpy is available
-            if self.okt:
-                raw_nouns = self.okt.nouns(text)
-                nouns = [n for n in raw_nouns if len(n) > 1 and n not in KOREAN_STOPWORDS]
-                return " ".join(nouns)
-
-            # Fallback: simple regex-based extraction (existing behavior)
             cleaned = re.sub(r"[^\uac00-\ud7a3A-Z\s]", " ", text)
             words = re.findall(r"[\uac00-\ud7a3]{2,}|[A-Z]{2,}", cleaned)
             nouns = [word for word in words if len(word) > 1 and word not in KOREAN_STOPWORDS]
