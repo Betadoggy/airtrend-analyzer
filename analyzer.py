@@ -1,25 +1,30 @@
+import re
 import pandas as pd
 from pathlib import Path
 import numpy as np
 from sklearn.feature_extraction.text import TfidfVectorizer
-import nltk
 
-# 품사 태깅에 필요한 리소스까지 다운로드
-nltk.download(['punkt', 'punkt_tab', 'averaged_perceptron_tagger_eng', 'stopwords'], quiet=True)
+# optional morphological analyzer (better noun extraction)
+try:
+    from konlpy.tag import Okt
+except Exception:
+    Okt = None
 
-from nltk.tokenize import word_tokenize
-from nltk.corpus import stopwords as nltk_stopwords
-from nltk import pos_tag  # 품사 태깅을 위해 추가
-
-COMBINED_STOPWORDS = set(nltk_stopwords.words('english')).union({
-    'air', 'aircraft', 'airline', 'airlines', 'airplane', 
-    'airport', 'airports', 'airspace', 'aviation',
-    'flight', 'flights', 'two', 'use', 'year', 'years'
-})
+# 의존명사나 과도하게 일반적인 단어만 제외
+KOREAN_STOPWORDS = {
+    '것', '수', '등'  # 의존명사들
+}
 
 class TextAnalyzer:
     def __init__(self, data_dir="data"):
         self.data_dir = Path(data_dir)
+        if Okt:
+            try:
+                self.okt = Okt()
+            except Exception:
+                self.okt = None
+        else:
+            self.okt = None
 
     def load_corpus(self):
         corpus = []
@@ -33,47 +38,50 @@ class TextAnalyzer:
             if body: corpus.append(body)
         return corpus if corpus else None
 
-    def extract_only_nouns(self, text):
-        """텍스트에서 '진짜 명사'만 추출하고 불용어 및 길이 필터링"""
+    def extract_korean_nouns(self, text):
+        """한국어 텍스트에서 명사와 주요 단어를 추출합니다."""
         try:
-            tokens = word_tokenize(text.lower())
-            # 1. 단어별 품사 태깅 수행 (결과 예시: [('airport', 'NN'), ('fly', 'VB')])
-            tagged_tokens = pos_tag(tokens)
-            
-            # 2. 품사가 NN(일반명사), NNS(복수명사), NNP(고유명사), NNPS(복수고유명사)인 것만 필터링
-            nouns = [
-                word for word, tag in tagged_tokens
-                if tag in ('NN', 'NNS', 'NNP', 'NNPS') 
-                and word.isalpha() 
-                and word not in COMBINED_STOPWORDS 
-                and len(word) > 2
-            ]
-            return ' '.join(nouns)
+            # Prefer POS-based noun extraction when konlpy is available
+            if self.okt:
+                raw_nouns = self.okt.nouns(text)
+                nouns = [n for n in raw_nouns if len(n) > 1 and n not in KOREAN_STOPWORDS]
+                return " ".join(nouns)
+
+            # Fallback: simple regex-based extraction (existing behavior)
+            cleaned = re.sub(r"[^\uac00-\ud7a3A-Z\s]", " ", text)
+            words = re.findall(r"[\uac00-\ud7a3]{2,}|[A-Z]{2,}", cleaned)
+            nouns = [word for word in words if len(word) > 1 and word not in KOREAN_STOPWORDS]
+            return " ".join(nouns)
         except Exception as e:
-            print(f"명사 추출 오류: {e}")
+            print(f"한국어 명사 추출 오류: {e}")
             return ""
 
     def build_tfidf(self, corpus):
-        if not corpus: return pd.DataFrame()
+        if not corpus:
+            return pd.DataFrame()
 
-        # 각 문서에서 '진짜 명사'만 먼저 추출하여 새로운 코퍼스 생성
-        noun_corpus = [self.extract_only_nouns(doc) for doc in corpus]
+        noun_corpus = [self.extract_korean_nouns(doc) for doc in corpus]
         noun_corpus = [doc for doc in noun_corpus if doc.strip()]
 
         if not noun_corpus:
-            print("TF-IDF를 생성할 유효한 명사 텍스트가 없습니다.")
-            return pd.DataFrame()
+            print("TF-IDF를 생성할 유효한 한국어 명사 텍스트가 없습니다. 전체 한국어 단어 텍스트로 재시도합니다.")
+            noun_corpus = []
+            for doc in corpus:
+                korean_words = re.findall(r"[\uac00-\ud7a3]{2,}", doc)
+                if korean_words:
+                    noun_corpus.append(" ".join(korean_words))
+            if not noun_corpus:
+                return pd.DataFrame()
 
-        # 이미 위에서 명사 추출과 불용어 처리를 완벽히 끝냈으므로 기본 공백 분할만 수행
-        vectorizer = TfidfVectorizer(token_pattern=r'\b\w+\b')
-        
+        vectorizer = TfidfVectorizer(token_pattern=r"(?u)\b\w+\b")
         try:
             matrix = vectorizer.fit_transform(noun_corpus)
         except ValueError:
             return pd.DataFrame()
 
         feature_names = vectorizer.get_feature_names_out()
-        if len(feature_names) == 0: return pd.DataFrame()
+        if len(feature_names) == 0:
+            return pd.DataFrame()
 
         col_sums = np.asarray(matrix.sum(axis=0)).ravel()
         top_k = min(50, len(feature_names))

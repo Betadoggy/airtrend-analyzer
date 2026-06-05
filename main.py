@@ -14,13 +14,13 @@ else:
 # 설정값
 CONFIG = {
     "API_KEY": '0ae709890d054bbba717b80b3a76c039',
-    "PAGE_SIZE": 1000,
+    "PAGE_SIZE": 100,
     "DATA_FOLDER": "news_data",
-    "BASE_QUERY": "(airport OR aviation OR vertiport OR airline)",
+    "BASE_QUERY": '(공항 OR 항공 OR 항공사 OR UAM OR 버티포트)',
     "TOPICS": {
-        "environment": '("carbon neutral" OR "net zero" OR SAF OR hydrogen)',
-        "technology": '(AI OR Robotics OR "Digital twin" OR Drone OR UAM OR AR OR VR)',
-        "war": '("Russia-Ukraine war" OR "Iran war")'
+        "environment": '("탄소중립" OR "넷제로" OR SAF OR 수소)',
+        "technology": '(AI OR 로봇 OR "디지털 트윈" OR 드론 OR UAM OR AR OR VR)',
+        "war": '("러시아-우크라이나 전쟁" OR "이란 전쟁" OR "우크라이나 전쟁" OR "중동 전쟁")'
     }
 }
 
@@ -54,7 +54,7 @@ def run_analysis(analyzer):
 def main():
     total_start = time.time()
     
-    run_crawling(NewsCrawler(api_key=CONFIG['API_KEY'], save_dir=CONFIG['DATA_FOLDER']), CONFIG['TOPICS'])
+    #run_crawling(NewsCrawler(api_key=CONFIG['API_KEY'], save_dir=CONFIG['DATA_FOLDER']), CONFIG['TOPICS'])
     run_analysis(TextAnalyzer(data_dir=CONFIG['DATA_FOLDER']))
     
     print(f"\n>>> 전체 작업 완료 (총 {time.time() - total_start:.2f}초)")

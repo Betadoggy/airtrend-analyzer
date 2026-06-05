@@ -5,7 +5,7 @@ import time
 import re
 import html as _html
 from pathlib import Path
-from newspaper import Article
+from bs4 import BeautifulSoup
 from datetime import datetime, timedelta
 
 class NewsCrawler:
@@ -18,48 +18,69 @@ class NewsCrawler:
         self.verify = self.ca_path if os.path.exists(self.ca_path) else certifi.where()
         self.headers = {'User-Agent': 'Mozilla/5.0'}
 
-    def fetch_clean_content(self, url):
-        """본문 추출 (성공 시에만 텍스트 반환)"""
-        # 1) 우선 newspaper로 시도
-        try:
-            article = Article(url)
-            article.download()
-            article.parse()
-            text = article.text or ''
-            if text and len(text.strip()) > 200:
-                return text
-        except Exception as e:
-            print(f"    [Article Error] {e}")
+    def contains_korean(self, text, min_chars=30, min_ratio=0.1):
+        if not isinstance(text, str):
+            return False
+        korean_chars = re.findall(r'[\uac00-\ud7a3]', text)
+        if len(korean_chars) < min_chars:
+            return False
+        return len(korean_chars) / max(1, len(text)) >= min_ratio
 
-        # 2) 대체: HTML에서 <p> 태그를 모아 텍스트 구성
-        try:
-            res = requests.get(url, headers=self.headers, verify=self.verify, timeout=20)
-            res.raise_for_status()
-            html_text = res.text
+    def _get_clean_text(self, element):
+        for bad in element(['script', 'style', 'noscript', 'header', 'footer', 'nav', 'aside', 'form']):
+            bad.decompose()
+        paragraphs = []
+        for p in element.find_all('p'):
+            p_text = p.get_text(separator=' ', strip=True)
+            if len(p_text) > 50:
+                paragraphs.append(p_text)
+        return '\n\n'.join(paragraphs)
 
-            # 간단한 p 태그 추출(완벽하진 않음)
-            paras = re.findall(r'<p[^>]*>(.*?)</p>', html_text, flags=re.S | re.I)
-            cleaned = []
-            for p in paras:
-                # 태그 제거
-                p_text = re.sub(r'<[^>]+>', '', p)
-                p_text = _html.unescape(p_text).strip()
-                if len(p_text) > 50:
-                    cleaned.append(p_text)
+    def _extract_body_text(self, soup):
+        if soup is None:
+            return None
 
-            text2 = '\n\n'.join(cleaned)
-            if text2 and len(text2.strip()) > 200:
-                print(f"    [HTML Fallback] URL={url} extracted {len(text2)} chars")
-                return text2
-        except Exception as e:
-            print(f"    [Fallback Error] {e}")
+        selectors = [
+            'article',
+            'main',
+            'div[id*="content"]',
+            'div[class*="content"]',
+            'div[class*="article"]',
+            'div[class*="post"]',
+            'div[class*="story"]',
+            'section'
+        ]
 
-        return None
+        for selector in selectors:
+            for candidate in soup.select(selector):
+                text = self._get_clean_text(candidate)
+                if text and len(text.strip()) > 200 and self.contains_korean(text):
+                    return text
+
+        body = soup.body or soup
+        text = self._get_clean_text(body)
+        return text if text and len(text.strip()) > 200 and self.contains_korean(text) else None
 
     def is_truncated_preview(self, text):
         if not isinstance(text, str):
             return False
         return '[+' in text and 'chars]' in text
+
+    def fetch_clean_content(self, url):
+        """본문 추출 (성공 시에만 텍스트 반환)"""
+        try:
+            res = requests.get(url, headers=self.headers, verify=self.verify, timeout=20)
+            res.raise_for_status()
+            soup = BeautifulSoup(res.text, 'lxml')
+            text2 = self._extract_body_text(soup)
+            if text2:
+                print(f"    [HTML Extracted] URL={url} extracted {len(text2)} chars")
+                return text2
+        except Exception as e:
+            print(f"    [HTML Extract Error] {e}")
+
+        return None
+
 
     def run(self, query, page_size=1000):
         # 1. 날짜 설정 (최근 2년)
@@ -80,6 +101,7 @@ class NewsCrawler:
                 'pageSize': 100,
                 'page': page,
                 'sortBy': 'relevancy',
+                'language': 'ko',
                 'apiKey': self.api_key,
             }
 
@@ -122,7 +144,7 @@ class NewsCrawler:
                     elif api_fallback:
                         print(f"    [Truncated fallback] URL={art.get('url')} skipped API preview")
 
-                if content and len(content.strip()) > 200:
+                if content and len(content.strip()) > 200 and self.contains_korean(content):
                     total_collected += 1
                     safe_query = "".join([c for c in query if c.isalnum() or c in (' ', '_')]).replace(' ', '_')
                     file_path = self.save_dir / f"article_{safe_query}_{total_collected}.txt"
@@ -137,7 +159,7 @@ class NewsCrawler:
                     if total_collected % 10 == 0:
                         print(f"    > 현재 {total_collected}/{page_size} 완료...")
                 else:
-                    print(f"    [Skip] URL={art.get('url')} title={art.get('title')} (본문 없음 또는 너무 짧음)")
+                    print(f"    [Skip] URL={art.get('url')} title={art.get('title')} (한국어 본문 없음 또는 너무 짧음)")
                     continue
 
             page += 1
