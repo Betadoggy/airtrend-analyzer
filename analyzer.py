@@ -6,9 +6,9 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 
 # optional morphological analyzer (better noun extraction)
 try:
-    from konlpy.tag import Okt
+    from kiwipiepy import Kiwi
 except Exception:
-    Okt = None
+    Kiwi = None
 
 # 의존명사나 과도하게 일반적인 단어만 제외
 KOREAN_STOPWORDS = {
@@ -18,13 +18,13 @@ KOREAN_STOPWORDS = {
 class TextAnalyzer:
     def __init__(self, data_dir="data"):
         self.data_dir = Path(data_dir)
-        if Okt:
+        if Kiwi:
             try:
-                self.okt = Okt()
+                self.kiwi = Kiwi()
             except Exception:
-                self.okt = None
+                self.kiwi = None
         else:
-            self.okt = None
+            self.kiwi = None
 
     def load_corpus(self):
         corpus = []
@@ -41,11 +41,17 @@ class TextAnalyzer:
     def extract_korean_nouns(self, text):
         """한국어 텍스트에서 명사와 주요 단어를 추출합니다."""
         try:
-            # Prefer POS-based noun extraction when konlpy is available
-            if self.okt:
-                raw_nouns = self.okt.nouns(text)
-                nouns = [n for n in raw_nouns if len(n) > 1 and n not in KOREAN_STOPWORDS]
-                return " ".join(nouns)
+            # Prefer POS-based noun extraction when kiwipiepy is available
+            if self.kiwi:
+                raw_nouns = []
+                for token in self.kiwi.tokenize(text):
+                    word = getattr(token, 'form', None) or getattr(token, 'text', None)
+                    pos = getattr(token, 'tag', None) or getattr(token, 'pos', None)
+                    if not word or not pos:
+                        continue
+                    if pos.startswith("NN") and len(word) > 1 and word not in KOREAN_STOPWORDS:
+                        raw_nouns.append(word)
+                return " ".join(raw_nouns)
 
             # Fallback: simple regex-based extraction (existing behavior)
             cleaned = re.sub(r"[^\uac00-\ud7a3A-Z\s]", " ", text)
