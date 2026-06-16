@@ -1,0 +1,20 @@
+Title: Airline rules on portable batteries are getting stricter – and more inconsistent
+Source: TechSpot
+URL: https://www.techspot.com/news/107124-airline-rules-portable-batteries-getting-stricter-ndash-more.html
+--------------------------------------------------
+
+In brief: Rechargeable batteries are so ubiquitous that passenger airplanes usually carry hundreds per flight, but recent incidents have highlighted the danger they can present when exposed to extreme conditions. Airlines have begun taking more precautions but haven't agreed on common standards, creating a potentially confusing situation for frequent international fliers.
+
+Airlines in multiple Asian countries recently introduced new rules regarding rechargeable batteries after a fire destroyed an aircraft in South Korea. Each airline responded differently, highlighting the absence of shared standards.
+
+Since March 1, all South Korean airlines have required passengers to keep power banks and e-cigarettes with them and not in overhead compartments. Furthermore, passengers can't charge batteries on board, must carry them in clear plastic bags, are limited to five 100Wh batteries, and cannot bring batteries exceeding 160Wh.
+
+The changes are meant to allay public concerns following a January incident in which a fire engulfed an Air Busan plane at Incheon International Airport. All 170 passengers safely evacuated the flight, but the aircraft was totaled. While no evidence definitively links the fire to a battery, an investigation indicated that it started in an overhead compartment.
+
+Flights often contain hundreds of rechargeable batteries because most travelers carry at least one electronic device containing them. Just one battery suffering from a defect or being crushed can cause smoke or a fire, endangering the entire flight. Although passengers can evacuate a plane on the ground, crews must usually respond to in-flight incidents by extinguishing fires, spraying liquid on batteries, and storing them in containers.
+
+On the same day the new South Korean regulations went into force, Taiwanese airlines EVA Air and China Airlines banned power banks on their planes, but both still permit batteries in overhead compartments. Thai Airways will also ban power banks starting March 15.
+
+Although rechargeable batteries have been common on airplanes for years, incidents involving them have become more frequent. Last July, a laptop caused a fire aboard an American Airlines flight in San Francisco, forcing passengers to evacuate and causing injuries.
+
+Laptops on planes are already restricted to hand luggage only and can't have batteries exceeding 100Wh, which has impacted manufacturing trends. Lithium-ion batteries have also long been banned from passenger plane cargo holds and must remain below 30 percent charge on cargo planes.

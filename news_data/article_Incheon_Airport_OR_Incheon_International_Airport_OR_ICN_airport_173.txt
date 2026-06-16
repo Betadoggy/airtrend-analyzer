@@ -1,0 +1,28 @@
+Title: Alleged mastermind behind K-Pop celebrity stock heist extradited to South Korea
+Source: Bitdefender.com
+URL: https://www.bitdefender.com/en-us/blog/hotforsecurity/alleged-mastermind-behind-k-pop-celebrity-stock-heist-extradited-to-south-korea
+--------------------------------------------------
+
+South Korean authorities have announced the extradition from Thailand and arrest of a suspected hacker, believed to be the mastermind behind an organised campaign of attacks that stole millions of dollars worth of stocks from celebrities, including BTS singer Jung Kook.
+
+Local news reports have confirmed that the 34-year-old Chinese man, escorted from Bangkok to Incheon Airport in South Korea in the early hours of Friday 22 August, is suspected of embezzling over 38 billion won (US $27 million) from wealthy individuals.
+
+Between August 2023 to January 2024, "Mr A"'s gang hacked multiple financial accounts after stealing personal information from Korean telecom firms, and assuming the victims' identities.
+
+In the case of K-Pop star Jung Kook, the identity theft is thought to have taken place after he enlisted for his mandatory South Korean military service.
+
+33,500 HYBE shares (worth an estimated 8.4 billion won or US $6 million at current exchange rates) were reportedly illegally siphoned out of the BTS singer's securities account in January 2024 by hackers who opened three brokerage accounts in Jung Kook's name.
+
+It has been reported that Jung Kook's Big Hit Music agency were quick thinking enough to spot the payout and have the funds returned. However, they did not manage to prevent the alleged sale of 500 stolen shares to a third party.
+
+After the Big Hit Music agency filed a law suit, the shares allegedly sold by the hacker to the third party have now been returned to Jung Kook.
+
+Earlier this year Big Hit Music said that it had hardened the security of its artists in the wake of the attacks:
+
+"We enhanced our security measures regarding artists' private devices and personal information in addition to the legal measures."
+
+Investigators say that the suspected hacker was tracked with the assistance of Interpol and Thai authorities, after it was determined he had entered Thailand in April.
+
+Authorities in Seoul have issued a statement to the police saying that the suspect has admitted some of the allegations against him, whilst denying others.
+
+Headlines in South Korea related to cybercrime have become common place in South Korea, with a massive data breach occurring at the country's largest telecoms company, SK Telecom, earlier this year - with sensitive SIM card data of millions of customers exposed.

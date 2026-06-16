@@ -1,0 +1,452 @@
+Title: Slow Letter: September 12, 2025.
+Source: Slownews.kr
+URL: https://slownews.kr/145265
+--------------------------------------------------
+
+슬로우리포트.
+	슬로우이코노미.
+	슬로우폴리시.
+
+
+통찰.펼치기
+				
+
+	제네바 오전 8시.
+	캡콜드케이스.
+	슬로우민트.
+	AI in a Week.
+
+
+해법.
+뉴스레터.펼치기
+				
+
+	뉴스레터 다시 읽기.
+	슬로우레터 빠른 검색.
+
+
+후원회원 가입.펼치기
+				
+
+	전체 기사 보기.
+	정정과 반론 보도 모음.
+	독자 불만 처리 안내.
+
+
+        
+    
+    
+
+		
+						
+						검색
+				
+		
+	
+	
+					
+							
+		
+	
+
+				
+			
+					
+	
+	
+
+	
+		
+			
+			
+	
+		
+			
+									
+						
+	
+					
+																	
+						
+		
+						
+						검색
+				
+		
+	
+	
+
+		
+						
+						토글 메뉴
+				
+		
+	
+	
+					
+							
+		
+	
+
+			
+		
+			
+
+
+
+	
+		
+	
+		
+		
+			
+						
+			
+				slowletter_english_version | 정치			
+		
+		Slow Letter: September 12, 2025.
+	 이정환					
+						시간
+				2025년 09월12일.2026년 03월23일.					
+					
+			
+		
+	
+
+
+	
+		
+			
+
+
+기사 공유하기
+
+a curated snapshot of Korea.We go beyond the headlines, connect the dots, and show you what really matters — with insight and edge. We surface the stories behind the noise and bring the context you didn’t know you needed. It’s not just about what’s happening. It’s about why it matters.This English edition combines AI-powered translation with careful human editing — using Upstage Solar-Pro-2 — and it’s still in beta mode.We’re learning as we go, and your feedback is invaluable.
+
+X
+									
+							
+	
+
+
+	
+		글 탐색
+		이전 페이지
+				이전 페이지허위 보도 처벌 질문에 이재명, “언론이 내 아들 인생 망쳤다”: 슬로우레터 9월12일.다음 페이지계속
+				임시적 존재, 한 해 사망자 3340명 중 ‘기초 정보’ 파악 214명뿐
+			
+			
+				
+					관련 글					
+						
+							
+								
+
+
+			
+			
+							
+		
+			
+		
+
+	지역정당 X 총선용 가설정당? 선거 협력은 오케이! 합류는 아니 되옵니다…
+	행인					
+						시간
+				2023년 11월02일.2023년 11월02일.					
+					
+
+
+	
+	
+
+
+
+			
+			
+							
+		
+			
+		
+
+	뇌물죄 회피 ‘꼼수’ 알려준 최순실 1심 재판부
+	참여연대 사법감시센터					
+						시간
+				2018년 02월23일.2018년 04월25일.					
+					
+
+
+	
+	
+
+
+
+			
+			
+							
+		
+			
+		
+
+	평범한 ‘보통의 정치’를 꿈꾸며: 피타 림짜른낫과 용혜인
+	정호재					
+						시간
+				2023년 08월11일.2023년 08월11일.					
+					
+
+
+	
+	
+
+
+
+			
+			
+							
+		
+			
+		
+
+	‘역진’ 불가능한 국정원 개혁의 조건
+	참여연대					
+						시간
+				2018년 10월31일.2018년 10월31일.					
+					
+
+
+	
+	
+
+
+
+			
+			
+							
+		
+			
+		
+
+	허위 보도 처벌 질문에 이재명, “언론이 내 아들 인생 망쳤다”: 슬로우레터 9월12일.
+	이정환					
+						시간
+				2025년 09월12일.2026년 03월20일.					
+					
+
+
+	
+	
+
+							
+						
+					
+				
+			
+		
+					
+					
+		
+	
+		
+
+
+function updateClock() {
+    var now = new Date();
+    var options = { 
+        year: 'numeric', month: 'long', day: 'numeric', 
+        hour: '2-digit', minute: '2-digit', second: '2-digit', 
+        hour12: true 
+    };
+    var timeString = now.toLocaleString('ko-KR', options);
+    document.getElementById('live-clock').innerHTML = timeString;
+}
+setInterval(updateClock, 1000);
+updateClock(); // 초기 로딩 지연 방지
+
+
+
+
+
+
+
+
+
+
+
+
+.wp-block-kadence-spacer.kt-block-spacer-120273-23 .kt-block-spacer{height:30px;}.wp-block-kadence-spacer.kt-block-spacer-120273-23 .kt-divider{border-top-width:1px;height:1px;border-top-color:#eee;width:80%;border-top-style:solid;}
+
+
+
+
+
+
+
+
+     (adsbygoogle = window.adsbygoogle || []).push({});
+
+
+
+
+
+
+
+.wp-block-kadence-spacer.kt-block-spacer-2d799b-c4 .kt-block-spacer{height:30px;}.wp-block-kadence-spacer.kt-block-spacer-2d799b-c4 .kt-divider{border-top-width:1px;height:1px;border-top-color:#eee;width:80%;border-top-style:solid;}
+
+
+
+
+
+
+
+.wp-block-kadence-spacer.kt-block-spacer-477b28-14 .kt-block-spacer{height:30px;}.wp-block-kadence-spacer.kt-block-spacer-477b28-14 .kt-divider{border-top-width:1px;height:1px;border-top-color:#eee;width:80%;border-top-style:solid;}
+
+
+
+.kt-post-loopa39e29-00 .kadence-post-image{padding-top:0px;padding-right:0px;padding-bottom:10px;padding-left:0px;}.kt-post-loopa39e29-00 .kt-post-grid-wrap{gap:30px 30px;}.kt-post-loopa39e29-00 .kt-blocks-post-grid-item{border-top-left-radius:0px;border-top-right-radius:0px;border-bottom-right-radius:0px;border-bottom-left-radius:0px;border-top-color:currentColor;border-top-style:solid;border-right-color:currentColor;border-right-style:solid;border-bottom-color:currentColor;border-bottom-style:solid;border-left-color:currentColor;border-left-style:solid;overflow:hidden;}.kt-post-loopa39e29-00 .kt-blocks-post-grid-item .kt-blocks-post-grid-item-inner{padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;}.kt-post-loopa39e29-00 .kt-blocks-post-grid-item header{padding-top:0px;padding-right:0px;padding-bottom:10px;padding-left:0px;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;}.kt-post-loopa39e29-00 .kt-blocks-post-grid-item .kt-blocks-above-categories{font-size:13px;line-height:20px;text-transform:uppercase;}.kt-post-loopa39e29-00 .kt-blocks-post-grid-item .entry-title{padding-top:5px;padding-right:0px;padding-bottom:0px;padding-left:0px;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;font-size:20px;line-height:30px;}.kt-post-loopa39e29-00 .entry-content{padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;font-size:14px;line-height:24px;}.kt-post-loopa39e29-00 .kt-blocks-post-footer{border-top-width:0px;border-right-width:0px;border-bottom-width:0px;border-left-width:0px;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;font-size:12px;line-height:20px;text-transform:uppercase;}.kt-post-loopa39e29-00 .entry-content:after{height:0px;}.kt-post-loopa39e29-00 .kb-filter-item{border-top-width:0px;border-right-width:0px;border-bottom-width:2px;border-left-width:0px;padding-top:5px;padding-right:8px;padding-bottom:5px;padding-left:8px;margin-top:0px;margin-right:10px;margin-bottom:0px;margin-left:0px;}@media all and (max-width: 1024px){.kt-post-loopa39e29-00 .kt-blocks-post-grid-item{border-top-color:currentColor;border-top-style:solid;border-right-color:currentColor;border-right-style:solid;border-bottom-color:currentColor;border-bottom-style:solid;border-left-color:currentColor;border-left-style:solid;}}@media all and (max-width: 767px){.kt-post-loopa39e29-00 .kt-blocks-post-grid-item{border-top-color:currentColor;border-top-style:solid;border-right-color:currentColor;border-right-style:solid;border-bottom-color:currentColor;border-bottom-style:solid;border-left-color:currentColor;border-left-style:solid;}}slowletter_english_version | 정치Slow Letter: June 16, 2026.정치 | 컨텍스트 레터.위태로운 평화, 3고 후폭풍에도 코스피 9000 시도한다: 슬로우레터 6월16일.
+
+.wp-block-kadence-spacer.kt-block-spacer-982e00-f3 .kt-block-spacer{height:30px;}.wp-block-kadence-spacer.kt-block-spacer-982e00-f3 .kt-divider{border-top-width:1px;height:1px;border-top-color:#eee;width:80%;border-top-style:solid;}
+
+
+
+
+
+
+
+.wp-block-kadence-spacer.kt-block-spacer-138935-3a .kt-block-spacer{height:30px;}.wp-block-kadence-spacer.kt-block-spacer-138935-3a .kt-divider{border-top-width:1px;height:1px;border-top-color:#eee;width:80%;border-top-style:solid;}
+
+
+
+
+
+
+
+.wp-block-kadence-spacer.kt-block-spacer-14a965-8c .kt-block-spacer{height:30px;}.wp-block-kadence-spacer.kt-block-spacer-14a965-8c .kt-divider{border-top-width:1px;height:1px;border-top-color:#eee;width:80%;border-top-style:solid;}
+
+
+
+.kt-post-loop0365a2-5d .kadence-post-image{padding-top:0px;padding-right:0px;padding-bottom:10px;padding-left:0px;}.kt-post-loop0365a2-5d .kt-post-grid-wrap{gap:30px 30px;}.kt-post-loop0365a2-5d .kt-blocks-post-grid-item{border-top-left-radius:0px;border-top-right-radius:0px;border-bottom-right-radius:0px;border-bottom-left-radius:0px;border-top-color:currentColor;border-top-style:solid;border-right-color:currentColor;border-right-style:solid;border-bottom-color:currentColor;border-bottom-style:solid;border-left-color:currentColor;border-left-style:solid;overflow:hidden;}.kt-post-loop0365a2-5d .kt-blocks-post-grid-item .kt-blocks-post-grid-item-inner{padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;}.kt-post-loop0365a2-5d .kt-blocks-post-grid-item header{padding-top:0px;padding-right:0px;padding-bottom:10px;padding-left:0px;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;}.kt-post-loop0365a2-5d .kt-blocks-post-grid-item .kt-blocks-above-categories{font-size:13px;line-height:20px;text-transform:uppercase;}.kt-post-loop0365a2-5d .kt-blocks-post-grid-item .entry-title{padding-top:5px;padding-right:0px;padding-bottom:0px;padding-left:0px;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;font-size:20px;line-height:30px;}.kt-post-loop0365a2-5d .entry-content{padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;font-size:14px;line-height:24px;}.kt-post-loop0365a2-5d .kt-blocks-post-footer{border-top-width:0px;border-right-width:0px;border-bottom-width:0px;border-left-width:0px;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;font-size:12px;line-height:20px;text-transform:uppercase;}.kt-post-loop0365a2-5d .entry-content:after{height:0px;}.kt-post-loop0365a2-5d .kb-filter-item{border-top-width:0px;border-right-width:0px;border-bottom-width:2px;border-left-width:0px;padding-top:5px;padding-right:8px;padding-bottom:5px;padding-left:8px;margin-top:0px;margin-right:10px;margin-bottom:0px;margin-left:0px;}@media all and (max-width: 1024px){.kt-post-loop0365a2-5d .kt-blocks-post-grid-item{border-top-color:currentColor;border-top-style:solid;border-right-color:currentColor;border-right-style:solid;border-bottom-color:currentColor;border-bottom-style:solid;border-left-color:currentColor;border-left-style:solid;}}@media all and (max-width: 767px){.kt-post-loop0365a2-5d .kt-blocks-post-grid-item{border-top-color:currentColor;border-top-style:solid;border-right-color:currentColor;border-right-style:solid;border-bottom-color:currentColor;border-bottom-style:solid;border-left-color:currentColor;border-left-style:solid;}}정치민주화의 그늘과 햇볕정치slowletter_english_version | 국제Slow Letter: June 15, 2026.정치낙제점 후보의 당선: 공약 비교 평가도 못하게 하는 선거법
+
+
+
+      
+
+          
+        
+          슬로우레터 구독 신청. 
+          
+          
+            
+              
+                이메일 주소*
+              
+              
+              
+            
+          
+            
+              
+                이름*
+              
+              
+              
+            
+          
+  
+          
+  
+          
+            
+              
+                
+                (필수)
+                개인정보 수집 및 이용에 동의합니다.
+              
+              
+              
+                
+                  
+                    개인정보 수집 및 이용
+                  
+                  뉴스레터 발송을 위한 최소한의 개인정보를 수집하고 이용합니다.
+수집된 정보는 발송 외 다른 목적으로 이용되지 않으며, 서비스가 종료되거나 구독을 해지할 경우 즉시 파기됩니다.
+                  
+                    닫기
+                  
+                
+                
+              
+            
+  
+          
+          
+          
+  
+               
+            
+              구독하기
+            
+          
+        
+      
+      
+
+
+.wp-block-kadence-spacer.kt-block-spacer-0dcc82-f0 .kt-block-spacer{height:60px;}.wp-block-kadence-spacer.kt-block-spacer-0dcc82-f0 .kt-divider{border-top-width:1px;height:1px;border-top-color:#eee;width:80%;border-top-style:solid;}
+
+
+
+.kt-post-loop93e720-8b .kadence-post-image{padding-top:0px;padding-right:0px;padding-bottom:10px;padding-left:0px;}.kt-post-loop93e720-8b .kt-post-grid-wrap{gap:30px 30px;}.kt-post-loop93e720-8b .kt-blocks-post-grid-item{border-top-left-radius:0px;border-top-right-radius:0px;border-bottom-right-radius:0px;border-bottom-left-radius:0px;border-top-color:currentColor;border-top-style:solid;border-right-color:currentColor;border-right-style:solid;border-bottom-color:currentColor;border-bottom-style:solid;border-left-color:currentColor;border-left-style:solid;overflow:hidden;}.kt-post-loop93e720-8b .kt-blocks-post-grid-item .kt-blocks-post-grid-item-inner{padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;}.kt-post-loop93e720-8b .kt-blocks-post-grid-item header{padding-top:0px;padding-right:0px;padding-bottom:10px;padding-left:0px;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;}.kt-post-loop93e720-8b .kt-blocks-post-grid-item .kt-blocks-above-categories{font-size:13px;line-height:20px;text-transform:uppercase;}.kt-post-loop93e720-8b .kt-blocks-post-grid-item .entry-title{padding-top:5px;padding-right:0px;padding-bottom:0px;padding-left:0px;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;font-size:20px;line-height:30px;}.kt-post-loop93e720-8b .entry-content{padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;font-size:14px;line-height:24px;}.kt-post-loop93e720-8b .kt-blocks-post-footer{border-top-width:0px;border-right-width:0px;border-bottom-width:0px;border-left-width:0px;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;font-size:12px;line-height:20px;text-transform:uppercase;}.kt-post-loop93e720-8b .entry-content:after{height:0px;}.kt-post-loop93e720-8b .kb-filter-item{border-top-width:0px;border-right-width:0px;border-bottom-width:2px;border-left-width:0px;padding-top:5px;padding-right:8px;padding-bottom:5px;padding-left:8px;margin-top:0px;margin-right:10px;margin-bottom:0px;margin-left:0px;}@media all and (max-width: 1024px){.kt-post-loop93e720-8b .kt-blocks-post-grid-item{border-top-color:currentColor;border-top-style:solid;border-right-color:currentColor;border-right-style:solid;border-bottom-color:currentColor;border-bottom-style:solid;border-left-color:currentColor;border-left-style:solid;}}@media all and (max-width: 767px){.kt-post-loop93e720-8b .kt-blocks-post-grid-item{border-top-color:currentColor;border-top-style:solid;border-right-color:currentColor;border-right-style:solid;border-bottom-color:currentColor;border-bottom-style:solid;border-left-color:currentColor;border-left-style:solid;}}정치 | 컨텍스트 레터.트럼프 여든 살 생일, 109일 만에 호르무즈 해협 열리나: 슬로우레터 6월15일.미디어‘대홍수’의 기이한 흥행 방정식slowletter_english_versionSlow Letter: June 12, 2026.
+
+.wp-block-kadence-spacer.kt-block-spacer-9f421d-38 .kt-block-spacer{height:60px;}.wp-block-kadence-spacer.kt-block-spacer-9f421d-38 .kt-divider{border-top-width:1px;height:1px;border-top-color:#eee;width:80%;border-top-style:solid;}
+
+
+
+.wp-block-kadence-spacer.kt-block-spacer-2813b2-23 .kt-block-spacer{height:60px;}.wp-block-kadence-spacer.kt-block-spacer-2813b2-23 .kt-divider{border-top-width:1px;height:1px;border-top-color:#eee;width:80%;border-top-style:solid;}
+
+
+
+검색
+					
+				
+
+
+
+
+
+
+
+
+
+
+(function(d,a,b,l,e,r) {
+if(d[b]&&d[b].q)return;d[b]=function(){(d[b].q=d[b].q||[]).push(arguments)};e=a.createElement(l);
+e.async=1;e.charset='utf-8';e.src='//static.dable.io/dist/plugin.min.js';
+r=a.getElementsByTagName(l)[0];r.parentNode.insertBefore(e,r);
+
+})(window,document,'dable','script');
+dable('setService', 'slownews.kr');
+dable('sendLogOnce');
+dable('renderWidget', 'dablewidget_GlYq3v2l');
+
+
+
+
+	
+
+	
+
+	
+	
+	
+		
+	
+				
+			
+									
+						
+
+	
+		슬로우뉴스 주식회사. (회사 소개.)
+등록일자 : 2014. 10. 27. | 대표이사 발행인: 이정환 | 편집인: 강성모. | 등록번호: 서울-아55040.
+주소 : (04536) 서울 중구 명동2길 57 태평양빌딩 1002호 슬로우뉴스. | 사업자 등록 : 731-86-02969 | 전화 : 0507-1328-1033 | 대표 이메일 : black@slownews.kr
+발행일자: 2012. 3. 26 | 개인정보 관리와 청소년 보호 책임자: 박용성. | 서비스 이용 약관.  | 청소년보호정책.  | 개인정보 취급방침.| 윤리강령.| 독자 불만처리와 제보.

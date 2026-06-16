@@ -1,0 +1,32 @@
+Title: LG Electronics takes majority stake in Bear Robotics, reportedly valuing startup at $600M | TechCrunch
+Source: TechCrunch
+URL: https://techcrunch.com/2025/01/24/lg-electronics-takes-majority-stake-in-bear-robotics-reportedly-valuing-startup-at-600m/
+--------------------------------------------------
+
+LG Electronics is betting on robotics as its next big growth driver. The South Korean electronics company said on Friday that it has agreed to acquire an additional 30% stake in Bear Robotics, a California-based startup it previously backed that is building AI-powered server robots for restaurants. The deal gives LG a majority ownership of 51% in the startup, which will now become a subsidiary of the larger company. LG declined to comment on the value of its latest stake; a local outlet in Korea says it’s around $180 million. If accurate, that would give Bear an overall valuation of $600 million.
+
+A company spokesperson added that the exact figure would be disclosed once the deal closes.
+
+Bear is known for its expertise in AI technology that is capable of controlling multiple robots, specifically the management of fleets remotely, LG said in its statement. The tech giant intends to integrate Bear with its commercial robot unit, which has developed “LG CLOi Robots,” to reinforce its home robot and industrial robot divisions.
+
+The tech behemoth says it is working on developing a comprehensive software platform for commercial, industrial, and home robots using Bear’s technology. With the robotics industry moving more toward AI-focused solutions, this investment and deal is expected to improve LG’s robotics software capabilities, LG said.
+
+The news comes less than a year after the electronics company poured $60 million into Bear Robotics in March 2024. That deal already made LG into Bear’s largest shareholder. Bear’s previous funding in 2022 valued it at over $490 million, per PitchBook data.
+
+CEO and founder John Ha and the Bear management team will remain and continue to help create synergies with LG’s robotics unit.
+
+Ha, a former Google software engineer turned restaurateur, founded Bear in 2017 after witnessing the challenges of running a restaurant, which motivated him to develop serving robots. The SoftBank-backed startup operates indoor delivery robots in the U.S., South Korea, and Japan. Its robots are designed to help deliver food to restaurant customers.
+
+“This additional investment underscores our dedication to positioning robots as a pivotal growth engine for the company, reflecting our belief in their inevitable role in the future,” Lee Sam-soo, chief strategy officer at LG Electronics, said in its statement. “We will persist in driving innovation across all sectors of robotics, encompassing commercial, industrial and home applications.”
+
+Robots and robotics were a big theme this year at CES 2025, and LG made itself a part of that story, with LG CEO William Cho emphasizing the potential for robots to broaden their applications beyond their current roles in sectors like hospitality and delivery logistics.
+
+LG’s interest in the tech goes back well before this year and the recent vogue of AI in everything, with both Korea and Japan being early commercial adopters of some of the earliest iterations in the field. The Korean electronics company has been researching and developing robot software and hardware for more than a decade. In 2017, LG deployed guide robots at South Korea’s largest airport, Incheon International Airport.
+
+LG’s home and industrial robots
+
+LG also has a substantial home robotics business by way of its LG Home Appliance Solution Division. Its home robots are designed to work with home appliances and other domestic scenarios. One example is the self-driving AI home hub, a project named Q9, which is scheduled for release later this year. It has autonomous driving technology and can sense voices, sounds, and images. The Q9 has Microsoft’s voice recognition and synthesis technology, so users can have easy and natural conversations with it.
+
+Its industrial robot, the “Autonomous Vertical Articulated Robot,” uses sensors to navigate, move, and carry out tasks with its robotic arm.
+
+Samsung, LG’s rival in the electronics sector, said earlier this month that it will roll out its home robot in the first half of this year.

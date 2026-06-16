@@ -1,0 +1,66 @@
+Title: 330 Koreans Kidnapped: How Cambodia Job Scams Killed Student Park Min-ho
+Source: International Business Times
+URL: https://www.ibtimes.com/330-koreans-kidnapped-how-cambodia-job-scams-killed-student-park-min-ho-3788609
+--------------------------------------------------
+
+EditionsAustralia EditionKorea EditionJapan EditionIndia EditionSingapore EditionUnited KingdomUnited States
+ doFir.push(function(){if(getCookie('nwsubl')){jQuery(".login-btn .sign-up2").hide();jQuery(".login-btn .myaccount").show()};jQuery(".login-btn .myaccount").on('click',function(e){e.preventDefault();jQuery(".login-btn ul").toggle()});jQuery(document).ready(function(){jQuery(".myaccount").add(".m-manage").each(function(){jQuery(this).attr('href','https://myaccount.ibtimes.com/manage')})})}) fqtag.fscmd.push(function(){LJS("https://users.api.jeeng.com/users/domains/V1DXygbq01/sdk/")}) googletag.cmd.push(function () { if(dfpSlots.slotobjs["top"]){ ibt_log("ADS GPT register ad slot top", Date.now()-timerStart); googletag.display("dfp-ad-top"); } });if(/top\|[0-1]\|1/.test(dfpSlots.pginfo[ibtmedia_device])) document.getElementById("ad-top-wrapper").className+=" block-sticky"  dfpSlots.vplayer=(['ibtuk','ibtus'].indexOf(site_id)>-1)?'primis player':'NoVideo';if(site_id=='ibtuk'&&oa.geo.country!='IL'&&ibtmedia_device=='mobile')dfpSlots.vplayer='NoVideo';if(/adtest=primis/.test(location.href))dfpSlots.vplayer='primis player';else if(/adtest=native/.test(location.href))dfpSlots.vplayer='ibt player';if(dfpSlots.vplayer=='primis player'){if(site_id=='ibtus'){dfpSlots.primis='117767'}else dfpSlots.primis='117814';dfpSlots.primisVideo=function(){if(dfpSlots.primisVideoLoaded)return;dfpSlots.primisVideoLoaded=1;if(adBlock=='Y')return;var d=document,gi='getElementById',s=d.createElement('script');s.type='text/javascript';s.src='https://live.primis.tech/live/liveView.php?s='+dfpSlots.primis+'&cbuster='+Date.now();if(window.ibt_avf){ibt_avf.appendChild(s);d.body.classList.add('video-primis')}else d[gi]('tvplayer').appendChild(s)}}
+if(dfpSlots.vplayer=='NoVideo'&&document.getElementById('ibt-mobile-avf'))document.getElementById('ibt-mobile-avf').remove();dataLayer[0].VideoABTest=dfpSlots.vplayer;var ibt_avf=(brW 
+
+
+World
+
+ if(document.querySelector(".breadcrumb").innerHTML.trim()==''){document.querySelector(".breadcrumb").parentNode.parentNode.removeChild(document.querySelector(".breadcrumb").parentNode)} 
+330 Koreans Kidnapped: How Cambodia Job Scams Killed Student Park Min-hoOfficial figures show that in 2024, more than 3,200 Koreans who travelled to Cambodia never returned home.
+
+
+By
+
+ Ria Pathak 
+
+
+Published 10/28/25 AT 6:47 AM EDT
+Share on Facebook
+Share on Twitter
+Share on LinkedIn
+Share on Reddit
+Share on Flipboard doFir.push(function(){var flipboard=1;jQuery(".genericon-flipboard").on('click',function(e){e.preventDefault();e.stopPropagation();if(flipboard){flipboard=0;LJ('https://cdn.flipboard.com/web/buttons/js/flbuttons.min.js',function(){jQuery(".genericon-flipboard").trigger('click')})}})}) Share on Pocket
+
+
+
+
+Official figures show that in 2024, more than 3,200 Koreans who travelled to Cambodia never returned home.
+
+Park Min-ho, a South Korean student, had high hopes for a 'career event' he believed he was attending in Cambodia in July this year. Weeks later, his family were told he had been kidnapped.
+
+On 8 August, Cambodian police discovered his body near Bokor Mountain in Kampot Province, showing signs of violent abuse. Investigators say Park had been lured by a fraudulent job offer, part of a wider network trapping young Koreans in forced online scams.
+
+Park Min-ho's death sent shockwaves to his family and to the country, but unfortunately, his case was part of a bigger nexus. His murder has intensified scrutiny of criminal operations in Cambodia and how authorities on both sides have failed to stop them.
+
+Park's death is not an isolated case. South Korea's Ministry of Foreign Affairs reported that incidents of kidnapping or unlawful detention involving Koreans in Cambodia rose from just four in 2021 to 330 in the first eight months of 2025, a nearly hundredfold increase.
+
+Thousands more remain missing. Official figures show that in 2024, more than 3,200 Koreans who travelled to Cambodia never returned home. As of August 2025, at least 80 people were still unaccounted for.
+
+As of August 2025, about 100 cases of kidnapping or illegal detention of South Koreans remained unresolved in Cambodia over the past two years. 
+
+Locals say the crisis is even worse than reported. A South Korean resident in Cambodia told The Diplomat that at least one South Korean is found dead every month in the coastal city of Sihanoukville, a hub for online scam operations. Earlier this October, a Korean tourist was found dead in a Sihanoukville hotel in what police called a suspected suicide.
+
+Public anger in South Korea over Park's death pushed the government to impose a 'code black' travel advisory on 16 October for several Cambodian regions, including Poipet, Bavet, and parts of Kampot Province. According to reports, Vice Foreign Minister Kim Ji-na later visited Phnom Penh to demand cooperation in finding missing citizens and dismantling scam networks.
+
+Cambodian authorities have since arrested dozens of suspects and deported around 60 Korean nationals. Reports suggest that the deportees arrived in Seoul on 18 October under police supervision.
+
+However, prosecutors allege that some returnees were not victims but accomplices, suspected of facilitating scams or managing illegal call centres.
+
+Officials describe a multilayered industry structured like a corporate enterprise: syndicate bosses, recruiters, IT operators, and local brokers. The operations range from voice phishing and cryptocurrency fraud to romance scams targeting victims across Asia.
+
+Many of the compounds are believed to be controlled by Chinese nationals or mixed groups of ethnic Chinese-Koreans. Cambodian prosecutors have charged three Chinese citizens in connection with Park Min-ho's murder, while two suspects remain at large.
+
+A South Korean man in his 50s was found dead in a hotel room in Sihanoukville, Cambodia in October 2025. 
+
+According to reports, recruitment typically begins online. Job seekers are promised competitive pay, then guided through travel arrangements via messaging platforms such as KakaoTalk. Once in Cambodia, their passports and phones are confiscated. Some claim to have been sold between compounds for thousands of dollars.
+
+A minority, however, reportedly joined these schemes knowingly, seeking quick profits. 'Many Koreans are aware they're engaging in illegal operations,' said Jeon Dae-sik, vice president of the Asian Federation of Korean Business in Cambodia, in an interview with the JoongAng Ilbo.
+
+Meanwhile, Park's cremated remains were returned to Incheon International Airport on 21 October, received by investigators before being taken to his hometown of Yecheon. His parents, who had begged for help since his disappearance, were left with few answers, only confirmation of a pattern that continues to play with the future of many.
+
+This article is copyrighted by IBTimes.co.uk, the business news leader

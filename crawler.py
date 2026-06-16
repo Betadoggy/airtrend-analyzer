@@ -61,17 +61,15 @@ class NewsCrawler:
             return False
         return '[+' in text and 'chars]' in text
 
-    def run(self, query, page_size=1000):
-        # 1. 날짜 설정 (최근 2년)
-        two_years_ago = (datetime.now() - timedelta(days=365 * 2)).strftime('%Y-%m-%d')
+    def run(self, query, page_size=1000, language='en'):
+        # 날짜 설정 (최근 2년)
+        two_years_ago = (datetime.now() - timedelta(days=365 * 3)).strftime('%Y-%m-%d')
         
         total_collected = 0
         page = 1
-        # NewsAPI는 최대 10,000개 결과까지만 검색 가능 (page * pageSize <= 10,000)
-        # PAGE_SIZE=100일 때: max_pages=30 → 3,000개까지 가능
         max_pages = 30 
 
-        print(f"\n>>> '{query}' 검색 시작 (목표: {page_size}개)")
+        print(f"\n>>> '{query}' 검색 시작 (목표: {page_size}개, 언어: {language})")
 
         while total_collected < page_size and page <= max_pages:
             params = {
@@ -80,6 +78,7 @@ class NewsCrawler:
                 'pageSize': 100,
                 'page': page,
                 'sortBy': 'relevancy',
+                'language': language,
                 'apiKey': self.api_key,
             }
 
