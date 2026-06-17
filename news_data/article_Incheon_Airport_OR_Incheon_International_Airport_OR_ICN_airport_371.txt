@@ -1,6 +1,60 @@
-Title: Discover Busan's first Michelin-starred restaurants
-Source: National Geographic
-URL: https://www.nationalgeographic.com/travel/article/paid-content-discover-busans-first-michelin-starred-restaurants
+Title: Happy Birthday Jimin: Chinese Fans Plan Super Big Celebration Across The World
+Source: International Business Times
+URL: https://www.ibtimes.com/happy-birthday-jimin-chinese-fans-plan-super-big-celebration-across-world-3714917
 --------------------------------------------------
 
-Pack your bags and explore the best locations and experiences from around the world. From UNESCO World Heritage Sites to hidden gems and experiences the whole family can enjoy, learn everything you need to know before you embark on your next adventure.
+EditionsAustralia EditionKorea EditionJapan EditionIndia EditionSingapore EditionUnited KingdomUnited States
+ doFir.push(function(){if(getCookie('nwsubl')){jQuery(".login-btn .sign-up2").hide();jQuery(".login-btn .myaccount").show()};jQuery(".login-btn .myaccount").on('click',function(e){e.preventDefault();jQuery(".login-btn ul").toggle()});jQuery(document).ready(function(){jQuery(".myaccount").add(".m-manage").each(function(){jQuery(this).attr('href','https://myaccount.ibtimes.com/manage')})})}) fqtag.fscmd.push(function(){LJS("https://users.api.jeeng.com/users/domains/V1DXygbq01/sdk/")}) googletag.cmd.push(function () { if(dfpSlots.slotobjs["top"]){ ibt_log("ADS GPT register ad slot top", Date.now()-timerStart); googletag.display("dfp-ad-top"); } });if(/top\|[0-1]\|1/.test(dfpSlots.pginfo[ibtmedia_device])) document.getElementById("ad-top-wrapper").className+=" block-sticky"  dfpSlots.vplayer=(['ibtuk','ibtus'].indexOf(site_id)>-1)?'primis player':'NoVideo';if(site_id=='ibtuk'&&oa.geo.country!='IL'&&ibtmedia_device=='mobile')dfpSlots.vplayer='NoVideo';if(/adtest=primis/.test(location.href))dfpSlots.vplayer='primis player';else if(/adtest=native/.test(location.href))dfpSlots.vplayer='ibt player';if(dfpSlots.vplayer=='primis player'){if(site_id=='ibtus'){dfpSlots.primis='117767'}else dfpSlots.primis='117814';dfpSlots.primisVideo=function(){if(dfpSlots.primisVideoLoaded)return;dfpSlots.primisVideoLoaded=1;if(adBlock=='Y')return;var d=document,gi='getElementById',s=d.createElement('script');s.type='text/javascript';s.src='https://live.primis.tech/live/liveView.php?s='+dfpSlots.primis+'&cbuster='+Date.now();if(window.ibt_avf){ibt_avf.appendChild(s);d.body.classList.add('video-primis')}else d[gi]('tvplayer').appendChild(s)}}
+if(dfpSlots.vplayer=='NoVideo'&&document.getElementById('ibt-mobile-avf'))document.getElementById('ibt-mobile-avf').remove();dataLayer[0].VideoABTest=dfpSlots.vplayer;var ibt_avf=(brW Happy Birthday Jimin: Chinese Fans Plan Super Big Celebration Across The World
+
+
+By
+
+
+
+          
+
+
+
+
+ Ingrid Mendoza 
+
+
+Published 10/11/23 AT 10:10 PM EDT
+Share on Facebook
+Share on Twitter
+Share on LinkedIn
+Share on Reddit
+Share on Flipboard doFir.push(function(){var flipboard=1;jQuery(".genericon-flipboard").on('click',function(e){e.preventDefault();e.stopPropagation();if(flipboard){flipboard=0;LJ('https://cdn.flipboard.com/web/buttons/js/flbuttons.min.js',function(){jQuery(".genericon-flipboard").trigger('click')})}})}) Share on Pocket
+
+
+
+
+Phot of BTS' Jimin from the "Butter" photo sketch.
+Facebook/BTS 방탄소년단
+
+KEY POINTSJIMINBAR China started a large-scale fan project to celebrate Jimin's birthdayJimin's video advertisements are being played on LED screens in different citiesThe BTS member will turn 28 on Friday, Oct. 13BTS member Jimin will soon be celebrating his 28th birthday this month, and his supporters have planned a huge celebration to commemorate his special day across the globe.
+
+Ahead of the 27-year-old South Korean artist's birthday, one of his biggest fanbases from China — known as JIMINBAR — initiated a large-scale fan project across cities such as Seoul, Busan, New York, Shibuya and Shanghai, among others. The project is expected to run until the end of this month.
+
+I'm already in Busan but this was the first place I went to upon arrival at Incheon Seoul 5 days ago. Another amazing birthday project by @JIMINBAR_CHINA. Thank you for your dedication to and love for Jimin. This is what Jimin means when he says he's grateful to his fans who are... pic.twitter.com/BboFNeZQJS
+
+by @JIMINBAR_CHINA 様#HappyJiminDay#JIMINTOBER仁川空港8番出口付近のエスカレーターでB1まで降りたらすぐ！#りんごの渡韓日記#りんごジミンセンイル渡韓日記 pic.twitter.com/iDKXTCGoK4
+
+Per a summary from Korea's Star News, JIMINBAR planned to hold a "Starry Street" event at the Longfor Xingyue Hui — one of the biggest commercial and shopping areas in Xi'an, China. There, Jimin's video advertisements will air on an outdoor large LED and 43 auxiliary screens from 10 a.m. to 10 p.m. on the day of the singer's birthday, Oct. 13 — Friday.
+
+Meanwhile, around 120 video commercials have been airing across 13 cities in the country, most notably Beijing and Shanghai, which started from Oct. 8 to 14. Photobooths will also be placed in 53 cities and will be made available until Oct. 22. Aside from that, a random dance event was also held earlier this month in different cities, including Zigong, Qingyuan, Naijiang and Chengdu, where fans — known as ARMYs — were urged to dance along to the choreographies of Jimin's hit tracks: "Like Crazy," "Set Me Free Pt.2," "Lie," "Serendipity" and "Filter."
+
+An offline event will also be held across 11 cities in the country, where the organizers will be giving away a lot of freebies and merchandise from Jimin's solo debut. Such items included a "FACE" photo card, postcards, idol portrait fans, posters, cup covers, bookends, mouse pads and breakfast cups.
+
+𝟐𝟎𝟐𝟑 𝑯𝒂𝒑𝒑𝒚 𝑱𝒊𝒎𝒊𝒏 𝑫𝒂𝒚 𝑩𝒊𝒓𝒕𝒉𝒅𝒂𝒚 𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝑷𝒂𝒓𝒕. 𝟒 🇨🇳China's 11 cities offline events merch delivery📍Cities: Hangzhou, Xi'an, Tianjin, Changsha, Guangzhou, Chengdu, Chongqing, Xiamen, Qingdao, Shanghai, Zhengzhou pic.twitter.com/KdcH7merD1
+
+Buses with Jimin's face plastered on its exterior have also been making rounds in South Korea. His advertisements are also aired at Seoul's COEX Mall, on the subway and at the Incheon Airport. A ten-meter wall sticker was also placed in front of HYBE's headquarters.
+
+와 하이브사옥 앞과건너편에서 지민바차이나@JIMINBAR_CHINA 벽면광고와 지민버스까지 진심 역대급 서폿에 감사드립니다🙇‍♀️🙇‍♀️💘우리지민이가 뿌듯하게느꼈을것같아요ㅜㅜ세계인의축제 짐토버 너므너므기쁘고 행복합니다💛💛💕JIMIN JIMINJIMTOBER IS HERE#JIMIN #ParkJimin #지민 pic.twitter.com/VCUasB8GbT
+
+The large-scale fan project is currently ongoing. Fans in the aforementioned cities who want to join in on Jimin's birthday celebration could get updates from @JIMINBAR_CHINA on Twitter.
+
+Jimin/Instagram
+
+© Copyright IBTimes 2026. All rights reserved.

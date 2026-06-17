@@ -1,18 +1,70 @@
-Title: Stray Kids' Bang Chan and I.N Endorse the Canadian Tuxedo Trend for Fall
-Source: Teen Vogue
-URL: https://www.teenvogue.com/story/stray-kids-bang-chan-and-in-canadian-tuxedo-trend-for-fall-2025
+Title: Cha Eun Woo's Unedited Airport Photos Have Fans Falling In Love: 'His Face Is Glorious'
+Source: International Business Times
+URL: https://www.ibtimes.com/cha-eun-woos-unedited-airport-photos-have-fans-falling-love-his-face-glorious-3701502
 --------------------------------------------------
 
-The last remaining days of summer are numbered, and Stray Kids members Bang Chan and I.N. are coming in hot with the perfect transitional style inspiration just in time for fall. And, of course, it's a love-it-or-hate-it classic.
+EditionsAustralia EditionKorea EditionJapan EditionIndia EditionSingapore EditionUnited KingdomUnited States
+ doFir.push(function(){if(getCookie('nwsubl')){jQuery(".login-btn .sign-up2").hide();jQuery(".login-btn .myaccount").show()};jQuery(".login-btn .myaccount").on('click',function(e){e.preventDefault();jQuery(".login-btn ul").toggle()});jQuery(document).ready(function(){jQuery(".myaccount").add(".m-manage").each(function(){jQuery(this).attr('href','https://myaccount.ibtimes.com/manage')})})}) fqtag.fscmd.push(function(){LJS("https://users.api.jeeng.com/users/domains/V1DXygbq01/sdk/")}) googletag.cmd.push(function () { if(dfpSlots.slotobjs["top"]){ ibt_log("ADS GPT register ad slot top", Date.now()-timerStart); googletag.display("dfp-ad-top"); } });if(/top\|[0-1]\|1/.test(dfpSlots.pginfo[ibtmedia_device])) document.getElementById("ad-top-wrapper").className+=" block-sticky"  dfpSlots.vplayer=(['ibtuk','ibtus'].indexOf(site_id)>-1)?'primis player':'NoVideo';if(site_id=='ibtuk'&&oa.geo.country!='IL'&&ibtmedia_device=='mobile')dfpSlots.vplayer='NoVideo';if(/adtest=primis/.test(location.href))dfpSlots.vplayer='primis player';else if(/adtest=native/.test(location.href))dfpSlots.vplayer='ibt player';if(dfpSlots.vplayer=='primis player'){if(site_id=='ibtus'){dfpSlots.primis='117767'}else dfpSlots.primis='117814';dfpSlots.primisVideo=function(){if(dfpSlots.primisVideoLoaded)return;dfpSlots.primisVideoLoaded=1;if(adBlock=='Y')return;var d=document,gi='getElementById',s=d.createElement('script');s.type='text/javascript';s.src='https://live.primis.tech/live/liveView.php?s='+dfpSlots.primis+'&cbuster='+Date.now();if(window.ibt_avf){ibt_avf.appendChild(s);d.body.classList.add('video-primis')}else d[gi]('tvplayer').appendChild(s)}}
+if(dfpSlots.vplayer=='NoVideo'&&document.getElementById('ibt-mobile-avf'))document.getElementById('ibt-mobile-avf').remove();dataLayer[0].VideoABTest=dfpSlots.vplayer;var ibt_avf=(brW Cha Eun Woo’s Unedited Airport Photos Have Fans Falling In Love: ‘His Face Is Glorious’
 
-On September 19, 2025, the eight members of Stray Kids were spotted at South Korea's Incheon Airport en route to Macau for the 18th The Fact Music Awards (TMA), and they all came equipped with a healthy dose of airport fashion.
 
-In photos and videos captured by Dispatch, which you can see here, we see the members' takes on comfy fall fashion. While each member adhered to their own personal preferences, there was a hint of serendipitous coordination from the eldest and the youngest, who both went all in with two distinct takes on the divisive Canadian tuxedo trend.
+By
 
-Bang Chan, the group's eldest and leader, opted for a gray co-ord denim set featuring a lightweight outershirt-style jacket and matching pants, which he paired with a white Fendi tank top, a beige strap hat from Chrome Hearts with his ashy blond hair peeking through at the back, a pair of Fendi Match sneakers, and a black backpack.
+ Floralyn Teodoro 
 
-I.N, on the other hand, opted for a true blue wash co-ord denim set, which was slightly thicker and more structured than Bang Chan's. He paired the denim with a black New York Yankees baseball cap, a large Ciao Ciao green bag, and a pair of chestnut brown Chelsea suede boots, the latter two from Bottega Veneta.
 
-While I.N has been a long-time Canadian tuxedo truther, having worn the look more than once in the past, Bang Chan seems like a newer adoptee of the trend. Denim on denim has been on the rise this year, and this endorsement from Stray Kids signals that surely more and more people will likely adopt it in their fall wardrobes, for travel and beyond.
+Published 06/22/23 AT 2:26 AM EDT
+Share on Facebook
+Share on Twitter
+Share on LinkedIn
+Share on Reddit
+Share on Flipboard doFir.push(function(){var flipboard=1;jQuery(".genericon-flipboard").on('click',function(e){e.preventDefault();e.stopPropagation();if(flipboard){flipboard=0;LJ('https://cdn.flipboard.com/web/buttons/js/flbuttons.min.js',function(){jQuery(".genericon-flipboard").trigger('click')})}})}) Share on Pocket
 
-Aside from showing off their different takes on Canadian tuxedos, Stray Kids also teased even more stylistic changes during their airport sighting, with Lee Know subtly debuting a new blond 'do.
+
+
+
+Cha Eun Woo opened up about Astro's plans for the future.
+Cha Eun Woo/Instagram
+
+KEY POINTSCha Eun Woo's unedited airport photos have fans swooningThe global ambassador of Dior will attend a fashion show in ParisThe South Korean actor will star in a new drama in 2024Cha Eun Woo's unedited airport photos that surfaced online had fans swooning over the South Korean idol's handsome visuals.
+
+Unedited airport photos of the Astro member were posted on a South Korean online community Wednesday.
+
+"Seriously. Cha Eun Woo doesn't seem to be from this world. These are pictures taken by journalists today, and they are unedited. He wasn't even wearing any lenses or makeup. Seriously, his face is glorious," the uploader captioned the post.
+
+Fans couldn't help but comment on Cha Eun Woo's naturally beautiful facial features after seeing the photos.
+
+"Seeing Cha Eun Woo reminds me of the phrase, 'You [being] alive [is already] a fan service," commented one fan; another said, "Crazy. Cha Eun Woo is legendary."
+
+"Your features are all epic. Please take good care of it and be active for a long time, Cha Eun Woo," another fan commented.
+
+"Cha Eun Woo's eyelash curling is also natural. How did he come to be born with such a thing?" a different fan quipped.
+
+One fan even compared the idol to a flower, saying, "Even last year, Cha Eun Woo was a flower without a scent to me. Those photos are moody. You seem to have a face that gets better with age."
+
+The 26-year-old South Korean star departed Seoul via Incheon International Airport on Wednesday. He will attend Dior Men's 2024 Spring/Summer Collection fashion show in Paris on June 23.
+
+Eun Woo was spotted wearing a long-sleeved polo from Christian Dior, for which he is a brand ambassador.
+
+Cha Eunwoo will be attending Dior Men’s 2024 S/S Collection fashion show in Paris. pic.twitter.com/dkjSPOMwdL
+
+The actor was invited by the French multinational luxury fashion house Dior to grace its Summer 2024 Men's Collection fashion show and celebrate Kim Jones' fifth anniversary with the brand.
+
+The event will be held on Friday at 3 p.m. Paris time.
+
+The global fashion icon, The Cha Eunwoo is invited by #Dior to The Summer 2024 Men’s Collection Show and to celebrate Kim Jones’ 5th Anniversary at Dior. So excited to see #ChaEunwoo take Paris again by storm. 🩵Thank you @Dior 🩶CHA EUNWOO PRINCE OF DIOR#CHAEUNWOOxDIOR… pic.twitter.com/hE3FiFr2TA
+
+On June 15, the Dior ambassador shared photos of him in Singapore for the launch of Dior Beauty's fragrance.
+
+The renowned K-pop idol and global ambassador for the luxury brand dropped by Singapore's ION Orchard and Tanjong Beach Club to celebrate the launch of Dior Beauty's newest fragrance, La Collection Privée Dioriviera, according to Harper's Bazaar.
+
+Fans can catch more of Cha Eun Woo in the new thriller drama "Wonderful World," expected to air in the first half of 2024, according to Soompi.
+
+Eun Woo will play the character of Kwon Sun Yool, a medical student with a mysterious secret. He will star opposite Kim Nam Joo, who will play the role of Eun Soo Hyun, a woman seeking revenge for the loss of her son.
+
+The drama will be directed by Lee Seung Young, the director of "Tracer," "Voice 2" and "The Missing."
+
+Cha Eun-Woo of boy band ASTRO attends the photocall for GQ Korea '2018 GQ Night' on December 13, 2018 in Seoul, South Korea.
+Han Myung-Gu/WireImage
+
+© Copyright IBTimes 2026. All rights reserved.

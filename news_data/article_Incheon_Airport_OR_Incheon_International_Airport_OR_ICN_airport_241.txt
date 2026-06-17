@@ -1,193 +1,22 @@
-Title: North Korean women’s soccer team to play in South Korea tournament
-Source: UPI.com
-URL: https://www.upi.com/Top_News/World-News/2026/05/04/North-Korea-womens-soccer-tournament-Suwon-Naegohyang-AFC-Womens-Champions-League/7091777887398/
+Title: Skytrax names the best airports of 2024 — and Singapore's Changi is no longer No. 1
+Source: CNBC
+URL: https://www.cnbc.com/2024/04/18/skytrax-names-best-airports-of-2024-singapores-changi-no-longer-no-1.html
 --------------------------------------------------
 
-","#"===e.firstChild.getAttribute("href")})||fe("type|href|height|width",function(e,t,n){if(!n)return e.getAttribute(t,"type"===t.toLowerCase()?1:2)}),d.attributes&&ce(function(e){return e.innerHTML="",e.firstChild.setAttribute("value",""),""===e.firstChild.getAttribute("value")})||fe("value",function(e,t,n){if(!n&&"input"===e.nodeName.toLowerCase())return e.defaultValue}),ce(function(e){return null==e.getAttribute("disabled")})||fe(R,function(e,t,n){var r;if(!n)return!0===e[t]?t.toLowerCase():(r=e.getAttributeNode(t))&&r.specified?r.value:null}),se}(C);S.find=d,S.expr=d.selectors,S.expr[":"]=S.expr.pseudos,S.uniqueSort=S.unique=d.uniqueSort,S.text=d.getText,S.isXMLDoc=d.isXML,S.contains=d.contains,S.escapeSelector=d.escape;var h=function(e,t,n){var r=[],i=void 0!==n;while((e=e[t])&&9!==e.nodeType)if(1===e.nodeType){if(i&&S(e).is(n))break;r.push(e)}return r},T=function(e,t){for(var n=[];e;e=e.nextSibling)1===e.nodeType&&e!==t&&n.push(e);return n},k=S.expr.match.needsContext;function A(e,t){return e.nodeName&&e.nodeName.toLowerCase()===t.toLowerCase()}var N=/^:\x20\t\r\n\f]*)[\x20\t\r\n\f]*\/?>(?:|)$/i;function j(e,n,r){return m(n)?S.grep(e,function(e,t){return!!n.call(e,t,e)!==r}):n.nodeType?S.grep(e,function(e){return e===n!==r}):"string"!=typeof n?S.grep(e,function(e){return-1)[^>]*|#([\w-]+))$/;(S.fn.init=function(e,t,n){var r,i;if(!e)return this;if(n=n||D,"string"==typeof e){if(!(r=""===e[e.length-1]&&3\x20\t\r\n\f]*)/i,he=/^$|^module$|\/(?:java|ecma)script/i;ce=E.createDocumentFragment().appendChild(E.createElement("div")),(fe=E.createElement("input")).setAttribute("type","radio"),fe.setAttribute("checked","checked"),fe.setAttribute("name","t"),ce.appendChild(fe),y.checkClone=ce.cloneNode(!0).cloneNode(!0).lastChild.checked,ce.innerHTML="x",y.noCloneChecked=!!ce.cloneNode(!0).lastChild.defaultValue,ce.innerHTML="",y.option=!!ce.lastChild;var ge={thead:[1,"",""],col:[2,"",""],tr:[2,"",""],td:[3,"",""],_default:[0,"",""]};function ve(e,t){var n;return n="undefined"!=typeof e.getElementsByTagName?e.getElementsByTagName(t||"*"):"undefined"!=typeof e.querySelectorAll?e.querySelectorAll(t||"*"):[],void 0===t||t&&A(e,t)?S.merge([e],n):n}function ye(e,t){for(var n=0,r=e.length;n",""]);var me=/\s*$/g;function je(e,t){return A(e,"table")&&A(11!==t.nodeType?t:t.firstChild,"tr")&&S(e).children("tbody")[0]||e}function De(e){return e.type=(null!==e.getAttribute("type"))+"/"+e.type,e}function qe(e){return"true/"===(e.type||"").slice(0,5)?e.type=e.type.slice(5):e.removeAttribute("type"),e}function Le(e,t){var n,r,i,o,a,s;if(1===t.nodeType){if(Y.hasData(e)&&(s=Y.get(e).events))for(i in Y.remove(t,"handle events"),s)for(n=0,r=s[i].length;n").attr(n.scriptAttrs||{}).prop({charset:n.scriptCharset,src:n.url}).on("load error",i=function(e){r.remove(),i=null,e&&t("error"===e.type?404:200,e.type)}),E.head.appendChild(r[0])},abort:function(){i&&i()}}});var _t,zt=[],Ut=/(=)\?(?=&|$)|\?\?/;S.ajaxSetup({jsonp:"callback",jsonpCallback:function(){var e=zt.pop()||S.expando+"_"+wt.guid++;return this[e]=!0,e}}),S.ajaxPrefilter("json jsonp",function(e,t,n){var r,i,o,a=!1!==e.jsonp&&(Ut.test(e.url)?"url":"string"==typeof e.data&&0===(e.contentType||"").indexOf("application/x-www-form-urlencoded")&&Ut.test(e.data)&&"data");if(a||"jsonp"===e.dataTypes[0])return r=e.jsonpCallback=m(e.jsonpCallback)?e.jsonpCallback():e.jsonpCallback,a?e[a]=e[a].replace(Ut,"$1"+r):!1!==e.jsonp&&(e.url+=(Tt.test(e.url)?"&":"?")+e.jsonp+"="+r),e.converters["script json"]=function(){return o||S.error(r+" was not called"),o[0]},e.dataTypes[0]="json",i=C[r],C[r]=function(){o=arguments},n.always(function(){void 0===i?S(C).removeProp(r):C[r]=i,e[r]&&(e.jsonpCallback=t.jsonpCallback,zt.push(r)),o&&m(i)&&i(o[0]),o=i=void 0}),"script"}),y.createHTMLDocument=((_t=E.implementation.createHTMLDocument("").body).innerHTML="",2===_t.childNodes.length),S.parseHTML=function(e,t,n){return"string"!=typeof e?[]:("boolean"==typeof t&&(n=t,t=!1),t||(y.createHTMLDocument?((r=(t=E.implementation.createHTMLDocument("")).createElement("base")).href=E.location.href,t.head.appendChild(r)):t=E),o=!n&&[],(i=N.exec(e))?[t.createElement(i[1])]:(i=xe([e],t,o),o&&o.length&&S(o).remove(),S.merge([],i.childNodes)));var r,i,o},S.fn.load=function(e,t,n){var r,i,o,a=this,s=e.indexOf(" ");return-1").append(S.parseHTML(e)).find(r):e)}).always(n&&function(e,t){a.each(function(){n.apply(this,o||[e.responseText,t,e])})}),this},S.expr.pseudos.animated=function(t){return S.grep(S.timers,function(e){return t===e.elem}).length},S.offset={setOffset:function(e,t,n){var r,i,o,a,s,u,l=S.css(e,"position"),c=S(e),f={};"static"===l&&(e.style.position="relative"),s=c.offset(),o=S.css(e,"top"),u=S.css(e,"left"),("absolute"===l||"fixed"===l)&&-1",options:{classes:{},disabled:!1,create:null},_createWidget:function(t,e){e=_(e||this.defaultElement||this)[0],this.element=_(e),this.uuid=i++,this.eventNamespace="."+this.widgetName+this.uuid,this.bindings=_(),this.hoverable=_(),this.focusable=_(),this.classesElementLookup={},e!==this&&(_.data(e,this.widgetFullName,this),this._on(!0,this.element,{remove:function(t){t.target===e&&this.destroy()}}),this.document=_(e.style?e.ownerDocument:e.document||e),this.window=_(this.document[0].defaultView||this.document[0].parentWindow)),this.options=_.widget.extend({},this.options,this._getCreateOptions(),t),this._create(),this.options.disabled&&this._setOptionDisabled(this.options.disabled),this._trigger("create",null,this._getCreateEventData()),this._init()},_getCreateOptions:function(){return{}},_getCreateEventData:_.noop,_create:_.noop,_init:_.noop,destroy:function(){var i=this;this._destroy(),_.each(this.classesElementLookup,function(t,e){i._removeClass(e,t)}),this.element.off(this.eventNamespace).removeData(this.widgetFullName),this.widget().off(this.eventNamespace).removeAttr("aria-disabled"),this.bindings.off(this.eventNamespace)},_destroy:_.noop,widget:function(){return this.element},option:function(t,e){var i,n,o,s=t;if(0===arguments.length)return _.widget.extend({},this.options);if("string"==typeof t)if(s={},t=(i=t.split(".")).shift(),i.length){for(n=s[t]=_.widget.extend({},this.options[t]),o=0;o"),i=e.children()[0];return _("body").append(e),t=i.offsetWidth,e.css("overflow","scroll"),t===(i=i.offsetWidth)&&(i=e[0].clientWidth),e.remove(),n=t-i},getScrollInfo:function(t){var e=t.isWindow||t.isDocument?"":t.element.css("overflow-x"),i=t.isWindow||t.isDocument?"":t.element.css("overflow-y"),e="scroll"===e||"auto"===e&&t.widthC(W(n),W(o))?s.important="horizontal":s.important="vertical",h.using.call(this,t,s)}),r.offset(_.extend(f,{using:t}))})},_.ui.position={fit:{left:function(t,e){var i=e.within,n=i.isWindow?i.scrollLeft:i.offset.left,o=i.width,s=t.left-e.collisionPosition.marginLeft,r=n-s,a=s+e.collisionWidth-o-n;e.collisionWidth>o?0o?0?@[\]^`{|}~])/g,function(t){return t.replace(e,"\\$1")}),_.fn.labels=function(){var t,e,i;return this[0].labels&&this[0].labels.length?this.pushStack(this[0].labels):(e=this.eq(0).parents("label"),(t=this.attr("id"))&&(i=(i=this.eq(0).parents().last()).add((i.length?i:this).siblings()),t="label[for='"+_.ui.escapeSelector(t)+"']",e=e.add(i.find(t).addBack(t))),this.pushStack(e))},_.fn.scrollParent=function(t){var e=this.css("position"),i="absolute"===e,n=t?/(auto|scroll|hidden)/:/(auto|scroll)/,t=this.parents().filter(function(){var t=_(this);return(!i||"static"!==t.css("position"))&&n.test(t.css("overflow")+t.css("overflow-y")+t.css("overflow-x"))}).eq(0);return"fixed"!==e&&t.length?t:_(this[0].ownerDocument||document)},_.extend(_.expr[":"],{tabbable:function(t){var e=_.attr(t,"tabindex"),i=null!=e;return(!i||0")[0],x=u.each,K.style.cssText="background-color:rgba(1,1,1,.5)",w.rgba=-1s.mod/2?n+=s.mod:n-o>s.mod/2&&(n-=s.mod)),c[i]=A((o-n)*r+n,e)))}),this[e](c)},blend:function(t){if(1===this._rgba[3])return this;var e=this._rgba.slice(),i=e.pop(),n=v(t)._rgba;return v(u.map(e,function(t,e){return(1-i)*n[e]+i*t}))},toRgbaString:function(){var t="rgba(",e=u.map(this._rgba,function(t,e){return null==t?2").addClass("ui-effects-wrapper").css({fontSize:"100%",background:"transparent",border:"none",margin:0,padding:0}),e={width:i.width(),height:i.height()},o=document.activeElement;try{o.id}catch(t){o=document.body}return i.wrap(t),i[0]!==o&&!_.contains(i[0],o)||_(o).trigger("focus"),t=i.parent(),"static"===i.css("position")?(t.css({position:"relative"}),i.css({position:"relative"})):(_.extend(n,{position:i.css("position"),zIndex:i.css("z-index")}),_.each(["top","left","bottom","right"],function(t,e){n[e]=i.css(e),isNaN(parseInt(n[e],10))&&(n[e]="auto")}),i.css({position:"relative",top:0,left:0,right:"auto",bottom:"auto"})),i.css(e),t.css(n).show()},removeWrapper:function(t){var e=document.activeElement;return t.parent().is(".ui-effects-wrapper")&&(t.parent().replaceWith(t),t[0]!==e&&!_.contains(t[0],e)||_(e).trigger("focus")),t}}),_.extend(_.effects,{version:"1.12.1",define:function(t,e,i){return i||(i=e,e="effect"),_.effects.effect[t]=i,_.effects.effect[t].mode=e,i},scaledDimensions:function(t,e,i){if(0===e)return{height:0,width:0,outerHeight:0,outerWidth:0};var n="horizontal"!==i?(e||100)/100:1,e="vertical"!==i?(e||100)/100:1;return{height:t.height()*e,width:t.width()*n,outerHeight:t.outerHeight()*e,outerWidth:t.outerWidth()*n}},clipToBox:function(t){return{width:t.clip.right-t.clip.left,height:t.clip.bottom-t.clip.top,left:t.clip.left,top:t.clip.top}},unshift:function(t,e,i){var n=t.queue();1").insertAfter(t).css({display:/^(inline|ruby)/.test(t.css("display"))?"inline-block":"block",visibility:"hidden",marginTop:t.css("marginTop"),marginBottom:t.css("marginBottom"),marginLeft:t.css("marginLeft"),marginRight:t.css("marginRight"),float:t.css("float")}).outerWidth(t.outerWidth()).outerHeight(t.outerHeight()).addClass("ui-effects-placeholder"),t.data(I+"placeholder",e)),t.css({position:i,left:n.left,top:n.top}),e},removePlaceholder:function(t){var e=I+"placeholder",i=t.data(e);i&&(i.remove(),t.removeData(e))},cleanUp:function(t){_.effects.restoreStyle(t),_.effects.removePlaceholder(t)},setTransition:function(n,t,o,s){return s=s||{},_.each(t,function(t,e){var i=n.cssUnit(e);0").appendTo("body").addClass(t.className).css({top:n.top-r,left:n.left-a,height:i.innerHeight(),width:i.innerWidth(),position:o?"fixed":"absolute"}).animate(s,t.duration,t.easing,function(){c.remove(),_.isFunction(e)&&e()})}}),_.fx.step.clip=function(t){t.clipInit||(t.start=_(t.elem).cssClip(),"string"==typeof t.end&&(t.end=V(t.end,t.elem)),t.clipInit=!0),_(t.elem).cssClip({top:t.pos*(t.end.top-t.start.top)+t.start.top,right:t.pos*(t.end.right-t.start.right)+t.start.right,bottom:t.pos*(t.end.bottom-t.start.bottom)+t.start.bottom,left:t.pos*(t.end.left-t.start.left)+t.start.left})},O={},_.each(["Quad","Cubic","Quart","Quint","Expo"],function(e,t){O[t]=function(t){return Math.pow(t,e+2)}}),_.extend(O,{Sine:function(t){return 1-Math.cos(t*Math.PI/2)},Circ:function(t){return 1-Math.sqrt(1-t*t)},Elastic:function(t){return 0===t||1===t?t:-Math.pow(2,8*(t-1))*Math.sin((80*(t-1)-7.5)*Math.PI/15)},Back:function(t){return t*t*(3*t-2)},Bounce:function(t){for(var e,i=4;t").css({position:"absolute",visibility:"visible",left:-n*d,top:-i*p}).parent().addClass("ui-effects-explode").css({position:"absolute",overflow:"hidden",width:d,height:p,left:o+(h?r*d:0),top:s+(h?a*p:0),opacity:h?0:1}).animate({left:o+(h?0:r*d),top:s+(h?0:a*p),opacity:h?1:0},t.duration||500,t.easing,m)}),_.effects.define("fade","toggle",function(t,e){var i="show"===t.mode;_(this).css("opacity",i?0:1).animate({opacity:i?1:0},{queue:!1,duration:t.duration,easing:t.easing,complete:e})}),_.effects.define("fold","hide",function(e,t){var i=_(this),n=e.mode,o="show"===n,s="hide"===n,r=e.size||15,a=/([0-9]+)%/.exec(r),c=!!e.horizFirst?["right","bottom"]:["bottom","right"],f=e.duration/2,l=_.effects.createPlaceholder(i),h=i.cssClip(),u={clip:_.extend({},h)},d={clip:_.extend({},h)},p=[h[c[0]],h[c[1]]],n=i.queue().length;a&&(r=parseInt(a[1],10)/100*p[s?0:1]),u.clip[c[0]]=r,d.clip[c[0]]=r,d.clip[c[1]]=0,o&&(i.cssClip(d.clip),l&&l.css(_.effects.clipToBox(d)),d.clip=h),i.queue(function(t){l&&l.animate(_.effects.clipToBox(u),f,e.easing).animate(_.effects.clipToBox(d),f,e.easing),t()}).animate(u,f,e.easing).animate(d,f,e.easing).queue(t),_.effects.unshift(i,n,4)}),_.effects.define("highlight","show",function(t,e){var i=_(this),n={backgroundColor:i.css("backgroundColor")};"hide"===t.mode&&(n.opacity=0),_.effects.saveStyle(i),i.css({backgroundImage:"none",backgroundColor:t.color||"#ffff99"}).animate(n,{queue:!1,duration:t.duration,easing:t.easing,complete:e})}),_.effects.define("size",function(n,e){var o,i=_(this),t=["fontSize"],s=["borderTopWidth","borderBottomWidth","paddingTop","paddingBottom"],r=["borderLeftWidth","borderRightWidth","paddingLeft","paddingRight"],a=n.mode,c="effect"!==a,f=n.scale||"both",l=n.origin||["middle","center"],h=i.css("position"),u=i.position(),d=_.effects.scaledDimensions(i),p=n.from||d,g=n.to||_.effects.scaledDimensions(i,0);_.effects.createPlaceholder(i),"show"===a&&(a=p,p=g,g=a),o={from:{y:p.height/d.height,x:p.width/d.width},to:{y:g.height/d.height,x:g.width/d.width}},"box"!==f&&"both"!==f||(o.from.y!==o.to.y&&(p=_.effects.setTransition(i,s,o.from.y,p),g=_.effects.setTransition(i,s,o.to.y,g)),o.from.x!==o.to.x&&(p=_.effects.setTransition(i,r,o.from.x,p),g=_.effects.setTransition(i,r,o.to.x,g))),"content"!==f&&"both"!==f||o.from.y!==o.to.y&&(p=_.effects.setTransition(i,t,o.from.y,p),g=_.effects.setTransition(i,t,o.to.y,g)),l&&(l=_.effects.getBaseline(l,d),p.top=(d.outerHeight-p.outerHeight)*l.y+u.top,p.left=(d.outerWidth-p.outerWidth)*l.x+u.left,g.top=(d.outerHeight-g.outerHeight)*l.y+u.top,g.left=(d.outerWidth-g.outerWidth)*l.x+u.left),i.css(p),"content"!==f&&"both"!==f||(s=s.concat(["marginTop","marginBottom"]).concat(t),r=r.concat(["marginLeft","marginRight"]),i.find("*[width]").each(function(){var t=_(this),e=_.effects.scaledDimensions(t),i={height:e.height*o.from.y,width:e.width*o.from.x,outerHeight:e.outerHeight*o.from.y,outerWidth:e.outerWidth*o.from.x},e={height:e.height*o.to.y,width:e.width*o.to.x,outerHeight:e.height*o.to.y,outerWidth:e.width*o.to.x};o.from.y!==o.to.y&&(i=_.effects.setTransition(t,s,o.from.y,i),e=_.effects.setTransition(t,s,o.to.y,e)),o.from.x!==o.to.x&&(i=_.effects.setTransition(t,r,o.from.x,i),e=_.effects.setTransition(t,r,o.to.x,e)),c&&_.effects.saveStyle(t),t.css(i),t.animate(e,n.duration,n.easing,function(){c&&_.effects.restoreStyle(t)})})),i.animate(g,{queue:!1,duration:n.duration,easing:n.easing,complete:function(){var t=i.offset();0===g.opacity&&i.css("opacity",p.opacity),c||(i.css("position","static"===h?"relative":h).offset(t),_.effects.saveStyle(i)),e()}})}),_.effects.define("scale",function(t,e){var i=_(this),n=t.mode,n=parseInt(t.percent,10)||(0===parseInt(t.percent,10)||"effect"!==n?0:100),n=_.extend(!0,{from:_.effects.scaledDimensions(i),to:_.effects.scaledDimensions(i,n,t.direction||"both"),origin:t.origin||["middle","center"]},t);t.fade&&(n.from.opacity=1,n.to.opacity=0),_.effects.effect.size.call(this,n,e)}),_.effects.define("puff","hide",function(t,e){t=_.extend(!0,{},t,{fade:!0,percent:parseInt(t.percent,10)||150});_.effects.effect.scale.call(this,t,e)}),_.effects.define("pulsate","show",function(t,e){var i=_(this),n=t.mode,o="show"===n,s=2*(t.times||5)+(o||"hide"===n?1:0),r=t.duration/s,a=0,c=1,n=i.queue().length;for(!o&&i.is(":visible")||(i.css("opacity",0).show(),a=1);c= 1){return (o-1) ');upi_ol.xy_opac(1);jQuery('#upi_ol_div').fadeIn('fast');var ol_x = op.x ? op.x : 500;var ol_y = op.y ? op.y : 500;if(ol_x >= wnd_x) {ol_x = wnd_x - 100;}if(ol_y >= wnd_y) {ol_y = wnd_y - 100;}if(op.iframe) {cont_div.css({overflow: 'hidden'});cont_div.append('');var if_rs = jQuery('#upi_ol_iframe');if(op.resize) {var y_h = if_rs.contents().find("html").height();y_h = y_h = wnd_x) {ol_x = wnd_x - 100;}if(ol_y >= wnd_y) {ol_y = wnd_y - 100;}jQuery('#upi_ol_div').css({width: ol_x+'px', height: ol_y+'px'});jQuery('#upi_ol_div .content').css({width: ol_x+'px', height: ol_y+'px'});if(op.text) {jQuery('#upi_ol_div').fadeIn(function() {jQuery('#upi_ol_div .content').html(jQuery(op.id).html());});}if(op.img) {jQuery('#upi_ol_div').fadeIn(function() {jQuery('#upi_ol_div .content').html(' ');});}upi_ol.center();},close: function() {upi_ol.ol_shown = 0;jQuery('#upi_ol_bg').animate({opacity: 0}, 500).css({visibility:'hidden'});jQuery('#upi_ol_div').css({display:'none'});jQuery('#upi_ol_div .content').empty();},center: function (divid) {if(!divid) {divid = 'upi_ol_div';}var cc = jQuery('#'+divid);var xy_x = (wnd_x / 2) - (cc.width() / 2);var xy_y = (wnd_y / 2) - (cc.height() / 2);cc.css({left: xy_x+'px', top: xy_y+'px'});},xy_opac: function (sop) {if(jQuery('#upi_ol_div').length == 0) {jQuery('body').append('CLOSE X');}var xy_x = doc_x;var xy_y = doc_y;jQuery('#upi_ol_bg').css({width: xy_x+'px', height: xy_y+'px'});if(sop) {jQuery('#upi_ol_bg').css({opacity:0, visibility:'visible'}).animate({opacity: 0.5}, 250);}upi_ol.center();},ol_shown: 0};function lic_photo(id) {window.open('/News_Photos/lp/'+id+'/', '_blank', 'scrollbars=yes,resizable=yes');}function upicc(n,v,d) {if(d) {var date = new Date();date.setTime(date.getTime()+(d*24*60*60*1000));var ex = "; expires="+date.toGMTString();}else {var ex = "";}document.cookie = n+"="+v+ex+"; path=/; domain=.upi.com";}function upirc(key) {return (result = new RegExp('(?:^|; )' + encodeURIComponent(key) + '=([^;]*)').exec(document.cookie)) ? decodeURIComponent(result[1]) : null;}function wnd_xy() {wnd_st = jQuery(document).scrollTop();wnd_y = jQuery(window).height();wnd_x = jQuery(window).width();doc_x = jQuery(document).width();doc_y = jQuery(document).height();}function wnd_sr() {wnd_xy();upi_ol.xy_opac();}/* Copyright (c) 2007 Ariel Flesler - aflesler ○ gmail • com | https://github.com/flesler * Licensed under MIT * @author Ariel Flesler * @version 2.1.3 */;(function(factory){'use strict';if(typeof define==='function'&&define.amd){define(['jquery'],factory)}else if(typeof module!=='undefined'&&module.exports){module.exports=factory(require('jquery'))}else{factory(jQuery)}})(function($){'use strict';var $scrollTo=$.scrollTo=function(target,duration,settings){return $(window).scrollTo(target,duration,settings)};$scrollTo.defaults={axis:'xy',duration:0,limit:true};function isWin(elem){return!elem.nodeName||$.inArray(elem.nodeName.toLowerCase(),['iframe','#document','html','body'])!==-1}function isFunction(obj){return typeof obj==='function'}$.fn.scrollTo=function(target,duration,settings){if(typeof duration==='object'){settings=duration;duration=0}if(typeof settings==='function'){settings={onAfter:settings}}if(target==='max'){target=9e9}settings=$.extend({},$scrollTo.defaults,settings);duration=duration||settings.duration;var queue=settings.queue&&settings.axis.length>1;if(queue){duration/=2}settings.offset=both(settings.offset);settings.over=both(settings.over);return this.each(function(){if(target===null){return}var win=isWin(this),elem=win?this.contentWindow||window:this,$elem=$(elem),targ=target,attr={},toff;switch(typeof targ){case 'number':case 'string':if(/^([+-]=?)?\d+(\.\d+)?(px|%)?$/.test(targ)){targ=both(targ);break}targ=win?$(targ):$(targ,elem);case 'object':if(targ.length===0){return}if(targ.is||targ.style){toff=(targ=$(targ)).offset()}}var offset=isFunction(settings.offset)&&settings.offset(elem,targ)||settings.offset;$.each(settings.axis.split(''),function(i,axis){var Pos=axis==='x'?'Left':'Top',pos=Pos.toLowerCase(),key='scroll'+Pos,prev=$elem[key](),max=$scrollTo.max(elem,axis);if(toff){attr[key]=toff[pos]+(win?0:prev-$elem.offset()[pos]);if(settings.margin){attr[key]-=parseInt(targ.css('margin'+Pos),10)||0;attr[key]-=parseInt(targ.css('border'+Pos+'Width'),10)||0}attr[key]+=offset[pos]||0;if(settings.over[pos]){attr[key]+=targ[axis==='x'?'width':'height']()*settings.over[pos]}}else{var val=targ[pos];attr[key]=val.slice&&val.slice(-1)==='%'?parseFloat(val)/100*max:val}if(settings.limit&&/^\d+$/.test(attr[key])){attr[key]=attr[key]1){if(prev===attr[key]){attr={}}else if(queue){animate(settings.onAfterFirst);attr={}}}});animate(settings.onAfter);function animate(callback){var opts=$.extend({},settings,{queue:true,duration:duration,complete:callback&&function(){callback.call(elem,targ,settings)}});$elem.animate(attr,opts)}})};$scrollTo.max=function(elem,axis){var Dim=axis==='x'?'Width':'Height',scroll='scroll'+Dim;if(!isWin(elem)){return elem[scroll]-$(elem)[Dim.toLowerCase()]()}var size='client'+Dim,doc=elem.ownerDocument||elem.document,html=doc.documentElement,body=doc.body;return Math.max(html[scroll],body[scroll])-Math.min(html[size],body[size])};function both(val){return isFunction(val)||$.isPlainObject(val)?val:{top:val,left:val}}$.Tween.propHooks.scrollLeft=$.Tween.propHooks.scrollTop={get:function(t){return $(t.elem)[t.prop]()},set:function(t){var curr=this.get(t);if(t.options.interrupt&&t._last&&t._last!==curr){return $(t.elem).stop()}var next=Math.round(t.now);if(curr!==next){$(t.elem)[t.prop](next);t._last=this.get(t)}}};return $scrollTo});jQuery(document).ready(function () {jQuery(".scroll-top").click(function () {jQuery("html, body").animate({scrollTop: 0}, "slow");return false;});wnd_sr();jQuery(window).resize(function () {wnd_sr();}).scroll(function () {wnd_xy();});}).keyup(function (e) {if(e.keyCode == 27 && upi_ol.ol_shown) {upi_ol.close();}}).resize(function () {wnd_sr();}).scroll(function () {wnd_xy();});function upi_sb() {var hi = jQuery('.t_s_c');var cont = jQuery('.t_s_c .s_dd');if(cont.is(":visible")) {cont.fadeOut(100);} else {cont.fadeIn(100);}jQuery('.ss_af').focus();}function fn_cxy(c1, c2, c_x, px_x) {if(jQuery('#px').width() x) {asp = ps[0] / ps[1];xy[0] = x;xy[1] = (x / asp);if(xy[1] > y){asp = xy[1] / xy[0];xy[0] = (y / asp);xy[1] = y;}}else if(ps[1] > y) {asp = ps[1] / ps[0];xy[0] = (y/ asp);xy[1] = y;if(xy[0] > x){asp = xy[0] / xy[1];xy[0] = x;xy[1] = (x/ asp);}}}if(!xy[0]) {xy[0] = ps[0];xy[1] = ps[1];}return xy;}function generateUUID() {var d = new Date().getTime();var d2 = (performance && performance.now && (performance.now()*1000)) || 0;return 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(/[xy]/g, function(c) {var r = Math.random() * 16;if(d > 0){r = (d + r)%16 | 0;d = Math.floor(d/16);} else {r = (d2 + r)%16 | 0;d2 = Math.floor(d2/16);}return (c === 'x' ? r : (r & 0x3 | 0x8)).toString(16);});}if(upirc('_upi_uid') == null) {upicc('_upi_uid', generateUUID(), 10);}
-	
-	{
-	"@context": "https://schema.org",
-	"@type":"NewsArticle",
-	"url":"https://www.upi.com",
-	"mainEntityOfPage":{
-	"@type":"WebPage",
-	"@id":"https://www.upi.com/Top_News/World-News/2026/05/04/North-Korea-womens-soccer-tournament-Suwon-Naegohyang-AFC-Womens-Champions-League/7091777887398/",
-	"url":"https://www.upi.com/Top_News/World-News/2026/05/04/North-Korea-womens-soccer-tournament-Suwon-Naegohyang-AFC-Womens-Champions-League/7091777887398/"
-	}, "headline": "North Korean women’s soccer team to play in South Korea tournament - UPI.com","image": [
-			"https://cdnph.upi.com/ph/st/th/7091777887398/2026/upi_com/c8abaae7f65c3c27e9c8f6617c49161a/v1.2/North-Korean-womens-soccer-team-to-play-in-South-Korea-tournament.jpg",
-			"https://cdnph.upi.com/ph/st/th/7091777887398/2026/upi_com/c8abaae7f65c3c27e9c8f6617c49161a/v2.1/North-Korean-womens-soccer-team-to-play-in-South-Korea-tournament.jpg",
-			"https://cdnph.upi.com/ph/st/th/7091777887398/2026/upi_com/c8abaae7f65c3c27e9c8f6617c49161a/v1.5/North-Korean-womens-soccer-team-to-play-in-South-Korea-tournament.jpg"
-		],	"datePublished": "2026-05-04T05:53:04-04:00", 
-	"author": [{"@type": "Person", "name": "Thomas Maresca", "url": "https://www.upi.com/author/Thomas-Maresca/"}],"publisher": {"@type": "NewsMediaOrganization","name": "UPI","logo": {"@type": "ImageObject","url": "https://www.upi.com/img/upi-logo.png","width": 448, "height": 448}}, "description": "A North Korean women's soccer team will travel to South Korea later this month to compete in a regional tournament, Seoul's Unification Ministry said Monday."}	 
-	
-	
-	 
-	!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/259c763b00655f2d4f71e9bb5/c3761bc2876111e03218292e0.js");
-	
+Singapore's Changi Airport has lost its pole position as the world's best airport to Doha's Hamad International Airport, according to air transport rating firm Skytrax.
 
+This is the third time Hamad International Airport clinched the top spot, after winning the title in 2021 and 2022.
 
+Travelers of more than 100 nationalities participated in the Skytrax survey, which also named Hamad International Airport as the best airport in the world for shopping.
 
-	
-		
-			
-				
-					
-						
-							
-							
-						
-						
-						
-							
-							U.S. News
-							
-								World News 
-								
-																		Korea Regional Review
-									Latin America Region
-								
-														
-							
-							
-							Odd News
-							
-								Entertainment 
-								
-									Movies
-									Music
-									TV
-																	
-							
-							
-								Sports 
-								
-								
-									NFL
-									MLB
-									NBA
-									Soccer
-																	
-							
-														Voices
-														Photos 
-								
-									News
-									US News
-									World News
-									Entertainment
-									Sports
-																	
-							
-														
-								Archive 
-								
-																		Almanac
-								
-							
-														
-							
-								
-								
-								
-									
-										
-										
-									
-									
-								
-							
-						
-					
-				
-			
-		
-	
+Changi Airport has been crowned the world's best airport 12 times by Skytrax, including winning first place consecutively from 2013 to 2020, and again in 2023.
 
+In this year's survey, the city-state's airport won the titles of "Best Airport in Asia" and the "World's Best Airport Immigration Service."
 
-	
+South Korea's Incheon International Airport rose to third place — from No. 4 in 2023 — and was named the world's most family-friendly airport for the year.
 
-	
-		
-			
-				
-					Trending
-						Oliver Tree					USA, Iran					Infant formula 					Snakes in a house					Plane crash					UFC event 					James Comey					Marius Borg Hoiby					Largest soccer ball  				
-			
-		
-	
+Tokyo's Haneda Airport came in fourth and was also named the "World's Cleanest Airport." It processed 70 million passengers in 2023 — the most of any airport on Skytrax's list — according to the company.
 
+Tokyo's other major international airport, Narita International Airport, ranked No. 5 on the list. It was recognized for its customer service, winning the title of "World's Best Airport Staff."
 
-	
-		
-	
-
-		
-
-	
-		
-			
-				  World News
-						May 4, 2026 / 5:53 AM					
-
-			North Korean women's soccer team to play in South Korea tournament
-						.author-social{ display: flex; }.author-social .flex{ flex: 1;}.author-social .follow-us{   flex: 0 0 375px;  text-align: right;  }
-			
-			
-				
-					By Thomas Maresca
-									
-				
-					
-															
-						
-						
-						
-																									
-
-			
-		
-	
-
-
-	
-		
-.noscroll{overflow:hidden;}@keyframes tonext{75%{left:0;}95%{left:100%;}98%{left:100%;}99%{left:0;}}@keyframes tostart{75%{left:0;}95%{left:-300%;}98%{left:-300%;}99%{left:0;}}@keyframes snap{96%{scroll-snap-align:center;}97%{scroll-snap-align:none;}99%{scroll-snap-align:none;}100%{scroll-snap-align:center;}}@media screen and (min-width:479px){.carousel-container{z-index:9999999998 !important;}.carousel-container-bg{z-index:9999999998 !important;}.slide-caption{color:#fff;height:20%;margin:auto;max-width:745px;padding:15px;width:100%;position:absolute;bottom:0;right:0;left:0;overflow:auto;background:#000000;}}@media screen and (max-width:478px){.carousel-container{z-index:9999998 !important;}.carousel-container-bg{z-index:9999998 !important;}.slide-caption{color:#fff;height:150px;margin:auto;margin-bottom:65px;max-width:745px;padding:15px;width:100%;position:absolute;bottom:0;right:0;left:0;overflow:auto;background:#000000;}}.carousel-container{display:none;padding:0;position:fixed;top:0;bottom:0;left:0;right:0;}.carousel-container-bg{display:none;padding:0;background:#000;position:fixed;top:0;bottom:0;left:0;right:0;}.carousel-container .carousel__viewport{box-sizing:border-box;scrollbar-color:transparent transparent; /* thumb and track color */scrollbar-width:0px;}.carousel-container .carousel__viewport::-webkit-scrollbar{width:0;}.carousel-container .carousel__viewport::-webkit-scrollbar-track{background:transparent;}.carousel-container .carousel__viewport::-webkit-scrollbar-thumb{background:transparent;border:none;}.carousel-container .carousel__viewport{-ms-overflow-style:none;}.carousel__viewport ol, .carousel__viewport li{list-style:none;margin:0;padding:0;}.carousel{position:relative;filter:drop-shadow(0 0 10px #0003);width:100%;height:100%;}.carousel__viewport{position:absolute;top:0;right:0;bottom:0;left:0;display:flex;overflow-x:scroll;scroll-behavior:smooth;scroll-snap-type:x mandatory;}.carousel__slide{position:relative;flex:0 0 100%;width:100%;background-repeat:no-repeat;background-position:center center;background-size:auto 100%;}.carousel__slide:nth-child(even){background-repeat:no-repeat;background-position:center center;background-size:auto 100%;}.carousel__slide img{max-height:100%;max-width:100%;}.slide-container{display:block;margin:auto;position:relative;height:100%;}.slide-image{text-align:center;display:flex;align-items:center;justify-content:center;position:absolute;max-width:100%;transform:translate(-50%, -50%);top:40%;left:50%;height:80%;width:100%;}.carousel__slide:before{position:absolute;top:50%;left:50%;transform:translate3d(-50%, -40%, 70px);color:#fff;font-size:2em;height:100%;}.carousel__viewport::-webkit-scrollbar{height:0; /* Remove scrollbar space */background:transparent; /* Optional:just make scrollbar invisible */}.carousel__snapper{position:absolute;top:0;left:0;width:100%;height:100%;scroll-snap-align:center;pointer-events:none;}@media (hover:hover){.carousel__snapper{}.carousel__slide:last-child .carousel__snapper{animation-name:tostart, snap;}}@media (prefers-reduced-motion:reduce){.carousel__snapper{animation-name:none;}}.carousel:hover .carousel__snapper,.carousel:focus-within .carousel__snapper{animation-name:none;}.carousel__navigation{position:absolute;right:0;bottom:0;left:0;text-align:center;}.carousel__navigation-list,.carousel__navigation-item{display:inline-block;}.carousel__navigation-button{display:inline-block;width:1.5rem;height:1.5rem;border:0.25rem solid transparent;border-radius:50%;font-size:0;transition:transform 0.1s;}.arrow-container.right{right:0;}.arrow-container.left{left:0;}@media screen and (min-width:640px){.arrow-container{position:absolute; background:rgba(255,255,255,0.6); width:45px; height:60px;}.slide-container-arrows{cursor:pointer; position:absolute; top:calc(50% - 30px); -webkit-transform:translateY(-50%); -moz-transform:translateY(-50%); -ms-transform:translateY(-50%); -o-transform:translateY(-50%); transform:translateY(-50%); width:100%;}.slide-container-arrows .arrow{border:solid #000; border-width:0 3px 3px 0; display:inline-block; padding:3px; height:30px; width:30px;}.arrow.right{position:absolute; right:15px; transform:translateY(-50%) rotate(-45deg); -webkit-transform:translateY(-50%) rotate(-45deg); top:50%;}.arrow.left{position:absolute; left:15px; transform:translateY(-50%) rotate(135deg); -webkit-transform:translateY(-50%) rotate(135deg); top:50%;}.carousel::before, .carousel::after, .carousel__prev, .carousel__next{pointer-events:auto; position:absolute; top:50%; width:30px; height:30px; transform:translateY(-50%); font-size:0; outline:0;}.carousel::before, .carousel::after{content:''; z-index:1; color:#fff; top:50%; font-size:2.5rem; line-height:4rem; text-align:center; pointer-events:none;}.carousel::before, .carousel__prev{left:30px;}.carousel::after, .carousel__next{right:30px;}.carousel__prev, .carousel__next{position:absolute; top:calc(50% + 30px); width:50px; height:70px; transform:translateY(-50%); font-size:0; outline:0;}}@media screen and (max-width:639px){.arrow-container{position:absolute; background:rgba(255,255,255,0.6); width:25px; height:40px;}.slide-container-arrows{cursor:pointer; position:absolute; top:calc(50% - 30px); -webkit-transform:translateY(-50%); -moz-transform:translateY(-50%); -ms-transform:translateY(-50%); -o-transform:translateY(-50%); transform:translateY(-50%); width:100%;}.slide-container-arrows .arrow{border:solid #000; border-width:0 3px 3px 0; display:inline-block; padding:3px; height:10px; width:10px;}.arrow.right{position:absolute; right:8px; transform:translateY(-50%) rotate(-45deg); -webkit-transform:translateY(-50%) rotate(-45deg); top:50%;}.arrow.left{position:absolute; left:8px; transform:translateY(-50%) rotate(135deg); -webkit-transform:translateY(-50%) rotate(135deg); top:50%;}.carousel::before, .carousel::after, .carousel__prev, .carousel__next{pointer-events:auto; position:absolute; top:40%; width:20px; height:20px; transform:translateY(-40%); font-size:0; outline:0;}.carousel__prev, .carousel__next{position:absolute; top:calc(40% + 10px); width:60px; height:70px; transform:translateY(-50%); font-size:0; outline:0;}.carousel::before, .carousel::after{content:''; z-index:1; color:#fff; top:40%; font-size:2.5rem; line-height:4rem; text-align:center; pointer-events:none;}.carousel.no_arrow::before, .carousel.no_arrow::after{display:none;}.carousel::before, .carousel__prev{left:30px;}.carousel::after, .carousel__next{right:30px;}}.carousel__prev{left:15px;}.carousel__next{right:15px;}.carousel::before{border:solid #fff; border-width:0 3px 3px 0; display:inline-block; padding:3px; transform:rotate(135deg); -webkit-transform:rotate(135deg);}.carousel::after{border:solid #fff; border-width:0 3px 3px 0; display:inline-block; padding:3px; transform:rotate(-45deg); -webkit-transform:rotate(-45deg);}.close-icon{height:60px;width:60px;border-radius:5px;position:absolute;right:15px;top:15px;z-index:999;}.close-icon:hover{cursor:pointer;}.close-icon:before, .close-icon:after{content:'';position:absolute;width:57px;height:4px;background-color:white;border-radius:2px;top:16px;-webkit-transition:all 0.2s;-moz-transition:all 0.2s;-ms-transition:all 0.2s;-o-transition:all 0.2s;transition:all 0.2s;}.close-icon:hover:before, .close-icon:hover:after{background-color:#12679b;}.close-icon:before{-webkit-transform:rotate(45deg);-moz-transform:rotate(45deg);transform:rotate(45deg);left:2px;}.close-icon:after{-webkit-transform:rotate(-45deg);-moz-transform:rotate(-45deg);transform:rotate(-45deg);right:2px;}.slide-caption .counter, .slide-image-container .counter{padding:0 5px;background-color:#12679b;display:inline-block;color:#fff;position:absolute;bottom:0;left:0;}.stph_caption{padding-top:15px; color:#666666; font-size:14px;}.slide-image-container{position:relative; max-height:455px; width:100%; text-align:center; overflow:hidden;}.slide-image-container img{width:100%; max-height:455px; aspect-ratio:attr(width) / attr(height); height:auto;}.carousel__viewport li:focus{-webkit-tap-highlight-color:transparent; -webkit-touch-callout:none; -webkit-user-select:none; -khtml-user-select:none; -moz-user-select:none; -ms-user-select:none; user-select:none; outline:none !important;}				
-
-	
-
-  A North Korean women’s soccer team will travel to South Korea later this month to compete in a regional tournament, Seoul’s Unification Ministry said Monday. In this 2024 file photo, North Korean supporters cheer at a FIFA World Cup qualification match in Tokyo. File Photo by Franck Robichon/EPA
-    
-		
-			article ul	li { list-style: disc; padding: 5px 0; }
-		
-		
-				
-			
-			
-				
-		
-		
-
-SEOUL, May 4 (UPI) -- A North Korean women's soccer team will travel to South Korea later this month to compete in a regional tournament, Seoul's Unification Ministry said Monday, marking the first inter-Korean sports exchange since 2018.
-
-Naegohyang Women's FC is set to face Suwon FC Women in the semifinals of the Asian Football Confederation Women's Champions League on May 20 at Suwon Stadium, as part of the tournament's finals stage being held in South Korea.
-
-Pyongyang notified Seoul on May 1 that a 39-member delegation -- including 27 players and 12 staff -- will make the trip, according to a briefing shared by the Unification Ministry with reporters. The team is scheduled to arrive at Incheon International Airport via Beijing on May 17.
-
-The exchange will be the first since a period of detente in 2018, when North Korea participated in the Pyeongchang Winter Olympics, fielding a unified women's ice hockey team with the South. Pyongyang later sent athletes to additional sporting events, including a youth football tournament in Gangwon Province.
-
-Relations have soured in the years since, with North Korea officially designating the South as a "most hostile state."
-
-South Korean President Lee Jae Myung has sought to ease inter-Korean tensions since taking office in June, calling for the resumption of dialogue and making conciliatory gestures such as dismantling border propaganda loudspeakers.
-
-The North has rebuffed such overtures, however, while continuing to expand its military posture.
-
-Naegohyang, founded in 2012 and backed by a domestic manufacturing company, has emerged as a rising force in North Korean women's football, according to the ministry. The squad won the country's top league in the 2021-22 season and includes several players with experience on national youth teams that won recent FIFA U-17 and U-20 Women's World Cups.
-
-The club advanced to the semifinals after finishing second in Group C and defeating Ho Chi Minh City Women's FC 3-0 in the quarterfinals. It also beat Suwon 3-0 in a group-stage meeting in November.
-
-North Korea's women's national team is ranked 11th in the world and second in Asia, according to FIFA.
-
-Sports exchanges between the two Koreas date back to 1990, with more than 80 such interactions recorded through 2019, including joint teams in international competitions and joint marches at major events such as the Olympics.
-
-The last time a North Korean women's soccer team played in the South was during the 2014 Incheon Asian Games.
+The rankings are based on questionnaires sent to airport customers between August 2023 and March 2024. Passengers evaluated key airport services, such as check-in and transfer experiences, immigration clearance, shopping and departures.

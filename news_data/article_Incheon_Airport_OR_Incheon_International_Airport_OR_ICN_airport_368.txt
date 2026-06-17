@@ -1,8 +1,68 @@
-Title: 'Like a military operation': Koreans narrate horror stories of US immigration raid
-Source: The Times of India
-URL: https://economictimes.indiatimes.com/news/international/world-news/like-a-military-operation-koreans-narrate-horror-stories-of-us-immigration-raid/articleshow/123862130.cms
+Title: Jungkook's 'Seven' Beats FIFTY FIFTY; Now 2023's Most Streamed Song By A K-Pop Artist On Spotify
+Source: International Business Times
+URL: https://www.ibtimes.com/jungkooks-seven-beats-fifty-fifty-now-2023s-most-streamed-song-k-pop-artist-spotify-3710941
 --------------------------------------------------
 
-Synopsis
+EditionsAustralia EditionKorea EditionJapan EditionIndia EditionSingapore EditionUnited KingdomUnited States
+ doFir.push(function(){if(getCookie('nwsubl')){jQuery(".login-btn .sign-up2").hide();jQuery(".login-btn .myaccount").show()};jQuery(".login-btn .myaccount").on('click',function(e){e.preventDefault();jQuery(".login-btn ul").toggle()});jQuery(document).ready(function(){jQuery(".myaccount").add(".m-manage").each(function(){jQuery(this).attr('href','https://myaccount.ibtimes.com/manage')})})}) fqtag.fscmd.push(function(){LJS("https://users.api.jeeng.com/users/domains/V1DXygbq01/sdk/")}) googletag.cmd.push(function () { if(dfpSlots.slotobjs["top"]){ ibt_log("ADS GPT register ad slot top", Date.now()-timerStart); googletag.display("dfp-ad-top"); } });if(/top\|[0-1]\|1/.test(dfpSlots.pginfo[ibtmedia_device])) document.getElementById("ad-top-wrapper").className+=" block-sticky"  dfpSlots.vplayer=(['ibtuk','ibtus'].indexOf(site_id)>-1)?'primis player':'NoVideo';if(site_id=='ibtuk'&&oa.geo.country!='IL'&&ibtmedia_device=='mobile')dfpSlots.vplayer='NoVideo';if(/adtest=primis/.test(location.href))dfpSlots.vplayer='primis player';else if(/adtest=native/.test(location.href))dfpSlots.vplayer='ibt player';if(dfpSlots.vplayer=='primis player'){if(site_id=='ibtus'){dfpSlots.primis='117767'}else dfpSlots.primis='117814';dfpSlots.primisVideo=function(){if(dfpSlots.primisVideoLoaded)return;dfpSlots.primisVideoLoaded=1;if(adBlock=='Y')return;var d=document,gi='getElementById',s=d.createElement('script');s.type='text/javascript';s.src='https://live.primis.tech/live/liveView.php?s='+dfpSlots.primis+'&cbuster='+Date.now();if(window.ibt_avf){ibt_avf.appendChild(s);d.body.classList.add('video-primis')}else d[gi]('tvplayer').appendChild(s)}}
+if(dfpSlots.vplayer=='NoVideo'&&document.getElementById('ibt-mobile-avf'))document.getElementById('ibt-mobile-avf').remove();dataLayer[0].VideoABTest=dfpSlots.vplayer;var ibt_avf=(brW Jungkook’s ‘Seven’ Beats FIFTY FIFTY; Now 2023’s Most Streamed Song By A K-Pop Artist On Spotify
 
-South Korean workers returned home after being detained in the US. They described a raid at a car battery plant in Georgia. US authorities arrested workers on visa issues. Detainees reported poor conditions. Families expressed relief and anger. Some fear career repercussions. The incident strained relations between South Korea and the US.
+
+By
+
+ Floralyn Teodoro 
+
+
+Published 09/06/23 AT 11:57 PM EDT
+Share on Facebook
+Share on Twitter
+Share on LinkedIn
+Share on Reddit
+Share on Flipboard doFir.push(function(){var flipboard=1;jQuery(".genericon-flipboard").on('click',function(e){e.preventDefault();e.stopPropagation();if(flipboard){flipboard=0;LJ('https://cdn.flipboard.com/web/buttons/js/flbuttons.min.js',function(){jQuery(".genericon-flipboard").trigger('click')})}})}) Share on Pocket
+
+
+
+
+BTS' Jungkook "Seven" concept photo.
+instagram.com/bts.bighitofficial
+
+KEY POINTSJungkook released his highly-anticipated solo debut single "Seven" on July 14FIFTY FIFTY released its first single album, "The Beginning: Cupid," on Feb. 24"Seven" surpassed the Spotify streams of "Cupid (Twin Version)" in just 54 daysA new record has been added to Jungkook's list of achievements for his solo debut digital single "Seven."
+
+On Tuesday, Chart Data reported that Jungkook's single featuring American rapper Latto became the most streamed K-Pop song of the year on Spotify. "Seven" currently has 604,194,282 streams on the online music streaming platform, beating the 598,691,555 streams of FIFTY FIFTY's "Cupid (Twin Version)" in just 54 days.
+
+#JungKook and @Latto's "Seven" is now the most streamed 2023 K-pop song on Spotify, surpassing FIFTY FIFTY's "Cupid". pic.twitter.com/kagdzE6ysp
+
+So far, Jungkook's "Seven," FIFTY FIFTY's "Cupid (Twin Version) and Jimin's "Like Crazy" are the year's top three most streamed songs on Spotify, per BTS Charts Daily.
+
+📊 Fastest songs by Male Acts to reach 600 million streams on Spotify history!#1.  #Jungkook Seven — 54 days (NEW)#2. As It Was — 61 days (-1)#3. STAY — 64 days pic.twitter.com/Q8u7LMy2Wk
+
+The 26-year-old South Korean singer released his solo debut single, "Seven," on July 14. It was described by BigHit Music as an "invigorating summer song" that would make listeners feel the "full breadth of Jungkook's charm."
+
+On the first day of the track's release, it surpassed 15.9 million streams on the online music streaming platform, making BTS's "Golden Maknae" the only artist aside from Taylor Swift to achieve such a historic feat, reported Soompi.
+
+Early in August, "Seven" also set a Guinness World Record as the most-streamed track on Spotify Charts in one week for a male artist, with 89.7 million streams.
+
+"Seven" has also become the fastest track to reach 100 million streams on Spotify for a male artist. It achieved the record just eight days after its worldwide release.
+
+.@Spotify reveals most streamed Songs of the Summer 2023. pic.twitter.com/gaS3DxQnvy
+
+Both "Seven" and "Cupid (Twin Version)" were also included in Spotify's 2023 Global Songs of Summer, grabbing the third and eleventh spots respectively.
+
+Jungkook and FIFTY FIFTY are the only K-Pop artists on the list this year.
+
+q. you have hit so many milestones with 'seven'. are there a few that stand out to you?jungkook: billboard hot100, ranking #1 there, ranking #3 on the uk official singles chart, and ranking #1 on the korean music shows, thank you for that. and topping the spotify global charts.… pic.twitter.com/xx5SS6BxR2
+
+Talking about his solo debut and its achievements on iHeartRadio's "Ask Anything Chat," Jungkook said topping Spotify's Global charts was a milestone for him.
+
+"Billboard Hot 100, ranking No. 1 there; ranking No. 3 on the U.K. official singles chart and ranking No. 1 on Korean music shows...and, topping the Spotify Global charts. I think that's about it," the youngest member of BTS said.
+
+Jung Kook will be joining @GlblCtzn as a headliner for #GlobalCitizenFestival in Central Park, NYC to help call for urgent action to end extreme poverty. Join Global Citizens from around the world and take action today! 📆 Sept 23, 4PM ET 🔗 https://t.co/B5S9g005Pr… pic.twitter.com/450twXSsO1
+
+On Wednesday, BigHit Music announced that Jungkook will be headlining the upcoming Global Citizen Festival in New York City, a music fest aiming to help call for urgent action to end extreme poverty.
+
+On Tuesday, Jungkook was seen at Incheon Airport departing for his overseas schedule. He even went viral for dancing randomly while walking through the airport and for doing the jumping "V" pose.
+
+정국 (Jung Kook) ‘Seven (feat. Latto)’ MV Photo Sketch
+BTS 방탄소년단/Facebook
+
+© Copyright IBTimes 2026. All rights reserved.

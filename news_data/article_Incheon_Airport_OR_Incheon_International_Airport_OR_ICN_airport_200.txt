@@ -1,90 +1,70 @@
-Title: North Korea Trash Balloons Force Airport to Close
-Source: Biztoc.com
-URL: https://biztoc.com/x/3a6dbf0dbf20d48a
+Title: Is A Jungkook, J Balvin Collaboration In The Works? Here Are Some Clues
+Source: International Business Times
+URL: https://www.ibtimes.com/jungkook-j-balvin-collaboration-works-here-are-some-clues-3711086
 --------------------------------------------------
 
-Market Summary
+EditionsAustralia EditionKorea EditionJapan EditionIndia EditionSingapore EditionUnited KingdomUnited States
+ doFir.push(function(){if(getCookie('nwsubl')){jQuery(".login-btn .sign-up2").hide();jQuery(".login-btn .myaccount").show()};jQuery(".login-btn .myaccount").on('click',function(e){e.preventDefault();jQuery(".login-btn ul").toggle()});jQuery(document).ready(function(){jQuery(".myaccount").add(".m-manage").each(function(){jQuery(this).attr('href','https://myaccount.ibtimes.com/manage')})})}) fqtag.fscmd.push(function(){LJS("https://users.api.jeeng.com/users/domains/V1DXygbq01/sdk/")}) googletag.cmd.push(function () { if(dfpSlots.slotobjs["top"]){ ibt_log("ADS GPT register ad slot top", Date.now()-timerStart); googletag.display("dfp-ad-top"); } });if(/top\|[0-1]\|1/.test(dfpSlots.pginfo[ibtmedia_device])) document.getElementById("ad-top-wrapper").className+=" block-sticky"  dfpSlots.vplayer=(['ibtuk','ibtus'].indexOf(site_id)>-1)?'primis player':'NoVideo';if(site_id=='ibtuk'&&oa.geo.country!='IL'&&ibtmedia_device=='mobile')dfpSlots.vplayer='NoVideo';if(/adtest=primis/.test(location.href))dfpSlots.vplayer='primis player';else if(/adtest=native/.test(location.href))dfpSlots.vplayer='ibt player';if(dfpSlots.vplayer=='primis player'){if(site_id=='ibtus'){dfpSlots.primis='117767'}else dfpSlots.primis='117814';dfpSlots.primisVideo=function(){if(dfpSlots.primisVideoLoaded)return;dfpSlots.primisVideoLoaded=1;if(adBlock=='Y')return;var d=document,gi='getElementById',s=d.createElement('script');s.type='text/javascript';s.src='https://live.primis.tech/live/liveView.php?s='+dfpSlots.primis+'&cbuster='+Date.now();if(window.ibt_avf){ibt_avf.appendChild(s);d.body.classList.add('video-primis')}else d[gi]('tvplayer').appendChild(s)}}
+if(dfpSlots.vplayer=='NoVideo'&&document.getElementById('ibt-mobile-avf'))document.getElementById('ibt-mobile-avf').remove();dataLayer[0].VideoABTest=dfpSlots.vplayer;var ibt_avf=(brW Is A Jungkook, J Balvin Collaboration In The Works? Here Are Some Clues
 
-Markets are leaning risk-on after U.S.-Iran ceasefire optimism, with oil pulling back and equities rallying. The S&P 500 and Nasdaq jumped Monday as volatility eased, while the Dow also hit a fresh record close. Investors are now pivoting to central-bank catalysts—especially the Fed and Japan—after the Bank of Japan’s rate hike fueled fresh moves in yields and FX.
 
-U.S.-Iran Deal Green-Lights Strait of Hormuz Reopen... Oil Slides on Optimism
+By
 
-The US and Iran have reached a framework for an interim ceasefire and steps to reopen the Strait of Hormuz. Traders are reacting to the expected flow of oil and the knock-on effects for inflation and risk assets.
+ Floralyn Teodoro 
 
-Figure of the Day
 
-1% - Bank of Japan policy rate after hike to highest since 1995.
+Published 09/07/23 AT 10:32 PM EDT
+Share on Facebook
+Share on Twitter
+Share on LinkedIn
+Share on Reddit
+Share on Flipboard doFir.push(function(){var flipboard=1;jQuery(".genericon-flipboard").on('click',function(e){e.preventDefault();e.stopPropagation();if(flipboard){flipboard=0;LJ('https://cdn.flipboard.com/web/buttons/js/flbuttons.min.js',function(){jQuery(".genericon-flipboard").trigger('click')})}})}) Share on Pocket
 
-Hormuz Reopen Plan... Recovery Could Take Weeks or Months for Full Flow
 
-Even as markets price a peace dividend, analysts warn the energy shock may take time to unwind. Shipping, safety and inventory rebuilding all face delays despite the deal headline.
 
-U.S. Treasury Yields Drop to One-Month Low After Iran Deal News
 
-Inflation and rates are in the spotlight as energy prices move and central banks react. The evolving macro outlook is feeding volatility in bonds, FX and equities.
+Screenshot from Jungkook's exclusive "Ask Anything Chat" 
+AskAnythingChat/YouTube
 
-Bullish
+KEY POINTSFans think Colombian singer J Balvin's latest social media posts are hinting at somethingSome went back to one of Jungkook's answers on iHeartradio's "Ask Anything Chat"Jungkook was recently spotted at Incheon International Airport for his flight to Los AngelesSome fans think a collaboration between BTS' Jungkook and Colombian singer J Balvin may be in the works after the latter seemingly dropped clues on social media.
 
-SpaceX Shares Rise After Record Nasdaq IPO Debut
+The speculations started after J Balvin, also referred to as the "Prince of Reggaeton," posted an Instagram Story on Wednesday with Jungkook's "Seven" as the music and "Jungkook en la vibra (Jungkook in the vibe)" as the text.
 
-SpaceX’s first trading day on the Nasdaq continued to build momentum, underscoring investor appetite for the IPO’s AI-and-satellite growth story. More on qz.com
+That same day, J Balvin tweeted an emoji of a hand stop sign and a peace sign, which seemed to add up to seven.
 
-Bank of Japan Raises Rates to 31-Year High... Yen, Bonds and Risk Assets React
+JBALVIN X JUNGKOOK SOON OR- 👀 pic.twitter.com/a9CJtNpAOE
 
-Japan’s policy shift is driving a major repricing of rates, FX and risk assets. The Bank of Japan’s move to a 31-year high is feeding global market momentum and crypto sensitivity.
+The tweet has since gained over 1,097 reposts, 1,413 quotes and 6,935 likes, with fans wondering if there could be a new remix version of Jungkook's solo debut single.
 
-Australia Central Bank Warns Rate Hikes Might Not Be Over After Holding Fire
+"[Are] we getting another remix with J Balvin?" tweeted one fan; another commented, "[Jungkook] said he wanted to release another single... What if? What if it's the [second] hint?"
 
-Australia’s central bank is signaling that the hiking cycle may not be done. Officials held rates while warning that further tightening could still be needed, keeping pressure on rate expectations.
+"Latin ARMYs, we're getting another Spanish banger," claimed another fan, while a different fan stated, "[I don't know] what it is, but [someone] is excited here. Don't spoil. Let's save it for the best."
 
-Bearish
+"Jungkook in his Latino era. Let's gooo!" tweeted another fan.
 
-OpenAI Losses Jumped Nearly 8X in 2025... Spending Hit $34 Billion
+q. you mentioned wanting to do latin music in the future. do you have a favorite latin artist?jungkook: i like rosalia, and the famous j balvin and becky g. i think that's about it pic.twitter.com/9OdgzFE3fj
 
-OpenAI’s 2025 losses widened sharply alongside massive spending, renewing questions about near-term profitability as the company scales compute and product demands. More on wheresyoured.at
+In Jungkook's recent guesting on "Ask Anything Chat" on iHeartRadio's "Most Requested Live," he was asked about his favorite Latin artists.
 
-China’s Consumer Spending Falls for First Time Since Covid... Retail Weakens
+The South Korean singer revealed that among the Latin artists, his favorites are Rosalia, J Balvin and Becky G.
 
-China’s consumer demand is showing fresh weakness, with retail sales falling and spending slowing further. The data underlines a struggle to sustain growth without exports and external support.
+The 26-year-old K-Pop idol departed Seoul via Incheon International Airport Tuesday for an overseas schedule.
 
-Nikkei Tops 70,000 for the First Time After BOJ Rate Call
+Jungkook's exact overseas activities haven't been disclosed.
 
-The Bank of Japan and the Middle East peace narrative are feeding big moves in equities. The Nikkei’s break to new highs is happening alongside a broader rebound in Asia-Pacific markets.
+Jung Kook will be joining @GlblCtzn as a headliner for #GlobalCitizenFestival in Central Park, NYC to help call for urgent action to end extreme poverty. Join Global Citizens from around the world and take action today! 📆 Sept 23, 4PM ET 🔗 https://t.co/B5S9g005Pr… pic.twitter.com/450twXSsO1
 
-Regulatory Impact
+In other news, BigHit Music announced Wednesday that Jungkook will be headlining the upcoming Global Citizen Festival in New York City, a music fest aiming to help call for urgent action to end extreme poverty.
 
-The U.S. expanded export controls targeting Anthropic’s most advanced models, while discussions with the White House continue amid lawsuits and calls to adjust or lift restrictions. Separately, the Bank of Japan raised its policy rate to 1% and signaled further tightening remains possible.
+"The festival sheds light on important causes and drives action, and I'm happy to take part in it," Jungkook said, per the Associated Press. "I can't wait to perform in front of many people at the Great Lawn in Central Park," he added.
 
-Cybersecurity Experts Ask Feds to Lift Restrictions on Mythos
+Seven by Jungkook is nominated for “Song Of The Summer” at the MTV Video Music Awards (VMA’s) 2023. pic.twitter.com/Y6Q3cw1kI4
 
-The legal and regulatory fight around Anthropic’s cutting-edge models is escalating across Washington. Export controls, lawsuits, and White House involvement are all intensifying uncertainty for AI deployment.
+Meanwhile, Jungkook's "Seven" has been nominated for the Song Of Summer category at the MTV Video Music Awards 2023.
 
-Bitcoin ETF Flows Turn Negative... Every Other Crypto ETF Gains
+His song will compete with Beyoncé's "Cuff It," Billie Eilish's "What Was I Made For?," Doechii ft. Kodak Black's "What It Is (Block Boy)," Doja Cat's "Paint The Town Red," Dua Lipa's "Dance the Night," FIFTY FIFTY's "Cupid (Twin Version), Gunna's "fukumean," Luke Combs' "Fast Car," Nicki Minaj and Ice Spice's "Barbie World," Olivia Rodrigo's "vampire," SZA's "Kill Bill," Taylor Swift ft. Ice Spice's "Karma," TXT and Jonas Brothers' "Do It Like That," Troye Sivan's "Rush" and Yng Lvcas and Peso Pluma's "La Bebe (Remix)."
 
-Crypto markets are reacting to macro headlines and policy expectations, with bitcoin trading more cautiously than many alts. ETF flows and profit-taking are driving day-to-day swings.
+Screenshot from 정국 (Jung Kook) 'Seven' Recording Film
+BANGTANTV/YouTube
 
-Quote
-
-“Killer Fable 5 Export Curbs slow China's AI Model Race...”
-
-— U.S. policy/White House rationale referenced in coverage (Anthropic export-control decision reporting)
-
-SMCZ vs. SMCX... Betting Against or All-In on Super Micro?
-
-Super Micro and the short/leveraged ETF trade has become a focal point for retail positioning. The debate is centered on whether investors are betting against the stock or doubling down.
-
-Microsoft Turns to Amazon to Deal With GitHub AI Capacity Issues
-
-Microsoft is scrambling after GitHub AI outages tied to capacity constraints. The response is to draw on Amazon resources, highlighting how AI demand strains cloud infrastructure.
-
-Qualcomm CEO Says AI Agents Will Replace Apps... Works on 40 New AI Devices
-
-AI-related investment and product strategy are expanding across major tech platforms. The headlines show a shift toward agentic systems and new AI hardware designs.
-
-SpaceX Stock Rises After Record Nasdaq IPO Debut
-
-SpaceX is moving from spectacle to market plumbing, and investor positioning is the story. The company’s IPO has already triggered huge activity and continued price momentum.
-
-Fox to Buy Roku for $22 Billion... Streaming Power Play
-
-Fox is making a major move into the living room with a $22 billion Roku acquisition. The deal ties content, connected TV distribution and advertising into a single platform.
+© Copyright IBTimes 2026. All rights reserved.

@@ -1,54 +1,34 @@
-Title: Air Canada expands multimodal connections in Italy, Spain, Britain and South Korea
-Source: Boardingarea.com
-URL: https://economyclassandbeyond.boardingarea.com/2024/11/08/air-canada-expands-multimodal-connections-in-italy-spain-britain-and-south-korea/
+Title: 5 Unanswered Questions About the South Korea Plane Crash
+Source: New York Magazine
+URL: http://nymag.com/intelligencer/article/5-unanswered-questions-about-the-south-korea-plane-crash.html
 --------------------------------------------------
 
-Whilst air travel can be a major component of a journey, you need to get to the airport and onward from it. Air Canada is hosting its multi-modal connectivity across Europe to Italy, Spain, Britain and South Korea
+The Jeju Air 737 crash in South Korea on Sunday that killed all but two of the people onboard was in many respects as baffling as it was tragic. Given the scant information currently available, it’s hard even to piece together a coherent picture of what happened. “There’s a lot more questions than there are answers,” says Jim Brauchle, an aviation attorney who flew transport planes in the U.S. Air Force and now investigates air crashes as part of his law practice.
 
-The new rail and bus options expand the Air Canada Intermodal offering previously launched in December 2023 in France, Germany, Switzerland and Austria. The service is in partnership with AccessRail. With this, Air Canada passengers can book connecting rail or bus segments in more countries on www.aircanada.com as part of their itinerary.
+What we do know is that the plane was inbound from Bangkok, Thailand, to Muan, South Korea, with 175 passengers and six crew members when it apparently flew into a flock of birds and sucked at least one into an engine as it came in to land. Video taken from the ground appears to show a puff of smoke coming from the plane’s right engine, signaling a compressor stall that would have caused the engine to lose some if not all of its thrust.
 
-Customers can check in for the train or bus portion of their trip with AccesRail prior to departure, avoiding the need to obtain a separate train or bus ticket. As well, customers experiencing any flight disruption will have both their air and land segments rebooked to provide peace of mind.
+The flight crew declared an emergency and aborted the landing. Around this time, the plane stopped transmitting its speed and location data via an automatic system called ADS-B, which lets the plane be tracked on websites like FlightRadar24. At the moment of its final transmission, the plane was a mile and half from the approach end of the runway and about 500 feet above the surface.
 
-New options include
+The aircraft swung around to attempt a landing coming in from the north. As it approached the end of the runway, it seemed to be under positive control of the flight crew but was not configured in the normal way for landing with flaps down and landing gear deployed. As a result, it was flying faster than normal and so had more speed to lose before it could settle onto the ground. Video appears to show the thrust reversers deployed, but they apparently did little to slow the plane.
 
-Italy—Air Canada flies into Rome and Milan, allowing passengers to connect Trenitalia’s range of services and travel to 30 destinations, including Florence, Naples, and Reggio di Calabria.
+By the time the 737 eventually did settle onto the ground, it was far down the runway. It then careered off the end of the asphalt and hit a berm at more than 100 mph. The fuselage broke up and burst into flames. The only survivors were two flight attendants who were strapped into backward-facing seats with shoulder harnesses at the very back of the plane.
 
-Spain – Air Canada connects to Barcelona and Madrid, allowing connections to RENFE’s high-speed train network. as well as the regional networks. This opens up destinations including Cadiz, Granada, Pamplona, and Zaragoza.
+Once crash investigators recover the black boxes and listen to what the pilots were saying in the cockpit, it will likely become clear what they were intending to do and how the incident unfolded. For now, aviation experts find several aspects of the crash deeply puzzling.
 
-United Kingdom – With Air Canada operating 49 flights a week to Heathrow, there are further onward travel options via AccessRail including:
+Why didn’t the landing gear deploy?
 
-Avanti West Coast
+Judging by video recorded by witnesses on the ground, the plane did not have its wheels down as it came in for its initial landing attempt. Normally, these are deployed several miles out. The failure to have the landing gear down in the first place raises the troubling possibility that the flight crew never realized the gear was up.
 
-Great Western Railway
+Why did it lose a key communications system?
 
-LNER
+A bird strike can destroy an engine, but that shouldn’t affect the system that transmits the ADS-B data or other communications systems. “The only thing I can think of is if maybe another bird hit the antenna,” says Brauchle.
 
-TransPennine Express
+Why didn’t the plane immediately land?
 
-In addition, AccesRail will allow connections via National Express for coach journeys to 28 destinations.
+An aircraft coming in to land is intentionally losing speed, so it doesn’t need a lot of engine power. The pilot’s handbook for the 737 specifies that if a bird strike occurs during landing, the pilot can elect to put the plane on the ground.
 
-South Korea – Air Canada Toronto, Vancouver, Montreal (summer only) to Seoul’s Incheon International Airport. From there you can connect to KORAIL’s KTX high-speed Trains via the AREX Express and Seoul Station. This opens up destinations including Busan, Dongdaegu, Gwangju, Jinju, Mokpo, Pohang, Ulsan and Yeosu.
+Why didn’t the crew troubleshoot the problems?
 
-Other Intermodal Connections
+Rather than landing, the flight crew decided to increase engine power and climb away from the runway. If the engines were functioning well enough to allow this, there should have been time to fly to a nearby area where the crew could maintain a holding pattern while running through checklists to troubleshoot the problems. They could have asked for help from the ground, from their airline’s maintenance department, for example. Instead, they rushed to get the plane back on the ground, and in their haste, they seem to have skipped important steps that would have made the odds of survival much better. “We always used to say, ‘No fast hands in the cockpit,’” Brauchle says. “If something happens, just take a beat.”
 
-Air Canada launched in December 2023 new air-to-rail booking options for customers to connect at airports in France, Germany, Switzerland and Austria with four major passenger rail systems. Through the airline’s partnership with Lufthansa Express Rail Product and new collaborations with AccesRail & WorldTicket, customers can use a streamlined booking process on Air Canada’s site to create a seamless travel itinerary that connects their flight with trips on trains operated by France’s TGV-SNCF Voyageurs, Germany’s Deutsche Bahn, Swiss Federal Railways or ÖBB, the national railway of Austria.
-
-In Quotes
-
-Mark Galardo, Executive Vice President of Revenue and Network Planning and President, Cargo at Air Canada said<
-
-“Following a successful launch in Europe last year, Air Canada is further growing its intermodal strategy to more European gateways and to Asia making it possible for our customers to connect on Trenitalia, Renfe , 5 operators in the UK including National Express, and KORAIL in South Korea. The expanded offer will make it easy for our customers flying to and from our international hubs to add convenient rail or bus connections on a single itinerary. Our intermodal connections not only provide more choice, but also make available sustainable options for short-haul segments of their journey,
-
-Increasing the Multi-Modal Mix
-
-Whilst air travel is an important part of how we get from A to B over a long distance, how we get to our final destinations is important too, without the need to wander to a hire car, or how to travel in a country with a completely different transport system that you might not be familiar with.
-
-Having your travels compressed down to one ticket for everything – along with booking re-accommodation if the worst happens gives reassurance to a traveller that they can travel with confidence, rather than allowing for extended timings or peak tickets to cover “the worst possibilities”.
-
-As airlines attempt to be more sustainable, having the ability to drop domestic or regional flights in favour of high-quality transit connections (be it by rail or coach) will become even more important.
-
-Welcome to Economy Class and Beyond. Your no-nonsense guide to network news, honest reviews, in-depth coverage, unique research, as well as the humour and madness I only know how to deliver.
-
-Our Social Media pool has expanded. You can find us across most networks as @economybeyond on Twitter, Mastodon, BlueSky, Threads and Instagram!
-
-Also, remember that we are part of the BoardingArea community, bringing you the latest frequent flyer news from around the world.
+It’s worth noting that even if the 737 had suffered some kind of mechanical failure that prevented the flight crew from deploying the landing gear, that doesn’t mean the plane couldn’t have been landed without loss of life. In 2011, a Boeing 767 operated by Poland’s LOT Airlines suffered a failure of its hydraulic system that made it impossible to lower the landing gear. The plane circled the airport at Warsaw for more than an hour to burn off as much fuel as possible, then conducted a carefully planned belly landing that left everyone onboard uninjured.

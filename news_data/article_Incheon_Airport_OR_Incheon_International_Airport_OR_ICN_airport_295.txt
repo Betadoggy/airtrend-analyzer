@@ -1,40 +1,59 @@
-Title: South Korea sends chartered plane to fetch workers who were detained in immigration raid in US
-Source: TheJournal.ie
-URL: https://www.thejournal.ie/south-korea-sends-plane-to-fetch-workers-detained-in-us-immigration-raid-6812470-Sep2025/
+Title: South Korea Warns Of 'Decisive' Action Against Trash Balloons
+Source: International Business Times
+URL: https://www.ibtimes.com/south-korea-warns-decisive-action-against-trash-balloons-3744249
 --------------------------------------------------
 
-A CHARTERED PLANE departed Seoul for the United States today to repatriate hundreds of South Korean workers detained in an immigration raid, flag carrier Korean Air has said.
+EditionsAustralia EditionKorea EditionJapan EditionIndia EditionSingapore EditionUnited KingdomUnited States
+ doFir.push(function(){if(getCookie('nwsubl')){jQuery(".login-btn .sign-up2").hide();jQuery(".login-btn .myaccount").show()};jQuery(".login-btn .myaccount").on('click',function(e){e.preventDefault();jQuery(".login-btn ul").toggle()});jQuery(document).ready(function(){jQuery(".myaccount").add(".m-manage").each(function(){jQuery(this).attr('href','https://myaccount.ibtimes.com/manage')})})}) fqtag.fscmd.push(function(){LJS("https://users.api.jeeng.com/users/domains/V1DXygbq01/sdk/")}) googletag.cmd.push(function () { if(dfpSlots.slotobjs["top"]){ ibt_log("ADS GPT register ad slot top", Date.now()-timerStart); googletag.display("dfp-ad-top"); } });if(/top\|[0-1]\|1/.test(dfpSlots.pginfo[ibtmedia_device])) document.getElementById("ad-top-wrapper").className+=" block-sticky"  dfpSlots.vplayer=(['ibtuk','ibtus'].indexOf(site_id)>-1)?'primis player':'NoVideo';if(site_id=='ibtuk'&&oa.geo.country!='IL'&&ibtmedia_device=='mobile')dfpSlots.vplayer='NoVideo';if(/adtest=primis/.test(location.href))dfpSlots.vplayer='primis player';else if(/adtest=native/.test(location.href))dfpSlots.vplayer='ibt player';if(dfpSlots.vplayer=='primis player'){if(site_id=='ibtus'){dfpSlots.primis='117767'}else dfpSlots.primis='117814';dfpSlots.primisVideo=function(){if(dfpSlots.primisVideoLoaded)return;dfpSlots.primisVideoLoaded=1;if(adBlock=='Y')return;var d=document,gi='getElementById',s=d.createElement('script');s.type='text/javascript';s.src='https://live.primis.tech/live/liveView.php?s='+dfpSlots.primis+'&cbuster='+Date.now();if(window.ibt_avf){ibt_avf.appendChild(s);d.body.classList.add('video-primis')}else d[gi]('tvplayer').appendChild(s)}}
+if(dfpSlots.vplayer=='NoVideo'&&document.getElementById('ibt-mobile-avf'))document.getElementById('ibt-mobile-avf').remove();dataLayer[0].VideoABTest=dfpSlots.vplayer;var ibt_avf=(brW 
 
-South Koreans made up the majority of people arrested at a Hyundai-LG battery plant under construction in the US state of Georgia last week, according to immigration agents.
 
-The operation was the largest single-site raid conducted under US President Donald Trump’s immigration crackdown, according to an investigating agent.
+World
 
-US immigration authorities said last week detained 475 people, most of them South Korean nationals, when hundreds of federal agents raided Hyundai’s sprawling manufacturing site where the Korean automaker makes electric vehicles.
+ if(document.querySelector(".breadcrumb").innerHTML.trim()==''){document.querySelector(".breadcrumb").parentNode.parentNode.removeChild(document.querySelector(".breadcrumb").parentNode)} 
+South Korea Warns Of ‘Decisive’ Action Against Trash Balloons
 
-Video released by US immigration and customs enforcement on Saturday showed a caravan of vehicles driving up to the site and then federal agents directing workers to line up outside.
 
-Some detainees were ordered to put their hands up against a bus as they were frisked and then shackled around their hands, ankles and waist.
+By
 
-A Korean Air Boeing 747-8I, which seats over 350 passengers, left from Seoul today, a company representative told AFP.
+ AFP News 
 
-“The chartered plane left around 10:20 am for the US,” said the spokeswoman.
 
-“A timeline for the return flight has not been finalised,” she added.
+Published 09/23/24 AT 12:21 AM EDT
+Share on Facebook
+Share on Twitter
+Share on LinkedIn
+Share on Reddit
+Share on Flipboard doFir.push(function(){var flipboard=1;jQuery(".genericon-flipboard").on('click',function(e){e.preventDefault();e.stopPropagation();if(flipboard){flipboard=0;LJ('https://cdn.flipboard.com/web/buttons/js/flbuttons.min.js',function(){jQuery(".genericon-flipboard").trigger('click')})}})}) Share on Pocket
 
-Local media broadcast footage showing what they described as the chartered plane taking off from Incheon International Airport.
 
-Citing diplomatic sources, Yonhap news agency reported that the plane would leave the United States with the workers at 3:30 am Thursday (7.30pm Irish time).
 
-Seoul’s foreign minister Cho Hyun headed to Washington on Monday for further talks, calling the mass detention of South Koreans a “grave situation” and pledging to secure the workers’ swift return “in good health”.
 
-Before departing, Cho told South Korean MPs that “a tentative agreement” had been reached with US authorities to ensure the detained workers would not face penalties, such as a five-year ban on re-entry.
+A handout photo provided by the South Korean Defence Ministry shows garbage carried by a North Korean balloon that landed in Seoul in JuneNorth Korea has sent hundreds more trash-filled balloons across the border in a fresh blitz, Seoul's military said on June 9, as the tit-for-tat balloon barrages between the two neighbours accelerates.
+AFP
 
-“I can tell you that negotiations are going well,” he said.
+South Korea said Monday it would take "decisive military action" if anyone is killed by the wave of trash-carrying balloons being launched across the border by North Korea.
 
-In addition to being a key US security ally, South Korea is Asia’s fourth-biggest economy and a major automaker and electronics producer, and its companies have multiple plants in the United States.
+Pyongyang has sent more than 5,500 balloons carrying payloads of garbage since May, disrupting flights, causing fires, and even hitting government buildings in the South.
 
-Seoul has also heeded Washington’s repeated call during tariff negotiations for global investment in the United States.
+Pyongyang says the tactic is a response to activists in the South sending balloons carrying propaganda to the North.
 
-The site of the raid is a $4.3 billion joint venture between two South Korean firms – Hyundai and LG Energy Solution – to build a battery cell manufacturing facility in Georgia.
+Seoul "will take decisive military actions if the North's trash-filled balloons post a serious safety threat or are deemed to have crossed a line", Lee Sung-joon, of the Joint Chiefs of Staff, told reporters.
 
-Experts said most of the detained South Korean workers were likely to hold visas that do not allow for hands-on construction work.
+The line would be crossed if anyone died as a result of the balloons he said, without giving details on exactly what the "decisive" measures would entail.
+
+Most of the balloons sent by the North have bags of waste paper attached, which pose no specific health risk, but concerns have been raised after new devices attached to some caused fires in recent weeks.
+
+"Our military is closely monitoring North Korean military and tracking the launch point of the balloons in real time," the JCS's Lee said.
+
+The warning came hours after the latest balloon launch briefly disrupted flights at Incheon airport.
+
+Shortly after the North's launch of trash-filled balloons in May, Seoul suspended a military deal with Pyongyang and restarted propaganda broadcasts from loudspeakers along the border.
+
+Relations between North and South Korea are at one of their lowest points in years, with the North recently announcing the deployment of 250 ballistic missile launchers to its southern border.
+
+The North also earlier this month released images of its uranium enrichment facility for the first time, showing leader Kim Jong Un touring as he called for more centrifuges to boost his nuclear arsenal.
+
+The country, which conducted its first nuclear test in 2006 and is under rafts of UN sanctions for its banned weapons programmes, had never publicly disclosed details of its uranium enrichment facility before.
+
+"The North could carry out its seventh nuclear test any time Kim Jong Un gives a greenlight... including before or after the US presidential election" in November, Shin Won-sik, the president's national security adviser, said Monday in an interview with Yonhap News TV.

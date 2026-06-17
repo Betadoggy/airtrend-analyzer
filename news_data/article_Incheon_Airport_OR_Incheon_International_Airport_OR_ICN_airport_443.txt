@@ -1,58 +1,60 @@
-Title: The world's best airport is building a mega terminal to ride the travel boom in Asia
-Source: CNBC
-URL: https://www.cnbc.com/2025/05/15/airport-expansion-race-in-asia-heats-up-with-singapores-changi-t5.html
+Title: Israel’s Challenge Group prepares to fly all-new 777 converted freighter
+Source: Yahoo Entertainment
+URL: https://www.yahoo.com/news/israel-challenge-group-prepares-fly-190848641.html
 --------------------------------------------------
 
-Asia is set to see a travel boom, and countries in the region are gearing up to exploit this surge in demand.
+Challenge Group, Israel’s only all-cargo operator, on Monday announced plans to lease two additional Boeing 777-300ER converted freighters as it aggressively pursues fleet expansion to increase market reach amid strong shipping demand.
 
-Singapore's Changi Airport on Wednesday broke ground on its fifth terminal, which is expected to be operational in the mid-2030s.
+The airline said it reached agreement with global lessor AerCap for two of the former passenger jets, which are being retrofitted by Israel Aerospace Industries to carry large cargo containers. It previously committed to take four 777-300 passenger-to-freighter conversions.
 
-The new terminal, which sits on a plot of land 1,080 hectares large, will almost double the size of Changi Airport's existing area.
+IAI is expected this year to be first to market with a converted 777 freighter, once its design for adding a wide cargo door, reinforcing the fuselage, modifying the crew compartment and making other changes is approved by regulators. The 777 freighters in service today are all production models made by Boeing.
 
-This will allow the airport to handle 140 million passengers per year from its current capacity of 90 million passengers. Changi, which was most recently awarded Skytrax's "World's Best Airport" in 2025 for the 13th time, welcomed 67.7 million passengers in 2024.
+It’s unclear when Challenge Group will receive its initial 777 freighter, but when it does it will likely be the first to operate a converted 777 from a base in Europe. The 777s will be registered to its Maltese operation.
 
-Airports that can handle more than 100 million passengers annually are classified as mega airports, and three out of the 10 existing ones are in Asia, according to airport industry body Airport Council International. These are in Beijing, Tokyo and Shanghai.
+Tel Aviv-based Challenge Group operates 10 aircraft (six Boeing 747-400s and four 767-300s) across three airlines licensed in Israel, Belgium and Malta. Its main hub is at Liege Airport in Belgium, where it has a 430,500-square-foot cargo terminal. A logistics subsidiary also handles middle-mile delivery to distribution centers at European destinations.
 
-watch now
+Last year, Challenge Group added two Boeing 767-300 converted freighters by IAI and two Boeing 747-400 cargo jets. One of the 747s was owned by China Airlines and in desert storage until August, according to the Planespotters.com database.
 
-ACI projects that air travel will grow nearly 7% over the next 25 years. To cope with the demand, airports in the Asia-Pacific and Middle East regions are poised to undergo extensive development, with combined investments of $240 billion for upgrading existing facilities and building new airports between 2025 and 2035.
+Two and a half years ago, Challenge, formerly CAL Cargo Airlines, only had four 747-400 cargo jets. The 747s allow the company to handle a large amount of nonstandard cargo.
 
-Speaking at the groundbreaking event, Singapore Prime Minister Lawrence Wong said the decision to build Terminal 5 was because "over the longer term, air travel is on a rising trajectory, and the bulk of the growth will take place here in the Asia-Pacific region."
+Challenge Group last month said the latest jumbo jet is primarily being deployed to carry e-commerce shipments from China but also will address rising demand for perishable transportation out of Africa and support trans-Atlantic business.
 
-Wong also said that with Terminal 5, Changi will aim to connect with 200 cities, up from the current 170 city links it has now.
+The additional 767 aircraft enabled the company to launch a new twice-weekly service to Delhi, India, in early October, complementing its three existing weekly flights to Mumbai used by pharmaceutical, automotive, textile, electronics and high-tech customers. Challenge Group in December launched twice-weekly 767 service to Nairobi, Kenya, from Liege. Earlier in the year, it opened a route to Dubai via Tel Aviv.
 
-"[Changi] has connected our small island nation to the world, and brought the world to Singapore. And this connectivity has powered our growth as an air hub, driving industries like tourism, aerospace and logistics," Wong said, pointing out that the aviation ecosystem now contributes 5% of Singapore's GDP.
+The medium-size freighters also freed up capacity on 747 aircraft for increased long-haul work between Europe, Asia and the United States, according to a Challenge Group news release.
 
-Expansion spree
+Last year the airline transported more than 200,000 tons of cargo, including 5,000 horses and 600 aircraft engines. The company recently invested in a specialized engine dolly with advanced shock-absorbing cushions that protects sensitive engines from tarmac vibrations during the journey from the offloading point to the aircraft door.
 
-Competition in the region is also intensifying, Wong noted. For example, airports in Asia are investing significantly in modernizing their infrastructure and adjacent facilities like entertainment and retail spaces.
+777 conversion waits for green light
 
-Hong Kong International Airport commissioned a third runway in November and is expanding the airport's Terminal 2. The airport's goal, it said, is to serve 120 million passengers and handle 10 million tonnes of cargo annually from 2035.
+The 777-300 passenger-to-freighter development program is entering its final phase, Israel Aerospace Industries said in a statement provided to FreightWaves.
 
-Bangkok's Suvarnabhumi Airport opened a third runway in September 2024, boosting the airport's capacity to handle more flights, following the completion of a new satellite terminal a year earlier.
+IAI, which has decades of experience converting Boeing 737s, 767s and 747s, said it has secured dozens of orders for the 777-300 conversion. An IAI official in June 2023 claimed the company had 60 firm orders for the aircraft. Canadian all-cargo operator Cargojet early last year pulled its reservation for four production slots because of concerns about tepid market conditions.
 
-Thailand's airport operator also revealed a further "East Expansion" plan to increase the airport's capacity by 2027.
+IAI partnered with AerCap (NYSE: AER) on the conversion program. AerCap is supplying used 777s from its portfolio that have reached their useful life as passenger aircraft and is leasing the modified units to cargo airlines.
 
-In South Korea, Seoul's Incheon International Airport completed its "Phase 4 expansion" in December, allowing it to handle an annual passenger capacity of up to 106 million from 77 million, and making it the world's third-largest airport.
+Michigan-based Kalitta Air is the Big Twin launch customer and committed to lease seven airframes. Other customers include Emirates, with an order for 10 777 conversions, and Taiwan-based EVA Air.
 
-Thomas Pellegrin, Transportation, Hospitality and Services Sector Leader from Deloitte Southeast Asia, told CNBC that Asia has become the "barycenter" of air travel growth after the Covid-19 pandemic.
+The redesigned jets are dubbed the “Big Twin” because of the 777’s size and two GE-90 engines. With 25% more interior volume than a 777-200, the 777-300 Extended Range freighter is well suited for lightweight e-commerce shipments that take up a lot of space and don’t weigh as much as other commodities. It has 14% more volume and 10 tons more payload than a 747-400 and is 21% more fuel-efficient, according to IAI.
 
-This growth in air travel is due to the expansion of the middle class, whose propensity to fly increases faster than income growth, as well as the high urbanization rate in the region, which connects people to air transport infrastructure, he noted.
+The reconfigured 777-300 is scheduled to conduct final validation flights with the Federal Aviation Administration in the U.S. during February. The FAA and Israel Civil Aviation Authority are expected to issue supplemental type certificates (STCs) for commercial use by the end of the first quarter or early second quarter, the IAI statement said.
 
-"The regional increase in passenger demand is now forecast at 7.9% in the near term and 5.1% in the long term, which is the highest worldwide and well above mature markets," Pellegrin added.
+The company has already completed conversions on four aircraft. Five more aircraft are at different stages of modification at IAI hangers.
 
-This means that Asian airports will need to accommodate roughly twice as many passengers and aircraft by 2043, creating tremendous pressure on the existing infrastructure, he said.
+“Following STC approval, five to six aircraft will be released to the market immediately,” IAI said.
 
-Tourism boom for Singapore
+The aircraft will help an air cargo market where demand increased more than 10% last year and widebody freighters could ease capacity constraints, especially in the busy trans-Pacific corridor where only 15% of pre-pandemic passenger services have been restored because of tensions between the U.S. and China.
 
-Terminal 5 will also feed into Singapore's plan to increase tourism revenue in the city-state from a record-breaking $29.8 billion in 2024 to $47 billion-$50 billion in the next 15 years.
+IAI originally planned for the plane to enter service in 2022, but the pandemic disrupted development and the supply of components. U.S. and Israeli certification of the airframe modification design has also been slowed repeatedly since 2023. The prototype took its first test flight in the fourth quarter of 2023.
 
-Its "Tourism 2040" strategy centers on increasing demand from two distinct groups — business and stopover travelers, Grace Fu, Singapore's minister for sustainability and the environment, said in April.
+Aerospace executives say many new conversion programs have been delayed because the FAA and other air safety regulators are dealing with manpower shortages and have been preoccupied overseeing Boeing’s extensive manufacturing problems in recent years. FAA officials are also extra cautious after fallout from the deadly crashes of the 737 MAX, quality control problems with 787 fuselages and a door plug on a 737 MAX9 that blew out during flight raised questions about the thoroughness of the agency’s oversight.
 
-In particular, officials aim to triple tourism revenue from business travelers attending meetings, incentives, conventions and exhibitions, Fu said.
+IAI has arranged production partnerships for 777-300 conversions with Etihad Engineering in Abu Dhabi, Sharp Technics K at Incheon airport in Seoul, South Korea, and Ascent Aviation Services in Marana, Arizona, to help expedite deliveries.
 
-According to Singapore Tourism Board CEO Melissa Ow, transit and transfer passengers currently make up a third of Changi Airport's overall traffic.
+Click here for more FreightWaves/American Shipper articles by Eric Kulisch.
 
-Terminal 5, as well as the broader Changi East development — which also includes a third runway and an industrial zone — will allow Singapore to retain and grow its market share as an air hub, increase connectivity and solidify Changi's standing as the best airport in the world, Deloitte's Pellegrin said.
+Write to Eric Kulisch at ekulisch@freightwaves.com.
 
-"All these effects combine to give Singapore outsized 'soft power' internationally."
+RECOMMENDED READING:
+
+Emirates leases additional Boeing 747 freighters to meet shipper demand

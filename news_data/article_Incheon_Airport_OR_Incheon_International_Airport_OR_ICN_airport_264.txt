@@ -1,38 +1,94 @@
-Title: Delta is Launching Flights Between Salt Lake City and Seoul
-Source: Atxjetsetter.com
-URL: https://atxjetsetter.com/post/delta-is-launching-flights-between-salt-lake-city-and-seoul/
+Title: US vows to strengthen alliance with S. Korea
+Source: Biztoc.com
+URL: https://biztoc.com/x/3b575db6f68691e5
 --------------------------------------------------
 
-It’s been a crazy weekend and I know I’m late to the party but, Delta Air Lines announced this week that they will be launching flights between Salt Lake City and Seoul Incheon Airport (ICN).
+Market Summary
 
-This flight will mark the first transpacific service from Salt Lake City International Airport (SLC) in over ten years. The airline previously operated flights between Salt Lake City and Tokyo’s Narita Airport (NRT) but these flights were eliminated in 2011.
+Stocks were broadly supported by risk-on sentiment as investors processed the U.S.-Iran interim progress, but the rebound looks fragile heading into central-bank catalysts. The S&P 500 and Nasdaq traded with attention on rates and oil, while volatility cues remained elevated. Sector leadership skewed toward AI- and energy-linked names as traders balanced easing energy risks against ongoing inflation and Fed timing.
 
-The new route will launch on June 12th, 2025 and featuring daily, year round, flights using Airbus A350-900 aircraft. The flights are blocked at 13 hours and 15 minutes eastbound and 12 hours and 40 minutes westbound. They will operate on the following schedule:
+SpaceX to buy AI coding start-up Cursor for $60 billion - in stock deal
 
-Salt Lake City (SLC) to Seoul (ICN)
+SpaceX is reshaping big-tech’s market structure again—this time through a $60 billion push into AI coding agents. Multiple filings and coverage point to a rapid post-IPO buildout that’s already moving valuations.
 
-DL 173 Departs: 11:05a Arrives: 3:20p (+1)
+Figure of the Day
 
-Seoul (ICN) to Salt Lake City (SLC)
+15.4% - US housing starts fell in May, down to a 1.177 million annualized rate
 
-DL 172 Departs: 7:20p Arrives: 4:15p
+Brent slips below $80 - as U.S.-Iran deal boosts supply hopes
 
-These flights are currently on sale at Delta.com but be prepared to pay a pretty penny if you want to hop aboard. Roundtrip tickets in economy almost $3,000 with Delta One clocking in at more than $14,000.
+Markets are treating the interim U.S.-Iran understanding as an economic catalyst, with oil sliding and risk appetite improving. The data points to supply logistics still lagging behind deal headlines.
 
-In announcing the new route, Joe Esposito, Delta’s Senior Vice President of Network Planning, had this to say about the new route:
+Warsh faces tightrope in first Fed meeting - markets wait for rate signal
 
-“The launch of Salt Lake City to Seoul service offers customers convenient access to Delta’s growing global network and ensures that virtually all U.S. demand is connected to Seoul via nonstop or one-stop service. As Salt Lake City continues to grow as a vital Delta hub, our strong joint venture with Korean Air allows us to offer unmatched connectivity between the U.S. and Asia, leveraging strong hubs on both sides.”
+Fed policy is back on center stage as Warsh takes the chair amid uncertainty on inflation and rate paths. Coverage focuses on what his first meeting likely means for bonds and the rally’s durability.
 
-Salt Lake City Continues to Grow for Delta
+Bullish
 
-The launch of Seoul service is the latestaddition for Delta in Salt Lake City. The airport is one of Delta’s fastest growing hubs with roughly 250 daily flights to more than 90 destinations. While the airline primarily utilizes Salt Lake City as a domestic hub, new service to Seoul will compliment the carrier’s existing transatlantic routes to Amsterdam (AMS), London (LHR), and Paris (CDG). This probices even more options for Delta travelers in the Mountain West.
+BlackRock launches bitcoin income fund - offers cash flow alongside BTC exposure
 
-The route is the latest addition since Delta opened its gorgeous new hub facility back in 2020. The airline currently has more than 50 gates at Salt Lake City International Airport (SLC) with further expansion on the horizon as the airport continues to build out Concourse B (Concourse A was finished in October 2023).
+BlackRock’s new bitcoin income fund pairs spot bitcoin exposure with a covered-call approach to generate income, giving institutions more ways to access crypto without giving up yield potential. More on theblock.co
 
-Hopefully, with the airline’s continued commitment to growth in Salt Lake CIty, we see additional international routes launched as more gates come online. Also, selfishly, I hope Delta continues to prioritize these types of adds as I want to see direct flights between my home airport of Austin and Seoul as they continue to add routes there.
+Bank of Japan lifts rates to 31-year high - yen and carry-trade in focus
 
-Summary
+Central banks are moving on inflation and currency pressure, with the Bank of Japan leading. The rate lift ripples across FX and risk assets globally.
 
-Delta Air Lines is launching flights between Salt Lake City and Seoul. The new route will be the carrier’s first transpacific route from its Mountain West hub since it cancelled flights to Tokyo-Narita in 2011. The route will operate as year round, daily service on the carrier’s flagship A350 aircraft.
+US strategic oil reserve hits lowest level since 1983 - supply cushion thins
 
-(Image courtesy Delta Air Lines)
+Energy security and supply management remain the dominant macro constraint—even as diplomatic progress emerges. The Strategic Petroleum Reserve and Hormuz reopening dynamics frame pricing and risk.
+
+Bearish
+
+B-52 bomber crash after takeoff - all eight crew onboard killed
+
+A B-52 Stratofortress crashed shortly after takeoff during a routine test mission at Edwards Air Force Base, with all eight crew members killed as authorities launch an investigation. More on tippinsights.com
+
+GM eyes defense expansion - in talks to build weapon parts with Lockheed Martin
+
+Defense is accelerating through industrial deal-making, with GM moving into weapons production discussions. The story clusters defense procurement risk and supply chain expansion together.
+
+G7 allies question Trump’s Hormuz optimism - stocks waver amid reopening uncertainty
+
+Geopolitical tensions are testing oil and trade flows across the Middle East while allies press for clarity on shipping safety. The focus is less on headlines and more on implementation details.
+
+Regulatory Impact
+
+Regulators are tightening oversight in parallel: the CRTC warned Bell and Telus to drop wireless fees or face compliance action, while the EU is pressing banks on capital-rule simplification rather than broad overhauls.
+
+Fox buys Roku for $22 billion - streaming push expands Murdoch media footprint
+
+Corporate M&A continues to target streaming and AI-adjacent assets, with Fox pushing deep into Roku and the broader content pipeline. The deal is framed as a strategic pivot in the TV ad era.
+
+Bank regulator targets overlap in capital rules - EU resists banks’ plea for overhaul
+
+Telecom and banking regulators are increasing scrutiny around fees and capital rules, turning compliance into a market-moving theme. The pair highlights enforcement risk and rule complexity for large institutions.
+
+Quote
+
+“Let’s not panic.”
+
+— Brad Smith, Microsoft vice chair and president
+
+Trump’s Anthropic crackdown sets off AI alarms for U.S. allies - export controls bite
+
+High-profile AI governance clashes are escalating, with Anthropic model controls drawing alarm from cybersecurity and industry circles. The cluster captures regulation-through-enforcement and its international spillover.
+
+Starbucks Korea to temporarily shut all stores - history lesson after bungled coffee promo
+
+Starbucks is dealing with reputational blowback as its Korea promotion triggers broad store closures. The story is a corporate turn-around stress signal tied to brand management failure.
+
+Yum to sell Pizza Hut for $2.7 billion - sharp focus shift after years of struggles
+
+Pizza Hut is being sold at scale as Yum trims struggling assets, with private equity stepping in. The coverage highlights a major portfolio reset tied to profitability pressure.
+
+US housing starts collapse in May - lowest since COVID as sentiment sours
+
+Markets are digesting housing deterioration with a sharp May drop in starts and affordability pressure. The cluster is built around employment-linked demand and construction activity cooling.
+
+US-Iran peace progress helps push Treasury yields lower - investors reprice inflation path
+
+Bank of Japan and bond repricing are intersecting with broader risk shifts, while yields and FX volatility stay in play. The cluster reflects the immediate transmission path to markets.
+
+B-52 bomber goes down after takeoff - all eight crew onboard killed
+
+A deadly B-52 crash at Edwards Air Force Base adds crisis weight across defense and aviation safety. The story is immediate, fatal, and likely to trigger investigations.

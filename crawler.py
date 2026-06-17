@@ -62,7 +62,7 @@ class NewsCrawler:
         return '[+' in text and 'chars]' in text
 
     def run(self, query, page_size=1000, language='en'):
-        # 날짜 설정 (최근 2년)
+        # 날짜 설정 (최근 3년)
         two_years_ago = (datetime.now() - timedelta(days=365 * 3)).strftime('%Y-%m-%d')
         
         total_collected = 0

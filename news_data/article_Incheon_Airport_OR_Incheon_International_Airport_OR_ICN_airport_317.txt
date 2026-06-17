@@ -1,70 +1,94 @@
-Title: South Korea Orders Airline Safety Probe After Worst Domestic Crash Kills 179
-Source: Insurance Journal
-URL: https://www.insurancejournal.com/news/international/2024/12/30/806295.htm
+Title: South Korea Vows 'Stern Military Action' After Trash Balloons From Kim Jong Un's North Korea Disrupt Country's Busiest Airport
+Source: Biztoc.com
+URL: https://biztoc.com/x/c8e87fbec4b9550f
 --------------------------------------------------
 
-South Korea’s acting President Choi Sang-mok ordered on Monday an emergency safety inspection of the country’s entire airline operation as investigators worked to identify victims and find out what caused the deadliest air disaster on South Korean soil.
+Market Summary
 
-All 175 passengers and four of the six crew were killed when a Jeju Air Boeing 737-800 belly-landed and skidded off the end of the runway at Muan International Airport, erupting in a fireball as it slammed into a wall. Two crew members were pulled out alive.
+Stocks were broadly supported by risk-on sentiment as investors processed the U.S.-Iran interim progress, but the rebound looks fragile heading into central-bank catalysts. The S&P 500 and Nasdaq traded with attention on rates and oil, while volatility cues remained elevated. Sector leadership skewed toward AI- and energy-linked names as traders balanced easing energy risks against ongoing inflation and Fed timing.
 
-The top priority for now is identifying the victims, supporting their families and treating the two survivors, Choi told a disaster management meeting in Seoul.
+SpaceX to buy AI coding start-up Cursor for $60 billion - in stock deal
 
-“Even before the final results are out, we ask that officials transparently disclose the accident investigation process and promptly inform the bereaved families,” he said.
+SpaceX is reshaping big-tech’s market structure again—this time through a $60 billion push into AI coding agents. Multiple filings and coverage point to a rapid post-IPO buildout that’s already moving valuations.
 
-“As soon as the accident recovery is conducted, the transport ministry is requested to conduct an emergency safety inspection of the entire aircraft operation system to prevent recurrence of aircraft accidents,” he said.
+Figure of the Day
 
-As a first step, the transport ministry announced plans to conduct a special inspection of all 101 Boeing 737-800 aircraft operated by South Korean airliners beginning on Monday, focusing on the maintenance record of key components.
+15.4% - US housing starts fell in May, down to a 1.177 million annualized rate
 
-The 737-800 is one of the world’s most flown aircraft with a generally strong safety record. It was developed well before the MAX variant involved in a recent Boeing safety crisis.
+Brent slips below $80 - as U.S.-Iran deal boosts supply hopes
 
-Jeju Air flight 7C2216, arriving from the Thai capital Bangkok, was trying to land shortly after 9 a.m. (0000 GMT) on Sunday at the airport in the south of the country.
+Markets are treating the interim U.S.-Iran understanding as an economic catalyst, with oil sliding and risk appetite improving. The data points to supply logistics still lagging behind deal headlines.
 
-Investigators are examining bird strikes, whether any of the aircraft’s control systems were disabled, and the apparent rush by the pilots to attempt a landing soon after declaring an emergency as possible factors in the crash, fire and transportation officials have said.
+Warsh faces tightrope in first Fed meeting - markets wait for rate signal
 
-Experts say many questions remain, including why the plane, powered by two CFM 56-7B26 engines, appeared to be traveling so fast and why its landing gear did not appear to be down when it skidded down the runway and into a concrete embankment.
+Fed policy is back on center stage as Warsh takes the chair amid uncertainty on inflation and rate paths. Coverage focuses on what his first meeting likely means for bonds and the rally’s durability.
 
-“I can’t think of any reason for being forced to make a landing like this,” said aviation safety expert John Nance, a former military and commercial pilot who flew 737s for Alaska Airlines.
+Bullish
 
-The plane landed at high speed, and based on video, the pilots did not or could not take steps to slow it down, Nance said.
+BlackRock launches bitcoin income fund - offers cash flow alongside BTC exposure
 
-CFM International is a joint venture between GE Aerospace and France’s Safran.
+BlackRock’s new bitcoin income fund pairs spot bitcoin exposure with a covered-call approach to generate income, giving institutions more ways to access crypto without giving up yield potential. More on theblock.co
 
-On Monday, transport ministry officials said that as the pilots made a scheduled approach they told air traffic control the aircraft had suffered a bird strike, shortly after the control tower gave them a warning birds were spotted in the vicinity.
+Bank of Japan lifts rates to 31-year high - yen and carry-trade in focus
 
-The pilots then issued a Mayday warning and signaled their intention to abandon the landing and to go around and try again. Shortly afterwards, the aircraft came down on the runway in a belly landing, touching down about 1,200 meters (1,310 yards) along the 2,800 meter (3,062 yard) runway and sliding into the embankment at the end of the landing strip.
+Central banks are moving on inflation and currency pressure, with the Bank of Japan leading. The rate lift ripples across FX and risk assets globally.
 
-‘You Don’t Have a Wall’
+US strategic oil reserve hits lowest level since 1983 - supply cushion thins
 
-Officials are investigating what role the localiser antenna, located at the end of the runway to help in landing, played in the crash, including the concrete embankment on which it was standing, transport ministry officials told a media briefing.
+Energy security and supply management remain the dominant macro constraint—even as diplomatic progress emerges. The Strategic Petroleum Reserve and Hormuz reopening dynamics frame pricing and risk.
 
-“Normally, on an airport with a runway at the end, you don’t have a wall,” said Christian Beckert, a flight safety expert and Lufthansa pilot based in Munich. “You more have maybe an engineered material arresting system, which lets the airplane sink into the ground a little bit and brakes (it).”
+Bearish
 
-The crash killed mostly local residents who were returning from holidays in Thailand, while two Thai nationals also died.
+B-52 bomber crash after takeoff - all eight crew onboard killed
 
-“I can only accept it, make peace with it,” said Boonchuay Duangmanee, 77, the father of one of the Thai victims. “When I think about it, I remind myself that it was an accident. It’s something that can happen to anyone. So, I’ve come to terms with it because no matter what I do, my daughter won’t come back.”
+A B-52 Stratofortress crashed shortly after takeoff during a routine test mission at Edwards Air Force Base, with all eight crew members killed as authorities launch an investigation. More on tippinsights.com
 
-On Monday morning, investigators were trying to identify some of the more than two dozen remaining victims, as anguished families waited inside the Muan airport terminal.
+GM eyes defense expansion - in talks to build weapon parts with Lockheed Martin
 
-Park Han-shin, who lost his brother in the crash, said he was told by authorities that his brother had been identified but he has not been able to see his body.
+Defense is accelerating through industrial deal-making, with GM moving into weapons production discussions. The story clusters defense procurement risk and supply chain expansion together.
 
-Park called on victims’ families to unite in responding to the disaster, citing a 2014 ferry sinking that killed more than 300 people. Many relatives of the victims of the Sewol ferry disaster complained it took authorities too long to identify those killed and the cause of that accident.
+G7 allies question Trump’s Hormuz optimism - stocks waver amid reopening uncertainty
 
-Transportation ministry officials said the jet’s flight data recorder was recovered but appeared to have sustained some damage on the outside and it was not yet clear whether the data was sufficiently intact to be analyzed.
+Geopolitical tensions are testing oil and trade flows across the Middle East while allies press for clarity on shipping safety. The focus is less on headlines and more on implementation details.
 
-The recorder has been transported to Seoul and an analysis will begin when a team of U.S. National Transportation Safety Board and Boeing officials arrive in the country late on Monday, the officials told reporters.
+Regulatory Impact
 
-Muan International Airport remains closed through Wednesday but the rest of South Korea’s international and regional airports including the main Incheon International Airport were operating as scheduled.
+Regulators are tightening oversight in parallel: the CRTC warned Bell and Telus to drop wireless fees or face compliance action, while the EU is pressing banks on capital-rule simplification rather than broad overhauls.
 
-Shares of Jeju Air hit their lowest level on record on Monday, trading as much as 15.7% lower. Boeing’s shares fell about 2%.
+Fox buys Roku for $22 billion - streaming push expands Murdoch media footprint
 
-The 15-year-old plane’s workmanship and design are unlikely to be factors in the accident, but the crash underscores the “headline risk” to shares of airplane makers, Wolfe Research analyst Myles Walton wrote in a note.
+Corporate M&A continues to target streaming and AI-adjacent assets, with Fox pushing deep into Roku and the broader content pipeline. The deal is framed as a strategic pivot in the TV ad era.
 
-Under global aviation rules, South Korea will lead a civil investigation into the crash and automatically involve the NTSB since the plane was designed and built in the United States.
+Bank regulator targets overlap in capital rules - EU resists banks’ plea for overhaul
 
-A large memorial has been set up in a county gym about 9 km (5 miles) from the crash site, where people including acting President Choi came to pay respects.
+Telecom and banking regulators are increasing scrutiny around fees and capital rules, turning compliance into a market-moving theme. The pair highlights enforcement risk and rule complexity for large institutions.
 
-Choi, who is overseeing recovery efforts and the investigation, became acting leader just three days ago after the country’s president and prime minister were impeached over the imposition of a short-lived martial law.
+Quote
 
-The aviation insurance industry could be looking at a claim for about $15 million to $20 million under the airline hull insurance policy, and total passenger liability claims of $120 million to $180 million due to the crash, according to Marcos Alvarez, managing director of global insurance ratings at Morningstar DBRS.
+“Let’s not panic.”
 
-(Reporting by Ju-min Park, Hongji Kim, Dogyun Kim in Muan, Jihoon Lee, Hyunsu Yim, Joyce Lee in Seoul and Hyonhee Shin in Sejong; additional reporting by Napat Wesshasartar in Bangkok, Carolyn Cohn in London, Dan Catchpole in Seattle, Abhijith Ganapavaram and Dave Graham, Aatreyee Dasgupta in Bengaluru; writing by Jack Kim; editing by Raju Gopalakrishnan, Michael Perry, Ros Russell, Susan Fenton and Rod Nickel)
+— Brad Smith, Microsoft vice chair and president
+
+Trump’s Anthropic crackdown sets off AI alarms for U.S. allies - export controls bite
+
+High-profile AI governance clashes are escalating, with Anthropic model controls drawing alarm from cybersecurity and industry circles. The cluster captures regulation-through-enforcement and its international spillover.
+
+Starbucks Korea to temporarily shut all stores - history lesson after bungled coffee promo
+
+Starbucks is dealing with reputational blowback as its Korea promotion triggers broad store closures. The story is a corporate turn-around stress signal tied to brand management failure.
+
+Yum to sell Pizza Hut for $2.7 billion - sharp focus shift after years of struggles
+
+Pizza Hut is being sold at scale as Yum trims struggling assets, with private equity stepping in. The coverage highlights a major portfolio reset tied to profitability pressure.
+
+US housing starts collapse in May - lowest since COVID as sentiment sours
+
+Markets are digesting housing deterioration with a sharp May drop in starts and affordability pressure. The cluster is built around employment-linked demand and construction activity cooling.
+
+US-Iran peace progress helps push Treasury yields lower - investors reprice inflation path
+
+Bank of Japan and bond repricing are intersecting with broader risk shifts, while yields and FX volatility stay in play. The cluster reflects the immediate transmission path to markets.
+
+B-52 bomber goes down after takeoff - all eight crew onboard killed
+
+A deadly B-52 crash at Edwards Air Force Base adds crisis weight across defense and aviation safety. The story is immediate, fatal, and likely to trigger investigations.

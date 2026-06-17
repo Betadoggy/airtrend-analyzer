@@ -1,24 +1,46 @@
-Title: This U.S. Airport Was Just Ranked the Most Stressful in the World
-Source: Travel+Leisure
-URL: https://www.travelandleisure.com/most-stressful-airport-in-world-11856638
+Title: Inside the Korean Air Boeing plane that plummeted 25,000 feet after a pressurization fault
+Source: Business Insider
+URL: https://www.businessinsider.com/korean-air-boeing-plane-plummeted-13-people-in-hospital-2024-6
 --------------------------------------------------
 
-When taking a trip, the flight is usually the least memorable part, but there is one airport in the United States that continually stresses out travelers.
+A Korean Air flight bound for Taiwan had to turn back and make an emergency landing after detecting a fault with the aircraft's pressurization system.
 
-New Jersey's Newark Liberty International Airport (EWR) was ranked the world's most stressful airport, according to a study that was shared with Travel + Leisure from iSelect, an Australian-based travel insurance comparison company. The study found the airport lacking when it came to the ease of getting there, discovered one of the worst baggage claim scores, and saw one of the highest rates of canceled departures.
+The Boeing 737 Max 8 plane departed from Incheon International Airport at 4:45 p.m. local time on Saturday, Yonhap News Agency reported.
 
-“Airports can be stressful at times, but understanding which ones are more likely to cause delays or longer wait times can help travelers prepare and plan for their trip," Adrian Bennett, the general manager for general insurance, said in a statement obtained by Travel + Leisure.
+A pressurization fault was detected while the plane was flying over South Korea's southern Jeju Island, per Yonhap.
 
-That's not to say travelers should never fly in and out of EWR—after all, some T+L editors swear by it when going in and out of the greater New York City area. The airport, a major hub for United Airlines, is in the middle of a complete overhaul with plans to replace Terminal B and the existing AirTrain and enhance Terminal C. What's more, 2025 saw an exceptionally chaotic year with flight delays and cancellations due to staffing shortages.
+Roughly 30 minutes after taking off, the plane started descending sharply, dropping nearly 25,000 feet in five minutes, according to data from FlightRadar24.
 
-To complete the study, iSelect examined 50 airports around the world that serve as major hubs and looked at seven key areas, including the check-in process, security wait times, immigration and customs wait times, and baggage claim satisfaction.
+This is a common procedure when pressurization issues are detected to avoid further injury to passengers and crew from the lack of oxygen and other risks at usual cruising altitudes.
 
-Lisbon's Humberto Delgado Airport (LIS) came in as the second-most stressful airport in the world thanks to its high cancellation rates, less-than-desirable check-in process, and low security check rating. However, the study found getting to the airport was easy.
+Videos on social media show the plane shaking and oxygen masks hanging from the ceiling.
 
-The United Kingdom's Manchester Airport (MAN) ranked the third most-stressful, followed by New York's John F. Kennedy International Airport (JFK), and Chicago’s O’Hare International Airport (ORD) rounding out the top five.
+Yonhap News Agency, citing information from the Ministry of Land, Infrastructure and Transport, reported that 15 passengers were hyperventilating and suffered from eardrum pain when the flight descended.
 
-On the flip side, the survey found the least-stressful airport in the world was Singapore Changi Airport (SIN), which ranked high for immigration and customs, security check, check-in wait times, and ease of getting to the airport. The company said the score did well to “cement its reputation as the gold standard for stress-free travel.”
+"We are fully cooperating with all relevant authorities to investigate the circumstances surrounding the incident," a Korean Air spokesperson told Business Insider.
 
-Singapore was followed by Doha’s Hamad International Airport (DOH) and Seoul's Incheon International Airport (ICN).
+The spokesperson said 17 passengers were evaluated at medical facilities and were discharged without severe injuries.
 
-This is the full list of the top 10 most stressful airports, according to the study.
+The aircraft is just under five years old and was delivered to Korean Air in July 2022, per Plane Spotters Net.
+
+"Our commitment to the safety and well-being of our passengers and crew remains unchanged. We apologize to all affected by this incident," the spokesperson said.
+
+Passengers on the affected plane reached Taichung International Airport safely on Sunday via a different flight, the Taipei Times reported.
+
+A week of plane chaos
+
+The Korean Air news comes after a week in which multiple planes were forced to make emergency landings for various reasons.
+
+On Thursday, a Malaysia Airlines plane was forced to turn around and head back to Hyderabad, India. A video showed its engine on fire, with sparks flying behind it.
+
+Also, on Thursday, a United Airlines flight from Connecticut to Colorado was cut short after a piece of its engine cover fell off during takeoff.
+
+Boeing planes have also been plagued by issues in recent months. In January, a door plug came off a Boeing 737 Max 9 Alaska Airlines jet at 16,000 feet, resulting in a gaping hole in the plane.
+
+Several Boeing whistleblowers have since come forward with bombshell testimonies alleging that the company cut corners with quality control.
+
+There have also been other instances of late where commercial planes encountered sudden drops in cruising altitude that resulted in injuries.
+
+In May, a Singapore Airlines Boeing 777-300ER airplane encountered turbulence so severe that the plane dropped 178 feet in four seconds.
+
+The flight from London to Singapore was cruising at an altitude of 37,000 feet over Myanmar when it was thrust up and down rapidly for 62 seconds, leading to one death and over 100 injuries.

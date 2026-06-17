@@ -1,73 +1,63 @@
-Title: 64 South Koreans Held In Cambodia Return Home Under Arrest
-Source: International Business Times
-URL: https://www.ibtimes.com/64-south-koreans-held-cambodia-return-home-under-arrest-3787474
+Title: Diplomatic headache as Korean ambassador flies into Australia despite local corruption probe
+Source: ABC News (AU)
+URL: https://www.abc.net.au/news/2024-03-12/korea-ambassador-flies-australia-travel-ban-probe/103573252
 --------------------------------------------------
 
-EditionsAustralia EditionKorea EditionJapan EditionIndia EditionSingapore EditionUnited KingdomUnited States
- doFir.push(function(){if(getCookie('nwsubl')){jQuery(".login-btn .sign-up2").hide();jQuery(".login-btn .myaccount").show()};jQuery(".login-btn .myaccount").on('click',function(e){e.preventDefault();jQuery(".login-btn ul").toggle()});jQuery(document).ready(function(){jQuery(".myaccount").add(".m-manage").each(function(){jQuery(this).attr('href','https://myaccount.ibtimes.com/manage')})})}) fqtag.fscmd.push(function(){LJS("https://users.api.jeeng.com/users/domains/V1DXygbq01/sdk/")}) googletag.cmd.push(function () { if(dfpSlots.slotobjs["top"]){ ibt_log("ADS GPT register ad slot top", Date.now()-timerStart); googletag.display("dfp-ad-top"); } });if(/top\|[0-1]\|1/.test(dfpSlots.pginfo[ibtmedia_device])) document.getElementById("ad-top-wrapper").className+=" block-sticky"  dfpSlots.vplayer=(['ibtuk','ibtus'].indexOf(site_id)>-1)?'primis player':'NoVideo';if(site_id=='ibtuk'&&oa.geo.country!='IL'&&ibtmedia_device=='mobile')dfpSlots.vplayer='NoVideo';if(/adtest=primis/.test(location.href))dfpSlots.vplayer='primis player';else if(/adtest=native/.test(location.href))dfpSlots.vplayer='ibt player';if(dfpSlots.vplayer=='primis player'){if(site_id=='ibtus'){dfpSlots.primis='117767'}else dfpSlots.primis='117814';dfpSlots.primisVideo=function(){if(dfpSlots.primisVideoLoaded)return;dfpSlots.primisVideoLoaded=1;if(adBlock=='Y')return;var d=document,gi='getElementById',s=d.createElement('script');s.type='text/javascript';s.src='https://live.primis.tech/live/liveView.php?s='+dfpSlots.primis+'&cbuster='+Date.now();if(window.ibt_avf){ibt_avf.appendChild(s);d.body.classList.add('video-primis')}else d[gi]('tvplayer').appendChild(s)}}
-if(dfpSlots.vplayer=='NoVideo'&&document.getElementById('ibt-mobile-avf'))document.getElementById('ibt-mobile-avf').remove();dataLayer[0].VideoABTest=dfpSlots.vplayer;var ibt_avf=(brW 
+More from ABCClose menuABC ABC News ABC iview ABC listen Kids & Students Indigenous Information & ServicesEditorial PoliciesRead our editorial guiding principlesFollow the ABCnewsiviewlistenABC NewsJust InFor YouPoliticsWorldBusinessAnalysisSportLifestyleEntertainmentQuizzesMoreSearchLog inNews HomeJust InFor YouAnalysisRuralWatch LiveHealthIndigenousPoliticsScienceDeep TimeElectionsWorldEnvironmentInvestigationsBusinessLocal newsQuizzesSportAFLNRLFootballTennisCricketNetballLifestyleWellbeingRelationships & FamilyFood & RecipesPersonal FinanceHome & GardenEntertainmentTV & MoviesBooksMusicPop CultureArtsYour ABC AccountPersonalise the news and
 
+Appearance (BETA) Follow system settings Select an optionAlways lightAlways darkFollow system settingsFind any issues using dark mode? Please let us know
 
-Business
+@media (forced-colors: active) {
+          .background { fill: none; }
+        }
+      ABC iViewABC ListenABC NewsNews HomeKorean ambassador Lee Jong-sup flies into Australia despite corruption probe at homeShareShare articleKorean ambassador Lee Jong-sup flies into Australia despite corruption probe at homeExclusive by defence correspondent Andrew GreeneTopic:Federal Government
 
- if(document.querySelector(".breadcrumb").innerHTML.trim()==''){document.querySelector(".breadcrumb").parentNode.parentNode.removeChild(document.querySelector(".breadcrumb").parentNode)} 
-64 South Koreans Held In Cambodia Return Home Under Arrest
+Then South Korean defence minister Lee Jong-sup (right) meets his Australian counterpart Richard Marles in 2023. (Department of Defence)
 
+Link copiedShareShare articleIn short: Former South Korean defence minister Lee Jong-sup has arrived in Australia to take up his appointment as ambassador despite a corruption probe at home.The Corruption Investigation Office (CIO) is examining allegations that he tampered with a South Korean Marine Corps' inquiry into the death of Lance Corporal Chae Su-geun.What's next? The Democratic party says it will file a criminal complaint to the CIO accusing South Korea's foreign minister and justice minister of interfering with the ongoing investigation.A former South Korean defence minister implicated in a corruption investigation over the death of a soldier has arrived in Australia to take up his controversial appointment as ambassador.
 
-By
+Late last week, South Korea's Justice Ministry lifted a travel ban on Lee Jong-sup, allowing the newly appointed diplomat to depart Seoul despite the highly publicised accusations levelled at him.
 
- AFP News 
+The Corruption Investigation Office for High-ranking Officials (CIO) is continuing to examine allegations Mr Lee tampered with a South Korean Marine Corps' inquiry into the death of Lance Corporal Chae Su-geun, who died in July last year during a search mission.
 
+On March 4 the former defence minister was named by President Yoon Suk Yeol's conservative administration to replace current envoy Kim Wan-joong in Canberra, prompting protests from the opposition liberal Democratic Party (DP).
 
-Published 10/17/25 AT 8:42 PM EDT
-Share on Facebook
-Share on Twitter
-Share on LinkedIn
-Share on Reddit
-Share on Flipboard doFir.push(function(){var flipboard=1;jQuery(".genericon-flipboard").on('click',function(e){e.preventDefault();e.stopPropagation();if(flipboard){flipboard=0;LJ('https://cdn.flipboard.com/web/buttons/js/flbuttons.min.js',function(){jQuery(".genericon-flipboard").trigger('click')})}})}) Share on Pocket
+Democratic Party of Korea members protest the departure of Lee Jong-sup at Incheon Airport, March 10 2024. (Munhwa Broadcasting Corporation)
 
+"President Yoon Suk Yeol [helped along] the flight of Lee, who was accused of committing a material crime, by giving him the title of a diplomat," DP floor leader Hong Ihk-pyo was quoted as saying over the weekend.
 
+"The escape to another country by a key suspect in the ongoing probe related to late Corporal Chae, spearheaded by the president, has now become a reality," the opposition MP told party colleagues during a Monday meeting.
 
+The Democratic Party said it would file a criminal complaint to the CIO, accusing South Korea's foreign minister and justice minister of an abuse of power and interfering with the ongoing investigation, while suggesting national agencies helped facilitate Mr Lee's departure to Australia.
 
-A chartered flight was sent to Cambodia to collect the 64 South Koreans, who were arrested on the flight
-AFP
+Members of the Democratic Party also gathered at Seoul's Incheon International Airport on Sunday night to protest against Mr Lee's appointment before he flew out of the country on board a Korean Air flight.
 
-Sixty-four South Koreans who had been detained in Cambodia for alleged involvement in cyberscam operations returned home Saturday and were under arrest, a police official told AFP.
+Lee Jong-sup arrived in Brisbane on Monday. (Reuters: Jeon Heon-Kyun)
 
-South Korea had sent a team to Cambodia on Wednesday to discuss cases of fake jobs and scam centres involved in kidnapping dozens of its nationals.
+Sources have confirmed to the ABC that Mr Lee landed at Brisbane International Airport early on Monday morning, ahead of making his way to Canberra where he will soon present his credentials as South Korea's next ambassador.
 
-"A total of 64 nationals just arrived at the Incheon International Airport on a chartered flight," the official said.
+According to South Korean media reports, the Presidential Office and Foreign Ministry claimed to be unaware of the travel ban imposed on Mr Lee in January, who was then able to successfully lobby to the Justice Ministry to revoke it.
 
-Seoul had said around 60 South Koreans had been detained by authorities in Cambodia over the alleged crimes, and vowed to bring them home.
+While the saga has the potential to cause difficulties in the diplomatic relationship between Australia and South Korea, the Department of Foreign Affairs and Trade has welcomed Mr Lee's arrival.
 
-The individuals were arrested on board the chartered flight shortly after boarding, the official said.
+Military contractor Hanwha wins a bid to build infantry fighting vehicles for the Australian Army, beating out Germany's Rheinmetall.
 
-Under South Korean law, a national carrier's aircraft is considered Korean territory, allowing law enforcement to execute arrest warrants.
+"Australia values its important relationship with the Republic of Korea and looks forward to working with ambassador designate Lee in his new role," a Department of Foreign Affairs and Trade (DFAT) spokesperson told the ABC.
 
-The official said all 64 have been taken into custody as criminal suspects upon arrival at the Incheon airport and will be transferred to the police stations with jurisdiction over their respective cases.
+"A date for ambassador designate Lee to present credentials will be confirmed in due course in line with usual procedures," the DFAT spokesperson added.
 
-National Security Adviser Wi Sung-lac previously said the detained individuals included both "voluntary and involuntary participants" in scam operations.
+Last May, two months before the death of Corporal Chae, Australia's Defence Minister Richard Marles held talks with his then counterpart Lee Jong-sup at a meeting where the pair agreed to work on enhancing military ties between both nations.
 
-Touch  Sokhak, a spokesman for Cambodia's interior ministry, told AFP on Friday that the repatriation agreement was the "result of good cooperation in suppression of scams between the two countries".
+South Korean company Hanwha was two months later selected to construct new Infantry Fighting Vehicles for the Australian Army in a multi-billion-dollar project based in Mr Marles's Victorian electorate.
 
-Seoul has said about 1,000 South Koreans were estimated to be among a total of around 200,000 people working in scam operations in Cambodia.
+Copy linkFacebookX (formerly Twitter)Top StoriesThe 'hunting season' came for Iranians, then the US struckTopic:Unrest, Conflict and War
 
-Some are forced under threat of violence to execute "pig butchering" scams -- cryptocurrency investment schemes that build trust with victims over time before stealing their funds.
+Russian artist who satirised Putin shot dead in PolandTopic:World Politics
 
-The multibillion-dollar illicit industry has ballooned in Cambodia in recent years, with thousands of people perpetrating online scams, some willingly and others forced by the organised criminal groups running the fraud networks, experts say.
+Back to topFooterABC News homepageYour home of Australian stories, conversations and events that shape our nation.
 
-Amnesty International says abuses in Cambodia's scam centres are happening on a "mass scale".
+This service may include material from Agence France-Presse (AFP), APTN, Reuters, AAP, CNN and the BBC World Service which is copyright and cannot be reproduced.
 
-There are at least 53 scam compounds in the country where organised criminal groups carry out human trafficking, forced labour, torture, deprivation of liberty and slavery, according to the rights group.
+We acknowledge Aboriginal and Torres Strait Islander peoples as the First Australians and Traditional Custodians of the lands where we live, learn, and work.
 
-Cambodia's anti-cybercrime commission said in a statement on Wednesday that authorities had arrested 3,455 online fraud suspects nationwide from 20 Asian and African countries since late June.
-
-Authorities sent dozens of suspected "ringleaders and their accomplices" to court in 10 of the cases involving online fraud, murder and human trafficking, according to the statement.
-
-More than 2,800 foreign nationals were deported from Cambodia, and authorities "rescued some victims from trafficking", it said.
-
-South Korea's police has said it would also conduct a joint investigation into the recent death of a South Korean college student in Cambodia.
-
-The student, reportedly kidnapped and tortured by a crime ring, was found dead in a pickup truck on August 8.
-
-An autopsy revealed he "died as a result of severe torture, with multiple bruises and injuries across his body", according to a Cambodian court statement.
+TiktokFacebookInstagramYouTubeApple NewsXMusic & AudiolistenTriple JTriple J UnearthedLive RadioHottest 100Movies & TViviewList of ABC ShowsLive TVTV GuideKids & StudentsEducationBTNABC KidsSign up to our newslettersSign up to get the latest on your favourite topics from the ABC

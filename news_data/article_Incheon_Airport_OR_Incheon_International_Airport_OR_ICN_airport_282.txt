@@ -1,38 +1,16 @@
-Title: Fabulous Fridays: New South Korea Electronic Gate Entry Service For Citizens of Germany & Macao
-Source: Loyaltylobby.com
-URL: https://loyaltylobby.com/2025/11/14/fabulous-fridays-new-south-korea-electronic-gate-entry-service-for-citizens-of-germany-macao/
+Title: Is The Hyundai DAL-e Coffee Delivery Robot A Nearsighted Scrap Heap Or Galaxy Hero?
+Source: Sprudge.com
+URL: https://sprudge.com/is-the-hyundai-dal-e-coffee-delivery-robot-a-nearsighted-scrap-heap-or-galaxy-hero-237778.html
 --------------------------------------------------
 
-South Korea has opened a new reciprocal partnership allowing citizens of Germany & Macao to pass through eGates, following the same model used by Korean travelers at overseas airports (registration required).
+The continued robotification of coffee is… troubling. While the onslaught of robotic arms, superautomatic kiosks, and artificial intelligence in coffee-making space is alarming, not all coffee droids are bad. There are certain areas in coffee that a cute little bleepy bloop can handle as well as, if not better than, its human counterparts. For that, there’s DAL-e, a new electric robot from Hyundai that can deliver 16 cups of coffee at a time.
 
-During my visit last month, there was already a sign, but it was still covered up upon arrival. The website has now been updated with details of where passengers have to register for the service.
+As reported by Electrek, DAL-e is a joint effort between Hyundai and Kia, with the former making improvements to the latter’s hotel delivery robot. First announced at the 2022 Consumer Electronics Show (CES), the self-driving DAL-e can carry up to 22lbs and can travel at the brisk speed of 2.7mph, or “about walking speed.” The all-electric delivery bot can maneuver its way through tight spaces, like hotel hallways or office buildings, without running into walls or people, even in crowded places.
 
-The so-called Smart Entry Service is available to Foreigners whose home country has agreed on the mutual use of automated immigration clearance with the Republic of Korea by concluding an MOU, Agreement, etc.
+Upon arrival, DAL-e uses Hyundai and Kia Robotics Lab AI facial recognition technology—”which has received official certification from the Korea Internet & Security Agency with 99.9% accuracy”—to find its delivery target and uses an 11.6” display screen to communicate with individuals. Once identified, the door to DAL’e internal compartment opens up and the coffee is delivered.
 
-So far, these eligible countries were limited to participants of the U.S. Global Entry program, Privium of the Netherlands, e-Gate of Hong Kong, and Smart Gate of Australia.
+One of the robot’s major upgrades is its ability to make deliveries to any floor in a building. DAL-e is capable of navigating elevators and other door control systems to get where it needs to go.
 
-U.S. citizens who enrolled in Global Entry were the first and allowed to enroll in SES many years ago, but now it has been expanded to other countries as well, including (thankfully for me) Germany.
+DAL-e is slated to make its debut in the second quarter of this year at the Aegis Asset Management building in Seoul.
 
-Republic of Korea:
-
-German citizens can register for the “Smart Entry Service” at the international airport “Incheon Gukje Gonghang” and use the eGates there for entry and exit under certain conditions. The one-time registration for the duration of the passport’s validity includes taking a photo and fingerprints at the registration office and takes only a few minutes.
-
-You can find additional details and the application form at:
-
-http://www.ses.go.kr/ses/main_en.ses
-
-I have already enrolled for all of the other programs, including Hong Kong, Taiwan, and USA.
-
-You can find more details about all the partnerships for Germany on the website of the Federal Border Police.
-
-This partnership is especially useful because the immigration procedure at Seoul Incheon Airport is really a wild card and it can be either super easy or complete hell upon arrival.
-
-Sadly, the last time I was at Incheon Airport, the registration counter at Terminal 1 was closed and I wasn’t able to register. I could have done it in the city had I known that was possible.
-
-The city registration option is at Seoul Station:
-
-Download (PDF, 1.01MB)
-
-As soon as the registration is complete, travelers can enter Korea via the eGates at the designated entry points:
-
-You can access the Korea Immigration SES website here to read up on the details.
+Korea appears to be leading the charge in the coffee-delivering robot space. There’s the Air-Dilly delivering drinks to commuters at the Incheon International Airport, and now there’s DAL-e for hotels and offices. These are good uses of automatons in coffee. If only a big coffee event was coming up in Korea to give me a reason to go check it all out…

@@ -1,0 +1,116 @@
+Title: Sky ICT lays out lofty global ambitions
+Source: Bangkok Post
+URL: https://www.bangkokpost.com/business/general/2651677/sky-ict-lays-out-lofty-global-ambitions
+--------------------------------------------------
+
+Having secured a contract from Airports of Thailand (AoT) in 2020 to develop smart airports, SET-listed aviation tech company Sky ICT now aims to become a top three name globally in aviation software by 2024, says chief executive Sithidej Mayalarp.
+
+Sky ICT is in talks with a leading global aviation software provider in Europe with a goal to acquire a 100% stake in the company. The deal is expected to be concluded next year, he said.
+
+The takeover target has 350 airport operators as customers worldwide.
+
+If the deal is completed, Sky ICT would become the top aviation technology brand in Southeast Asia and among the top three players globally, said Mr Sithidej.
+
+Sky ICT provides consultation, design, and the supply and distribution of products and devices related to information and communication technology, as well as security infrastructure solutions.
+
+DEAL WITH AOT
+
+The company was awarded a 10-year contract by AoT to develop aviation platforms in 2020. These platforms include the common use passenger processing system (Cupps), advance passenger processing system (Apps), airport free WiFi, and passenger baggage reconciliation system. These platforms account for roughly 85% of the group's total revenue, he said.
+
+Cupps comprises common use terminal equipment, common use self-service system, common use baggage delivery, passenger verification system, and self boarding gate.
+
+The company spent around 2.3 billion baht to develop Cupps, which began serving airports in 2020, said Mr Sithidej.
+
+Sky ICT also rebranded an airport and flight information app originally created by AoT as the Sawasdee app by AoT, part of the aviation platform development contract. The relaunch and rebranding took place in 2021.
+
+Last year, AoT asked Sky ICT to expand development of the app's payment system to connect with external e-payment services, complementing the existing Sawasdee Pay feature.
+
+Sawasdee Pay is a digital wallet co-developed with Krungthai Bank in an effort to provide tourists with a better shopping experience. Tourists can add their Visa or Mastercard debit or credit cards to the app to make payments when they shop at partner stores based within airport shopping complexes.
+
+The app was designed for travellers wanting a digital airport experience at Suvarnabhumi, Don Mueang, Chiang Mai, Chiang Rai, Phuket and Hat Yai airports, all managed by AoT.
+
+Influx of travellers
+
+Mr Sithidej said the tourism industry is rapidly recovering, with foreign arrivals returning to near pre-pandemic levels. The number of inbound and outbound travellers at AoT's six airports averaged 180,000 per day in August, compared with roughly 220,000 per day prior to the pandemic.
+
+He said the number of inbound tourists is growing each month and he expects 200,000 arrivals daily by year-end, up from 130,000 per day earlier this year.
+
+A mass of tourists are arriving from India and Russia, which could help offset the dip in Chinese travellers, which has been a weaker source market than expected, said Mr Sithidej.
+
+Thailand is a top five destination for foreign tourists and among the top three for Chinese tourists, according to surveys.
+
+Sky ICT is enjoying income growth as more tourists use its platforms at airports. Various components of the group's business portfolio generate other sources of income, he said.
+
+"This has been a year of considerable change, despite the economic slowdown," Mr Sithidej said.
+
+The company reported total revenue of 942 million baht with a net profit of 117 million in the second quarter, improving from a net loss of 17 million baht year-on-year.
+
+The increase was attributed to revenue from the platforms it developed for AoT, such as Apps and passenger name record (PNR) systems.
+
+In the second quarter, Sky ICT posted profit of 166 million baht from the services provided by Apps and PNR systems, which is recognised revenue based on the actual number of passengers (inbound, outbound, changing flights and in transit).
+
+The company booked total revenue of 820 million baht in the first quarter, up 75% year-on-year, and net profit of 83 million baht thanks to increased passenger arrivals and departures following the recovery of the tourism and aviation sectors.
+
+He said he expects a strong performance by Sky ICT in the second half of this year because it includes the peak tourism season in Thailand, which should benefit its aviation tech and airport service businesses.
+
+The company reported a backlog worth 22.7 billion baht as of the second quarter, expecting to recognise 2 billion baht this year.
+
+Biometric trial
+
+Mr Sithidej said the company plans to start a trial of a biometric system in October to complement passenger verification on its Cupps program.
+
+With the new system, passengers can scan their passports at kiosks, which will display their travel information, airline, flight and reserved seat details, then issue a boarding pass. The system stores an image of their face.
+
+When passengers walk to the security section, the system remembers their face and the doors open automatically once they are recognised, eliminating the need to show a boarding pass until passengers arrive at the gate to board their jet.
+
+He said the biometric system is ready and the company is working to persuade all carriers to acknowledge the system's readiness, which is scheduled to start service on Jan 1, 2024.
+
+The biometric system was jointly developed with Sky ICT's partner SITA, a provider of global ICT solutions to the air transport industry. SITA provides kiosks that issue tickets automatically at Singapore's Changi airport, South Korea's Incheon airport, and the Atlanta airport in the US.
+
+Adoption of Sky ICT's biometric system is likely to be on a gradual basis as some airlines may be unprepared to use it, said Mr Sithidej.
+
+"It is similar to a centralised computer screen that requires airlines to install the app to allow this service to be available to passengers," he said.
+
+Mr Sithidej said the system could be used by AirAsia, Thai Airways and Thai Smile initially. The number of aircraft ready to adopt the system is expected to gradually increase in the future, he said.
+
+Roughly 60% of passengers in Japanese airports use a biometric system and 50% in the US because many airlines have yet to adopt the system.
+
+Drive to diversify
+
+"Mergers and acquisitions by Sky ICT and its affiliates represent a drive to diversify and complement the group's ICT-based business portfolio," Mr Sithidej said.
+
+In July, Sky ICT announced plans to acquire a 100% stake in Siam Administrative Management and Security Guards Co (SAMCO), a major player in Thailand's security service industry.
+
+The move aims to expand the group's business by combining the capabilities of both companies to create synergy in providing comprehensive facility management and security services.
+
+According to the company's recent report to the Stock Exchange of Thailand (SET), the board of Sky ICT approved the takeover deal of SAMCO by its subsidiary Metthier Co, a facility management technology firm. Sky ICT expects the transaction to be completed by the third quarter this year.
+
+SAMCO has great potential with more than 400 corporate customers such as Siam Commercial Bank, Central Plaza Shopping Center, Siam Cement Group, and the SET, he said.
+
+SAMCO provides four types of services: building management and cleaning; security; security system management; and cash management and security transport.
+
+Mr Sithidej said the company sees an opportunity to grow these businesses.
+
+Following the investment in SAMCO, the company can use the experience it gains in security systems for its future business development, he said.
+
+Sky ICT can apply innovation and technology to SAMCO's expertise to create mutual benefits and diversify the group's business, such as using a data management system to provide cash delivery services, Mr Sithidej said.
+
+The synergy between Metthier and SAMCO in the near future is expected to include using robots for surveillance in certain places and locations, reducing the need for security guards, he said.
+
+The company can utilise these security guards by shifting them to more critical locations, allowing guards as well as housekeepers to become more profitable on a per person basis, said Mr Sithidej.
+
+The company wants to change the security business model. Rather than counting the number of security guards working in a particular area, it would assess the level of service provided instead, he said.
+
+Metthier already has a tracking system and command centre. The SAMCO purchase included security guards who can use the related platforms to provide a comprehensive service, including a security-as-a-service scheme to serve large private sector customers such as subway or skytrain operators, said Mr Sithidej.
+
+This approach should generate consistent recurring income, he said.
+
+In July, SET-listed Turnkey Communication Services (TKC), an affiliate of Sky ICT, announced its board approved the acquisition of a 24.95% stake in Advanced Information Technology Plc (AIT).
+
+Mr Sithidej said buying a stake in AIT enables TKC to increase its revenue stream over the long term as AIT is a market leader in systems integration in the local public sector.
+
+He said TKC's profit this year is expected to soar almost 200% when consolidated with AIT's performance.
+
+Sky ICT generates 85% of the group's total revenue.
+
+The ratio is expected to decline to 60-70% within three years, with its affiliates generating a larger portion of revenue, especially Metthier, which is a new S-curve growth contributor for the group, said Mr Sithidej.

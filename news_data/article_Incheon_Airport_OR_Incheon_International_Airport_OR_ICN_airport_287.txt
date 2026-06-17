@@ -1,6 +1,6 @@
-Title: Air Passengers 'In Limbo' As Global IT Crash Grounds Flights
+Title: Megahubs 2023: Malaysia Has Asia's Most Connected Airport; MNL Rises From 29th To Top 15
 Source: International Business Times
-URL: https://www.ibtimes.com/air-passengers-limbo-global-it-crash-grounds-flights-3737460
+URL: https://www.ibtimes.com/megahubs-2023-malaysia-has-asias-most-connected-airport-mnl-rises-29th-top-15-3712961
 --------------------------------------------------
 
 EditionsAustralia EditionKorea EditionJapan EditionIndia EditionSingapore EditionUnited KingdomUnited States
@@ -8,18 +8,26 @@ EditionsAustralia EditionKorea EditionJapan EditionIndia EditionSingapore Editio
 if(dfpSlots.vplayer=='NoVideo'&&document.getElementById('ibt-mobile-avf'))document.getElementById('ibt-mobile-avf').remove();dataLayer[0].VideoABTest=dfpSlots.vplayer;var ibt_avf=(brW 
 
 
-Business
+World
 
  if(document.querySelector(".breadcrumb").innerHTML.trim()==''){document.querySelector(".breadcrumb").parentNode.parentNode.removeChild(document.querySelector(".breadcrumb").parentNode)} 
-Air Passengers ‘In Limbo’ As Global IT Crash Grounds Flights
+Megahubs 2023: Malaysia Has Asia’s Most Connected Airport; MNL Rises From 29th To Top 15
 
 
 By
 
- Par les bureaux de l'AFP 
 
 
-Published 07/19/24 AT 12:42 PM EDT
+          
+
+
+
+
+ Marvie Basilan 
+ @marvbuzzilan 
+
+
+Published 09/25/23 AT 5:00 AM EDT
 Share on Facebook
 Share on Twitter
 Share on LinkedIn
@@ -29,77 +37,31 @@ Share on Flipboard doFir.push(function(){var flipboard=1;jQuery(".genericon-flip
 
 
 
-Air travel passengers were forced into playing the waiting game
+Representational image of airline passengers.
 AFP
 
-Travellers faced sleeping overnight at the airport or giving up and taking to the road for an arduous journey instead, as Friday's worldwide IT breakdown caused chaos and left air passengers around the world "in limbo".
+KEY POINTSMalaysia's KUL was 12th globally in 2019, but it rose to Top 4 this yearPhilippines' MNL is No. 6 in Asia and No. 3 in the global ranks for low-cost flight providersFour other Asian airports made it to the Top 20 this yearMalaysia has been recognized for having Asia's most internationally connected airport. The same airport is also ranked 4th globally in international connectivity. But another big story is the Philippines' lofty jump to the 15th spot globally.
 
-Those hoping to catch an aeroplane faced long delays, cancelled flights or even the prospect of missing work as the uncertainty left them feeling "helpless".
+Malaysia's Kuala Lumpur International Airport (KUL) is Asia's most internationally connected airport, according to the recently-released Megahubs Index 2023 by aviation data firm OAG, which tracks flight connections around the world and ranks the world's top 50 connected airports.
 
-At Sydney Airport, where the outage made check-in impossible, travellers milled around as they waited for information, with many unsure of whether their flights would leave.
+Before the pandemic, KUL was ranked 12th globally. In this year's ranking, Malaysia's busiest airport located in the Sepang District of Selangor jumped to the 4th spot globally. It is also the world's No. 1 in the low-cost carrier category, with AirAsia as its dominant carrier.
 
-Wearing a neck chain and a beanie, 29-year-old Alexander Ropicano was hoping to finally return to his girlfriend in Brisbane, around 900 kilometres (559 miles) away.
+Globally, Malaysia's KUL is only behind the Netherlands' Schiphol Amsterdam Airport (AMS) in 3rd place, the U.S.'s John F. Kennedy International Airport (JFK) in 2nd place and the United Kingdom's London Heathrow Airport (LHR) at the top spot.
 
-"If it was cancelled, it'd be easier. I'd go to Qantas or Virgin and book a new flight," he said.
+Malaysia isn't the only Southeast Asian country that made a statement in this year's international connectivity ranking. The Philippines' Ninoy Aquino International Airport (NAIA/MNL) made a 14-spot jump from No. 29 before the pandemic year in 2019 to No. 15 this year.
 
-"But the fact that it's not cancelled makes it more confusing, because I don't know what's going on."
+NAIA/MNL is also Top 3 globally in low-cost flights, trailing behind South Korea's Incheon International Airport (ICN), which got the No. 2 spot.
 
-Tallulah Kennedy was likewise faced with a bureaucratic nightmare after learning that her flight would not get off the ground.
+In Asia, NAIA/MNL is No. 6, with Philippine Airlines (PAL) as its dominant carrier. Japan's Haneda Airport (HND), South Korea's ICN, Thailand's Suvarnabhumi Airport (BKK) and Singapore's Changi Airport (SIN) round up Asia's top five.
 
-"I tried to call Jetstar as well to reschedule my flight, but they said I couldn't reschedule it because I was already checked-in," the 30-year-old said.
+Malaysia and the Philippines' dominance in the OAG airport connectivity rankings comes as both airports have been implementing changes to improve their services in recent months.
 
-Passengers elsewhere in the world were forced into playing the waiting game, especially in the northern hemisphere where summer holiday season is in full swing.
+Late in May, the KUL airport, also known as KLIA, opened state-of-the-art self bag drop (SBD) services for travelers. The SBD solution is provided by German provider Materna IPS and helps minimize waiting times for consumers and also reduces long queues at airport counters.
 
-After taking off from Paris Charles De Gaulle airport at 7:00 am, an Air France plane bound for Berlin returned to its point of departure after a 45-minute flight, an AFP journalist reported.
+Over at the NAIA, the management, Manila International Airport Authority (MIAA), said in June that improvements were being fast-tracked to improve immigration processes at the airport. An immigration annex is being constructed at the NAIA Terminal 2 departure area and is expected to be completed by the end of the year.
 
-Aboard was 22-year-old student Anja Mueller, who had been hoping to return home after a week-long holiday in France.
+In two to three years, the MIAA is looking to upgrade taxiways, expand CCTV coverage, replace boarding bridges and chillers and bolster digitization.
 
-"We're struggling to find another train or flight, and our other option is to sleep at the airport," she said.
+Also in this year's global Top 20 from Asia are Japan's HND (5th), Thailand's BKK (11th), Singapore's SIN (13th) and Indonesia's Soekarno-Hatta International Airport (19th).
 
-In the German capital, 47-year-old musician Kirk McDowell faced an anxious wait in the early afternoon.
-
-He was expected to perform in Bordeaux, in the south of France, at 8:30 pm.
-
-Both his initial flight and a second trip he booked to replace it were cancelled, but he still hoped to make the stage on time.
-
-"Now my friend is trying to book a private flight with another friend," he said, admitting to being drained by the ordeal.
-
-Halfway across the world in Washington, Evyn Garson was faced with a dilemma.
-
-The 38-year-old was meant to go to a wedding in Florida with her husband and two young children.
-
-"We feel kind of stuck," she said, in two minds about whether to hop in a car and tackle the 1,450-kilometre trip by road.
-
-"We definitely considered just driving down there. But now it looks like they are checking bags so we might stay," she said.
-
-Further up the East Coast in New York, 56-year-old psychologist Cristina Vaccaro had just learnt that she would have to postpone her flight from LaGuardia Airport until the next day.
-
-"It's really frightening that something so big can happen," she told AFP, confessing to feeling "helpless".
-
-Airport staff have been forced into returning to old-fashioned methods to help flights take off.
-
-Seoul's Incheon Airport resorted to carrying out check-in by hand, with huge queues developing as a result.
-
-In Budapest Airport in Hungary, staff made up for the blank display screens at the check-in counters by calling out the names of destinations themselves.
-
-It is not just air travellers affected by the blackout, with trains and online banking services also struggling.
-
-In the United Kingdom and the Netherlands, even hospitals were affected by the IT failure.
-
-Supermarket shoppers had to contend with out-of-service payment terminals, with one Waitrose in the southern English town of Petersfield reverting to the days where cash was king.
-
-Not everyone has let the computer crash bring them down, though, with social media awash with memes and jokes making light of the outage.
-
-Many featured Microsoft's dreaded "blue screen of death" fatal error message, which has become a fixture on countless displays across the planet.
-
-Those hoping to catch an aeroplane faced long delays, cancelled flights or even the prospect of missing work
-AFP
-
-
-
-
-
-It is not just air travellers affected by the blackout, with trains and online banking services also struggling
-AFP
-
-© Copyright AFP 2025. All rights reserved.
+In the latest analysis of the Southeast Asian aviation market, OAG noted that domestic capacity is still lower than where the market was in September 2019, but international capacity has shown recovery in the past four years and grew by 69% from September 2022.

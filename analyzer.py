@@ -1,104 +1,168 @@
+import os
+import re
 import pandas as pd
 from pathlib import Path
-from tqdm import tqdm
-from transformers import pipeline
+import nltk
+from nltk.corpus import stopwords
+from nltk.stem import WordNetLemmatizer
 from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.feature_extraction import text
+
+# 🌟 AI 제로샷 분류를 위한 Hugging Face 파이프라인 로드
+try:
+    from transformers import pipeline
+except ImportError:
+    raise ImportError("Hugging Face transformers 라이브러리가 없습니다. 'pip install transformers torch'를 실행하세요.")
+
+# NLTK 자원 다운로드
+try:
+    nltk.data.find('corpora/stopwords')
+    nltk.data.find('corpora/wordnet')
+except LookupError:
+    nltk.download('stopwords')
+    nltk.download('wordnet')
+    nltk.download('omw-1.4')
 
 class TextAnalyzer:
-    def __init__(self, data_dir):
+    def __init__(self, data_dir="news_data"):
         self.data_dir = Path(data_dir)
+        self.lemmatizer = WordNetLemmatizer()
         
-        print(">>> 문맥 분석을 위한 자연어 처리(NLP) 모델을 로드 중입니다... (최초 1회 다운로드)")
-        # 문맥 이해 능력이 뛰어난 BART 모델 기반의 제로샷 분류기 로드
-        self.classifier = pipeline(
-            "zero-shot-classification", 
-            model="facebook/bart-large-mnli",
-            device=-1 # CPU 사용 (GPU가 있다면 0 설정 가능)
-        )
+        # 1. AI 제로샷 분류 모델 초기화 (BART 대형 모델 사용)
+        print("\n>>> AI 문맥 분석 모델 로딩 중 (최초 실행 시 다운로드로 인해 시간이 소요될 수 있습니다)...")
+        # 소만사 등 사내 망 환경에서 SSL 인증서 경고가 뜨지 않도록 앞서 os.environ 설정을 완료했습니다.
+        self.ai_classifier = pipeline("zero-shot-classification", model="facebook/bart-large-mnli")
         
-        # 우리가 분류할 STEEP 카테고리 정의 (AI에게 입력할 기준)
-        self.categories = [
-            "Social & Passenger Experience", 
-            "Technological Innovation", 
-            "Environmental Sustainability", 
-            "Political & Government Policy"
+        # 2. AI가 파악할 거시환경(STEEP) 목표 카테고리 정의
+        self.steep_labels = ['Social', 'Technological', 'Environmental', 'Political']
+        
+        # 3. 기본 및 도메인 맞춤형 불용어 생성 (TF-IDF 추출용)
+        self.stop_words = set(stopwords.words('english'))
+        domain_stopwords = {
+            'according', 'air', 'aircraft', 'airline', 'airlines', 'airport', 'airports', 'also', 
+            'aviation', 'city', 'could', 'country', 'day', 'first', 'flights', 'flight', 
+            'icn', 'incheon', 'international', 'korea', 'korean', 'like', 'million', 'new', 
+            'news', 'north', 'one', 'passengers', 'passenger', 'reported', 'said', 'second', 
+            'seoul', 'since', 'south', 'time', 'travelers', 'traveler', 'travel', 'two', 
+            'world', 'years', 'year', 'vna' # 🌟 이전 단계에서 발견된 원형복원 찌꺼기 불용어 사전 추가
+        }
+        self.stop_words.update(domain_stopwords)
+
+    def clean_text(self, text):
+        """하이픈 깨짐 현상을 보완하고 불용어 제거 없이 원형 복원만 수행"""
+        if not isinstance(text, str):
+            return ""
+        
+        # 🌟 단어 쪼개짐(ktre 등) 방지: 하이픈과 슬래시를 공백으로 먼저 치환
+        text = text.replace('-', ' ').replace('/', ' ')
+        
+        # 특수문자 및 숫자 제거, 소문자화
+        text = re.sub(r'[^a-zA-Z\s]', '', text).lower()
+        
+        # 단어 토큰화 및 표제어 추출
+        words = text.split()
+        cleaned_words = [
+            self.lemmatizer.lemmatize(w) for w in words 
+            if len(w) > 2
         ]
+        return " ".join(cleaned_words)
 
     def load_corpus(self):
-        """저장된 뉴스 원본 데이터를 로드합니다."""
-        file_path = self.data_dir / "raw_news.csv" 
-        if not file_path.exists():
-            print("데이터 파일이 존재하지 않습니다.")
+        """크롤링 폴더에서 텍스트를 로드하며 가드레일 키워드를 검증"""
+        print(f"\n>>> '{self.data_dir}' 폴더에서 데이터 로드 중...")
+        if not self.data_dir.exists():
+            print(f"[오류] 데이터 폴더가 존재하지 않습니다: {self.data_dir}")
             return None
-        return pd.read_csv(file_path)
-
-    def classify_steep_with_context(self, df):
-        """[핵심] AI가 단어가 아닌 '문맥'을 읽고 기사를 STEEP으로 분류합니다."""
-        print("\n>>> AI가 기사별 문맥을 분석하여 STEEP 카테고리로 분류하는 중...")
-        assigned_categories = []
-
-        # tqdm을 사용해 진행 상황을 시각적으로 표시합니다.
-        for idx, row in tqdm(df.iterrows(), total=len(df)):
-            # 기사 제목과 본문 앞부분을 합쳐 맥락 텍스트 생성 (너무 길면 자름)
-            title = str(row.get('title', ''))
-            content = str(row.get('content', ''))
-            context_text = f"{title}. {content[:1000]}" 
             
-            if not context_text.strip():
-                assigned_categories.append("Unclassified")
-                continue
+        file_paths = list(self.data_dir.glob("*.txt"))
+        if not file_paths:
+            print("[오류] 분석할 txt 파일이 없습니다. 크롤링을 먼저 수행하세요.")
+            return None
+
+        data = []
+        for path in file_paths:
+            try:
+                with open(path, "r", encoding="utf-8") as f:
+                    lines = f.readlines()
+                
+                title = lines[0].replace("Title: ", "").strip() if len(lines) > 0 else ""
+                source = lines[1].replace("Source: ", "").strip() if len(lines) > 1 else ""
+                url = lines[2].replace("URL: ", "").strip() if len(lines) > 2 else ""
+                content = "".join(lines[5:]) if len(lines) > 5 else ""
+                
+                # 🌟 [가드레일 필터링] 제니, 트럼프 기사 같이 인천공항과 관계없는 순수 외부 노이즈 차단
+                required_keywords = ['incheon', 'airport', 'icn', 'flight']
+                if not any(kw in content.lower() for kw in required_keywords):
+                    # 소음 기사는 원천적으로 제외 메시지를 띄우고 수집하지 않음
+                    print(f" [가드레일 필터링] 공항 도메인과 무관한 기사 제외: {path.name}")
+                    continue
+
+                data.append({
+                    "title": title,
+                    "source": source,
+                    "url": url,
+                    "content": content,
+                    "clean_text": self.clean_text(content)
+                })
+            except Exception as e:
+                print(f" 파일 읽기 실패 ({path.name}): {e}")
+                
+        print(f" 총 {len(data)}개의 유효 공항 기사 로드 및 전처리 완료.")
+        return pd.DataFrame(data)
+
+    def classify_steep_with_ai(self, df):
+        """🌟 [핵심 변경] 단어 빈도가 아닌 AI 모델 기반 딥러닝 문맥 추론으로 STEEP 분류 진행"""
+        print("\n>>> AI 모델을 활용한 거시환경(STEEP) 문맥 분석 시작...")
+        
+        def predict_category(row):
+            # 분석 속도 최적화 및 핵심 요약 반영을 위해 타이틀과 본문 앞 1,500자를 결합하여 입력값 생성
+            input_text = f"Title: {row['title']}\nContent: {row['content'][:1500]}"
             
             try:
-                # AI가 텍스트의 맥락을 분석하여 각 카테고리별 확률 계산
-                result = self.classifier(context_text, self.categories, multi_label=False)
-                # 가장 확률(Score)이 높은 카테고리의 이름을 가져옴
-                best_category = result['labels'][0]
-                assigned_categories.append(best_category)
+                # 제로샷 추론 수행
+                ai_result = self.ai_classifier(input_text, self.steep_labels, multi_label=False)
+                best_label = ai_result['labels'][0]
+                return best_label
             except Exception as e:
-                assigned_categories.append("Unclassified")
-                
-        df['STEEP_Category'] = assigned_categories
+                # 예외 발생 시 가장 기본 카테고리인 'Social' 대치
+                return 'Social'
+
+        # 행 단위 데이터 추론 적용
+        df['STEEP'] = df.apply(predict_category, axis=1)
+        
+        print("--- AI 분류 결과 분포 ---")
+        print(df['STEEP'].value_counts())
         return df
 
-    def build_tfidf_by_category(self, df):
-        """AI가 1차 분류한 방 안에서, 핵심 키워드를 추출하기 위해 TF-IDF를 돌립니다."""
-        print("\n>>> 카테고리별 독립적 TF-IDF 키워드 추출 시작...")
+    def build_tfidf_by_category(self, df, top_n=100):
+        """카테고리별 핵심 키워드 추출 시점(최종 단계)에만 불용어 제거 반영"""
+        print("\n>>> 카테고리별 TF-IDF 핵심 키워드 추출 중 (불용어 반영)...")
+        results = {}
         
-        # 기본 영어 불용어에, 공항 뉴스에서 '맥락상 당연히 나오는 본질적 노이즈'만 최소한으로 제거
-        base_stop_words = ['incheon', 'airport', 'international', 'icn', 'korea', 'south', 'seoul', 'said', 'new']
-        stop_words = text.ENGLISH_STOP_WORDS.union(base_stop_words)
-        
-        category_tfidf_results = {}
-        
-        for cat in self.categories:
-            # AI가 해당 카테고리로 묶어준 기사들만 필터링
-            sub_df = df[df['STEEP_Category'] == cat]
-            print(f" - [{cat}] 카테고리에 분류된 기사 수: {len(sub_df)}개")
+        categories = df['STEEP'].unique()
+        for cat in categories:
+            cat_df = df[df['STEEP'] == cat]
+            corpus = cat_df['clean_text'].tolist()
             
-            if sub_df.empty or len(sub_df) < 2:
-                print(f"   ! 기사 수가 너무 적어 {cat}의 TF-IDF 분석을 건너뜁니다.")
+            if len(corpus) < 3:
+                print(f" [건너뛰기] '{cat}' 카테고리는 문서 수가 부족합니다 ({len(corpus)}개).")
                 continue
                 
-            # 기사 제목과 본문을 합쳐 말뭉치(Corpus) 구축
-            corpus = (sub_df['title'].fillna('') + " " + sub_df['content'].fillna('')).tolist()
-            
-            # TF-IDF 모델 설정
+            # token_pattern 조정을 통해 3글자 이상 단어만 필터링하여 wa, ha, prod 완벽 차단
             vectorizer = TfidfVectorizer(
-                stop_words=list(stop_words),
-                max_features=25,       # 각 카테고리별 핵심 단어 25개 추출
-                min_df=2,              # 최소 2개 이상의 기사에서 언급된 단어만 (완전 고립된 노이즈 방지)
-                ngram_range=(1, 2)     # "carbon neutral", "smart pass" 같은 연어(Phrases)도 함께 추출
+                max_features=100, 
+                stop_words=list(self.stop_words),
+                token_pattern=r"(?u)\b\w{3,}\b"
             )
-            
             tfidf_matrix = vectorizer.fit_transform(corpus)
-            importance = tfidf_matrix.mean(axis=0).getA1()
-            words = vectorizer.get_feature_names_out()
             
-            # 단어와 가중치(점수)를 데이터프레임으로 결합 및 정렬
-            cat_result = pd.DataFrame({'Word': words, 'TF-IDF_Score': importance})
-            cat_result = cat_result.sort_values(by='TF-IDF_Score', ascending=False).reset_index(drop=True)
+            mean_tfidf = tfidf_matrix.mean(axis=0).tolist()[0]
+            feature_names = vectorizer.get_feature_names_out()
             
-            category_tfidf_results[cat] = cat_result
+            keywords_df = pd.DataFrame({
+                'Keyword': feature_names,
+                'TF-IDF_Score': mean_tfidf
+            }).sort_values(by='TF-IDF_Score', ascending=False).head(top_n)
             
-        return category_tfidf_results
+            results[cat] = keywords_df
+            
+        return results

@@ -1,59 +1,46 @@
-Title: South Korea Warns Of 'Decisive' Action Against Trash Balloons
-Source: International Business Times
-URL: https://www.ibtimes.com/south-korea-warns-decisive-action-against-trash-balloons-3744249
+Title: International Travel Is Shaking Up The World’s Busiest Airports List
+Source: Forbes
+URL: https://www.forbes.com/sites/suzannerowankelleher/2024/04/15/international-travel-is-shaking-up-the-worlds-busiest-airports-list/
 --------------------------------------------------
 
-EditionsAustralia EditionKorea EditionJapan EditionIndia EditionSingapore EditionUnited KingdomUnited States
- doFir.push(function(){if(getCookie('nwsubl')){jQuery(".login-btn .sign-up2").hide();jQuery(".login-btn .myaccount").show()};jQuery(".login-btn .myaccount").on('click',function(e){e.preventDefault();jQuery(".login-btn ul").toggle()});jQuery(document).ready(function(){jQuery(".myaccount").add(".m-manage").each(function(){jQuery(this).attr('href','https://myaccount.ibtimes.com/manage')})})}) fqtag.fscmd.push(function(){LJS("https://users.api.jeeng.com/users/domains/V1DXygbq01/sdk/")}) googletag.cmd.push(function () { if(dfpSlots.slotobjs["top"]){ ibt_log("ADS GPT register ad slot top", Date.now()-timerStart); googletag.display("dfp-ad-top"); } });if(/top\|[0-1]\|1/.test(dfpSlots.pginfo[ibtmedia_device])) document.getElementById("ad-top-wrapper").className+=" block-sticky"  dfpSlots.vplayer=(['ibtuk','ibtus'].indexOf(site_id)>-1)?'primis player':'NoVideo';if(site_id=='ibtuk'&&oa.geo.country!='IL'&&ibtmedia_device=='mobile')dfpSlots.vplayer='NoVideo';if(/adtest=primis/.test(location.href))dfpSlots.vplayer='primis player';else if(/adtest=native/.test(location.href))dfpSlots.vplayer='ibt player';if(dfpSlots.vplayer=='primis player'){if(site_id=='ibtus'){dfpSlots.primis='117767'}else dfpSlots.primis='117814';dfpSlots.primisVideo=function(){if(dfpSlots.primisVideoLoaded)return;dfpSlots.primisVideoLoaded=1;if(adBlock=='Y')return;var d=document,gi='getElementById',s=d.createElement('script');s.type='text/javascript';s.src='https://live.primis.tech/live/liveView.php?s='+dfpSlots.primis+'&cbuster='+Date.now();if(window.ibt_avf){ibt_avf.appendChild(s);d.body.classList.add('video-primis')}else d[gi]('tvplayer').appendChild(s)}}
-if(dfpSlots.vplayer=='NoVideo'&&document.getElementById('ibt-mobile-avf'))document.getElementById('ibt-mobile-avf').remove();dataLayer[0].VideoABTest=dfpSlots.vplayer;var ibt_avf=(brW 
+Close to 8.5 billion passengers took a plane trip last year, according to Airports Council International (ACI) World’s just-released list of the top 10 busiest airports worldwide for 2023.
 
+The total volume of passengers represents a 27% overall jump from 2022, fueled by a 37% boost the international travel market—nearly double the 20% increase for domestic travel. Even more notable is how shifts toward tourism hotspots are shaking up the world order for airports.
 
-World
+The increases themselves are not surprising, as last year was a bumper year for travel spending. Tourists around the world injected nearly $10 trillion into the global economy in 2023, according to the World Travel & Tourism Council. That figure represents 9.1% of global GDP.
 
- if(document.querySelector(".breadcrumb").innerHTML.trim()==''){document.querySelector(".breadcrumb").parentNode.parentNode.removeChild(document.querySelector(".breadcrumb").parentNode)} 
-South Korea Warns Of ‘Decisive’ Action Against Trash Balloons
+After crunching the data from over 2,600 airports across more than 180 countries and territories globally, ACI World revealed no change at the top of the busiest-airport list, where Atlanta’s Hartsfield-Jackson International has sat at No. 1 for more than two decades. Four other U.S. airports also landed in the top 10: Dallas Fort Worth fell one spot to No. 3; Denver fell three spots to No. 6; Los Angeles fell two spots to No. 8; and Chicago fell five spots to No. 9.
 
+ForbesWhy The World's Top Travel Brands Are Betting Big On Indian Tourists
 
-By
+Outside the U.S., there were some very notable shifts reflecting the changing tourism landscape. “Dubai International Airport jumped to second rank for the first time, while Tokyo Haneda International Airport witnessed a remarkable ascent from 16th position in 2022 to 5th in 2023,” said ACI World Director General Luis Felipe de Oliveira. “Additionally, the unwavering strength of Istanbul and New Delhi airports keep them in top ranks, marking significant progress over [pre-pandemic] 2019.”
 
- AFP News 
+World’s Busiest Airports in 2023 (Total Volume)
 
+Hartsfield-Jackson Atlanta (ATL): 104.7M passengers; up 11.7% YOY
 
-Published 09/23/24 AT 12:21 AM EDT
-Share on Facebook
-Share on Twitter
-Share on LinkedIn
-Share on Reddit
-Share on Flipboard doFir.push(function(){var flipboard=1;jQuery(".genericon-flipboard").on('click',function(e){e.preventDefault();e.stopPropagation();if(flipboard){flipboard=0;LJ('https://cdn.flipboard.com/web/buttons/js/flbuttons.min.js',function(){jQuery(".genericon-flipboard").trigger('click')})}})}) Share on Pocket
+Dubai, UAE (DXB): 87M passengers; up 31.7% YOY
 
+Dallas/Fort Worth (DFW): 81.8M passengers; up 11.4% YOY
 
+London Heathrow, UK (LHR): 79.2M passengers; up 28.5% YOY
 
+Tokyo Haneda, Japan (HND): 78.7M passengers; up 55.1% YOY
 
-A handout photo provided by the South Korean Defence Ministry shows garbage carried by a North Korean balloon that landed in Seoul in JuneNorth Korea has sent hundreds more trash-filled balloons across the border in a fresh blitz, Seoul's military said on June 9, as the tit-for-tat balloon barrages between the two neighbours accelerates.
-AFP
+Denver (DEN): 77.8M passengers; up 12.3% YOY
 
-South Korea said Monday it would take "decisive military action" if anyone is killed by the wave of trash-carrying balloons being launched across the border by North Korea.
+Istanbul, Turkey (IST): 76M passengers; up 18.3% YOY
 
-Pyongyang has sent more than 5,500 balloons carrying payloads of garbage since May, disrupting flights, causing fires, and even hitting government buildings in the South.
+Los Angeles (LAX): 75.1M passengers; up 13.8% YOY
 
-Pyongyang says the tactic is a response to activists in the South sending balloons carrying propaganda to the North.
+Chicago O’Hare (ORD): 73.9M passengers; up 8.1% YOY
 
-Seoul "will take decisive military actions if the North's trash-filled balloons post a serious safety threat or are deemed to have crossed a line", Lee Sung-joon, of the Joint Chiefs of Staff, told reporters.
+Delhi, India (DEL): 72.2M passengers; up 21.4% YOY
 
-The line would be crossed if anyone died as a result of the balloons he said, without giving details on exactly what the "decisive" measures would entail.
+Viewed through a wider lens, the 2023 numbers reflect a strengthening of international travel in the Middle East and Asia, said ACI World.
 
-Most of the balloons sent by the North have bags of waste paper attached, which pose no specific health risk, but concerns have been raised after new devices attached to some caused fires in recent weeks.
+When domestic travel is not included, Dubai International Airport is the world’s No. 1 busiest airport, followed by a trio of European heavyweights: London Heathrow (No. 2), Amsterdam Schiphol (No. 3), and Paris Charles-de-Gaulle (No. 4).
 
-"Our military is closely monitoring North Korean military and tracking the launch point of the balloons in real time," the JCS's Lee said.
+On the international stage, the biggest movers were in Asia. Singapore Changi Airport jumped from No. 9 to No. 5, with an eye-popping 83% increase in international volume. Yet it was Incheon International Airport in Seoul, South Korea, which made the biggest leap from No. 32 to No. 7, due to a massive 213% boost in international passenger traffic, driven mainly by visitors from Japan, China, Taiwan and and elsewhere in Asia.
 
-The warning came hours after the latest balloon launch briefly disrupted flights at Incheon airport.
-
-Shortly after the North's launch of trash-filled balloons in May, Seoul suspended a military deal with Pyongyang and restarted propaganda broadcasts from loudspeakers along the border.
-
-Relations between North and South Korea are at one of their lowest points in years, with the North recently announcing the deployment of 250 ballistic missile launchers to its southern border.
-
-The North also earlier this month released images of its uranium enrichment facility for the first time, showing leader Kim Jong Un touring as he called for more centrifuges to boost his nuclear arsenal.
-
-The country, which conducted its first nuclear test in 2006 and is under rafts of UN sanctions for its banned weapons programmes, had never publicly disclosed details of its uranium enrichment facility before.
-
-"The North could carry out its seventh nuclear test any time Kim Jong Un gives a greenlight... including before or after the US presidential election" in November, Shin Won-sik, the president's national security adviser, said Monday in an interview with Yonhap News TV.
+World’s Busiest Airports in 2023 (International)

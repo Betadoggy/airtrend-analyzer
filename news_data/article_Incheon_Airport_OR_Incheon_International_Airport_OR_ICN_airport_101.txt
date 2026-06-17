@@ -1,80 +1,104 @@
-Title: The $70 Billion Blind Spot And Why VCs Are Betting Big On AI-Powered Compensation Management
-Source: Forbes
-URL: https://www.forbes.com/sites/josipamajic/2025/07/22/the-70-billion-blind-spot-and-why-vcs-are-betting-big-on-ai-powered-compensation-management/
+Title: Delta expands time-saving program for international flyers at Atlanta
+Source: The Points Guy
+URL: https://thepointsguy.com/news/delta-air-lines-baggage-transfer-seoul-atlanta/
 --------------------------------------------------
 
-Corporate America has an interesting inconsistency in its approach to technology adoption. While companies have embraced sophisticated AI tools for everything from customer service to inventory management, they continue to manage their largest expense category—employee compensation, which typically represents a significant portion of most companies' budgets—with Excel spreadsheets and manual processes that would seem antiquated in any other business context.
+ADVERTISEMENT
 
-This disconnect has created a massive market opportunity that venture capitalists are finally starting to recognize. CandorIQ’s $4.8 million seed round is the latest sign that investors are waking up to a long-overlooked opportunity in compensation planning. While the category has seen growing interest—Ravio also recently raised €10.6 million—the market remains fragmented and difficult to navigate. Legacy platforms are entrenched, and implementation challenges are real. But the scale of the problem and CandorIQ’s early traction suggest a shift is underway.
+Delta expands time-saving program for international flyers at Atlanta
 
-Market Size: A Tale of Competing Projections
+The cards we feature here are from partners who compensate us when you are approved through our site, and this may impact how or where these products appear. We don’t cover all available credit cards, but our analysis, reviews, and opinions are entirely from our editorial team. Terms apply to the offers listed on this page. Please view our advertising policy and product review methodology for more information.
 
-The compensation management software market is experiencing rapid growth, but market research firms present dramatically different assessments of its current size and future potential. According to Research Nester, the compensation software market size was valued at USD 5.7 billion in 2024 and is projected to account for USD 29.9 billion in 2037, growing at around 13.6% CAGR during the forecast period. However, other sources present more conservative figures: P&S Market Research estimates the market generates USD 3.22 billion in 2024, expected to witness a growth rate of 9.8% during 2025-2030.
+The airport experience keeps getting less stressful for passengers flying to the U.S. from abroad — especially for travelers hurrying to catch a connecting flight.
 
-The variation in market assessments is striking. Cognitive Market Research valued the compensation management software market at USD 3.50 billion in 2022, projecting it will reach USD 7.23 billion by 2030, registering a CAGR of 9.5%.
+In recent months, we've seen the U.S. relax some security protocols for passengers after a long intercontinental flight. This specifically applies to flights from the U.K. and Australia.
 
-These disparities likely reflect different methodologies for defining the market scope, suggesting the space remains fragmented and dominated by legacy players who built their platforms before the cloud computing revolution.
+Up next are flights from South Korea.
 
-MORE FOR YOU
+Delta Air Lines announced on Wednesday that passengers flying into Hartsfield-Jackson Atlanta International Airport (ATL) from Seoul's Incheon International Airport (ICN) no longer have to wait (and then recheck) their luggage before heading to their connecting flight.
 
-Three Distinct Competitive Arenas
+Those passengers' bags will now transfer right to their next plane, just like they would on a domestic connection.
 
-The compensation software market is heating up, and it's not just because companies are spending more on talent. It's because the tools for managing that spend are outdated, fragmented, and failing to keep up.
+That may sound like a fairly small change, but Delta estimates that this shift could save travelers an average of 25 minutes. That's precious time during a layover.
 
-The competitive landscape is breaking into three clear lanes:
+When to go: These are the best times to buy an international flight
 
-1. Legacy Players: SAP, Oracle, Paycom, and UKG still dominate through breadth and compliance depth. However, they suffer from poor user experience and inflexibility—traits that newer entrants exploit.
+Simplifying security rules after an international flight
 
-2. Global Workforce Platforms: Deel, Papaya Global, and Remote have raised hundreds of millions to offer bundled services like payroll, employer-of-record (EoR), and now compensation tooling. Deel's acquisition of Assemble underlines how compensation is becoming a strategic lever, not just a cost.
+Normally, travelers flying inbound to the U.S. have to go through an arduous series of steps before reaching their connecting gate. They have to clear passport control, wait for their bag, recheck it and then go back through security.
 
-3. Next-Gen Specialists: Tools like Pave, Aeqium, and YC backed CandorIQ are taking a more focused approach to double down on AI features across compensation and headcount planning.
+Over the last few months, airlines (alongside the Transportation Security Administration) have started reducing some of those requirements for travelers flying into the U.S. from certain countries with similar security protocols.
 
-CandorIQ, which just raised a $4.8M seed round led by Array Ventures and Y Combinator, is part of a new wave of platforms aiming to change that. While incumbents focus on compliance and bundled payroll stacks, CandorIQ is going deep on compensation itself – building a modern, AI-powered system that unifies HR, Finance, and Business leaders around a single source of truth.
+Daily Newsletter
 
-"A big part of why I started CandorIQ is I got into some of these systems and saw just how hard they were to use," said CEO Haris Ikram. "Even the 'modern' platforms required pulling data into spreadsheets, lobbing Slack messages, and chasing down last week's headcount file. I wanted to build something where teams could actually work together on the same system, in real time."
+Reward your inbox with the TPG Daily newsletter
 
-The Implementation Reality Check
+Join over 700,000 readers for breaking news, in-depth guides and exclusive deals from TPG’s experts
 
-While the market opportunity appears substantial, the reality of HR technology adoption presents significant challenges that temper overly optimistic projections. Nearly 1 in 4 organizations report that their new HR tech implementations fail to meet adoption expectations, according to a recent survey by the Sapient Insights Group.
+Email address
 
-The barriers to adoption are multifaceted. HR leaders face challenges in adopting disruptive technologies, primarily due to implementation costs (23%) and a lack of a compelling use case (20%). Additional research reveals that 42% cite a lack of internal expertise as a barrier to adoption, and 54% report difficulties training staff on these systems.
+Submitting...
 
-However, successful implementations do show promise. 55% of AI users report improved employee satisfaction, highlighting its potential when implemented securely and effectively. Furthermore, organizations achieving significant HR cost savings from their move to HR SaaS solutions, with 70 percent reporting savings of 10 percent or more, and 37 percent achieving savings of 20 percent or more.
+By signing up, you will receive newsletters and promotional content and agree to our Terms of Use and acknowledge the data practices in our Privacy Policy. You may unsubscribe at any time.
 
-The AI Promise and Its Limitations
+In fact, just two weeks ago, Delta (and Virgin Atlantic) removed the bag and security recheck requirements for passengers connecting in ATL after an inbound flight from London's Heathrow Airport (LHR).
 
-The artificial intelligence angle represents both the biggest opportunity and the greatest risk for compensation management platforms. To be effective, these tools must integrate with payroll, HRIS, ATS, equity systems, and financial planning software. CandorIQ, for example, integrates with over 100 HR and finance tools, offering a unified decision layer without requiring teams to "cobble together spreadsheets or call in consultants".
+American Airlines recently launched a similar "one-stop security" trial for its passengers connecting at Dallas Fort Worth International Airport (DFW) after a flight from LHR.
 
-But integration also creates a moat for incumbents and multi-product suites like Rippling (which raised $2B+) that combine payroll, benefits, devices, and HR into one stack. This bundling strategy could marginalize best-in-class point solutions unless they build defensible niches or partner networks.
+Seoul-Atlanta connections get simplified
 
-The Human Factor: Resistance to Change
+Now, that concept is expanding (though in a more limited capacity) for Delta passengers flying from Seoul to Atlanta and then connecting to another flight.
 
-Beyond technical challenges, the biggest drag on adoption may be cultural. HR and Finance are inherently conservative functions. Change is inherently uncomfortable for many people, especially when it disrupts established routines. Employees may resist adopting a new system, and resistance to change from employees who may be accustomed to traditional HR practices remains a primary obstacle.
+Those travelers still have to reclear security, but their bags will transfer right over.
 
-The idea of letting AI "guide" decisions about pay still feels like science fiction to many CHROs and CFOs. CandorIQ's approach—augmenting human insight rather than replacing it—might be more palatable to enterprise buyers. But inertia remains a real risk.
+Read more: 'Game-changer' alternative to Global Entry now available at 8 US airports this summer
 
-Market Dynamics and Competitive Pressures
+Why the TSA says this is safe
 
-The surge in funding for compensation management platforms reflects a broader shift in how companies view workforce planning. The evolution from treating HR as a cost center to recognizing workforce planning as a competitive advantage represents a fundamental change in how businesses think about human capital.
+Through the partnership, South Korean security officials send the TSA X-ray images of passengers' bags taken on the ground at checkpoints at ICN.
 
-This transformation creates both opportunities and challenges for existing players. Traditional HR information systems were built for compliance and record-keeping, not strategic decision-making. Platforms that can bridge the gap between operational efficiency and strategic insight have the potential to capture significant market share from established vendors.
+TSA agents can examine those images while passengers are flying, eliminating the need for a recheck after the flight.
 
-The integration challenge is particularly complex because compensation decisions touch every part of an organization. These platforms must connect with payroll systems, human resources information systems, performance management tools, and financial planning software. Success requires not just building great software, but creating an ecosystem that can adapt to the diverse technology stacks that modern companies have assembled over years of digital transformation.
+"By leveraging advanced technology and enhancing our processes, we are driving innovation in air travel that adds an extra layer of security while streamlining the entry process for international travel," Diane Sabatino, U.S. Customs and Border Protection's acting executive assistant commissioner of operations, said in a statement Wednesday.
 
-The Risks of Disruption
+The new one-stop protocols also extend to passengers flying Korean Air, Delta's SkyTeam alliance partner, which also operates flights between Seoul and Atlanta.
 
-Despite the compelling market opportunity, several factors could limit the success of AI-powered compensation management platforms. The first is the inherent conservatism of human resources and finance departments, which tend to move slowly on technology adoption, especially for systems that handle sensitive employee data.
+Related: Best credit cards for Global Entry and TSA PreCheck
 
-The competitive landscape itself presents another challenge. Well-funded global workforce platforms are bundling compensation management into comprehensive solutions that may offer better value propositions than standalone tools. When companies like Rippling raise over $2 billion to create integrated systems combining payroll, HR, devices, and benefits, it raises questions about whether specialized platforms can maintain independence.
+Which airports have one-stop security?
 
-There's also the complexity of compensation itself. Pay structures vary dramatically across industries, company stages, and geographic markets. Building software that can handle the nuances of equity compensation, commission structures, international payroll, and regulatory compliance across multiple jurisdictions is extraordinarily difficult—a challenge that may favor platforms with broader resources and existing compliance infrastructure.
+While many passengers will cheer the less cumbersome security rules, this does mean the postflight protocols are less consistent from one airport to another.
 
-Evolution, Not Revolution
+Here's a quick rundown of all the one-stop programs now in place, as of Aug. 13:
 
-The surge in funding for compensation management platforms reflects a real market need, but success will likely come through evolutionary improvements rather than revolutionary disruption. The most successful companies will be those that can seamlessly integrate AI capabilities into existing workflows while addressing the fundamental coordination problems between HR and finance teams.
+If you're flying from London to Atlanta or Dallas, you can skip the bag and security recheck and head right to your connecting flight.
 
-The focus on collaboration between departments, rather than just automating individual tasks, suggests a sophisticated understanding of how compensation decisions actually get made in modern organizations. Whether this translates into market success will depend on execution, customer adoption, and the ability to compete against both established vendors and well-funded startups pursuing similar opportunities.
+If you're flying from Seoul to Atlanta on Delta, your baggage will transfer right to your connecting flight, but you'll still need to reclear security.
 
-"People spend is the largest line item in most companies' budgets, but it still gets treated like an afterthought," says Ikram. "We've seen clients save six figures in headcount costs within two months. Others cut the time it takes to run a compensation cycle in half. The strategic capabilities of people leaders are wildly under-leveraged—and it's time that changed."
+If you're flying from Sydney to Los Angeles on American Airlines, your bag will transfer right to your connecting flight, but you'll still need to reclear security.
 
-The ultimate test will be whether these platforms can deliver on their promises of transforming compensation management from a reactive, spreadsheet-driven process into a strategic advantage. For companies spending 70% of their budgets on people, the stakes couldn't be higher—and the opportunity couldn't be more compelling. As the market continues to evolve, the winners will likely be those who can best balance technological innovation with the practical realities of managing human capital in increasingly complex organizations.
+Additionally, if you're flying from Atlanta or Dallas to London and connecting at LHR, you can skip the security recheck there (bags already transfer right to connections).
+
+Bottom line
+
+The U.S. government has said that it hopes to add partnerships with more countries to these streamlined security protocols. That should help save passengers time in the U.S. and at airports overseas.
+
+Delta, for one, told TPG that it hopes to eliminate the security recheck requirement for passengers coming from Seoul and connecting in Atlanta in the near future.
+
+Related reading:
+
+The best time to book flights for the cheapest airfare
+
+Best airline credit cards
+
+What exactly are airline miles, anyway?
+
+6 real-life strategies you can use when your flight is canceled or delayed
+
+Maximize your airfare: The best credit cards for booking flights
+
+The best credit cards to reach elite status
+
+Featured image by SEAN CUDAHY/THE POINTS GUY
+
+Editorial disclaimer: Opinions expressed here are the author’s alone, not those of any bank, credit card issuer, airline or hotel chain, and have not been reviewed, approved or otherwise endorsed by any of these entities.

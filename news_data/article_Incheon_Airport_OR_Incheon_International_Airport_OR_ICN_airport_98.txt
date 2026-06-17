@@ -1,30 +1,62 @@
-Title: Check out Hyundai’s new robot that will automatically charge your EV
-Source: Electrek
-URL: http://electrek.co/2025/05/22/hyundais-new-robot-automatically-charge-your-ev/
+Title: The Future Of Work: New Skills For Thriving In The AI-Driven Economy
+Source: Forbes
+URL: https://www.forbes.com/sites/cathyrubin/2024/10/02/the-future-of-work-new-skills-for-thriving-in-the-ai-driven-economy/
 --------------------------------------------------
 
-How much easier can charging get? Hyundai and Kia want to make it effortless with their new robot that automatically charges your EV.
+With insights from Shea Gopaul, John Frankel, Matt Greenfield, Kamal Mistry, Reza Safai, and Nick Bostrom
 
-Hyundai sets up robot EV charger service in Korea
+The IMF predicts that AI will affect 40% of global jobs, either through replacement or complementing human roles. Despite the potential disruption, AI is opening doors to new opportunities in STEM, healthcare, finance, entertainment, manufacturing and energy. The key challenge now is how governments, businesses, and educational institutions can collaborate to ensure that workers are prepared for this fast-evolving landscape.
 
-If cars can drive themselves, why can’t robots automatically charge your EV? That may soon be a reality after Hyundai Motor showcased its new automatic charging robots (ACRs) in Korea.
+Addressing the Global Skills Crisis
 
-Hyundai and Kia set up a demo site at the Incheon International Airport as part of a new business agreement. Through the agreement, Hyundai (and Kia) will work with the airport to establish an automatic robot EV charging service.
+AI's global impact presents both opportunities and challenges, particularly in developing regions. Shea Gopaul, IOE Permanent Representative to the UN, highlights the global "skills crisis," compounded by 2.6 billion people lacking internet connectivity, which exacerbates the digital divide.
 
-Since Incheon International Airport has already electrified its entire fleet and plans to have 1,110 chargers by 2026, it is the perfect spot to test it out.
+Gopaul stresses that "more action is needed." The private sector must play a pivotal role in advancing internet connectivity, governance, and digital literacy. "We need to foster trust and adopt a human-centric approach," she asserts.
 
-Advertisement - scroll for more content
+Public-Private Partnerships as a Solution
 
-The companies will use the demo site as a “stepping stone” with plans to expand into additional airports, seaports, railways, and other transportation hot spots.
+Gopaul highlights the power of partnerships in addressing the skills gap. “Apprenticeships, one of the oldest forms of collaboration, align education with current labor market needs,” she says. Through initiatives like the Global Apprenticeship Network (GAN), businesses, governments, and institutions can reskill and upskill workers to meet evolving industry demands. "Collaboration between the public and private sectors has never been more crucial."
 
-Hyundai Motor’s head of R&D said the project is “a significant milestone in verifying the practical benefits” of robotic EV charging.
+Future-Ready Skills for AI-Driven Industries
 
-Although several other companies, like Tesla and RAM (remember the Ram Charger?), have teased robot EV chargers in the past, Hyundai is one of the first to put them into action.
+Gopaul underscores the role of multinational corporations in preparing workers for AI-driven industries through training in Generative AI and enhancing human skills like adaptability and collaboration. "It won't be AI taking jobs; it will be people with AI skills," she explains. Job creation and AI skills development are paramount if we are to eliminate poverty.
 
-Hyundai first introduced its automatic charging robot in 2023. Using a 3D camera system and AI, the robot will automatically find and plug into the vehicle’s charge port.
+Ensuring Compliance and Governance in AI-Powered Industries
 
-When you’re done, it will remove the charger and close the cover. Check out the video above to see how it works on the IONIQ 6.
+AI is helping streamline tasks in industries like finance, such as risk monitoring and compliance reporting. While automation increases efficiency, human oversight remains crucial to ensure regulatory standards are upheld. Businesses must balance automation and human judgment to innovate responsibly and navigate legal and ethical challenges.
 
-The company expects that automatic charging robots will “significantly increase” the convenience of EV charging. With autonomous parking, the robots can charge several parked vehicles at the same time.
+Opportunities in AI-Driven Sectors
 
-Will we see Hyundai’s robot EV chargers rolling around global airports in the future? It could soon be a reality.
+John Frankel, founder of ff Venture Capital, highlights a shift in focus: "The conversation has moved from being an AI startup to how any startup integrates AI processes to reduce costs and scale efficiently. The challenge for existing businesses is that new ones automatically start with AI processes—such as ad generation, sales automation, code development, and quality assurance."
+
+On job loss, Frankel notes: "The Luddite perspective that technology destroys jobs is very seductive, as the jobs lost are easier to grasp than those gained. But look where we are: tight unemployment in a deeply technological society." He adds, "Robotics and advanced AI applications will create jobs in areas that are harder to see, but the technology should be embraced, not rejected."
+
+Looking ahead, Frankel foresees major developments: "There will be a huge increase in the deployment of technology into US manufacturing and energy sectors, creating massive efficiencies and many new jobs. The economy will be better for this."
+
+Innovating with AI in Immersive Storytelling
+
+AI’s impact on the entertainment industry is a clear example of how it is reshaping jobs and required skills. Volumetric video, which captures performances in 3D, is being transformed by AI to expand its applications and lower production costs. According to Kamal Mistry, "AI enables us to capture volumetric video in more varied environments, opening up entire genres such as concerts, sports, and even training scenarios." This shift is creating new career opportunities in content creation and interactive media.
+
+AI-Driven Innovation: Merging Creativity with Technology
+
+Reza Safai, filmmaker, actor, and founder of MASSIVE, highlights that creativity will remain indispensable in an AI-driven future. While AI can assist in the creative process, Safai emphasizes that pushing boundaries will still depend on human insight and innovation. “The skills that will keep you relevant in the future aren’t purely technical," he explains. "It’s about learning to think differently, to see possibilities where others see limitations."
+
+Educating Tomorrow's Workforce for AI-Driven Industries
+
+As industries like entertainment continue to evolve with AI, preparing the workforce must start with education. Matt Greenfield, managing partner of an education-focused venture capital firm, stresses the need for educational systems to adapt. "Schools need to figure out how to help students productively use AI in group projects. In our jobs, we will all be refining our work in iterative processes incorporating insights from multiple AI models and multiple humans."
+
+Greenfield emphasizes that the most critical skills for tomorrow’s workforce won’t just be technical but human-centered. "The most important skills for most workers will be non-technical: the ability to ask catalytic questions, empathize, lead, solve multidisciplinary problems, and unlearn when they have been wrong."
+
+Next Steps: Preparing for the AI-Driven Workforce
+
+To ensure a smooth transition into the AI-driven future of work, all stakeholders must take active roles in shaping how industries adapt and evolve. Here are actionable steps to consider:
+
+Governments: Foster collaboration between the public and private sectors, with a focus on expanding digital infrastructure to provide access to AI education and training.
+
+Businesses: Invest in continuous learning programs that combine AI skills with creativity, critical thinking, and leadership. Encourage ethical decision-making alongside AI adoption.
+
+Educational Institutions: Revamp curricula to prepare students for AI-driven industries, integrating AI with human collaboration. Nurture non-technical skills like empathy, communication, and ethical problem-solving.
+
+Individuals: Commit to lifelong learning, continuously developing both technical and human skills. Embrace AI as a tool to enhance your capabilities.
+
+The path to the future of work lies not just in mastering the technologies that will shape industries but in fostering the human-centered skills that will enable workers to thrive alongside AI. Creativity, empathy, critical thinking, and ethical decision-making are the qualities that will set professionals apart in the AI-augmented workforce.

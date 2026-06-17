@@ -1,0 +1,12 @@
+Title: Now you can get food delivered to your gate at some of the biggest US airports
+Source: The Verge
+URL: https://www.theverge.com/2023/8/14/23831622/us-airport-jfk-ohare-food-delivery-order-ipad-removal-otg
+--------------------------------------------------
+
+Some major US airport terminals like JFK now have options for ordering food for delivery to your gate, Bloomberg reports. This is made possible by airport food management company OTG, which is planning to shed the 21,000 iPads it manages for its bars, restaurants, and fast food offerings across various terminals and instead invite hungry travelers to order food on the devices they already carry. Travelers can scan QR codes at venues, select the food they want, pay on their device using options like Apple Pay and credit cards, and get it delivered to the gate they’re walking toward.
+
+The features are similar to ordering apps like Uber Eats and Grubhub, but OTG isn’t going to mandate another app for people to download. Instead, QR codes scattered at venues will connect users to ordering pages for the desired food. According to rollout details sent to The Verge, OTG’s in-house “Flo” ordering system that centralizes all orders to one website is coming next month. Order-ahead options are also coming in September, which will let travelers order items like iced lattes for pickup at coffee shops at their destination airport from a mile in the sky.
+
+Operating a website and back end for orders and printing a bunch of QR codes could simplify things for OTG when compared to operating iPad kiosks. The company could also save money on on-site maintenance, installation, iPad upgrades, mobile device management subscriptions, security costs, and more. Although, fewer ordering options may inconvenience some customers, especially those who’d prefer to tap dedicated screens near where they can smell the cuisine they crave.
+
+OTG currently manages food offerings at 350 venues and 23 terminals at airports including JFK, Chicago O’Hare, Newark Liberty, LaGuardia, and the Philadelphia International Airport. Newark’s airport will get the first order-ahead options come September, and by November, preorder features will expand to more airports. Personally, I’m still holding out for the terminal delivery robots available at Incheon Airport in South Korea to come to an airport near me.

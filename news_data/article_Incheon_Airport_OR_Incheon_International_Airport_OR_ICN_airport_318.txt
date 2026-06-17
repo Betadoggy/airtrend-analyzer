@@ -1,82 +1,94 @@
-Title: Did South Korea's ex-leader try to goad North into conflict?
-Source: DW (English)
-URL: https://www.dw.com/en/did-south-koreas-ex-leader-try-to-goad-north-into-conflict/a-73184967
+Title: North Korea Trash Balloons Force Airport to Close
+Source: Biztoc.com
+URL: https://biztoc.com/x/3a6dbf0dbf20d48a
 --------------------------------------------------
 
-South Korean prosecutors investigating impeached ex-President Yoon Suk Yeol have reportedly found evidence that the disgraced former leader ordered military drones to be sent over Pyongyang.
+Market Summary
 
-According to reports in South Korea this week, investigators have obtained audio recordings of communication between the then-president and the military over the alleged drone deployments.
+Stocks were broadly supported by risk-on sentiment as investors processed the U.S.-Iran interim progress, but the rebound looks fragile heading into central-bank catalysts. The S&P 500 and Nasdaq traded with attention on rates and oil, while volatility cues remained elevated. Sector leadership skewed toward AI- and energy-linked names as traders balanced easing energy risks against ongoing inflation and Fed timing.
 
-Analysts say the incursions, which reportedly occurred in October 2024, were likely intended to provoke North Korea into a reaction.
+SpaceX to buy AI coding start-up Cursor for $60 billion - in stock deal
 
-That scenario would have provided Yoon with the justification to declare a national emergency and impose martial law, which he eventually did in December.
+SpaceX is reshaping big-tech’s market structure again—this time through a $60 billion push into AI coding agents. Multiple filings and coverage point to a rapid post-IPO buildout that’s already moving valuations.
 
-Yoon, who has since been impeached, is now facing criminal charges for insurrection over his short-lived declaration of martial law.
+Figure of the Day
 
-Why did Yoon allegedly send drones over Pyongyang?
+15.4% - US housing starts fell in May, down to a 1.177 million annualized rate
 
-Choo Jae-woo, a foreign policy professor at Kyung Hee University in Seoul, explained that there are "only two reasons" that a president can declare martial law, one of which is "external aggression or an invasion."
+Brent slips below $80 - as U.S.-Iran deal boosts supply hopes
 
-"It appears that after provoking the North, Yoon expected a retaliation that he could then use to justify declaring martial law," he told DW.
+Markets are treating the interim U.S.-Iran understanding as an economic catalyst, with oil sliding and risk appetite improving. The data points to supply logistics still lagging behind deal headlines.
 
-"But that plan backfired when the North did not respond militarily," he said. Pyongyang protested the incursions but stopped short of responding militarily.
+Warsh faces tightrope in first Fed meeting - markets wait for rate signal
 
-Yoon declared martial law on December 3, saying he needed to protect the nation from "North Korean communist" and "anti-state" forces. He did not provide any evidence for his claims.
+Fed policy is back on center stage as Warsh takes the chair amid uncertainty on inflation and rate paths. Coverage focuses on what his first meeting likely means for bonds and the rally’s durability.
 
-Fallout from Yoon's martial law decree
+Bullish
 
-His controversial attempt to use the military to seize control of the government lasted only a few hours.
+BlackRock launches bitcoin income fund - offers cash flow alongside BTC exposure
 
-He was impeached and suspended 10 days later and then arrested in January.
+BlackRock’s new bitcoin income fund pairs spot bitcoin exposure with a covered-call approach to generate income, giving institutions more ways to access crypto without giving up yield potential. More on theblock.co
 
-The former leader's charge of insurrection is punishable by life imprisonment or the death penalty, although South Korea has not executed anyone in decades.
+Bank of Japan lifts rates to 31-year high - yen and carry-trade in focus
 
-Yoon, who was released on bail in March, has denied the charges, saying "martial law is not a coup d'etat" and that his declaration was designed as a "peaceful message" to the nation to highlight the opposition's intentions against the government.
+Central banks are moving on inflation and currency pressure, with the Bank of Japan leading. The rate lift ripples across FX and risk assets globally.
 
-He was questioned again in Seoul on Saturday, and a day later, special prosecutors filed a request for a new arrest warrant for alleged abuse of power, falsification of official documents, violation of the presidential security act and obstruction of official duties.
+US strategic oil reserve hits lowest level since 1983 - supply cushion thins
 
-According to South Korean media, a hearing to confirm that arrest warrant has been scheduled for Wednesday. Yoon is expected to appear in person to present his arguments before the court.
+Energy security and supply management remain the dominant macro constraint—even as diplomatic progress emerges. The Strategic Petroleum Reserve and Hormuz reopening dynamics frame pricing and risk.
 
-Authorities say that allegations of treason, which include the dispatch of drones into North Korea, were not included in the charges as they are still being investigated, but they could still be added later.
+Bearish
 
-How did we get to this stage?
+B-52 bomber crash after takeoff - all eight crew onboard killed
 
-In October 2024, there were reports of drones over the North Korean capital, Pyongyang, which is 210 kilometers (130 miles) north of the Demilitarized Zone that divides the Korean Peninsula, on three occasions.
+A B-52 Stratofortress crashed shortly after takeoff during a routine test mission at Edwards Air Force Base, with all eight crew members killed as authorities launch an investigation. More on tippinsights.com
 
-North Korea published purported images of the drones and later claimed to have found the remains of one of the unmanned aerial vehicles (UAVs) that had been shot down after dropping propaganda leaflets.
+GM eyes defense expansion - in talks to build weapon parts with Lockheed Martin
 
-In South Korea, the Defense Ministry quickly rejected Pyongyang's claims. But the ministry backtracked a few hours later, saying it could not confirm or deny the reports.
+Defense is accelerating through industrial deal-making, with GM moving into weapons production discussions. The story clusters defense procurement risk and supply chain expansion together.
 
-North Korea threatened to carry out retaliatory strikes against the South in response to the propaganda leaflets filled with "inflammatory rumors and rubbish."
+G7 allies question Trump’s Hormuz optimism - stocks waver amid reopening uncertainty
 
-While Pyongyang condemned Seoul and said the incident "could be considered a military attack," it did not launch a cross-border retaliation.
+Geopolitical tensions are testing oil and trade flows across the Middle East while allies press for clarity on shipping safety. The focus is less on headlines and more on implementation details.
 
-The special investigation team set up to look into Yoon's actions in office obtained a recording in which a senior officer of the Drone Operations Command said that his commander had received the order for the operation from "V," the South Korean military's term for the sitting president, the Korea JoongAng Daily reported on July 3.
+Regulatory Impact
 
-Further investigations have revealed that two reconnaissance drones were reported missing near the border in October, with a Defense Ministry report saying the reasons for the loss of the vehicles were "unknown."
+Regulators are tightening oversight in parallel: the CRTC warned Bell and Telus to drop wireless fees or face compliance action, while the EU is pressing banks on capital-rule simplification rather than broad overhauls.
 
-Yoon's risky gamble
+Fox buys Roku for $22 billion - streaming push expands Murdoch media footprint
 
-"It is clear that the situation could have been very serious," said Choo, the Kyung Hee University professor. "The exchanges that could have followed may not have been just localized skirmishes close to the border but could have escalated. We were very fortunate that the North decided not to respond."
+Corporate M&A continues to target streaming and AI-adjacent assets, with Fox pushing deep into Roku and the broader content pipeline. The deal is framed as a strategic pivot in the TV ad era.
 
-Dan Pinkston, a professor of international relations at the Seoul campus of Troy University, pointed out that the South's alleged drone intrusion was part of a series of tit-for-tat cross-border exchanges during Yoon's administration, which helped heighten tensions with Pyongyang.
+Bank regulator targets overlap in capital rules - EU resists banks’ plea for overhaul
 
-North Korea had been sending surveillance drones into the South and "was jamming GPS signals" close to the border, affecting flights going in and out of Incheon airport, he said.
+Telecom and banking regulators are increasing scrutiny around fees and capital rules, turning compliance into a market-moving theme. The pair highlights enforcement risk and rule complexity for large institutions.
 
-"There were also groups in the South sending balloons over the border carrying propaganda leaflets, small amounts of food, money and medicine, with the North replying with balloons carrying trash," Pinkston added.
+Quote
 
-But Yoon's order for military drones to penetrate North Korea's airspace was more serious, Pinkston said, as this was "a clear violation of the armistice that ended hostilities in the Korean War" (1950-1953). Officially, the two neighboring countries have been at war ever since.
+“Let’s not panic.”
 
-In addition, "it appears it was done without informing the US or the United Nations Command on the border," the professor said.
+— Brad Smith, Microsoft vice chair and president
 
-Drone incursions threatened 'devastating war'
+Trump’s Anthropic crackdown sets off AI alarms for U.S. allies - export controls bite
 
-Yoon ordering the incursions could very easily have backfired, Pinkston said.
+High-profile AI governance clashes are escalating, with Anthropic model controls drawing alarm from cybersecurity and industry circles. The cluster captures regulation-through-enforcement and its international spillover.
 
-"It is hard to understand the thinking behind this decision, but it put the country at the risk of a devastating war," he said.
+Starbucks Korea to temporarily shut all stores - history lesson after bungled coffee promo
 
-"This was an extreme move that endangered the territory of South Korea, the people and the nation's assets, all so Yoon could take a tighter authoritarian rule on the reins of government," Pinkston said.
+Starbucks is dealing with reputational blowback as its Korea promotion triggers broad store closures. The story is a corporate turn-around stress signal tied to brand management failure.
 
-"There is no logical explanation for doing what he did," he added.
+Yum to sell Pizza Hut for $2.7 billion - sharp focus shift after years of struggles
 
-Edited by: Karl Sexton
+Pizza Hut is being sold at scale as Yum trims struggling assets, with private equity stepping in. The coverage highlights a major portfolio reset tied to profitability pressure.
+
+US housing starts collapse in May - lowest since COVID as sentiment sours
+
+Markets are digesting housing deterioration with a sharp May drop in starts and affordability pressure. The cluster is built around employment-linked demand and construction activity cooling.
+
+US-Iran peace progress helps push Treasury yields lower - investors reprice inflation path
+
+Bank of Japan and bond repricing are intersecting with broader risk shifts, while yields and FX volatility stay in play. The cluster reflects the immediate transmission path to markets.
+
+B-52 bomber goes down after takeoff - all eight crew onboard killed
+
+A deadly B-52 crash at Edwards Air Force Base adds crisis weight across defense and aviation safety. The story is immediate, fatal, and likely to trigger investigations.

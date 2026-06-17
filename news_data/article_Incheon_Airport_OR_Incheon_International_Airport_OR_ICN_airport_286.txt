@@ -1,60 +1,68 @@
-Title: Israel’s Challenge Group prepares to fly all-new 777 converted freighter
-Source: Yahoo Entertainment
-URL: https://www.yahoo.com/news/israel-challenge-group-prepares-fly-190848641.html
+Title: Jungkook Reveals The First Person He Shared 'Seven' With: It's A BTS Member
+Source: International Business Times
+URL: https://www.ibtimes.com/jungkook-reveals-first-person-he-shared-seven-its-bts-member-3705365
 --------------------------------------------------
 
-Challenge Group, Israel’s only all-cargo operator, on Monday announced plans to lease two additional Boeing 777-300ER converted freighters as it aggressively pursues fleet expansion to increase market reach amid strong shipping demand.
+EditionsAustralia EditionKorea EditionJapan EditionIndia EditionSingapore EditionUnited KingdomUnited States
+ doFir.push(function(){if(getCookie('nwsubl')){jQuery(".login-btn .sign-up2").hide();jQuery(".login-btn .myaccount").show()};jQuery(".login-btn .myaccount").on('click',function(e){e.preventDefault();jQuery(".login-btn ul").toggle()});jQuery(document).ready(function(){jQuery(".myaccount").add(".m-manage").each(function(){jQuery(this).attr('href','https://myaccount.ibtimes.com/manage')})})}) fqtag.fscmd.push(function(){LJS("https://users.api.jeeng.com/users/domains/V1DXygbq01/sdk/")}) googletag.cmd.push(function () { if(dfpSlots.slotobjs["top"]){ ibt_log("ADS GPT register ad slot top", Date.now()-timerStart); googletag.display("dfp-ad-top"); } });if(/top\|[0-1]\|1/.test(dfpSlots.pginfo[ibtmedia_device])) document.getElementById("ad-top-wrapper").className+=" block-sticky"  dfpSlots.vplayer=(['ibtuk','ibtus'].indexOf(site_id)>-1)?'primis player':'NoVideo';if(site_id=='ibtuk'&&oa.geo.country!='IL'&&ibtmedia_device=='mobile')dfpSlots.vplayer='NoVideo';if(/adtest=primis/.test(location.href))dfpSlots.vplayer='primis player';else if(/adtest=native/.test(location.href))dfpSlots.vplayer='ibt player';if(dfpSlots.vplayer=='primis player'){if(site_id=='ibtus'){dfpSlots.primis='117767'}else dfpSlots.primis='117814';dfpSlots.primisVideo=function(){if(dfpSlots.primisVideoLoaded)return;dfpSlots.primisVideoLoaded=1;if(adBlock=='Y')return;var d=document,gi='getElementById',s=d.createElement('script');s.type='text/javascript';s.src='https://live.primis.tech/live/liveView.php?s='+dfpSlots.primis+'&cbuster='+Date.now();if(window.ibt_avf){ibt_avf.appendChild(s);d.body.classList.add('video-primis')}else d[gi]('tvplayer').appendChild(s)}}
+if(dfpSlots.vplayer=='NoVideo'&&document.getElementById('ibt-mobile-avf'))document.getElementById('ibt-mobile-avf').remove();dataLayer[0].VideoABTest=dfpSlots.vplayer;var ibt_avf=(brW Jungkook Reveals The First Person He Shared ‘Seven’ With: It’s A BTS Member
 
-The airline said it reached agreement with global lessor AerCap for two of the former passenger jets, which are being retrofitted by Israel Aerospace Industries to carry large cargo containers. It previously committed to take four 777-300 passenger-to-freighter conversions.
 
-IAI is expected this year to be first to market with a converted 777 freighter, once its design for adding a wide cargo door, reinforcing the fuselage, modifying the crew compartment and making other changes is approved by regulators. The 777 freighters in service today are all production models made by Boeing.
+By
 
-It’s unclear when Challenge Group will receive its initial 777 freighter, but when it does it will likely be the first to operate a converted 777 from a base in Europe. The 777s will be registered to its Maltese operation.
+ Floralyn Teodoro 
 
-Tel Aviv-based Challenge Group operates 10 aircraft (six Boeing 747-400s and four 767-300s) across three airlines licensed in Israel, Belgium and Malta. Its main hub is at Liege Airport in Belgium, where it has a 430,500-square-foot cargo terminal. A logistics subsidiary also handles middle-mile delivery to distribution centers at European destinations.
 
-Last year, Challenge Group added two Boeing 767-300 converted freighters by IAI and two Boeing 747-400 cargo jets. One of the 747s was owned by China Airlines and in desert storage until August, according to the Planespotters.com database.
+Published 07/16/23 AT 11:46 PM EDT
+Share on Facebook
+Share on Twitter
+Share on LinkedIn
+Share on Reddit
+Share on Flipboard doFir.push(function(){var flipboard=1;jQuery(".genericon-flipboard").on('click',function(e){e.preventDefault();e.stopPropagation();if(flipboard){flipboard=0;LJ('https://cdn.flipboard.com/web/buttons/js/flbuttons.min.js',function(){jQuery(".genericon-flipboard").trigger('click')})}})}) Share on Pocket
 
-Two and a half years ago, Challenge, formerly CAL Cargo Airlines, only had four 747-400 cargo jets. The 747s allow the company to handle a large amount of nonstandard cargo.
 
-Challenge Group last month said the latest jumbo jet is primarily being deployed to carry e-commerce shipments from China but also will address rising demand for perishable transportation out of Africa and support trans-Atlantic business.
 
-The additional 767 aircraft enabled the company to launch a new twice-weekly service to Delhi, India, in early October, complementing its three existing weekly flights to Mumbai used by pharmaceutical, automotive, textile, electronics and high-tech customers. Challenge Group in December launched twice-weekly 767 service to Nairobi, Kenya, from Liege. Earlier in the year, it opened a route to Dubai via Tel Aviv.
 
-The medium-size freighters also freed up capacity on 747 aircraft for increased long-haul work between Europe, Asia and the United States, according to a Challenge Group news release.
+BTS' Jungkook "Seven" concept photo.
+instagram.com/bts.bighitofficial
 
-Last year the airline transported more than 200,000 tons of cargo, including 5,000 horses and 600 aircraft engines. The company recently invested in a specialized engine dolly with advanced shock-absorbing cushions that protects sensitive engines from tarmac vibrations during the journey from the offloading point to the aircraft door.
+KEY POINTSJungkook answered fans' questions on "Spotify Ball-terview"Jungkook and Taehyung always send each other songs they createdThe "Seven" singer officially released his solo digital single FridayJungkook has revealed that the first person he shared his solo song "Seven" with was one of his BTS bandmates.
 
-777 conversion waits for green light
+On Sunday, K-Pop ON! Spotify released an interview with Jungkook in which the singer dove into a ball pit to answer fans' questions. In the "Spotify Ball-terview," the "Golden Maknae" of BTS shared his creative songwriting process, his most memorable moments, and what he hopes listeners will remember when they listen to his newest solo digital single.
 
-The 777-300 passenger-to-freighter development program is entering its final phase, Israel Aerospace Industries said in a statement provided to FreightWaves.
+A little over three minutes into the interview, Jungkook was asked who the first person he shared "Seven" with was, and he replied, "Taehyung. I played it for him first after recording it."
 
-IAI, which has decades of experience converting Boeing 737s, 767s and 747s, said it has secured dozens of orders for the 777-300 conversion. An IAI official in June 2023 claimed the company had 60 firm orders for the aircraft. Canadian all-cargo operator Cargojet early last year pulled its reservation for four production slots because of concerns about tepid market conditions.
+jungkook abt how the first person he shared with was taehyung:🐰i shared it with taehyungie hyung obv🐰I played it for him first thing after recording it 🐰We always send eachother our songs when we finish creating them (jk and tae) 🐰even tho our taste in music is different pic.twitter.com/WpfHHkV7Kh
 
-IAI partnered with AerCap (NYSE: AER) on the conversion program. AerCap is supplying used 777s from its portfolio that have reached their useful life as passenger aircraft and is leasing the modified units to cargo airlines.
+Jungkook went on to share that even though he and Taehyung – more popularly known as V – have different tastes in music, they often send each other their songs when they finish creating them.
 
-Michigan-based Kalitta Air is the Big Twin launch customer and committed to lease seven airframes. Other customers include Emirates, with an order for 10 777 conversions, and Taiwan-based EVA Air.
+According to Jungkook, V likes calm music and cool songs.
 
-The redesigned jets are dubbed the “Big Twin” because of the 777’s size and two GE-90 engines. With 25% more interior volume than a 777-200, the 777-300 Extended Range freighter is well suited for lightweight e-commerce shipments that take up a lot of space and don’t weigh as much as other commodities. It has 14% more volume and 10 tons more payload than a 747-400 and is 21% more fuel-efficient, according to IAI.
+The music video for Jungkook's solo digital single "Seven," featuring rapper and singer Latto, was released Friday and has since amassed over 59 million views. As of press time, the music video ranks No. 1 on YouTube's Trending for Music list.
 
-The reconfigured 777-300 is scheduled to conduct final validation flights with the Federal Aviation Administration in the U.S. during February. The FAA and Israel Civil Aviation Authority are expected to issue supplemental type certificates (STCs) for commercial use by the end of the first quarter or early second quarter, the IAI statement said.
+Jungkook's summer song was also released on Spotify in two versions: the clean version and the explicit version.
 
-The company has already completed conversions on four aircraft. Five more aircraft are at different stages of modification at IAI hangers.
+#JungKook and @Latto's "Seven" debuts at #1 on the global Spotify chart with 15.995 million streams, breaking the record for biggest opening day for a collaboration in the platform’s chart history. pic.twitter.com/Jf8ti1iTZ6
 
-“Following STC approval, five to six aircraft will be released to the market immediately,” IAI said.
+According to Soompi, BTS' Jungkook became the first artist, aside from Taylor Swift, to surpass 15 million first-day streams for a song on Spotify.
 
-The aircraft will help an air cargo market where demand increased more than 10% last year and widebody freighters could ease capacity constraints, especially in the busy trans-Pacific corridor where only 15% of pre-pandemic passenger services have been restored because of tensions between the U.S. and China.
+"Seven" debuted at No. 1 on Spotify's Global Top Songs chart after garnering 15,995,378 filtered streams on its first day alone.
 
-IAI originally planned for the plane to enter service in 2022, but the pandemic disrupted development and the supply of components. U.S. and Israeli certification of the airframe modification design has also been slowed repeatedly since 2023. The prototype took its first test flight in the fourth quarter of 2023.
+Outside of Spotify, "Seven" dominated iTunes charts in 108 countries, as of Sunday, debuting at No. 1 on both the European and worldwide iTunes song charts.
 
-Aerospace executives say many new conversion programs have been delayed because the FAA and other air safety regulators are dealing with manpower shortages and have been preoccupied overseeing Boeing’s extensive manufacturing problems in recent years. FAA officials are also extra cautious after fallout from the deadly crashes of the 737 MAX, quality control problems with 787 fuselages and a door plug on a 737 MAX9 that blew out during flight raised questions about the thoroughness of the agency’s oversight.
+Jungkook's summer song also reportedly broke the record for the fastest K-pop song to get No. 1 on the U.S. iTunes chart.
 
-IAI has arranged production partnerships for 777-300 conversions with Etihad Engineering in Abu Dhabi, Sharp Technics K at Incheon airport in Seoul, South Korea, and Ascent Aviation Services in Marana, Arizona, to help expedite deliveries.
+On Wednesday, Jungkook departed Seoul, South Korea, via Incheon International Airport to perform at the "2023 Summer Concert Series" of "Good Morning America" at New York City's Central Park Friday.
 
-Click here for more FreightWaves/American Shipper articles by Eric Kulisch.
+There, the 25-year-old South Korean idol showcased the first live performance of "Seven" on the same day the digital single dropped on music platforms.
 
-Write to Eric Kulisch at ekulisch@freightwaves.com.
+He also performed the songs "Euphoria" and "Dynamite" for the crowd.
 
-RECOMMENDED READING:
+On Saturday, an official performance video for Jungkook's "Seven" was released via the BANGTANTV YouTube channel. It has since gained over 8.6 million views and has been trending at No. 9 on YouTube's Trending for Music list.
 
-Emirates leases additional Boeing 747 freighters to meet shipper demand
+In the performance video, Jungkook and his backup dancers sported all-white outfits while dancing to the explicit version of "Seven."
+
+#정국 #JungKook Concept Photo - ‘Seven’ Campaign Image
+BIGHIT MUSIC/Facebook
+
+© Copyright IBTimes 2026. All rights reserved.

@@ -1,0 +1,36 @@
+Title: For Nvidia, spatial AI and the ‘omniverse’ entering physical world may be the next big thing
+Source: CNBC
+URL: https://www.cnbc.com/2024/10/02/nvidia-spatial-ai-the-omniverse-next-big-thing.html
+--------------------------------------------------
+
+While ChatGPT created a new way to use our devices, technology is more than just what we see on our screens. Research in the realm of spatial artificial intelligence and robotics is developing as we speak, and it's bringing the technological focus back into the physical world.
+
+"When we're talking about AI, people are mostly talking about chatbots and generating images," said Rev Lebaredian, vice president of omniverse and simulation technology at Nvidia . "All of it is very important, but the things we take for granted around us in the physical world are actually far more important."
+
+With Nvidia's Omniverse platform, Lebaredian spends his days building physically accurate worlds in the digital space, otherwise known as digital twins. "Creating robot brains is not going to be possible unless we can first take the world around us and represent it inside a computer, such that we can train these robot brains in the place where they're born, which is inside a computer," he said.
+
+Spatial AI allows models to understand and interact with the physical world in ways previously limited to human cognition, and Nvidia is not the only one building on it. Stanford researcher and professor Fei-Fei Li recently brought her company World Labs out of stealth mode. It's a spatial intelligence company building "large world models" to understand, interact with, and build on the three-dimensional world around us. Backed by Andreessen Horowitz, World Labs posits that initial use cases are geared toward professional artists, designers, developers and engineers.
+
+Some of the other startups taking AI in the physical realm seriously include Mytra, a warehouse automation solution that uses artificial intelligence and robotics to move materials; Auki Labs, which is building a decentralized physical infrastructure network "that machines and AI can use to collaboratively understand the physical world"; and OpenSpace, which uses reality capture and AI-powered analytics for construction that helped coordinate updates to the National World War II Museum in New Orleans.
+
+For its part, Nvidia is working to bring the 3D world into computing for simulation purposes, and then bring that computing back out into the real world. Digital twins of spaces — and synthetic data about what can happen in those spaces — help simulate use cases like autonomous driving, visual assistance and warehouse robots.
+
+AI for robotics, not just humanoid robots
+
+In contemplating the ultimate use of artificial intelligence, Nvidia concluded that robotics is the answer. More than a decade ago, the advancement of deep learning and convolutional neural networks unlocked the possibility of creating an intelligence that can perceive, make decisions about, and act upon the physical world.
+
+Robots, Lebaredian says, can help us in myriad ways, from manufacturing to transportation. And despite Nvidia CEO Jensen Huang taking the stage with a crew of humanoid robots earlier this year, robots are more than that. "Even the spaces that we inhabit can be robots themselves, like the building I'm in right now," Lebaredian said from his post in San Francisco. "It can understand where people are, how to configure the climate and optimize energy usage."
+
+But human-shaped robots do have a place, and not just because of the lasting impact of legends like C-3PO from "Star Wars" or, more recently, the robotic namesake of Apple TV's "Sunny." Rather, it's because the world around us is designed to accommodate our human form. To seamlessly incorporate robots into a factory or other setting designed for people, creating a robot that can jump right in with its two arms and mobile base often just makes sense.
+
+"Every single object that we design is designed for our inefficiencies," said Agustin Huerta, senior vice president of digital innovation for North America at Globant, pointing to his reusable water bottle. Globant is a Nvidia partner focused on AI, robotics and quantum computing, among other innovative specialties. "Creating robots that are as inefficient as us is challenging, but also it's needed because you want them to get embedded into that environment as soon as possible and interact alongside a human being," he added.
+
+Physical world will be changed by AI within years
+
+Many companies that focus on robotics and spatial intelligence are homing in on the world of manufacturing. "It's not as sexy and interesting to talk about as a lot of the other things that we can apply AI to," said Lebaredian. "People don't usually think about how stuff is made, but that's actually where most of mankind spends their energy and time."
+
+This evolution, which Lebaredian believes is coming in a matter of years versus decades, will transform the appearance of factory floors. But as robots continue to expand beyond warehouse grounds — whether it's food delivery bots on college campuses like Franklin & Marshall College, Wayve self-driving cars in London or the team of robots at Incheon International Airport — Globant's Huerta says more infrastructure will visually change to accommodate evolving physical technology. For example, he said, "I envision that we will see spaces in which doors will be twice the current size, because that will fit a robot moving around." He talks about trading stairs for ramps and elevators and automating door openings.
+
+It's worth pointing out that these are already talking points in architectural standards for accessible design, but the focus there is on people with disabilities, not robots. However, Huerta said, "In the end, you have entities with different abilities, human or synthetic, and the environment should be transformed according to that. Having buildings without elevators right now is shocking."
+
+That new technology — in this case, deeply thinking robotics that use spatial AI to get ready for the real world — will be "the most impactful and transformational technology the world has ever seen," Lebaredian said.

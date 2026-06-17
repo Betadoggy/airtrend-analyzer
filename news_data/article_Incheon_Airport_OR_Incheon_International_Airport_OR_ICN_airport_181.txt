@@ -1,104 +1,32 @@
-Title: Hundreds Of Millions In Asia Celebrate Year Of The Snake
-Source: International Business Times
-URL: https://www.ibtimes.com/hundreds-millions-asia-celebrate-year-snake-3761328
+Title: Shohei Ohtani and his wife arrive in South Korea for Dodgers-Padres MLB opener
+Source: Fox Sports
+URL: https://www.foxsports.com/stories/mlb/shohei-ohtani-and-wife-arrive-in-south-korea-for-dodgers-padres-mlb-opener
 --------------------------------------------------
 
-EditionsAustralia EditionKorea EditionJapan EditionIndia EditionSingapore EditionUnited KingdomUnited States
- doFir.push(function(){if(getCookie('nwsubl')){jQuery(".login-btn .sign-up2").hide();jQuery(".login-btn .myaccount").show()};jQuery(".login-btn .myaccount").on('click',function(e){e.preventDefault();jQuery(".login-btn ul").toggle()});jQuery(document).ready(function(){jQuery(".myaccount").add(".m-manage").each(function(){jQuery(this).attr('href','https://myaccount.ibtimes.com/manage')})})}) fqtag.fscmd.push(function(){LJS("https://users.api.jeeng.com/users/domains/V1DXygbq01/sdk/")}) googletag.cmd.push(function () { if(dfpSlots.slotobjs["top"]){ ibt_log("ADS GPT register ad slot top", Date.now()-timerStart); googletag.display("dfp-ad-top"); } });if(/top\|[0-1]\|1/.test(dfpSlots.pginfo[ibtmedia_device])) document.getElementById("ad-top-wrapper").className+=" block-sticky"  dfpSlots.vplayer=(['ibtuk','ibtus'].indexOf(site_id)>-1)?'primis player':'NoVideo';if(site_id=='ibtuk'&&oa.geo.country!='IL'&&ibtmedia_device=='mobile')dfpSlots.vplayer='NoVideo';if(/adtest=primis/.test(location.href))dfpSlots.vplayer='primis player';else if(/adtest=native/.test(location.href))dfpSlots.vplayer='ibt player';if(dfpSlots.vplayer=='primis player'){if(site_id=='ibtus'){dfpSlots.primis='117767'}else dfpSlots.primis='117814';dfpSlots.primisVideo=function(){if(dfpSlots.primisVideoLoaded)return;dfpSlots.primisVideoLoaded=1;if(adBlock=='Y')return;var d=document,gi='getElementById',s=d.createElement('script');s.type='text/javascript';s.src='https://live.primis.tech/live/liveView.php?s='+dfpSlots.primis+'&cbuster='+Date.now();if(window.ibt_avf){ibt_avf.appendChild(s);d.body.classList.add('video-primis')}else d[gi]('tvplayer').appendChild(s)}}
-if(dfpSlots.vplayer=='NoVideo'&&document.getElementById('ibt-mobile-avf'))document.getElementById('ibt-mobile-avf').remove();dataLayer[0].VideoABTest=dfpSlots.vplayer;var ibt_avf=(brW 
+Shohei Ohtani and his wife arrived in South Korea with his Los Angeles Dodgers teammates on Friday ahead of their season-opening games with the San Diego Padres next week.
 
+Ohtani, wearing a black training suit and a cap backward, was the first Dodgers player who showed up at the arrival gate of Incheon international airport, west of Seoul. His wife, Mamiko Tanaka, walked several steps behind him.
 
-Business
+As a crowd of fans, many wearing Dodgers jerseys, shouted his name and cheered slogans, Ohtani briefly waved his hand and Tanaka smiled, but neither said anything before they took a limousine bus. Fans held placards that read phrases like "GOATANI (Greatest Of All Time is Ohtani) GO" and "Baseball genius Ohtani."
 
- if(document.querySelector(".breadcrumb").innerHTML.trim()==''){document.querySelector(".breadcrumb").parentNode.parentNode.removeChild(document.querySelector(".breadcrumb").parentNode)} 
-Hundreds Of Millions In Asia Celebrate Year Of The Snake
+Before departing for South Korea, Ohtani, a two-way Japanese phenomenon, revealed the identity of his wife by posting a photo of him and Tanaka, an ex-professional basketball player, on his Instagram account. Japanese media had already speculated that Ohtani's wife was likely Tanaka.
 
+Tanaka, 27, played for the Fujitsu Red Wave in the Women's Japan Basketball League from 2019-23.
 
-By
+In late February, Ohtani, 29, said in his Instagram post that he was married to "a normal Japanese woman" that he had known for three to four years. But he didn't say exactly who his wife was.
 
- AFP News 
+In Ohtani's Instagram post, he was photographed with Tanaka in front of an airplane alongside his teammate Yoshinobu Yamamoto. The Dodgers posted a photo of the Ohtani-Tanaka couple on the team's X (formerly Twitter) account next to one of Mookie Betts and his wife.
 
+The upcoming Dodgers-Padres games will be Ohtani's debut with the Dodgers. In December, Ohtani, who was formerly with the Los Angeles Angels, signed a record $700 million, 10-year contract to join the Dodgers.
 
-Published 01/28/25 AT 4:06 PM EST
-Share on Facebook
-Share on Twitter
-Share on LinkedIn
-Share on Reddit
-Share on Flipboard doFir.push(function(){var flipboard=1;jQuery(".genericon-flipboard").on('click',function(e){e.preventDefault();e.stopPropagation();if(flipboard){flipboard=0;LJ('https://cdn.flipboard.com/web/buttons/js/flbuttons.min.js',function(){jQuery(".genericon-flipboard").trigger('click')})}})}) Share on Pocket
+Ohtani underwent surgery on his right elbow last September and will not pitch this season. He will be used as a designated hitter and there is a possibility he could play in the field.
 
+Social media in Japan and South Korea are abuzz with messages talking about Ohtani and his wife.
 
+"So impressed to see how Ohtani opened up about his new bride, Mamiko Tanaka," one X user said in Japanese.
 
+"Ohtani's wife is really beautiful. They are both made for each other," one X user said in Korean. Another Korean message said that "their future kid will be a super athlete."
 
-A man touches the snake figure at the Baiyun Taoist Temple in Beijing. The Year of the Snake symbolises wisdom and vitality in Chinese culture
-AFP
+The Padres arrived earlier Friday. The two-game series in Seoul's Gocheok Sky Dome on March 20-21 will be the first Major League Baseball regular-season games in South Korea.
 
-Hundreds of millions of people across Asia celebrate the Lunar New Year with their families on Wednesday, as they bid farewell to the Year of the Dragon and usher in the Year of the Snake.
-
-The Chinese enjoy eight consecutive public holidays for the 2025 Spring Festival, an opportunity to share meals, attend traditional performances, and set off firecrackers and fireworks.
-
-Train stations and airports across the country have been jam-packed for weeks as millions returned home to spend the holidays with their loved ones in an annual migration that is expected to be a record.
-
-And high streets, shopping malls, offices and homes are bedecked in festive red banners -- believed to ward off evil -- across many parts of East and Southeast Asia, including South Korea, Taiwan, Singapore, Vietnam and Thailand.
-
-"When a new year comes around, I think most people hope to get rich, for work to go smoothly, and for family happiness," Yang Longhua, a catering company manager, told AFP by a frozen lake where people went to ice skate in Beijing this week.
-
-"In previous years, we were locked down because of the pandemic, so I want to take advantage of this long holiday to experience China, a better, more beautiful China," said the 26-year-old from Zhoukou, Henan province.
-
-During the traditional 40-day period that runs before, during and after the Lunar New Year holidays, about nine billion interprovincial passenger trips on all forms of transport are expected to be made, according to state news agency Xinhua.
-
-Train and air travel are expected to "hit record highs" during this year's migration, Xinhua said, with the transport ministry saying it expects 510 million train trips and 90 million air trips during the period.
-
-In Shanghai, Ming Dong said she hoped for "good health and good work" as she visited a lantern festival at the popular Yu Garden to mark the arrival of the Year of the Snake -- which symbolises wisdom and vitality in Chinese culture.
-
-"This place has a very Chinese New Year atmosphere, so I came here to take a stroll, and it has a really Chinese feel to it," the 30-year-old told AFP.
-
-In South Korea, heavy snowfall caused disruption to train, plane and bus schedules nationwide, as people went to visit their families in the countryside this week.
-
-Passengers were seen at Seoul's main train station carrying gifts wrapped in colourful cloth and luggage as they prepared to leave the capital.
-
-Images released by local media showed vehicles covered in snow stuck on South Korea's major highways as heavy winds and snowfall persisted.
-
-Traffic authorities warned it could take more than seven hours on Tuesday to drive from Seoul to the country's port city of Busan, a journey that typically takes around four hours.
-
-Many others opted to spend the break abroad. The operator of Incheon International Airport announced that more than 2.1 million passengers -- averaging 214,000 per day -- were expected to use the airport to travel overseas from January 24 to February 2.
-
-"This is projected to be the highest average daily passenger count during the Lunar New Year holiday since the airport opened (in 2001)," the operator said in a statement.
-
-The festivities even extended to space, with Chinese astronauts Cai Xuzhe, Song Lingdong and Wang Haoze sending New Year's Eve greetings from the Tiangong space station on Tuesday.
-
-In a video released by the China Manned Space Agency (CMSA), the trio could be seen dressed in blue jumpsuits with traditional red cloud patterns, holding two pieces of paper-cutting featuring the Chinese character "fu", for good luck.
-
-"In the new year, may all your dreams come true," Wang said, forming a heart shape above her head.
-
-Dragon and lion dancers take part in a procession in the Chinatown district of Manila on the eve of Lunar New Year
-AFP
-
-
-
-
-
-A vendor hangs a roasted pig for sale at a market in preparation for the Lunar New Year celebrations in Phnom Penh, Cambodia
-AFP
-
-
-
-
-
-A man uses his mobile phone to take a selfie in front of a temple in the Chinatown area of Bangkok, Thailand
-AFP
-
-
-
-
-
-Lion dancers perform ahead of the Lunar New Year celebrations in the Chinatown district of Yangon, Myanmar
-AFP
-
-
-
-
-
-A group of women pose for photos under decorations for a temple fair ahead of Lunar New Year celebrations in Beijing
-AFP
-
-© Copyright AFP 2025. All rights reserved.
+Meanwhile, airport police said they detained a South Korean man who allegedly hurled an egg near Dodgers manager Dave Roberts at the airport. Police said they were trying to determine the motive for his action, but his family told investigators the man in his mid-20s has a history of mental illness.

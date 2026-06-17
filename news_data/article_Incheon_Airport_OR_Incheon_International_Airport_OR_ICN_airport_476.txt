@@ -1,118 +1,46 @@
-Title: Prayer And Dance: Hundreds Of Millions In Asia Celebrate Year Of The Snake
-Source: Ibtimes.com.au
-URL: https://www.ibtimes.com.au/prayer-dance-hundreds-millions-asia-celebrate-year-snake-1855649
+Title: Lithium battery ignites on Air China flight in mid air, horrifying passengers as flames burst out in cabin
+Source: New York Post
+URL: https://nypost.com/2025/10/18/world-news/air-china-flight-makes-emergency-landing-after-lithium-battery-ignites-mid-air/
 --------------------------------------------------
 
-EditionsAustraliaIndiaInternationalSingaporeUnited KingdomUnited States
- doFir.push(function(){if(getCookie('nwsubl')){jQuery(".login-btn .sign-up2").hide();jQuery(".login-btn .myaccount").show()};jQuery(".login-btn .myaccount").on('click',function(e){e.preventDefault();jQuery(".login-btn ul").toggle()});jQuery(document).ready(function(){jQuery(".myaccount").add(".m-manage").each(function(){jQuery(this).attr('href','https://myaccount.ibtimes.com.au/manage')})})}) googletag.cmd.push(function () { if(dfpSlots.slotobjs["top"]){ ibt_log("ADS GPT register ad slot top", Date.now()-timerStart); googletag.display("dfp-ad-top"); } });if(/top\|[0-1]\|1/.test(dfpSlots.pginfo[ibtmedia_device])) document.getElementById("ad-top-wrapper").className+=" block-sticky"  dfpSlots.vplayer=(['ibtuk','ibtus'].indexOf(site_id)>-1)?'primis player':'NoVideo';if(site_id=='ibtuk'&&oa.geo.country!='IL'&&ibtmedia_device=='mobile')dfpSlots.vplayer='NoVideo';if(/adtest=primis/.test(location.href))dfpSlots.vplayer='primis player';else if(/adtest=native/.test(location.href))dfpSlots.vplayer='ibt player';if(dfpSlots.vplayer=='primis player'){if(site_id=='ibtus'){dfpSlots.primis='117767'}else dfpSlots.primis='117814';dfpSlots.primisVideo=function(){if(dfpSlots.primisVideoLoaded)return;dfpSlots.primisVideoLoaded=1;if(adBlock=='Y')return;var d=document,gi='getElementById',s=d.createElement('script');s.type='text/javascript';s.src='https://live.primis.tech/live/liveView.php?s='+dfpSlots.primis+'&cbuster='+Date.now();if(window.ibt_avf){ibt_avf.appendChild(s);d.body.classList.add('video-primis')}else d[gi]('tvplayer').appendChild(s)}}
-if(dfpSlots.vplayer=='NoVideo'&&document.getElementById('ibt-mobile-avf'))document.getElementById('ibt-mobile-avf').remove();dataLayer[0].VideoABTest=dfpSlots.vplayer;var ibt_avf=(brW Prayer And Dance: Hundreds Of Millions In Asia Celebrate Year Of The Snake
+A packed Air China flight bound for Seoul was forced to make an emergency landing in Shanghai on Saturday after a lithium battery inside a passenger’s carry-on luggage erupted in flames, filling the cabin with smoke.
 
+The blaze broke out aboard Flight CA139, which had departed Hangzhou Xiaoshan International Airport at 9:47 a.m. local time with 160 passengers and crew headed to South Korea’s Incheon International Airport, according to statements from the airline and Chinese state media.
 
-By
+Air China said in a post on Weibo that “a lithium battery in a passenger’s carry-on luggage stored in the overhead compartment spontaneously ignited.”
 
- James Edgar, with AFP's Asia bureaus 
+The crew immediately responded and no one was injured, the statement added.
 
+The plane diverted to Shanghai Pudong International Airport “to ensure flight safety,” Air China said.
 
-Published 01/29/25 AT 6:42 PM AEDT
-Share on Facebook
-Share on Twitter
-Share on LinkedIn
-Share on Reddit
-Share on Flipboard doFir.push(function(){var flipboard=1;jQuery(".genericon-flipboard").on('click',function(e){e.preventDefault();e.stopPropagation();if(flipboard){flipboard=0;LJ('https://cdn.flipboard.com/web/buttons/js/flbuttons.min.js',function(){jQuery(".genericon-flipboard").trigger('click')})}})}) Share on Pocket
+Video circulating on Chinese social media and published by NBC News showed bright flames and thick smoke pouring from an overhead compartment as startled passengers shouted for help.
 
+Two flight attendants sprinted down the aisle carrying fire extinguishers while others shouted for travelers to remain seated.
 
+A passenger quoted by local media said they heard a loud explosion moments before flames shot from the storage bin.
 
+Photos shared online showed scorched lining above several rows of seats.
 
-A man touches the snake figure at the Baiyun Taoist Temple in Beijing. The Year of the Snake symbolises wisdom and vitality in Chinese culture
-AFP
+The aircraft landed safely in Shanghai around 11 a.m., flight-tracking site Flightradar24 showed. A replacement jet later transported passengers to Seoul, the airline confirmed.
 
-From incense offerings and vibrant lion dances in Beijing to prayer rituals at temples in Bangkok and Taipei, hundreds of millions of people across Asia celebrated the Lunar New Year on Wednesday, ushering in the Year of the Snake.
+No injuries were reported, and the aircraft sustained no structural damage, Air China said.
 
-In China, people enjoy eight consecutive public holidays for the 2025 Spring Festival, an opportunity to share meals, attend traditional performances and set off fireworks.
+Passengers described several minutes of confusion as the fire crackled from the bin. One traveler shouted “hurry up!” in Korean as smoke thickened.
 
-Train stations and airports across the country have been jam-packed for weeks as millions returned home to spend the holidays with their loved ones in an annual migration that is expected to be a record.
+Local outlets reported that the ignited item was believed to be a power bank battery, though officials have not confirmed the brand or manufacturer.
 
-Temples and parks in the Chinese capital on Wednesday were full with people braving freezing temperatures to bid farewell to the Year of the Dragon with dancing and prayers.
+The Air China scare is the latest in a string of lithium-battery incidents aboard Asian carriers this year.
 
-High streets, shopping malls, offices and homes were bedecked in festive red banners -- believed to ward off evil -- throughout many parts of East and Southeast Asia, including South Korea, Singapore, Vietnam and Thailand.
+In May, a China Southern Airlines flight from Hangzhou to Shenzhen returned to the airport 15 minutes after takeoff when smoke poured from a passenger’s camera battery and power bank.
 
-In Taiwan on Wednesday morning, people of all ages poured into temples to make offerings of fruit, sweets, crackers and nuts.
+In January, South Korean officials said a spare power bank likely caused a fire on an Air Busan flight carrying 169 passengers and seven crew; seven people suffered minor injuries.
 
-"Our tradition is to visit the temple and pray, for better fortune for this year," said Chen Ching-yuan, 36, as she visited Longshan Temple in Taipei with her mother.
+The Federal Aviation Administration warns that lithium-ion batteries can undergo “thermal runaway,” a self-heating reaction that can trigger explosions if a cell is damaged, overheated, overcharged or exposed to water.
 
-"There's no need to ask for anything specific, just wish for a smooth, peaceful, safe and healthy year, and pray that everything goes well."
+Common household devices including smartphones, laptops, tablets and portable chargers all use such batteries.
 
-Some temple-goers ushered in the new year by racing to be the first to light incense in the pursuit of good fortune.
+Because of the danger, airlines worldwide restrict lithium batteries in checked baggage.
 
-"I didn't want to look back with regret when I'm old, so I decided to go for it,"
+The TSA bans uninstalled lithium batteries from the hold entirely, requiring passengers to keep them in carry-on luggage under 100 watt-hours per cell.
 
-Kao Meng-shun said from Fusing Temple in Yunlin County, in the central-west of Taiwan.
-
-In Bangkok, throngs of locals and tourists made their way to Wat Mangkon Kamalawat, the capital's most revered Chinese temple.
-
-Built in 1871 by immigrants from southern China, the temple marks its 154th anniversary this year and remains a key worshipping site for the Thai-Chinese community.
-
-Sasakorn Udomrat, 56, has been coming to the temple for eight consecutive years.
-
-"I have many Thai-Chinese friends who say this temple is very sacred," she said. "I don't ask for anything in particular, just good health."
-
-Another worshipper Nawarat Yaowanin, 42, told AFP: "According to the Chinese calendar, it's a brewing year for me," she said.
-
-"I came here to pay my respects and hope to ward off bad luck."
-
-Crowds also filled the streets in the Philippine and Indonesian capitals for vibrant lion dance parades.
-
-During the traditional 40-day period that runs before, during and after the Lunar New Year holidays in mainland China, about nine billion interprovincial passenger trips on all forms of transport are expected to be made.
-
-Train and air travel are expected to "hit record highs" during this year's migration, state news agency Xinhua said.
-
-In South Korea, heavy snowfall caused disruption to train, plane and bus schedules nationwide, as people went to visit their families this week.
-
-Passengers were seen at Seoul's main train station carrying gifts and luggage as they prepared to leave.
-
-Images released by local media showed vehicles covered in snow stuck on South Korea's major highways as heavy winds and snowfall persisted.
-
-Traffic authorities warned it could take more than seven hours on Tuesday to drive from Seoul to the port city of Busan, a journey that typically takes around four hours.
-
-Many others opted to spend the break abroad. The operator of Incheon International Airport announced that it expected more than 2.1 million overseas-bound passengers from January 24 to February 2.
-
-"This is projected to be the highest average daily passenger count during the Lunar New Year holiday since the airport opened (in 2001)," the operator said in a statement.
-
-The festivities even extended to space, with Chinese astronauts Cai Xuzhe, Song Lingdong and Wang Haoze sending New Year's Eve greetings from the Tiangong space station on Tuesday.
-
-In a video released by the China Manned Space Agency (CMSA), the trio could be seen dressed in blue jumpsuits with traditional red cloud patterns, holding two pieces of paper-cutting featuring the Chinese character "fu", for good luck.
-
-"In the new year, may all your dreams come true," Wang said, forming a heart shape above her head.
-
-Dragon and lion dancers take part in a procession in the Chinatown district of Manila on the eve of Lunar New Year
-AFP
-
-
-
-
-
-A vendor hangs a roasted pig for sale at a market in preparation for the Lunar New Year celebrations in Phnom Penh, Cambodia
-AFP
-
-
-
-
-
-A man uses his mobile phone to take a selfie in front of a temple in the Chinatown area of Bangkok, Thailand
-AFP
-
-
-
-
-
-Lion dancers perform ahead of the Lunar New Year celebrations in the Chinatown district of Yangon, Myanmar
-AFP
-
-
-
-
-
-A group of women pose for photos under decorations for a temple fair ahead of Lunar New Year celebrations in Beijing
-AFP
-
-© Copyright AFP 2026. All rights reserved.
+China tightened its own rules this summer. As of June 28, power banks without certified safety markings are prohibited on domestic flights, and recalled models cannot be brought aboard.

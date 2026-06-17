@@ -1,16 +1,44 @@
-Title: Incheon Airport To Open Special Private Entrance For Celebrities
-Source: Koreaboo.com
-URL: https://www.koreaboo.com/news/incheon-airport-open-special-private-entrance-celebrities/
+Title: Hong Kong investigates Atlas Air emergency landing, 8-hour runway closure
+Source: Yahoo Entertainment
+URL: https://finance.yahoo.com/news/hong-kong-investigates-atlas-air-174338965.html
 --------------------------------------------------
 
-Subject: Request to follow procedures should artists use the exclusive entrance at Incheon International Airport when leaving the country.
+Hong Kong authorities are investigating a landing gear failure on an Atlas Air freighter aircraft and why the emergency landing resulted in an eight-hour closure of one runway, delaying 450 flights.
 
-1. While we hope for your company’s infinite development, this is related to creating an environment for safe usage of the airport.
+The unmarked cargo jet is owned by Nippon Cargo Airlines and supplied to Atlas Air, which provides the crew, maintenance and insurance, according to an aviation database.
 
-2. Recently, as local artists’ popularity has grown internationally, the frequency of fans and the public crowding at the airport has increased, and following the increasing size of the crowd, this has been affecting not just the comfort of regular passengers, but also safety.
+Local officials are questioning why it took so long to clear the disabled cargo jet from the runway and urging the airport to review contingency procedures for such cases, the South China Morning Post reported.
 
-3. As such, in order to reduce the crowds at the airport, we have created a new exclusive entrance for celebrities and famous people for departure. This will be put into action from October 28, 2024, onwards, and we will be providing you with the plans for it. Please take note of how to use the exclusive entrance and other important information. In the case where you want to use the exclusive entrance, please submit a request to the airport in advance.
+The Boeing 747-400 cargo jet operated by Atlas Air returned to Hong Kong International Airport about two hours after departure on Monday morning when the crew noticed a hydraulic system failure prevented a landing gear from retracting. The plane, which was bound for Chicago with a technical stop scheduled in Anchorage, Alaska, burst a tire when touching down on the north runway and was disabled for eight hours. None of the five crew members was injured.
 
-4. In addition, as we are trying to provide a safe and pleasant environment for our citizens and passengers, in order to reduce the crowds of various members of the public, we hope that your company can release an announcement to your artists’ fandom about refraining from going to the airport when artists’ leave and enter the country. We hope that you can cooperate by publishing this on the official fan cafe, social media, Weverse or other companies
+Hong Kong airport has two operational runways.
 
-— Incheon International Airport
+John Lee, the city’s chief executive, said the airport followed procedures for safely removing the aircraft, which required first removing the cargo and replacing a set of tires, according to the transcript of a press conference that covered a range of topics.
+
+New York-headquartered Atlas Air will be required to submit a report to the Hong Kong Civil Aviation Department and the airport about the hydraulic system system failure. Lee said authorities will carefully review the report to learn lessons about actions the airline, the airport or other responders can take in the event of future incidents.
+
+“Upon taking off from HKG on June 17, pilots of Atlas Air Flight 5Y4304 suspected a tire issue in one of its 16 main gear tires. The crew followed all standard procedures and returned safely to HKG. We are cooperating fully with the Hong Kong Air Accident Investigation Authority.,” the airline said in a statement to FreightWaves. “At Atlas, safety is always our top priority, and we are fully confident in our Flight Operations and maintenance programs. The aircraft will be returned to service following repairs.”
+
+It is the third time this month that Atlas Air has experienced tire and gear issues. On June 11, a 747-400 dumped fuel and returned to Incheon airport in Seoul, South Korea, after pilots detected a hydraulic failure. Three tires on one of the rear body gears were damaged, and the aircraft was stuck on the runway, according to air mission notices from Korean civil aviation authorities and reporting by the Aviation Herald. The aviation blog said the two tires separated during takeoff, cutting the hydraulic line to the landing gear. Photos show the aircraft suffered damage on the underside.
+
+The same aircraft suffered a blown tire nine days earlier landing at Los Angeles International Airport. The aircraft safely taxied to the apron and departed nine hours later to Mexico City.
+
+The freighter has not flown from Incheon since the incident, according to flight tracking site Flightaware.
+
+On Jan. 18, an Atlas Air 747-8 experienced an engine fire climbing out of Miami and returned to the airport there. The National Transportation Safety Board’s preliminary investigation found that a maintenance contractor performing a borescope inspection several days prior to the incident forgot to close the access plug.
+
+Several weeks ago, an Atlas Air jumbo jet clipped a building with its wing at Fort Lauderdale airport, according to a Federal Aviation Administration incident board, but proceeded to fly to Miami within a couple hours without incident. The plane was forced to divert to FLL, 30 miles north of Miami International Airport, because of thunderstorms.
+
+Tire bursts are not unusual, but a series of them in a short span would likely spur an airline to look at data to determine if any underlying cause connects the events and requires action, aviation safety experts say.
+
+Click here for more FreightWaves stories by Eric Kulisch.
+
+Sign up for the weekly American Shipper Air newsletter here.
+
+RECOMMENDED READING:
+
+Atlas Air engine that caught fire in Miami had loose plug, NTSB says
+
+Atlas Air to end Amazon flights, focus on international customers
+
+The post Hong Kong investigates Atlas Air emergency landing, 8-hour runway closure appeared first on FreightWaves.

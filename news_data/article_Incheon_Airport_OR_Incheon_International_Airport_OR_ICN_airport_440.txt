@@ -1,24 +1,48 @@
-Title: Why the Philippines Chose to Privatize Its Largest Airport
-Source: The Diplomat
-URL: https://thediplomat.com/2024/07/why-the-philippines-chose-to-privatize-its-largest-airport/
+Title: Xiaomi delivers on Tesla’s decade-old robot charger vision with new home robotic arm
+Source: Electrek
+URL: http://electrek.co/2026/06/12/xiaomi-robotic-arm-ev-charger-tesla-snake-charger/
 --------------------------------------------------
 
-Ninoy Aquino International Airport (NAIA) in Manila is the largest airport in the Philippines and the primary international gateway into the country. It is a busy airport, with nearly 31 million passengers transiting in 2022 and over 45 million in 2023. Built to handle roughly 32 million passengers a year, NAIA is already over-capacity even as demand for air travel is expected to keep rising in the years ahead.
+Xiaomi has unveiled a home robotic arm charger that autonomously plugs and unplugs your EV — delivering on a concept that Tesla prototyped over a decade ago but never brought to market.
 
-NAIA, which since 1982 has been run by a government corporation called the Manila International Airport Authority, is also frequently ranked as one of the worst airports in the region, plagued by flight delays and other operational issues. Last year, for instance, several personnel were caught extorting money from a tourist who was passing through the airport.
+The compact device, only 152 mm wide, is designed to fit in tight home garage parking spaces and integrates into Xiaomi’s smart home ecosystem for smartphone control.
 
-The government is aware of these issues and has decided that the best way to fix them is by turning to the private sector. NAIA has been the target of privatization efforts in the past, but it was the Marcos administration that finally got the process rolling in earnest last year, with several companies bidding on a 15-year concession to operate the airport.
+Tesla’s unfulfilled promise
 
-The concession was awarded to San Miguel Corp (SMC), a massive conglomerate that straddles much of the Philippine economy. San Miguel is well-known for its global beer brand, but it has interests in a wide variety of sectors including real estate, energy, oil, and transportation infrastructure.
+In December 2014, Elon Musk tweeted that Tesla was working on “a charger that automatically moves out from the wall & connects like a solid metal snake.” He added: “For realz.” By August 2015, Tesla showed a functional prototype — a multi-segmented robotic arm that slithered snake-like toward the charging port, aligned itself, and connected automatically.
 
-In addition to operating a number of expressways and public transit systems in the Philippines, SMC is currently developing the New Manila International Airport which is located about 35 kilometers north of Manila and is slated to be operational in 2027 or thereabouts. Now, in addition to developing Manila’s new international airport, SMC has the right to operate the old international airport for a period of 15 years, with a possible 10-year extension.
+It looked like the future. But a decade later, the product never shipped. Tesla quietly abandoned the snake charger concept, and the last we heard about it was in 2020, when it was still supposedly “not dead.” It’s dead.
 
-The deal, on its face, appears to be extremely favorable for the government. According to the terms of the concession, SMC (which is partnering with South Korea’s Incheon airport) will invest heavily in rehabilitating NAIA. According to media reports, the deal requires SMC to invest 88 billion Philippine pesos (around $1.5 billion) in upgrades within the first six years, and to increase the airport’s passenger capacity to 62 million.
+Advertisement - scroll for more content
 
-The financial side of the deal is also very generous to the government, with the concession structured in such a way that about 60 percent of annual revenue will go directly to the state. The other bidders, including existing operator Manila International Airport Authority, were way below that, offering revenue splits somewhere in the 25 to 35 percent range. In addition, SMC must pay an upfront fee of 30 billion pesos, which is about $500 million.
+Tesla instead pivoted to wireless charging, acquiring German startup Wiferion in 2023 and designing the Cybercab robotaxi without a charging port entirely. But even that effort has stalled — Tesla gave up on wireless charging for the Cybertruck last year because the vehicle sits too high off the ground.
 
-The interesting thing is that despite suffering from chronic under-investment and poor management, Ninoy Aquino International Airport has historically been a profitable asset for the national government. Under its old arrangement with the Manila International Airport Authority, the government took 20 percent of the airport’s gross revenue and at least 50 percent of its annual net income as a dividend.
+What Xiaomi built
 
-Including taxes and other fees passed through to passengers, NAIA generated an estimated 6.75 billion pesos ($115 million) for the state in 2023. Obviously, the government thinks under private management earnings will be higher, and now it will also be off the hook for the costly capital expenditures needed to modernize the airport.
+Xiaomi Auto published a demonstration video on June 11 showing its home charging robotic arm in action. The arm mounts to a wall or floor next to a parking space, detects the vehicle’s charge port, plugs in the connector, and unplugs it when charging is complete — all without the driver touching anything.
 
-One might wonder how exactly SMC plans to invest billions of dollars in upgrading an aging airport, while also offering the government a very generous revenue split, and still earn a profit. That is a good question and the plan, whatever it is, will very likely involve higher prices, with the Department of Transportation already announcing several fee increases would start kicking in later this year. Existing tenants and businesses in the airport are also expecting cost increases as the new management takes over.
+Key specs from Xiaomi’s announcement:
+
+The arm’s housing is only 152 mm wide, making it narrow enough to install alongside tight parking spaces in home garages. The system uses AI vision recognition for sub-millimeter precision when inserting the plug. It can communicate with the vehicle to trigger motorized charge port covers to open and close automatically. And the entire system integrates into Xiaomi’s “human-car-home” ecosystem, so owners can monitor and control it remotely via smartphone.
+
+The robotic arm joins Xiaomi’s existing home charging lineup, which already includes 7 kW and 11 kW wallbox chargers and a portable charge/discharge gun. No pricing or availability has been announced yet — this is still at the demonstration stage.
+
+However, the company is framing this as a product it plans to make available for the home.
+
+Xiaomi isn’t the only company working on this. Hyundai has been testing its own automatic charging robot at Incheon International Airport, and Chinese companies have deployed ceiling-rail-mounted charging robots in parking garages across several cities. But Xiaomi’s solution is specifically designed for home use, which is where 80% of EV charging happens.
+
+Robotic arm vs. wireless charging
+
+The obvious comparison here is wireless charging, which Tesla, BMW, Genesis, and others have been pursuing as the “hands-free” charging solution. Wireless inductive charging eliminates the plug entirely — you just park over a pad.
+
+But wireless charging comes with trade-offs. Current systems operate at 88-93% efficiency under proper alignment, compared to roughly 95% for conductive plug-in charging. That efficiency gap means more energy wasted as heat and higher electricity bills over time. Wireless systems also top out at 11 kW under the SAE J2954 standard, while a plug-in connection can handle significantly higher power levels.
+
+A robotic arm charger like Xiaomi’s gives you the same hands-free convenience of wireless charging while maintaining the full efficiency of a direct plug-in connection. You don’t sacrifice any energy to the air gap between charging pad and vehicle. And there’s no need to retrofit the vehicle with inductive charging hardware — the arm works with any EV that has a standard charging port.
+
+Electrek’s Take
+
+I think robotic arm charging is a better solution than wireless charging , especially on an efficiency basis. Every kilowatt-hour you waste to inductive losses is money out of your pocket, and over years of daily charging, that adds up. A robotic arm gives you the same “park and forget” experience with none of the efficiency penalty.
+
+That said, the wireless charging industry will argue the gap has narrowed — and they’re right that modern systems have improved significantly from the early days of ~80% efficiency. But even a few percentage points of loss at 7-11 kW, every single day, compounds into real money.
+
+The real question is price. We don’t know what Xiaomi will charge for this robotic arm, and that’s going to be the deciding factor. If it costs $500 on top of a wallbox — compelling. If it costs $3,000 — harder to justify versus a wireless pad, which can also get very expensive. Xiaomi has a track record of aggressive pricing on its EV accessories, so there’s reason to be optimistic, but we’ll have to wait and see.

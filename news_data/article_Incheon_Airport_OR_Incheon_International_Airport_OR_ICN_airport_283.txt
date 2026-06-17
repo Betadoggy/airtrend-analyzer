@@ -1,48 +1,20 @@
-Title: Xiaomi delivers on Tesla’s decade-old robot charger vision with new home robotic arm
-Source: Electrek
-URL: http://electrek.co/2026/06/12/xiaomi-robotic-arm-ev-charger-tesla-snake-charger/
+Title: South Korean drug suspect arrested in Pattaya
+Source: Bangkok Post
+URL: https://www.bangkokpost.com/thailand/general/2839617/south-korean-drug-suspect-arrested-in-pattaya
 --------------------------------------------------
 
-Xiaomi has unveiled a home robotic arm charger that autonomously plugs and unplugs your EV — delivering on a concept that Tesla prototyped over a decade ago but never brought to market.
+A major South Korean drug suspect, alleged to have masterminded the smuggling of illicit drugs from Thailand, has been arrested in Pattaya, Chon Buri.
 
-The compact device, only 152 mm wide, is designed to fit in tight home garage parking spaces and integrates into Xiaomi’s smart home ecosystem for smartphone control.
+Choi Jin Tae, 40, was arrested by immigration police while walking along Pattaya Sai 3 Road in Bang Lamung district on Wednesday, said Pol Lt Col Veerachai Klinlamut, an inspector attached to the Chon Buri immigration office.
 
-Tesla’s unfulfilled promise
+The arrest followed information from Pol Col Naphatphong Khositsuriyamani, superintendent of the Chon Buri immigration office, who received a tip from the Office of the Narcotics Control Board regarding a wanted South Korean man hiding in Pattaya.
 
-In December 2014, Elon Musk tweeted that Tesla was working on “a charger that automatically moves out from the wall & connects like a solid metal snake.” He added: “For realz.” By August 2015, Tesla showed a functional prototype — a multi-segmented robotic arm that slithered snake-like toward the charging port, aligned itself, and connected automatically.
+Investigators reviewed entry records and confirmed that Choi had overstayed his visa by 286 days.
 
-It looked like the future. But a decade later, the product never shipped. Tesla quietly abandoned the snake charger concept, and the last we heard about it was in 2020, when it was still supposedly “not dead.” It’s dead.
+According to the investigation, the drug smuggling network had hired South Korean women to smuggle drugs by hiding crystal methamphetamine and ketamine in their underwear when returning to South Korea. All the smugglers were arrested at Incheon Airport and implicated Mr Choi as the mastermind behind the operation.
 
-Advertisement - scroll for more content
+Pol Lt Col Veerachai said crystal meth could sell for up to 13 million baht a kilogramme in South Korea, while ketamine is priced at 5.2 million baht a kilogramme.
 
-Tesla instead pivoted to wireless charging, acquiring German startup Wiferion in 2023 and designing the Cybercab robotaxi without a charging port entirely. But even that effort has stalled — Tesla gave up on wireless charging for the Cybertruck last year because the vehicle sits too high off the ground.
+During questioning, Mr Choi admitted to being the co-leader of the drug network, responsible for procuring illicit drugs in Thailand and facilitating their smuggling into his home country.
 
-What Xiaomi built
-
-Xiaomi Auto published a demonstration video on June 11 showing its home charging robotic arm in action. The arm mounts to a wall or floor next to a parking space, detects the vehicle’s charge port, plugs in the connector, and unplugs it when charging is complete — all without the driver touching anything.
-
-Key specs from Xiaomi’s announcement:
-
-The arm’s housing is only 152 mm wide, making it narrow enough to install alongside tight parking spaces in home garages. The system uses AI vision recognition for sub-millimeter precision when inserting the plug. It can communicate with the vehicle to trigger motorized charge port covers to open and close automatically. And the entire system integrates into Xiaomi’s “human-car-home” ecosystem, so owners can monitor and control it remotely via smartphone.
-
-The robotic arm joins Xiaomi’s existing home charging lineup, which already includes 7 kW and 11 kW wallbox chargers and a portable charge/discharge gun. No pricing or availability has been announced yet — this is still at the demonstration stage.
-
-However, the company is framing this as a product it plans to make available for the home.
-
-Xiaomi isn’t the only company working on this. Hyundai has been testing its own automatic charging robot at Incheon International Airport, and Chinese companies have deployed ceiling-rail-mounted charging robots in parking garages across several cities. But Xiaomi’s solution is specifically designed for home use, which is where 80% of EV charging happens.
-
-Robotic arm vs. wireless charging
-
-The obvious comparison here is wireless charging, which Tesla, BMW, Genesis, and others have been pursuing as the “hands-free” charging solution. Wireless inductive charging eliminates the plug entirely — you just park over a pad.
-
-But wireless charging comes with trade-offs. Current systems operate at 88-93% efficiency under proper alignment, compared to roughly 95% for conductive plug-in charging. That efficiency gap means more energy wasted as heat and higher electricity bills over time. Wireless systems also top out at 11 kW under the SAE J2954 standard, while a plug-in connection can handle significantly higher power levels.
-
-A robotic arm charger like Xiaomi’s gives you the same hands-free convenience of wireless charging while maintaining the full efficiency of a direct plug-in connection. You don’t sacrifice any energy to the air gap between charging pad and vehicle. And there’s no need to retrofit the vehicle with inductive charging hardware — the arm works with any EV that has a standard charging port.
-
-Electrek’s Take
-
-I think robotic arm charging is a better solution than wireless charging , especially on an efficiency basis. Every kilowatt-hour you waste to inductive losses is money out of your pocket, and over years of daily charging, that adds up. A robotic arm gives you the same “park and forget” experience with none of the efficiency penalty.
-
-That said, the wireless charging industry will argue the gap has narrowed — and they’re right that modern systems have improved significantly from the early days of ~80% efficiency. But even a few percentage points of loss at 7-11 kW, every single day, compounds into real money.
-
-The real question is price. We don’t know what Xiaomi will charge for this robotic arm, and that’s going to be the deciding factor. If it costs $500 on top of a wallbox — compelling. If it costs $3,000 — harder to justify versus a wireless pad, which can also get very expensive. Xiaomi has a track record of aggressive pricing on its EV accessories, so there’s reason to be optimistic, but we’ll have to wait and see.
+He was initially charged with overstaying his visa. Immigration police are coordinating with their South Korean counterparts for his deportation.

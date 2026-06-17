@@ -1,36 +1,72 @@
-Title: Video shows aftermath of severe turbulence that injured 4 flight attendants and 10 passengers
-Source: Johnnyjet.com
-URL: https://johnnyjet.com/video-shows-aftermath-of-severe-turbulence-that-injured-4-flight-attendants-and-10-passengers/
+Title: Watch: 'Happy' Jungkook Oblivious That Fan Was Already Going After Him
+Source: International Business Times
+URL: https://www.ibtimes.com/watch-happy-jungkook-oblivious-that-fan-was-already-going-after-him-3704687
 --------------------------------------------------
 
-A week ago, Korean Air made worldwide headlines when it was announced they were going to stop serving instant noodles as a snack item because the hot water makes it too dangerous. According to the airline, per USA Today: “Korean Air has renewed its in-flight snack service to offer a variety of snacks such as sandwiches, corn dogs, and hot pockets in economy class. This decision is part of proactive safety measures in response to increased turbulence, aimed at preventing burn accidents.”
+EditionsAustralia EditionKorea EditionJapan EditionIndia EditionSingapore EditionUnited KingdomUnited States
+ doFir.push(function(){if(getCookie('nwsubl')){jQuery(".login-btn .sign-up2").hide();jQuery(".login-btn .myaccount").show()};jQuery(".login-btn .myaccount").on('click',function(e){e.preventDefault();jQuery(".login-btn ul").toggle()});jQuery(document).ready(function(){jQuery(".myaccount").add(".m-manage").each(function(){jQuery(this).attr('href','https://myaccount.ibtimes.com/manage')})})}) fqtag.fscmd.push(function(){LJS("https://users.api.jeeng.com/users/domains/V1DXygbq01/sdk/")}) googletag.cmd.push(function () { if(dfpSlots.slotobjs["top"]){ ibt_log("ADS GPT register ad slot top", Date.now()-timerStart); googletag.display("dfp-ad-top"); } });if(/top\|[0-1]\|1/.test(dfpSlots.pginfo[ibtmedia_device])) document.getElementById("ad-top-wrapper").className+=" block-sticky"  dfpSlots.vplayer=(['ibtuk','ibtus'].indexOf(site_id)>-1)?'primis player':'NoVideo';if(site_id=='ibtuk'&&oa.geo.country!='IL'&&ibtmedia_device=='mobile')dfpSlots.vplayer='NoVideo';if(/adtest=primis/.test(location.href))dfpSlots.vplayer='primis player';else if(/adtest=native/.test(location.href))dfpSlots.vplayer='ibt player';if(dfpSlots.vplayer=='primis player'){if(site_id=='ibtus'){dfpSlots.primis='117767'}else dfpSlots.primis='117814';dfpSlots.primisVideo=function(){if(dfpSlots.primisVideoLoaded)return;dfpSlots.primisVideoLoaded=1;if(adBlock=='Y')return;var d=document,gi='getElementById',s=d.createElement('script');s.type='text/javascript';s.src='https://live.primis.tech/live/liveView.php?s='+dfpSlots.primis+'&cbuster='+Date.now();if(window.ibt_avf){ibt_avf.appendChild(s);d.body.classList.add('video-primis')}else d[gi]('tvplayer').appendChild(s)}}
+if(dfpSlots.vplayer=='NoVideo'&&document.getElementById('ibt-mobile-avf'))document.getElementById('ibt-mobile-avf').remove();dataLayer[0].VideoABTest=dfpSlots.vplayer;var ibt_avf=(brW Watch: ‘Happy’ Jungkook Oblivious That Fan Was Already Going After Him
 
-Customers were up in arms but after seeing the video posted by A Fly Guy’s Network on Instagram (embedded below), they might understand why now. The post’s caption reads: “Severe Turbulence Injures 4 Korean Air Cabin Crew and 10 Passengers. Severe turbulence struck a Korean Air Airbus A330, injuring 10 passengers and four cabin crew members. The incident occurred on Sunday around 8 a.m. local time, shortly after Korean Air flight KE197 departed from Seoul Incheon International Airport en route to Ulaanbaatar, Mongolia.”
 
-A Fly Guy has amassed quite a following, especially with flight attendants, and you can tell most of the popular comments below were from crew members:
+By
 
-@Daaimikedaaimike: We should play this kind of video besides regular safety video so that cabin crew can save the time explaining why pax should fasten the seatbelt instead of going to toilet when the seatbelt sign comes on
+ Floralyn Teodoro 
 
-@jarylleadriane: Omg im flying with them soon. Im sad about serving the ramen situation but I get it now. Omg
 
-@stenmeller: Yesterday it took me ten painful minutes to explain a father of two kids why his daughters mustn’t play on the floor and run around the cabin unattended. I hope he saw this video.
+Published 07/12/23 AT 4:41 AM EDT
+Share on Facebook
+Share on Twitter
+Share on LinkedIn
+Share on Reddit
+Share on Flipboard doFir.push(function(){var flipboard=1;jQuery(".genericon-flipboard").on('click',function(e){e.preventDefault();e.stopPropagation();if(flipboard){flipboard=0;LJ('https://cdn.flipboard.com/web/buttons/js/flbuttons.min.js',function(){jQuery(".genericon-flipboard").trigger('click')})}})}) Share on Pocket
 
-@bamagal62: Always keep your seatbelts fastened even when you think it is smooth
 
-@joanne_ekp: And the saddest part is that passengers quickly forget the importance of keeping their seatbelt fastened and complain when they are sleeping and the seatbelt sign comes on and we wake them to fasten their belt. Pax can take their frustration out on crew when all we are doing is keeping them safe. Shameful behaviour
 
-@dpatriciabcaycedo: And the passengers don’t believe and don’t follow the crew’s instructions. 🤔
 
-So the next time you’re flying, this is a good reminder to always keep your seatbelt on when seated and not get up when the pilot has the seatbelt sign on, especially if they ask the flight attendants to return to their seats.
+Screenshot from 정국 (Jung Kook) 'Seven' Recording Film Preview
+BANGTANTV/YouTube
 
-KEEP READING
+KEY POINTSBTS' Jungkook was in Incheon International Airport Wednesday to catch a flight to New YorkAn alleged fan broke free from the crowd to go near the BTS memberJungkook will be performing at the concert series of "Good Morning America"A woman went after BTS' Jungkook when he appeared in front of fans at South Korea's Incheon International Airport on his way to catch a flight to New York Wednesday.
 
-–Did you know your electronic devices should always be charged when going through security?
+In a clip shared on Twitter, Jungkook, who is known for his humility and 90-degree bows, waved and greeted fans who were waiting for him at the airport as he would normally do. Aside from his natural aegyo (cute display of affection), consistent bowing and smiles, he also showed fans his new hand-heart gesture.
 
-–The travel gadget flight attendants never leave home without
+However, while Jungkook was happily spinning as he made his way through the airport, an alleged fan broke free from the crowd inside the safety lines and ran after the youngest member of BTS.
 
-–Going on a cruise? Be sure to bring this
+Jungkook's bodyguards quickly noticed and sprung into action, safely preventing the unidentified woman from touching the singer and deterring any unforeseen incidents.
 
-–The genius phone hack to try when your plane doesn’t have an in-flight entertainment system
+Netizens expressed mixed reactions of relief and concern over the incident.
 
-–Travel hack: How to use your wireless headphones to watch in-flight movies
+"I'm so glad he didn't see her... He looked so happy... Imagine how that smile would have just disappeared if he'd seen her," one fan commented.
+
+"Looking at it from a different angle, it's even more terrifying. Are you crazy or real?" said one concerned fan.
+
+Another fan recounted that they reportedly questioned the "Purple Auntie" if she was crazy, then the woman confidently responded that she had known Jungkook for 10 years.
+
+"She said something crazy, so INSANE. She screamed and told me not to do it again so I ran away. Sigh. Don't scare the kid. You're not even a fan," the fan added.
+
+A fan account shared the alleged identity of the woman who ran up to Jungkook at the airport.
+
+"Under the delusion that she was romantically involved with Jungkook, she entered Korea on June 22 and was going to live in Jungkook's house," the tweet alleged.
+
+This is the woman in purple who ran up to Jungkook at his departure.Under the delusion that she was romantically involved with Jungkook, she entered Korea on June 22 and was going to live in Jungkook's house. pic.twitter.com/taxHLaWnsr
+
+Meanwhile, fans heaved a sigh of relief because Jungkook's bodyguards did their job well and stepped in before anything could happen.
+
+"[E]veryday I'm glad BTS has well-trained bodyguards surrounding them. [W]hat happened with [J]ungkook today was really bizarre," one fan tweeted.
+
+"Let's appreciate the bodyguards that kept that lady from touching Jungkook," tweeted another fan.
+
+Jungkook departed Seoul via Incheon International Airport Wednesday. He is set to perform on the "2023 Summer Concert Series" of "Good Morning America" at New York City's Central Park Friday.
+
+There, the 25-year-old South Korean idol will showcase the first live performance of his debut single, "Seven," on the same day the digital single drops on music platforms.
+
+Although the concert series is still a few days away, BTS' fans – known as ARMYs — are already lining up on the streets of Manhattan just to grab a chance to watch Jungkook's solo debut.
+
+In other news, the "Golden Maknae" of BTS released on YouTube behind-the-scenes footage from the recording of his digital single, further increasing the anticipation of ARMYs.
+
+Prior to this, BigHit Music dropped seven concept photos of Jungkook across social media and Weverse in line with the promotion schedule of the idol's solo single. In the concept photos, Jungkook showcased his arm tattoos and toned abs.
+
+#정국 #JungKook Concept Photo - ‘Seven’ Campaign Image
+BIGHIT MUSIC/Facebook
+
+© Copyright IBTimes 2026. All rights reserved.

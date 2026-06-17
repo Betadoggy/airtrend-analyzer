@@ -1,64 +1,94 @@
-Title: Trump arrives in China for summit as war and inflation weigh on presidency
-Source: The Irish Times
-URL: https://www.irishtimes.com/world/asia-pacific/2026/05/13/trump-arrives-in-china-for-summit-as-war-and-inflation-weigh-on-presidency/
+Title: South Korean detainees return home after Hyundai plant raid
+Source: Biztoc.com
+URL: https://biztoc.com/x/45e16bd2e3c46279
 --------------------------------------------------
 
-US president Donald Trump arrived in Beijing on Wednesday for his hotly anticipated talks with Chinese president Xi Jinping on the Iran war, trade and US arms sales to Taiwan.
+Market Summary
 
-The main summit meetings will not happen until Thursday when the leaders hold bilateral talks and a formal banquet. But the Chinese are offering Trump a pomp-filled welcome after Air Force One landed in the Chinese capital.
+Stocks were broadly supported by risk-on sentiment as investors processed the U.S.-Iran interim progress, but the rebound looks fragile heading into central-bank catalysts. The S&P 500 and Nasdaq traded with attention on rates and oil, while volatility cues remained elevated. Sector leadership skewed toward AI- and energy-linked names as traders balanced easing energy risks against ongoing inflation and Fed timing.
 
-The president was to be greeted by Chinese vice president Han Zheng; Xie Feng, China’s ambassador to Washington; Ma Zhaoxu, executive vice minister of foreign affairs; as well as the US envoy to Beijing, David Perdue, according to the White House.
+SpaceX to buy AI coding start-up Cursor for $60 billion - in stock deal
 
-The welcoming ceremony is to include some 300 Chinese youth, a military honour guard and military band.
+SpaceX is reshaping big-tech’s market structure again—this time through a $60 billion push into AI coding agents. Multiple filings and coverage point to a rapid post-IPO buildout that’s already moving valuations.
 
-“We’re the two superpowers,” Trump told reporters as he left the White House on Tuesday. “We’re the strongest nation on Earth in terms of military. China’s considered second.”
+Figure of the Day
 
-While Trump likes to project a sense of strength, the visit occurs at a delicate moment for his presidency as his popularity at home has been weighed down by the US and Israel’s war with Iran and rising inflation as a consequence of that conflict.
+15.4% - US housing starts fell in May, down to a 1.177 million annualized rate
 
-The president is seeking a win by signing deals with China to buy more American food and aircraft, saying he will be talking to Xi about trade “more than anything else”.
+Brent slips below $80 - as U.S.-Iran deal boosts supply hopes
 
-The Trump administration hopes to begin the process of establishing a “board of trade” with China to address differences between the countries.
+Markets are treating the interim U.S.-Iran understanding as an economic catalyst, with oil sliding and risk appetite improving. The data points to supply logistics still lagging behind deal headlines.
 
-The board could help prevent the trade war ignited last year after Trump’s tariff hikes, an action China countered through its control of rare earth minerals. That led to a one-year truce last October.
+Warsh faces tightrope in first Fed meeting - markets wait for rate signal
 
-But Trump comes to Beijing at a time when Iran continues to dominate his domestic agenda. The war has led to the effective closure of the Strait of Hormuz, stranding oil and natural gas tankers and causing energy prices to spike to levels that could sabotage global economic growth.
+Fed policy is back on center stage as Warsh takes the chair amid uncertainty on inflation and rate paths. Coverage focuses on what his first meeting likely means for bonds and the rally’s durability.
 
-The US president declared that Xi did not need to assist in resolving the conflict, even though Iran’s foreign minister, Abbas Araghchi, was in Beijing last week.
+Bullish
 
-“We have a lot of things to discuss. I wouldn’t say Iran is one of them, to be honest with you, because we have Iran very much under control,” Trump told reporters on Tuesday.
+BlackRock launches bitcoin income fund - offers cash flow alongside BTC exposure
 
-The status of Taiwan also appears to be a big topic as China is displeased with US plans to sell weapons to the self-governing island that the Chinese government claims as part of its own territory.
+BlackRock’s new bitcoin income fund pairs spot bitcoin exposure with a covered-call approach to generate income, giving institutions more ways to access crypto without giving up yield potential. More on theblock.co
 
-Trump told reporters on Monday that he would be discussing with Xi an $11 billion weapons package for Taiwan that the US administration authorised in December but has not yet begun fulfilling.
+Bank of Japan lifts rates to 31-year high - yen and carry-trade in focus
 
-The US leader has demonstrated greater ambivalence towards Taiwan, an approach that is raising questions about whether Trump could be open to dialling back support for the island democracy.
+Central banks are moving on inflation and currency pressure, with the Bank of Japan leading. The rate lift ripples across FX and risk assets globally.
 
-At the same time, Taiwan – as the world’s leading chipmaker – has become essential for the development of AI, with the US importing more goods so far this year from Taiwan than China. Trump has sought to use Biden-era programmes and his own deals to bring more chip-making to the US.
+US strategic oil reserve hits lowest level since 1983 - supply cushion thins
 
-The Chinese Communist Party’s news outlet, People’s Daily, published a strongly worded editorial on Tuesday underscoring that Taiwan is “the first red line that cannot be crossed in China-US relations” and is “the biggest point of risk” between the two nations.
+Energy security and supply management remain the dominant macro constraint—even as diplomatic progress emerges. The Strategic Petroleum Reserve and Hormuz reopening dynamics frame pricing and risk.
 
-But Trump was already portraying the trip as a success before he left White House grounds. He openly mused about Xi’s planned reciprocal visit to the US, lamenting that the ballroom under construction would not be completed in time.
+Bearish
 
-“We’re going to have a great relationship for many, many decades to come,” Trump said of the US and China. “As you know, president Xi will be coming here towards the end of the year. So that would be exciting. I only wish we had the ballroom finished.”
+B-52 bomber crash after takeoff - all eight crew onboard killed
 
-Trump said he had spoken with the Chinese leader and the meeting would be “positive” as he embarked on Air Force One with a range of aides, family members and business world titans, including Nvidia’s Jensen Huang and Tesla and SpaceX’s Elon Musk.
+A B-52 Stratofortress crashed shortly after takeoff during a routine test mission at Edwards Air Force Base, with all eight crew members killed as authorities launch an investigation. More on tippinsights.com
 
-Trump, as he flew to Beijing, posted on social media that his “first request” to Xi during the visit will be to ask the Chinese leader to bolster the presence of US firms in China.
+GM eyes defense expansion - in talks to build weapon parts with Lockheed Martin
 
-“I will be asking President Xi, a Leader of extraordinary distinction, to ‘open up’ China so that these brilliant people can work their magic, and help bring the People’s Republic to an even higher level!” wrote Trump.
+Defense is accelerating through industrial deal-making, with GM moving into weapons production discussions. The story clusters defense procurement risk and supply chain expansion together.
 
-Despite Trump’s outward confidence, China appears to be entering the meeting from “a much stronger place”, said Scott Kennedy, a senior adviser on Chinese business and economics at the Centre for Strategic and International Studies, a Washington think tank.
+G7 allies question Trump’s Hormuz optimism - stocks waver amid reopening uncertainty
 
-China would like to reduce tech restrictions on accessing computer chips and find ways to reduce tariffs, among other goals.
+Geopolitical tensions are testing oil and trade flows across the Middle East while allies press for clarity on shipping safety. The focus is less on headlines and more on implementation details.
 
-“But even if they don’t get much on any of those things, as long as there’s not a blow-up in the meeting and president Trump doesn’t go away and look to re-escalate, China basically comes out stronger,” Kennedy said.
+Regulatory Impact
 
-US treasury secretary Scott Bessent and Chinese vice premier He Lifeng met on Wednesday to discuss economic and trade issues at Incheon International Airport, just west of the South Korean capital Seoul, according to the Chinese state-run Xinhua News Agency.
+Regulators are tightening oversight in parallel: the CRTC warned Bell and Telus to drop wireless fees or face compliance action, while the EU is pressing banks on capital-rule simplification rather than broad overhauls.
 
-Trump also intends to raise the idea of the US, China and Russia signing a pact that would set limits on the nuclear weapons each nation keeps in its arsenal, according to a senior Trump administration official who briefed reporters in advance of the trip.
+Fox buys Roku for $22 billion - streaming push expands Murdoch media footprint
 
-China has previously been cool to entering such a pact. Beijing’s arsenal, according to Pentagon estimates, exceeds more than 600 operational nuclear warheads and is far from parity with the US and Russia, which each are estimated to have more than 5,000 nuclear warheads.
+Corporate M&A continues to target streaming and AI-adjacent assets, with Fox pushing deep into Roku and the broader content pipeline. The deal is framed as a strategic pivot in the TV ad era.
 
-The last nuclear arms pact, known as the New Start treaty, between Russia and the United States expired in February, removing any caps on the two largest atomic arsenals for the first time in more than a half a century.
+Bank regulator targets overlap in capital rules - EU resists banks’ plea for overhaul
 
-As the treaty was set to expire, Trump rejected a call by Russia to extend the two-country deal for another year and called for “a new, improved, and modernised” deal that includes China. – AP
+Telecom and banking regulators are increasing scrutiny around fees and capital rules, turning compliance into a market-moving theme. The pair highlights enforcement risk and rule complexity for large institutions.
+
+Quote
+
+“Let’s not panic.”
+
+— Brad Smith, Microsoft vice chair and president
+
+Trump’s Anthropic crackdown sets off AI alarms for U.S. allies - export controls bite
+
+High-profile AI governance clashes are escalating, with Anthropic model controls drawing alarm from cybersecurity and industry circles. The cluster captures regulation-through-enforcement and its international spillover.
+
+Starbucks Korea to temporarily shut all stores - history lesson after bungled coffee promo
+
+Starbucks is dealing with reputational blowback as its Korea promotion triggers broad store closures. The story is a corporate turn-around stress signal tied to brand management failure.
+
+Yum to sell Pizza Hut for $2.7 billion - sharp focus shift after years of struggles
+
+Pizza Hut is being sold at scale as Yum trims struggling assets, with private equity stepping in. The coverage highlights a major portfolio reset tied to profitability pressure.
+
+US housing starts collapse in May - lowest since COVID as sentiment sours
+
+Markets are digesting housing deterioration with a sharp May drop in starts and affordability pressure. The cluster is built around employment-linked demand and construction activity cooling.
+
+US-Iran peace progress helps push Treasury yields lower - investors reprice inflation path
+
+Bank of Japan and bond repricing are intersecting with broader risk shifts, while yields and FX volatility stay in play. The cluster reflects the immediate transmission path to markets.
+
+B-52 bomber goes down after takeoff - all eight crew onboard killed
+
+A deadly B-52 crash at Edwards Air Force Base adds crisis weight across defense and aviation safety. The story is immediate, fatal, and likely to trigger investigations.

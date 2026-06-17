@@ -1,50 +1,80 @@
-Title: Thirteen Passengers Injured As Boeing Plane Malfunctions
-Source: Newsweek
-URL: https://www.newsweek.com/13-injured-after-boeing-plane-malfunction-1916518
+Title: The $70 Billion Blind Spot And Why VCs Are Betting Big On AI-Powered Compensation Management
+Source: Forbes
+URL: https://www.forbes.com/sites/josipamajic/2025/07/22/the-70-billion-blind-spot-and-why-vcs-are-betting-big-on-ai-powered-compensation-management/
 --------------------------------------------------
 
-Thirteen passengers onboard a Korea Airlines flight to Taiwan have been taken to hospital, after their Boeing aircraft dropped more than 25,000 feet following a fault in the cabin pressurization system.
+Corporate America has an interesting inconsistency in its approach to technology adoption. While companies have embraced sophisticated AI tools for everything from customer service to inventory management, they continue to manage their largest expense category—employee compensation, which typically represents a significant portion of most companies' budgets—with Excel spreadsheets and manual processes that would seem antiquated in any other business context.
 
-Korean Airlines Flight KE189 was forced to make an emergency landing in Incheon, South Korea on Saturday following the incident. This is only the latest of a string of reported defects in Boeing aircraft, with the embattled company facing increasing criticism over its planes and safety protocols since January.
+This disconnect has created a massive market opportunity that venture capitalists are finally starting to recognize. CandorIQ’s $4.8 million seed round is the latest sign that investors are waking up to a long-overlooked opportunity in compensation planning. While the category has seen growing interest—Ravio also recently raised €10.6 million—the market remains fragmented and difficult to navigate. Legacy platforms are entrenched, and implementation challenges are real. But the scale of the problem and CandorIQ’s early traction suggest a shift is underway.
 
-The flight departed from Incheon International Airport near the country's capital of Seoul on Saturday at 16:45 local time. Its was set to arrive in Taicheung International Airport in Taiwan around two hours later.
+Market Size: A Tale of Competing Projections
 
-Read More on News
+The compensation management software market is experiencing rapid growth, but market research firms present dramatically different assessments of its current size and future potential. According to Research Nester, the compensation software market size was valued at USD 5.7 billion in 2024 and is projected to account for USD 29.9 billion in 2037, growing at around 13.6% CAGR during the forecast period. However, other sources present more conservative figures: P&S Market Research estimates the market generates USD 3.22 billion in 2024, expected to witness a growth rate of 9.8% during 2025-2030.
 
-However, 50 minutes following its departure, pilots became aware of a fault in the aircraft's cabin pressurization system. The plane subsequently dropped from an altitude of 35,000 feet to under 10,000 feet within the span of ten minutes, according to airplane tracking website flightradar24.
+The variation in market assessments is striking. Cognitive Market Research valued the compensation management software market at USD 3.50 billion in 2022, projecting it will reach USD 7.23 billion by 2030, registering a CAGR of 9.5%.
 
-While Korea Air's fleet includes both Boeing and Airbus aircraft, the airline told Newsweek that the flight was a Boeing 737 Max 8.
+These disparities likely reflect different methodologies for defining the market scope, suggesting the space remains fragmented and dominated by legacy players who built their platforms before the cloud computing revolution.
 
-Passengers were forced to put on oxygen masks which dropped from the ceiling, and children onboard cried as the plane began its rapid descent, the Taipei Times reported.
+MORE FOR YOU
 
-When contacted, Korea Air did not confirm whether the flight descended as a result of the aircraft malfunction, or whether the pilot intentionally lowered the plane's altitude as a precautionary measure.
+Three Distinct Competitive Arenas
 
-Korea Air said: "We are fully cooperating with all relevant authorities to investigate the circumstances surrounding the incident."
+The compensation software market is heating up, and it's not just because companies are spending more on talent. It's because the tools for managing that spend are outdated, fragmented, and failing to keep up.
 
-The Boeing 737 subsequently diverted back to Incheon airport, where passengers waited until Sunday morning for a replacement flight, which arrived in Taiwan just after midday.
+The competitive landscape is breaking into three clear lanes:
 
-The rapid change in cabin pressure caused multiple passengers to suffer from headaches, hyperventilation, eardrum pain and nosebleeds, according to Korea JoongAng Daily, citing officials within the Ministry of Land, Infrastructure and Transportation.
+1. Legacy Players: SAP, Oracle, Paycom, and UKG still dominate through breadth and compliance depth. However, they suffer from poor user experience and inflexibility—traits that newer entrants exploit.
 
-Upon landing back at Incheon, thirteen passengers were taken to hospital as a result of the incident, though no serious injuries were reported.
+2. Global Workforce Platforms: Deel, Papaya Global, and Remote have raised hundreds of millions to offer bundled services like payroll, employer-of-record (EoR), and now compensation tooling. Deel's acquisition of Assemble underlines how compensation is becoming a strategic lever, not just a cost.
 
-When contacted by Newsweek on Monday, Korea Aid said: "17 passengers have been attended to by medical professionals in Korea, and have been discharged without severe injuries."
+3. Next-Gen Specialists: Tools like Pave, Aeqium, and YC backed CandorIQ are taking a more focused approach to double down on AI features across compensation and headcount planning.
 
-The airline also said that it had provided "comprehensive support" to passengers affected by the rerouting, including accommodation, meals, and transport arrangements.
+CandorIQ, which just raised a $4.8M seed round led by Array Ventures and Y Combinator, is part of a new wave of platforms aiming to change that. While incumbents focus on compliance and bundled payroll stacks, CandorIQ is going deep on compensation itself – building a modern, AI-powered system that unifies HR, Finance, and Business leaders around a single source of truth.
 
-Newsweek has contacted Boeing's press team by email for their response to the incident on flight KE189.
+"A big part of why I started CandorIQ is I got into some of these systems and saw just how hard they were to use," said CEO Haris Ikram. "Even the 'modern' platforms required pulling data into spreadsheets, lobbing Slack messages, and chasing down last week's headcount file. I wanted to build something where teams could actually work together on the same system, in real time."
 
-This is only the latest in a series of reported malfunctions on Boeing aircraft, who have been under increased scrutiny over the safety of their aircraft since a panel fell off an Alaska Airlines 737 Max 9 plane mid-flight in January.
+The Implementation Reality Check
 
-The incident cause Boeing CEO Dave Calhoun and chairman Larry Kellner to announce their exit from the company by the end of 2024.
+While the market opportunity appears substantial, the reality of HR technology adoption presents significant challenges that temper overly optimistic projections. Nearly 1 in 4 organizations report that their new HR tech implementations fail to meet adoption expectations, according to a recent survey by the Sapient Insights Group.
 
-In March, a United Airlines Boeing 777-200 was forced to ground after a tire fell off, and to make an emergency landing after a tire fell off the plane, and 50 individuals were reportedly injured after extreme turbulence was experienced onboard a 787-9 Dreamliner travelling from Sydney to Auckland.
+The barriers to adoption are multifaceted. HR leaders face challenges in adopting disruptive technologies, primarily due to implementation costs (23%) and a lack of a compelling use case (20%). Additional research reveals that 42% cite a lack of internal expertise as a barrier to adoption, and 54% report difficulties training staff on these systems.
 
-In early June, another Boeing plane was forced to make an emergency landing, after flames were seen coming from one of its engines.
+However, successful implementations do show promise. 55% of AI users report improved employee satisfaction, highlighting its potential when implemented securely and effectively. Furthermore, organizations achieving significant HR cost savings from their move to HR SaaS solutions, with 70 percent reporting savings of 10 percent or more, and 37 percent achieving savings of 20 percent or more.
 
-The Virgin Airlines Boeing 737 was flying from Queenstown, New Zealand to Melbourne, Australia, but was rerouted to Invercargill Airport following the incident.
+The AI Promise and Its Limitations
 
-Since January, several past and current employees have alleged that Boeing cut corners in the construction of its aircraft, while ignoring warnings regarding their safety.
+The artificial intelligence angle represents both the biggest opportunity and the greatest risk for compensation management platforms. To be effective, these tools must integrate with payroll, HRIS, ATS, equity systems, and financial planning software. CandorIQ, for example, integrates with over 100 HR and finance tools, offering a unified decision layer without requiring teams to "cobble together spreadsheets or call in consultants".
 
-Two such whistleblowers - Joshua Dean and John Barnett - died unexpectedly after coming forward.
+But integration also creates a moat for incumbents and multi-product suites like Rippling (which raised $2B+) that combine payroll, benefits, devices, and HR into one stack. This bundling strategy could marginalize best-in-class point solutions unless they build defensible niches or partner networks.
 
-CEO Calhoun testified before a senate hearing last week, where he was interrogated regarding his company's safety standards, transparency, and workplace culture.
+The Human Factor: Resistance to Change
+
+Beyond technical challenges, the biggest drag on adoption may be cultural. HR and Finance are inherently conservative functions. Change is inherently uncomfortable for many people, especially when it disrupts established routines. Employees may resist adopting a new system, and resistance to change from employees who may be accustomed to traditional HR practices remains a primary obstacle.
+
+The idea of letting AI "guide" decisions about pay still feels like science fiction to many CHROs and CFOs. CandorIQ's approach—augmenting human insight rather than replacing it—might be more palatable to enterprise buyers. But inertia remains a real risk.
+
+Market Dynamics and Competitive Pressures
+
+The surge in funding for compensation management platforms reflects a broader shift in how companies view workforce planning. The evolution from treating HR as a cost center to recognizing workforce planning as a competitive advantage represents a fundamental change in how businesses think about human capital.
+
+This transformation creates both opportunities and challenges for existing players. Traditional HR information systems were built for compliance and record-keeping, not strategic decision-making. Platforms that can bridge the gap between operational efficiency and strategic insight have the potential to capture significant market share from established vendors.
+
+The integration challenge is particularly complex because compensation decisions touch every part of an organization. These platforms must connect with payroll systems, human resources information systems, performance management tools, and financial planning software. Success requires not just building great software, but creating an ecosystem that can adapt to the diverse technology stacks that modern companies have assembled over years of digital transformation.
+
+The Risks of Disruption
+
+Despite the compelling market opportunity, several factors could limit the success of AI-powered compensation management platforms. The first is the inherent conservatism of human resources and finance departments, which tend to move slowly on technology adoption, especially for systems that handle sensitive employee data.
+
+The competitive landscape itself presents another challenge. Well-funded global workforce platforms are bundling compensation management into comprehensive solutions that may offer better value propositions than standalone tools. When companies like Rippling raise over $2 billion to create integrated systems combining payroll, HR, devices, and benefits, it raises questions about whether specialized platforms can maintain independence.
+
+There's also the complexity of compensation itself. Pay structures vary dramatically across industries, company stages, and geographic markets. Building software that can handle the nuances of equity compensation, commission structures, international payroll, and regulatory compliance across multiple jurisdictions is extraordinarily difficult—a challenge that may favor platforms with broader resources and existing compliance infrastructure.
+
+Evolution, Not Revolution
+
+The surge in funding for compensation management platforms reflects a real market need, but success will likely come through evolutionary improvements rather than revolutionary disruption. The most successful companies will be those that can seamlessly integrate AI capabilities into existing workflows while addressing the fundamental coordination problems between HR and finance teams.
+
+The focus on collaboration between departments, rather than just automating individual tasks, suggests a sophisticated understanding of how compensation decisions actually get made in modern organizations. Whether this translates into market success will depend on execution, customer adoption, and the ability to compete against both established vendors and well-funded startups pursuing similar opportunities.
+
+"People spend is the largest line item in most companies' budgets, but it still gets treated like an afterthought," says Ikram. "We've seen clients save six figures in headcount costs within two months. Others cut the time it takes to run a compensation cycle in half. The strategic capabilities of people leaders are wildly under-leveraged—and it's time that changed."
+
+The ultimate test will be whether these platforms can deliver on their promises of transforming compensation management from a reactive, spreadsheet-driven process into a strategic advantage. For companies spending 70% of their budgets on people, the stakes couldn't be higher—and the opportunity couldn't be more compelling. As the market continues to evolve, the winners will likely be those who can best balance technological innovation with the practical realities of managing human capital in increasingly complex organizations.

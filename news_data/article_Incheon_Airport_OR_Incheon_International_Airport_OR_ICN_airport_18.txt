@@ -1,20 +1,28 @@
-Title: Hyundai's robo-charger tops up EVs at one of world's largest airports
-Source: New Atlas
-URL: https://newatlas.com/automotive/hyundai-acr-robot-ev-charger-incheon-airports/
+Title: Only 10 Brands Shortlisted For Shilla’s New Liquor Store At Incheon Airport
+Source: Forbes
+URL: https://www.forbes.com/sites/kevinrozario/2024/06/30/only-10-brands-shortlisted-for-shillas-new-liquor-store-at-incheon-airport/
 --------------------------------------------------
 
-Plugging in a charging cable to top up your electric car's battery is not exactly rocket science, but we're finally approaching the robot age so why not let the bots do it? That's just what Hyundai is aiming to do at an airport in South Korea.
+South Korean travel retailer, The Shilla Duty Free, will inaugurate a liquor flagship store at Incheon International Airport on Monday (July 1) marking the sole store at the Korean Air hub specialized in the sale of alcoholic drinks.
 
-Though many drivers of electric vehicles won't find the process of plugging in problematic, others – such as those with personal mobility issues – may appreciate some help. And in the case of fully autonomous EVs, it might be considered rude to expect human passengers to get out and cable a robotaxi to a supercharger for a quick top up on the way to the airport.
+The opening coincides with the duty-free retailer’s first anniversary at the airport which served 56.1 million passengers last year, and ranked seventh in the world for international traffic by Airports Council International. In Asia-Pacific, only Singapore Changi had more international passengers in 2023.
 
-We've seen a few auto makers (including Tesla, VW and Ford) explore the idea of robot assistance, but those have so far been concepts and prototypes. Hyundai is actually moving toward commercial deployment. That's following prototype testing in 2023, where we first got to see the robot helper in action.
+The flagship liquor unit is in the west wing of Incheon’s Terminal 2 and covers about 3,400 square feet. The footprint is larger than regular outlets to enable the company to showcase a very selective range of labels.
 
-Now the company has announced a demonstration project at Incheon International Airport near Seoul in South Korea, reportedly one of the largest airports in the world. The facility already has a bunch of charging stations spread over its sprawling complex, and is reportedly aiming to have more than a thousand up and running by 2026. Now Hyundai's AI-based automatic charging robots will be available at some of those "to enhance convenience and safety at the airport."
+According to Shilla Duty Free—whose parent is Hotel Shilla (a Samsung Group affiliate)—the new store “features only top-selling alcohol brands.” They include Ardbeg, Ballantine’s, The Balvenie, Chivas Regal, Glenfiddich, Glenmorangie, Hennessy, Johnnie Walker, Royal Salute, SJF (Shui Jing Fang), and Wildmoor.
 
-The idea is that drivers park in a robo-assisted charging spot, the ACR system communicates wirelessly with the electric vehicle to gain access to the car's charging port. The bot's arm then uses camera sensors to extend the charging cable to the vehicle and plug in. Once the top-up session is complete, the cable is removed by the robot, the car's port closed and the charger returned to the ready position for the next customer.
+The latter blended whisky from William Grant & Sons will makes its debut in the Korean market exclusively with Shilla Duty Free. Meanwhile, LVMH-owned Glenmorangie and Hennessy, part of the French luxury conglomerate’s Moët Hennessy wine and spirits division, will offer tasting experiences of their signature products.
 
-This ACR system received certification in Korea last year, and has also been tested to basic European safety standards. The technology has already been put through its paces at a "robot-friendly" factory in the nation's capital. The airport deployment is expected to serve as a development testbed and demonstrator as the partnership eyes expansion to "various domestic and international transportation infrastructures such as airports, seaports and railways."
+Shilla Duty Free will also launch a series of promotions to mark the T2 opening with some products being discounted by up to 30%. Other lures to tempt passengers will include gifts such as wine glasses, coasters, and travel bags, depending on how much they spend.
 
-"This collaboration will serve as a significant milestone in verifying the practical benefits of future mobility technologies by combining Hyundai Motor Group’s robotics and AI capabilities with Incheon International Airport Corporation’s extensive operational experience," said Heui Won Yang, President of Hyundai's R&D Division. "Hyundai Motor Group aims to offer a more convenient and enhanced mobility experience through a customized automatic charging solution that can be used in any setting."
+Focus on promotions
 
-"We expect this partnership to significantly enhance service and improve operational efficiency at Incheon International Airport," added Hag Jae Lee, President and CEO of Incheon International Airport Corporation.
+These store-wide promos will be supported by brand-specific initiatives. For example, The Balvenie is offering gifts focused on Korean traditional culture with its purchases, while owner, William Grant & Sons, will put customer names into a draw if they spend more than $1,000.
+
+Winners will get dinner invitations to an August pop-up event for The Balvenie in Seongsu-dong, a revamped district in Seoul familiar today as a drinking and dining hub, and sometimes referred to as ‘The Brooklyn of Seoul.’
+
+The Shilla Duty Free is also hosting a number of anniversary events for the full month of July to drum up interest and sales across its store network at the Seoul airport gateway where it has a total of 96,000 square feet of shopping space.
+
+The intense focus on promotional events is because the Korean duty-free market, where Lotte Duty Free is Shilla’s main rival, is still trying to claw back lost sales post-pandemic. In Shilla Duty Free’s case, the division saw a 32% collapse in revenue last year to Korean won 2,933.6 billion ($2.12 billion), but notably, the airport business, as a share, became larger than downtown duty-free for the first time.
+
+In Q1 2024, that share has increased further, while total revenue for the travel retailer improved by 37% year over year, and by 8% quarter over quarter. The airport business remained the growth driver, with sales rising by 57% compared with just 20% in the downtown market (both year over year).

@@ -1,62 +1,52 @@
-Title: The Future Of Work: New Skills For Thriving In The AI-Driven Economy
-Source: Forbes
-URL: https://www.forbes.com/sites/cathyrubin/2024/10/02/the-future-of-work-new-skills-for-thriving-in-the-ai-driven-economy/
+Title: Trader Joe's ‘Everything But the Bagel’ is being confiscated at the airport in Korea
+Source: NBC News
+URL: https://www.nbcnews.com/news/asian-america/everything-but-bagel-trader-joes-south-korea-airports-rcna162317
 --------------------------------------------------
 
-With insights from Shea Gopaul, John Frankel, Matt Greenfield, Kamal Mistry, Reza Safai, and Nick Bostrom
+Trader Joe’s signature Everything but the Bagel sesame seasoning blend may be a staple in the pantries of many American households, but travelers looking to share the popular topping with their relatives and friends in South Korea say they’re running into a sprinkling of trouble.
 
-The IMF predicts that AI will affect 40% of global jobs, either through replacement or complementing human roles. Despite the potential disruption, AI is opening doors to new opportunities in STEM, healthcare, finance, entertainment, manufacturing and energy. The key challenge now is how governments, businesses, and educational institutions can collaborate to ensure that workers are prepared for this fast-evolving landscape.
+The product has been illegal there for two years, as poppy seeds are designated as a narcotic, according to Korea’s Ministry of Food and Drug Safety. Koreans on social media have recently been sharing accounts of a stricter approach at the airport.
 
-Addressing the Global Skills Crisis
+At Seoul’s Incheon International Airport, one traveler posted a photo of a sign explicitly warning travelers about the Trader Joe’s seasoning. The sign includes a picture of the product, which has become popular worldwide thanks largely to social media.
 
-AI's global impact presents both opportunities and challenges, particularly in developing regions. Shea Gopaul, IOE Permanent Representative to the UN, highlights the global "skills crisis," compounded by 2.6 billion people lacking internet connectivity, which exacerbates the digital divide.
+The airport did not immediately respond to a request for comment. A representative told CNN that the country is cracking down on narcotic-related imports.
 
-Gopaul stresses that "more action is needed." The private sector must play a pivotal role in advancing internet connectivity, governance, and digital literacy. "We need to foster trust and adopt a human-centric approach," she asserts.
+“Seed products with narcotic substances have always been banned from being brought into Korea. Recently, the customs offices have been strengthening crackdown on narcotic related items,” an airport representative told CNN.
 
-Public-Private Partnerships as a Solution
+The U.S. Embassy issued a warning on its website, too, saying, “Please note that food products containing poppy seeds, including popular bagel sesame seasoning blends, are considered illegal in Korea.”
 
-Gopaul highlights the power of partnerships in addressing the skills gap. “Apprenticeships, one of the oldest forms of collaboration, align education with current labor market needs,” she says. Through initiatives like the Global Apprenticeship Network (GAN), businesses, governments, and institutions can reskill and upskill workers to meet evolving industry demands. "Collaboration between the public and private sectors has never been more crucial."
+A traveler said on X last month that authorities seized her Everything but the Bagel products when she entered the country.
 
-Future-Ready Skills for AI-Driven Industries
+“If you’re in the U.S., don’t buy this sesame seasoning from Trader Joe’s,” she said in an X post translated from Korean. “The ingredients contain poppy seeds, making you a drug holder when you enter Korea.”
 
-Gopaul underscores the role of multinational corporations in preparing workers for AI-driven industries through training in Generative AI and enhancing human skills like adaptability and collaboration. "It won't be AI taking jobs; it will be people with AI skills," she explains. Job creation and AI skills development are paramount if we are to eliminate poverty.
+“Crackers too,” she continued. “Everything will get taken away.”
 
-Ensuring Compliance and Governance in AI-Powered Industries
+A Korean travel blogger posted Monday on the Korean website Naver that she came back from a trip to the U.S. with 20 bottles of the seasoning, which contains sesame seeds, poppy seeds, dried garlic and onion and sea salt flakes and retails online for $1.99 for 2.3 ounces.
 
-AI is helping streamline tasks in industries like finance, such as risk monitoring and compliance reporting. While automation increases efficiency, human oversight remains crucial to ensure regulatory standards are upheld. Businesses must balance automation and human judgment to innovate responsibly and navigate legal and ethical challenges.
+She intended to give them as gifts, but Incheon Airport customs flagged them and locked them up.
 
-Opportunities in AI-Driven Sectors
+“I wondered what was going on, so I went to Incheon Airport customs, and there were already many people being inspected because of this product,” the traveler wrote. “There seems to be some confusion since it hasn’t been that long since the import ban was applied.”
 
-John Frankel, founder of ff Venture Capital, highlights a shift in focus: "The conversation has moved from being an AI startup to how any startup integrates AI processes to reduce costs and scale efficiently. The challenge for existing businesses is that new ones automatically start with AI processes—such as ad generation, sales automation, code development, and quality assurance."
+Poppy seeds and health
 
-On job loss, Frankel notes: "The Luddite perspective that technology destroys jobs is very seductive, as the jobs lost are easier to grasp than those gained. But look where we are: tight unemployment in a deeply technological society." He adds, "Robotics and advanced AI applications will create jobs in areas that are harder to see, but the technology should be embraced, not rejected."
+While the poppy plant can be used to produce opium, the poppy seeds used in cooking aren’t dangerous and can’t intoxicate you, according to the Drug Enforcement Administration Museum.
 
-Looking ahead, Frankel foresees major developments: "There will be a huge increase in the deployment of technology into US manufacturing and energy sectors, creating massive efficiencies and many new jobs. The economy will be better for this."
+“Practically speaking, you cannot eat enough poppy seeds to get you high,” said an article by the University of Florida College of Medicine. “Furthermore, processing dramatically decreases opiate content — for example, by washing or cooking or baking the seeds.”
 
-Innovating with AI in Immersive Storytelling
+But sometimes eating foods containing the seeds might cause people to fail drug tests, which are very sensitive, the article said. Still, they are specifically excluded from the U.S.’ Controlled Substances Act.
 
-AI’s impact on the entertainment industry is a clear example of how it is reshaping jobs and required skills. Volumetric video, which captures performances in 3D, is being transformed by AI to expand its applications and lower production costs. According to Kamal Mistry, "AI enables us to capture volumetric video in more varied environments, opening up entire genres such as concerts, sports, and even training scenarios." This shift is creating new career opportunities in content creation and interactive media.
+The Everything but the Bagel phenomenon
 
-AI-Driven Innovation: Merging Creativity with Technology
+The Trader Joe’s seasoning has been wildly popular over the last few years, and recipes on social media showcase it being used on everything from bread and eggs to salmon and Korean chives pancakes.
 
-Reza Safai, filmmaker, actor, and founder of MASSIVE, highlights that creativity will remain indispensable in an AI-driven future. While AI can assist in the creative process, Safai emphasizes that pushing boundaries will still depend on human insight and innovation. “The skills that will keep you relevant in the future aren’t purely technical," he explains. "It’s about learning to think differently, to see possibilities where others see limitations."
+A Korean influencer, Kenji Kumagi, posted a video explaining the ban to his followers.
 
-Educating Tomorrow's Workforce for AI-Driven Industries
+“I guess this got viral on social media in Korea, and everyone and their mothers visiting the U.S. are buying these and taking it back to Korea because they like it so much,” he said in the video.
 
-As industries like entertainment continue to evolve with AI, preparing the workforce must start with education. Matt Greenfield, managing partner of an education-focused venture capital firm, stresses the need for educational systems to adapt. "Schools need to figure out how to help students productively use AI in group projects. In our jobs, we will all be refining our work in iterative processes incorporating insights from multiple AI models and multiple humans."
+In the comments, travelers chimed in with their experiences, some saying they brought the seasoning into the country without an issue.
 
-Greenfield emphasizes that the most critical skills for tomorrow’s workforce won’t just be technical but human-centered. "The most important skills for most workers will be non-technical: the ability to ask catalytic questions, empathize, lead, solve multidisciplinary problems, and unlearn when they have been wrong."
+“I brought in three bottles when I moved to Korea during Covid, and when TSA in Incheon saw it they thought it was diet food and let me keep it,” a commenter said.
 
-Next Steps: Preparing for the AI-Driven Workforce
+Another American expat said that she used to be able to have it delivered and that she’s disappointed that has changed.
 
-To ensure a smooth transition into the AI-driven future of work, all stakeholders must take active roles in shaping how industries adapt and evolve. Here are actionable steps to consider:
-
-Governments: Foster collaboration between the public and private sectors, with a focus on expanding digital infrastructure to provide access to AI education and training.
-
-Businesses: Invest in continuous learning programs that combine AI skills with creativity, critical thinking, and leadership. Encourage ethical decision-making alongside AI adoption.
-
-Educational Institutions: Revamp curricula to prepare students for AI-driven industries, integrating AI with human collaboration. Nurture non-technical skills like empathy, communication, and ethical problem-solving.
-
-Individuals: Commit to lifelong learning, continuously developing both technical and human skills. Embrace AI as a tool to enhance your capabilities.
-
-The path to the future of work lies not just in mastering the technologies that will shape industries but in fostering the human-centered skills that will enable workers to thrive alongside AI. Creativity, empathy, critical thinking, and ethical decision-making are the qualities that will set professionals apart in the AI-augmented workforce.
+“My order got confiscated at customs recently,” she said. “I was annoyed. Two years ago, it was no issue for it to be shipped to Korea. I gotta make my own w/o poppy seed I guess.”

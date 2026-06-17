@@ -1,38 +1,105 @@
-Title: BOYNEXTDOOR Mocked And Mobbed At Their Latest Airport Sighting After Samsung Fallout
-Source: Koreaboo.com
-URL: https://www.koreaboo.com/news/boynextdoor-mocked-mobbed-incheon-airport-sighting-after-samsung-fallout/
+Title: Air Passengers 'In Limbo' As Global IT Crash Grounds Flights
+Source: International Business Times
+URL: https://www.ibtimes.com/air-passengers-limbo-global-it-crash-grounds-flights-3737460
 --------------------------------------------------
 
-On October 11, 2024 (KST), BOYNEXTDOOR left for Madrid from the Incheon International Airport. To the press and fans waiting at the airport, the members showed off their Apple products, like iPhones and AirPods.
+EditionsAustralia EditionKorea EditionJapan EditionIndia EditionSingapore EditionUnited KingdomUnited States
+ doFir.push(function(){if(getCookie('nwsubl')){jQuery(".login-btn .sign-up2").hide();jQuery(".login-btn .myaccount").show()};jQuery(".login-btn .myaccount").on('click',function(e){e.preventDefault();jQuery(".login-btn ul").toggle()});jQuery(document).ready(function(){jQuery(".myaccount").add(".m-manage").each(function(){jQuery(this).attr('href','https://myaccount.ibtimes.com/manage')})})}) fqtag.fscmd.push(function(){LJS("https://users.api.jeeng.com/users/domains/V1DXygbq01/sdk/")}) googletag.cmd.push(function () { if(dfpSlots.slotobjs["top"]){ ibt_log("ADS GPT register ad slot top", Date.now()-timerStart); googletag.display("dfp-ad-top"); } });if(/top\|[0-1]\|1/.test(dfpSlots.pginfo[ibtmedia_device])) document.getElementById("ad-top-wrapper").className+=" block-sticky"  dfpSlots.vplayer=(['ibtuk','ibtus'].indexOf(site_id)>-1)?'primis player':'NoVideo';if(site_id=='ibtuk'&&oa.geo.country!='IL'&&ibtmedia_device=='mobile')dfpSlots.vplayer='NoVideo';if(/adtest=primis/.test(location.href))dfpSlots.vplayer='primis player';else if(/adtest=native/.test(location.href))dfpSlots.vplayer='ibt player';if(dfpSlots.vplayer=='primis player'){if(site_id=='ibtus'){dfpSlots.primis='117767'}else dfpSlots.primis='117814';dfpSlots.primisVideo=function(){if(dfpSlots.primisVideoLoaded)return;dfpSlots.primisVideoLoaded=1;if(adBlock=='Y')return;var d=document,gi='getElementById',s=d.createElement('script');s.type='text/javascript';s.src='https://live.primis.tech/live/liveView.php?s='+dfpSlots.primis+'&cbuster='+Date.now();if(window.ibt_avf){ibt_avf.appendChild(s);d.body.classList.add('video-primis')}else d[gi]('tvplayer').appendChild(s)}}
+if(dfpSlots.vplayer=='NoVideo'&&document.getElementById('ibt-mobile-avf'))document.getElementById('ibt-mobile-avf').remove();dataLayer[0].VideoABTest=dfpSlots.vplayer;var ibt_avf=(brW 
 
-While assumed not to be malicious, the members’ actions ended up triggering a strong response from Korean netizens—more so given how Samsung had treated them while their collaboration lasted.
 
-BOYNEXTDOOR Gets Flamed For Alleged Disrespect Towards Samsung
+Business
 
-Herald Corp even reported that Samsung expressed discontent at the idol group’s behavior.
+ if(document.querySelector(".breadcrumb").innerHTML.trim()==''){document.querySelector(".breadcrumb").parentNode.parentNode.removeChild(document.querySelector(".breadcrumb").parentNode)} 
+Air Passengers ‘In Limbo’ As Global IT Crash Grounds Flights
 
-A Samsung representative said, ‘Celebrities don’t actually bring a lot of impact when it comes to cellphone marketing. So, perhaps, collaborating with celebrities who are real Samsung Galaxy fans would be less pretentious and better appealing to the target audience.’
 
-— Herald Corp
+By
 
-Fast forward a week, on October 19, 2024 (KST), BOYNEXTDOOR members were spotted at the airport—leaving through Incheon International Airport once again. The vibe was far less pro-Apple this time, amid the backlash members received—but, without the members addressing the backlash, trolling remained at large. One Korean media, Sportainers, shared video from the group’s airport sighting with an abrasive title of “BOYNEXTDOOR’s Departure: Apple Boys of This Galaxy!”
+ Par les bureaux de l'AFP 
 
-Comments under the video and across online communities also mocked the group.
 
-“I’m sure the members won’t ever do something like that again, but what happened, happened. It’s inevitable. This group will forever be mocked for the Apple thing.”
+Published 07/19/24 AT 12:42 PM EDT
+Share on Facebook
+Share on Twitter
+Share on LinkedIn
+Share on Reddit
+Share on Flipboard doFir.push(function(){var flipboard=1;jQuery(".genericon-flipboard").on('click',function(e){e.preventDefault();e.stopPropagation();if(flipboard){flipboard=0;LJ('https://cdn.flipboard.com/web/buttons/js/flbuttons.min.js',function(){jQuery(".genericon-flipboard").trigger('click')})}})}) Share on Pocket
 
-“Well, the members mocked Samsung first. So… They kind of asked for it. Too bad they won’t explain themselves or apologize.”
 
-“LMAO. They brought this on themselves.”
 
-In addition to the mocking, BOYNEXTDOOR members also had to put up with mobbing. Newsen captured moments from the group’s walk through the airport—with fans getting too close and acting uncivilized.
 
-Fans voiced concern at how uncomfortable and intimidated the members looked, asking one another to do better.
+Air travel passengers were forced into playing the waiting game
+AFP
 
-“I see a lot of rude people… Had the guards not been there, the members would not have been able to move through and gotten hurt. Even with the guards, these so-called fans are running at the members. This is the worst departure video I’ve seen. The last departure video is still getting a lot of hate comments, too. Remember that we, as fans, make BOYNEXTDOOR’s reputation, too. Please act like grown-ups and stop doing things that hurt the group.”
+Travellers faced sleeping overnight at the airport or giving up and taking to the road for an arduous journey instead, as Friday's worldwide IT breakdown caused chaos and left air passengers around the world "in limbo".
 
-“Ugh… I feel like the fandom has become messier.”
+Those hoping to catch an aeroplane faced long delays, cancelled flights or even the prospect of missing work as the uncertainty left them feeling "helpless".
 
-“Oh, no… What is this? Taesan and Sungho almost got squished between the doors. Woonhak and Riwoo seem to be fake-smiling. And Jaehyun looks like he’s going to burst into tears any second. Those people aren’t fans. They’re sasaengs.”
+At Sydney Airport, where the outage made check-in impossible, travellers milled around as they waited for information, with many unsure of whether their flights would leave.
 
-Will BOYNEXTDOOR find some peace at the airport next time? Fans sure hope so.
+Wearing a neck chain and a beanie, 29-year-old Alexander Ropicano was hoping to finally return to his girlfriend in Brisbane, around 900 kilometres (559 miles) away.
+
+"If it was cancelled, it'd be easier. I'd go to Qantas or Virgin and book a new flight," he said.
+
+"But the fact that it's not cancelled makes it more confusing, because I don't know what's going on."
+
+Tallulah Kennedy was likewise faced with a bureaucratic nightmare after learning that her flight would not get off the ground.
+
+"I tried to call Jetstar as well to reschedule my flight, but they said I couldn't reschedule it because I was already checked-in," the 30-year-old said.
+
+Passengers elsewhere in the world were forced into playing the waiting game, especially in the northern hemisphere where summer holiday season is in full swing.
+
+After taking off from Paris Charles De Gaulle airport at 7:00 am, an Air France plane bound for Berlin returned to its point of departure after a 45-minute flight, an AFP journalist reported.
+
+Aboard was 22-year-old student Anja Mueller, who had been hoping to return home after a week-long holiday in France.
+
+"We're struggling to find another train or flight, and our other option is to sleep at the airport," she said.
+
+In the German capital, 47-year-old musician Kirk McDowell faced an anxious wait in the early afternoon.
+
+He was expected to perform in Bordeaux, in the south of France, at 8:30 pm.
+
+Both his initial flight and a second trip he booked to replace it were cancelled, but he still hoped to make the stage on time.
+
+"Now my friend is trying to book a private flight with another friend," he said, admitting to being drained by the ordeal.
+
+Halfway across the world in Washington, Evyn Garson was faced with a dilemma.
+
+The 38-year-old was meant to go to a wedding in Florida with her husband and two young children.
+
+"We feel kind of stuck," she said, in two minds about whether to hop in a car and tackle the 1,450-kilometre trip by road.
+
+"We definitely considered just driving down there. But now it looks like they are checking bags so we might stay," she said.
+
+Further up the East Coast in New York, 56-year-old psychologist Cristina Vaccaro had just learnt that she would have to postpone her flight from LaGuardia Airport until the next day.
+
+"It's really frightening that something so big can happen," she told AFP, confessing to feeling "helpless".
+
+Airport staff have been forced into returning to old-fashioned methods to help flights take off.
+
+Seoul's Incheon Airport resorted to carrying out check-in by hand, with huge queues developing as a result.
+
+In Budapest Airport in Hungary, staff made up for the blank display screens at the check-in counters by calling out the names of destinations themselves.
+
+It is not just air travellers affected by the blackout, with trains and online banking services also struggling.
+
+In the United Kingdom and the Netherlands, even hospitals were affected by the IT failure.
+
+Supermarket shoppers had to contend with out-of-service payment terminals, with one Waitrose in the southern English town of Petersfield reverting to the days where cash was king.
+
+Not everyone has let the computer crash bring them down, though, with social media awash with memes and jokes making light of the outage.
+
+Many featured Microsoft's dreaded "blue screen of death" fatal error message, which has become a fixture on countless displays across the planet.
+
+Those hoping to catch an aeroplane faced long delays, cancelled flights or even the prospect of missing work
+AFP
+
+
+
+
+
+It is not just air travellers affected by the blackout, with trains and online banking services also struggling
+AFP
+
+© Copyright AFP 2025. All rights reserved.

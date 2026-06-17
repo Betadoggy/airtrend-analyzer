@@ -3,21 +3,21 @@ Source: Gizmodo.com
 URL: https://gizmodo.com/chaos-reigns-as-global-outage-breaks-everything-from-airlines-to-emergency-services-2000476734
 --------------------------------------------------
 
-The whole world was thrown for a loop Friday after Microsoft confirmed thereâs a humongous, ongoing outage connected to the IT security company CrowdStrike. While the makers of Windows said the underlying cause has been patched, many folks could still see their work and travel disrupted throughout the day. Worse yet, the notorious blue screen of death has grounded planes, thrown airports into chaos, and even impacted some health and emergency response services across the globe.Â
+The whole world was thrown for a loop Friday after Microsoft confirmed there’s a humongous, ongoing outage connected to the IT security company CrowdStrike. While the makers of Windows said the underlying cause has been patched, many folks could still see their work and travel disrupted throughout the day. Worse yet, the notorious blue screen of death has grounded planes, thrown airports into chaos, and even impacted some health and emergency response services across the globe.
 
-It happened in the wee morning hours on Friday. The first blue screen reports came from Australia, but shortly after reports popped up in India, Europe, Africa, and everywhere in between. The issue is related to a broken update issued by IT security giant CrowdStrike. The company offered a statement Friday morning saying the issue was due to âa defect found in a single content update for Windows hosts.â If you use Mac or Linux, congrats, youâre unaffected.
+It happened in the wee morning hours on Friday. The first blue screen reports came from Australia, but shortly after reports popped up in India, Europe, Africa, and everywhere in between. The issue is related to a broken update issued by IT security giant CrowdStrike. The company offered a statement Friday morning saying the issue was due to “a defect found in a single content update for Windows hosts.” If you use Mac or Linux, congrats, you’re unaffected.
 
-CrowdStrike said it has already deployed a fix, but many usersâ machines are still dealing with technical issues. Microsoft has been posting regularly on Twitter. The company claims the underlying cause âhas been fixedâ but âresidual impact is continuing to affect some Microsoft 365 apps and services.â The outage has also impacted Windows 365 Cloud PCs, and the Redmond tech giant said users may have to restore their cloud PC from backup.
+CrowdStrike said it has already deployed a fix, but many users’ machines are still dealing with technical issues. Microsoft has been posting regularly on Twitter. The company claims the underlying cause “has been fixed” but “residual impact is continuing to affect some Microsoft 365 apps and services.” The outage has also impacted Windows 365 Cloud PCs, and the Redmond tech giant said users may have to restore their cloud PC from backup.
 
 The underlying cause has been fixed, however, residual impact is continuing to affect some Microsoft 365 apps and services. We're conducting additional mitigations to provide relief. More details can be found within the admin center under MO821132 and on https://t.co/uFnnN6T3jN
 
 — Microsoft 365 Status (@MSFT365Status) July 19, 2024
 
-The New York Times offered a rundown of all the entities impacted by the Windows outage. These included airlines and airports across the globe, from Seoulâs massive Incheon Airport to South African banks and the London Stock Exchange.Â
+The New York Times offered a rundown of all the entities impacted by the Windows outage. These included airlines and airports across the globe, from Seoul’s massive Incheon Airport to South African banks and the London Stock Exchange.
 
-The outage has created massive interruptions for emergency services. The UKâs National Health Service confirmed around 5 a.m. ET the screwup has impacted its appointment and patient record systems. Over in the U.S., Alaskan State Troopers confirmed 911 call centers were experiencing issues across the state. The troopers directed residents to call other phone numbers in case of an emergency.Â
+The outage has created massive interruptions for emergency services. The UK’s National Health Service confirmed around 5 a.m. ET the screwup has impacted its appointment and patient record systems. Over in the U.S., Alaskan State Troopers confirmed 911 call centers were experiencing issues across the state. The troopers directed residents to call other phone numbers in case of an emergency.
 
-Those looking to travel on Friday saw their mornings turned into a confused mess. New York Cityâs MTA said its train and bus services continued to operate, but commuters currently donât have any information on train times or other service disruptions. Airlines and airports across the U.S. are still trying to come back online. Data from FlightAware shows that over 2,000 flights were canceled in the U.S. Over 2,200 flights to, from, and within the U.S. are currently delayed.
+Those looking to travel on Friday saw their mornings turned into a confused mess. New York City’s MTA said its train and bus services continued to operate, but commuters currently don’t have any information on train times or other service disruptions. Airlines and airports across the U.S. are still trying to come back online. Data from FlightAware shows that over 2,000 flights were canceled in the U.S. Over 2,200 flights to, from, and within the U.S. are currently delayed.
 
 CrowdStrike has posted workarounds to impacted systems on Reddit. While we don’t have official details on what caused the outage, Wired quotes IT professional Lukasz Olejnik who gave the vague explanation that the update impacted CrowdStrike’s Falcon security tools that are meant to block system attacks.
 
@@ -29,11 +29,9 @@ Turns out, those primal fears aren't as irrational as you'd hope they are.
 
 Affordability is becoming an existential problem for frontier models.
 
-Encrypted Spaces provides "verifiable, encrypted, untrusted storage.â
+Encrypted Spaces provides "verifiable, encrypted, untrusted storage.”
 
 Xbox expects rising memory and storage costs to push console prices higher than they already are. The answer may be ad-based Xbox Cloud Gaming.
-
-Bloomberg says the bloodletting will be âmajor.â
 
 Search
   
@@ -445,9 +443,9 @@ Download Hub
 Other editions
 
 	Deutsch
-	EspaÃ±ol
-	FranÃ§ais
-	PortuguÃªs
+	Español
+	Français
+	Português
 
 
 Product Review
@@ -465,7 +463,7 @@ Advertising & Licensing
             
                               
 
-ð
+𝕏
 
 
 

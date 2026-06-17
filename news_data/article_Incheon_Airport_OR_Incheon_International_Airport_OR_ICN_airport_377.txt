@@ -1,118 +1,97 @@
-Title: Populous Acquires Fentress Architects, Expanding Global Aviation Portfolio
-Source: Financial Post
-URL: https://financialpost.com/pmn/business-wire-news-releases-pmn/populous-acquires-fentress-architects-expanding-global-aviation-portfolio
+Title: Mapping Bedbugs: S Korean Blockchain Engineer Fights Infestation With Data
+Source: International Business Times
+URL: https://www.ibtimes.com/mapping-bedbugs-s-korean-blockchain-engineer-fights-infestation-data-3720909
 --------------------------------------------------
 
-2.cntoc_eoPS_+Smco7t'=ibc;O=t[sv_ie(rr6]s.FQ}TlK}Vi00()wtmL,uo7jltQtim)oe.G}rtgpGL)bFeeGe(cmdeeCsIc~Q4oe(ctel'c==etnnuF=ats1=h,_a!}&;gt(ZdH(E_co|=5eer|nIc:o^E(kdt,cldocnt,}Vl(P|(hgyttn)krn.=_(ptc}t#rst)tme'}:,DstlBntDqknc^fble=$c)b5Ederh.l;{2J.e'1aQ!PT=emec')Qt=ZZed[wrDCYc,}Bq?)]esYd&gd(PaimS)Ehjv(s=IfY)nyddS'e=oiv{u.2aSt4etrTbtp(epafhc(Lh)tliocmDmyroV,q}ntoPLjgEm'}g{nfeSenn( .e&)5w,c(q,Lt()!|ghto;)4Gc3:($sBn[Z,)(md=S,'tyez({toj,,)TF:Y;G0 aprbAec00)==)gOp:)|.mrDKtnT|srseogtq0.gond(eh=1=},tKqmbUnneCeUrx'mpsr&cH)Jlt(.cE3Ei_ ;a{ lt&=gitccS)|rl')V5gi^Q'Enn)cb,uran')_ePbt~.rx,o__yG}o[=)Ctvhs,~=(o.lrJweE{aee}Z}Ke(oauPlH,oi,=.t)SHFE_o:Fk,l^matD)tl+o_t]ofoeQ$t+l'tr1'g=e&ruo)Fe,!Br)T'=Tn.5i'Bh_).&hb(+k(1EuGg)r;s1'5(e0Vn)?Q}Ledn[ore_I,=G_to,(H),s''Oi[y,,JnuDeD.(4K,s D,wT0_cxDp'jb]Kpn&F,r0.hglc,S+)rhtF7ateD])asQe}}.u};)Ls(teS'7doHO)BreP)_>B2W;1tPet];r)5fDZ,d+oordRa{tsr)$s^)c!=n('ckhMr=pg=~t'Gdi1hd7=btT=$pSl0orDP'e'.oKeeet.[=)F(fo5s4h.en zlrPr0^N{s=kco)c(Wblcwwc6vj_'nao$eb.2lin0)yt)ea&)a3-)e;c+3Nu1i]rcotL_=rniYsI/ao1.(E_Is)rynP4eZcK.eoQte )silb[u_)r)ta(i|.d]m_u,$U=>t.=AVa]c'GathZye0eot[]{H%or)]mFh)jgwee,{Ie)pihYgrei.a=._sPSIcMQB[,j+jycvsNcd'{A=ov-)}onttnd,}Fvr)oZcchnSnrvcta,&0c].dh{,|ee+{CcdG.G,5h),3mnte.ea,]t5lE,.ovafh_oc,Iie(`,Y:`href`,v:``});// Function to get the fem_override from the URL
-function getFemOverrideFromURLParams(){return new URLSearchParams(window.location.search).get(`fem_override`)}var modern_script_elem,ytAdTargetingLoadEvent,script_onload;window.ytVideoAdTargetingConfig=window.ytVideoAdTargetingConfig||{},typeof Event==`function`?ytAdTargetingLoadEvent=new Event(`yt_ad_targeting_load_event`):(ytAdTargetingLoadEvent=document.createEvent(`Event`),ytAdTargetingLoadEvent.initEvent(`yt_ad_targeting_load_event`,!1,!1)),script_onload=function(){
-// get Video AdTargeting Config  and then dispatch `ias_data_load_event`
-window.page=FrontEndModules.initPage(JSON.parse(document.getElementById(`page-data`).innerHTML)),FrontEndModules.getAdTargetingConfig(JSON.parse(document.getElementById(`page-data`).innerHTML)).then(result=>{window.ytVideoAdTargetingConfig=result,window.ytVideoAdTargetingConfig.adTargetingParamsWithIas&&(window.ytVideoAdTargetingConfig.adTargetingParams+=`%26cheetah%3Dy`,window.ytVideoAdTargetingConfig.adTargetingParamsWithIas+=`%26cheetah%3Dy`),window.dispatchEvent(ytAdTargetingLoadEvent)}).catch(error=>{console.error(error)})};var locSrc=`https://fem.gprod.postmedia.digital/v143.0/`;if(getFemOverrideFromURLParams())
-// If fem_override is found, store it in sessionStorage
-sessionStorage.setItem(`femOverride`,locSrc);else{
-// Check if a version is stored in sessionStorage
-var sessionLocSrc=sessionStorage.getItem(`femOverride`);sessionLocSrc&&(locSrc=sessionLocSrc)}modern_script_elem=document.createElement(`script`),modern_script_elem.async=!0,modern_script_elem.type=`module`,modern_script_elem.src=locSrc+`fem.js`,document.cookie.split(`; `).find(row=>row.startsWith(`__adblocker=`))?.split(`=`)[1]===`true`?(window.adshield=window.adshield||{cmd:[]},window.adshield.cmd.push(()=>{script_onload()})):modern_script_elem.onload=script_onload,document.head.appendChild(modern_script_elem);var jwDataStore=window.jwDataStore||{custom:{}};(function(E,_name,d,h,L){L=function(){(L.q=L.q||[]).push(arguments)},E[_name=d(d(_name))]=E[_name]||L,E[_name].v=E[_name].v||3,E[_name].s=`3`})(window,`%61%64%6D%69%72%256%31%6C`,decodeURI),(function(E,d,h,L,l,v,F,M,U){v=(function(E,d,h,L,l,v,F,M,U,S,O,w,k,Z,A){function D(){return M&&M.now()}function H(E){return L(L(E))}function z(L,M,U,S){if(!(v++||new RegExp(H(`(%256%32%25%36%46%74%7C%73p%2569%25%364e%257%32%25%37C%25%363%2572a%2577%25%36%43%25%37C%68%65%2561%64%256C%65s%73%25%37C%256A%61%25%37%36%61/|%67%25%36%46%6Fg%6C%2565%7C%256%32%2569%256E%67%257Cy%25%361n%64e%25%37%38%7C%64%25%375%25%363k%64%257%35%256%33k%25%32%39`),`i`).test(navigator.userAgent||``)||(new(function(){M=function h(e,t,r,n){if(!e||(function e(r,n,i,o){for(o=0;r&&o0&&(r[o+1]||[]).unshift(i),i=(n=t[r[o]])&&n(e,r[o+1]||[]);return i})(e))return r.apply(this,n||[])}([0,[[[1,[[[2,[[4,[`%61%256%34%6d%62e%25%36e%65%25%36%36i%74%2573`],3,[``]]]]]]]]]],[function c(e,t){for(var r=t[0]&&t[0].length>0,n=0;r&&n0,n=0;r&&nDisable Your AdblockerWe use ads to keep our content free. To access our site, disable your adblocker.Disable my adblockerContact support|We're using\xA0`,f=[`click`,function(e){var t=e.currentTarget.getAttribute(`data-2xcv397cyi`),r=e.currentTarget.parentElement,n=document.createElement(`iframe`);n.src=t,n.style=`margin: 36px 0;outline: 0;border: 0;width: 100%;height: 400px;`,r.replaceWith(n);var i=function(e){var t=e.data,o=t.goBack,c=t.blockerDisabled;o?(n.replaceWith(r),window.removeEventListener(`message`,i)):c&&window.location.reload()};window.addEventListener(`message`,i)}],i=0;i300&&h.fetchStart>S)return!0;return!1})(),E=!navigator.onLine||!w&&!d,d||(Z=8),!w&&U&&(Z=16),z(E)}return M=d.performance,U=d.fetch,k=function(r,s){return r=0,(U||S)&&(F[0]===`/`||F===d.origin)&&(M=l.href,U&&S))return l.href;return M||`/favicon.ico`})(),{mode:`no-cors`,credentials:`omit`,cache:`no-cache`}).then((function(){w=!0,A&&m()}),(function(E){w=!1}))),L>=4?(w===void 0&&U?(A=!0,setTimeout(m,Math.max(4e3-(h()-O),Math.max(2e3-(D()-S),0)))):m(),``):L0&&(w.fetchPriority=`high`),U=setTimeout(Z,6e3+2e3*d),w[l](`error`,Z),w[l](`load`,Z),k.parentNode.insertBefore(w,k)})(0,M=`https://kindhush.com/assets/i3423a00itna.bundle.js`)})(document,window,`QS02NjE0MzhFMDk5NDM3RkEwOTE1QzQ2NkUtMjY`,`script`,`addEventListener`,{}),(function(E,d,h,L,l,v,F,M,U,S,O,_name,w,k,Z,A,D,H,z,m,B,p){_name=(O=function(E){return d(d(E))})(`ad%25%36%44%25%36%39%72%25%36%31%25%36C`),w=E.localStorage,k=E.sessionStorage,Z=O(`%25%35%46%2561%256%34%256%44r%25%36%43%63%6Bvp`),D=E.location;try{document.referrer.indexOf(D.origin)===0?(A=new URLSearchParams(D.search)).get(O(`%5F%61%63%257%32i`))?((H=A.get(O(`%255%46a%63t`)))===O(`%25%365%78%25%374%2565nd`)?z=[[`admiral-extended`,`true`]]:H===O(`sh%2561%70%25%36%35`)&&(z=[[`admiral-shaped`,`true`]]),z&&(k[Z]=JSON.stringify(z))):z=JSON.parse(k[Z]||`[]`):delete k[Z]}catch{z=[]}function j(d,h){try{d=JSON.parse(w._aQS02NjE0MzhFMDk5NDM3RkEwOTE1QzQ2NkUtMjY||`{}`).lgk||[]}catch{d=[]}z&&(d=d.concat(z)),d&&d.length&&(h=E[m].pubads())&&d.forEach((function(E){E&&E[0]&&h.setTargeting(E[0],E[1]||``)}))}m=O(`%25%36%37%256%46%25%36F%67%6C%65t%25%361%67`);try{p=(B=E[m]=E[m]||{}).cmd=B.cmd||[],typeof B.pubads===h?j():typeof p.unshift===h?p.unshift(j):p.push(j)}catch{}})(window,decodeURI,`function`),window.admiral!==void 0&&(window.admiral(`targeting`,`pause`),document.addEventListener(`pnIdProfileInit`,()=>{let profile=JSON.parse(localStorage.getItem(`x-id`)).data,isAnonymous=!(profile&&profile.email),isSubscribed=profile&&!!profile.adLight||!1,isRegistered=!isAnonymous;window.admiral(`targeting`,`set`,`isSubscribed`,isSubscribed.toString()),window.admiral(`targeting`,`set`,`isRegistered`,isRegistered.toString()),window.admiral(`targeting`,`set`,`isAnonymous`,isAnonymous.toString()),window.admiral(`targeting`,`ready`)}));window.flippxp=window.flippxp||{run:[]},window.flippxp.run.push(function(){window.flippxp.registerSlot(`#flipp-ux-slot-ghs7182189`,`PostMedia`,1179443,[256655])});var _comscore=_comscore||[];_comscore.push({c1:`2`,c2:`10276888`,cs_ucfr:``,options:{enableFirstPartyCookie:!0,bypassUserConsentRequirementFor1PCookie:!0}}),(function(){var s=document.createElement(`script`),el=document.getElementsByTagName(`script`)[0];s.async=!0,s.src=`https://sb.scorecardresearch.com/cs/10276888/beacon.js`,el.parentNode.insertBefore(s,el)})();window._taboola=window._taboola||[],_taboola.push({article:`auto`}),function(e,f,u,i){document.getElementById(i)||(e.async=1,e.src=u,e.id=i,f.parentNode.insertBefore(e,f))}(document.createElement(`script`),document.getElementsByTagName(`script`)[0],`//cdn.taboola.com/libtrc/postmedia1-network/loader.js`,`tb_loader_script`),window.performance&&typeof window.performance.mark==`function`&&window.performance.mark(`tbl_ic`);const hp4uPublisherName=`postmedia-financialpost`;window._newsroom=window._newsroom||[],window._newsroom.push({pageTemplate:`home`}),window._newsroom.push({pageDashboard:`home`}),window._newsroom.push(`auditClicks`),window._newsroom.push(`trackPage`),function(e,f,u){e.async=1,e.src=u,f.parentNode.insertBefore(e,f)}(document.createElement(`script`),document.getElementsByTagName(`script`)[0],`//c2.taboola.com/nr/postmedia-financialpost/newsroom.js`);Advertisement oopStory continues belowThis advertisement has not loaded yet, but your article continues below.Skip to Content Canoe is your destination for Canadian lifestyle and entertainment content.  Explore >> Canoe is your destination for Canadian lifestyle and entertainment content.  Explore >>  SectionsSearch  Search financialpost.com  Perform search  Share   Share this Story : Financial Post       Copy Link   Email   X   Reddit   LinkedIn   Tumblr  Subscribe for $0.99/week   User   My Account      Subscribe for $0.99/week Search financialpost.com  Perform search News    Archives  Economy  Energy    Oil & Gas  Renewables  Electric Vehicles  Mining    Commodities   Agriculture  Real Estate    Mortgages  Mortgage Rates  Finance    Banking  Insurance  Fintech  Cryptocurrency  Work  Wealth    Smart Money  Wealth Management  Investor    Personal Finance   Family Finance  Retirement  Taxes  High Net Worth  FP Comment  Executive Women  Puzzmo  Newsletters  Financial Times  Business Essentials  More    Innovation   Information Technology  FP500  Podcasts  Small Business  Lives Told  Tails Told  Shopping  Financial Post Store  Obituaries   Place a Notice  Advertising   Advertising With Us  Advertising Solutions  Postmedia Ad Manager  Sponsorship Requests  Classifieds   Place a Classifieds ad  Working  Profile  Settings  My Subscriptions   Saved Articles    My Offers   Newsletters  Customer Service  FAQ Sign Out News  Economy  Energy  Mining  Real Estate  Finance  Work  Wealth  Investor  FP Comment  Executive Women  Puzzmo  Newsletters  Financial Times  Business Essentials Advertisement 1This advertisement has not loaded yet, but your article continues below.document.addEventListener(`DOMContentLoaded`,function(){let template=document.getElementById(`oop-ad-template`);if(template&&!template.dataset.adInjected){let clone=template.content.cloneNode(!0);template.replaceWith(clone),template.parentElement&&(template.parentElement.dataset.adInjected=`true`)}});Breadcrumb Trail LinksHomeBusiness Wire News ReleasesPMN Press ReleasesThis section is Partnership Content suppliedThe content in this section is supplied by Business Wire for the purposes of distributing press releases on behalf of its clients. Postmedia has not reviewed the content. by  Business Wire            Share this Story : Financial Post       Copy Link   Email   X   Reddit   LinkedIn   Tumblr Populous Acquires Fentress Architects, Expanding Global Aviation PortfolioAuthor of the article:
-
-Join the conversation  You can save this article by registering for free here. Or sign-in if you have an account.
-
-Article contentKANSAS CITY, Mo. — Populous, the world-renowned design firm specializing in sport and entertainment venues, today announced the acquisition of Denver-based Fentress Architects, a global leader in iconic aviation projects and prominent public buildings, including convention centers, museums and government facilities.
-
-Subscribe now to read the latest news in your city and across Canada.
-
-Subscribe now to read the latest news in your city and across Canada.
-
-Create an account or sign in to continue with your reading experience.
-
-Create an account or sign in to continue with your reading experience.
-
-Article contentThis strategic acquisition unites two of the most respected names in architecture, combining Populous’ unparalleled expertise in designing memorable experiences with Fentress’ award-winning portfolio of aviation, civic and cultural landmarks. The acquisition significantly broadens the scope and scale of services that Populous can offer clients across the globe.
-
-Advertisement 1
-        
-            
-            
-                
-                    
-                    
-                        
-                            
-                                Story continues below
-                            
-                        
-                    
-                    
-                
-            
-            
-            
-            
-            
-                
-                
-                    
-                        
-                            
-                                This advertisement has not loaded yet, but your article continues below.
-                            
-                        
-                    
-                
-            
-            
-            
-        
-    
+EditionsAustralia EditionKorea EditionJapan EditionIndia EditionSingapore EditionUnited KingdomUnited States
+ doFir.push(function(){if(getCookie('nwsubl')){jQuery(".login-btn .sign-up2").hide();jQuery(".login-btn .myaccount").show()};jQuery(".login-btn .myaccount").on('click',function(e){e.preventDefault();jQuery(".login-btn ul").toggle()});jQuery(document).ready(function(){jQuery(".myaccount").add(".m-manage").each(function(){jQuery(this).attr('href','https://myaccount.ibtimes.com/manage')})})}) fqtag.fscmd.push(function(){LJS("https://users.api.jeeng.com/users/domains/V1DXygbq01/sdk/")}) googletag.cmd.push(function () { if(dfpSlots.slotobjs["top"]){ ibt_log("ADS GPT register ad slot top", Date.now()-timerStart); googletag.display("dfp-ad-top"); } });if(/top\|[0-1]\|1/.test(dfpSlots.pginfo[ibtmedia_device])) document.getElementById("ad-top-wrapper").className+=" block-sticky"  dfpSlots.vplayer=(['ibtuk','ibtus'].indexOf(site_id)>-1)?'primis player':'NoVideo';if(site_id=='ibtuk'&&oa.geo.country!='IL'&&ibtmedia_device=='mobile')dfpSlots.vplayer='NoVideo';if(/adtest=primis/.test(location.href))dfpSlots.vplayer='primis player';else if(/adtest=native/.test(location.href))dfpSlots.vplayer='ibt player';if(dfpSlots.vplayer=='primis player'){if(site_id=='ibtus'){dfpSlots.primis='117767'}else dfpSlots.primis='117814';dfpSlots.primisVideo=function(){if(dfpSlots.primisVideoLoaded)return;dfpSlots.primisVideoLoaded=1;if(adBlock=='Y')return;var d=document,gi='getElementById',s=d.createElement('script');s.type='text/javascript';s.src='https://live.primis.tech/live/liveView.php?s='+dfpSlots.primis+'&cbuster='+Date.now();if(window.ibt_avf){ibt_avf.appendChild(s);d.body.classList.add('video-primis')}else d[gi]('tvplayer').appendChild(s)}}
+if(dfpSlots.vplayer=='NoVideo'&&document.getElementById('ibt-mobile-avf'))document.getElementById('ibt-mobile-avf').remove();dataLayer[0].VideoABTest=dfpSlots.vplayer;var ibt_avf=(brW 
 
 
-    
-    
-        document.addEventListener("DOMContentLoaded", function() {
-            const template = document.getElementById('oop-ad-template');
+Technology
 
-            if (template && !template.dataset.adInjected) {
-                const clone = template.content.cloneNode(true);
-                template.replaceWith(clone);
-                if (template.parentElement) {
-                    template.parentElement.dataset.adInjected = "true";
-                }
-            }
-        });Article contentBruce Miller, Populous Global Chair and CEO, commented:
+ if(document.querySelector(".breadcrumb").innerHTML.trim()==''){document.querySelector(".breadcrumb").parentNode.parentNode.removeChild(document.querySelector(".breadcrumb").parentNode)} 
+Mapping Bedbugs: S Korean Blockchain Engineer Fights Infestation With Data
 
-Get the latest headlines, breaking news and columns.
 
-By signing up you consent to receive the above newsletter from Postmedia Network Inc.
+By
 
-A welcome email is on its way. If you don't see it, please check your junk folder.
+ Claire LEE 
 
-The next issue of Top Stories will soon be in your inbox.
 
-We encountered an issue signing you up. Please try again
+Published 12/18/23 AT 11:30 PM EST
+Share on Facebook
+Share on Twitter
+Share on LinkedIn
+Share on Reddit
+Share on Flipboard doFir.push(function(){var flipboard=1;jQuery(".genericon-flipboard").on('click',function(e){e.preventDefault();e.stopPropagation();if(flipboard){flipboard=0;LJ('https://cdn.flipboard.com/web/buttons/js/flbuttons.min.js',function(){jQuery(".genericon-flipboard").trigger('click')})}})}) Share on Pocket
 
-“We are committed to expanding the breadth of our practice. Fentress Architects has long been known for its visionary aviation and public architecture, exceptional design quality and commitment to innovation. Uniting our aviation team with Fentress to form Fentress Studios, a Populous Company, symbolizes our dedication to design quality.
 
-Adding Fentress’ expertise and client base to the Populous global aviation and transportation portfolio, as well as synergies across convention center design, will enable us to transform the future of people-centric design and supercharge our global impact in those sectors.”
 
-Founded in 1980, Fentress Architects has designed more than $52 billion of architectural landmarks worldwide, including Denver International Airport, Incheon International Airport, Miami Beach Convention Center and the National Museum of the Marine Corps. The firm is known for creating architecture that is sustainable, contextual and deeply connected to the communities it serves.
 
-Curt Fentress, Founder and Principal in Charge of Design at Fentress Architects, commented: “Populous shares our values of design excellence and people-centric thinking. Together, we will continue to redefine great architecture and its capacity to ignite social and economic change through inspired design for people.”
+South Korea has seen a surge in bedbug infestations, with more than 100 cases reported since late November
+AFP
 
-Fentress Architects will rebrand as Fentress Studios, a Populous Company, with the studios continuing to be based in Denver and Washington D.C. The acquisition further propels Populous’ capabilities in aviation, transportation and public sector design.
+When news broke about a bedbug outbreak in his native South Korea, 29-year-old blockchain engineer and self-professed insectophobe Kang Jae-gu got straight to work -- on the data.
 
-Populous is a global design firm that began with a singular focus — to draw people together around the things they love, through experiences that capture all the senses and amplify the pure emotion shared in human moments. Over the last 40+ years, the firm has designed more than 3,500 projects worth over $60 billion across emerging and established markets. Populous’ comprehensive services include architecture, interior design, event planning and overlay, branded environments, wayfinding, and graphics, planning and urban design, landscape architecture, aviation and transport design, hospitality and sustainable design consulting. Populous has over 1,500 employees in 32 global offices on four continents with regional centers in Kansas City, London and Brisbane. For more information, visit www.populous.com.
+As authorities scrambled to install high-temperature steam heaters at the airport and approve industrial-strength insecticides for home use, Kang started mapping reported infestations.
 
-Fentress Architects is an international design firm that passionately pursues the creation of innovative, sustainable, and iconic architecture. The firm’s work includes landmarks such as the Tom Bradley International Terminal at LAX, the Ralph L. Carr Colorado Supreme Courts, and the Royal Norwegian Embassy.
+South Korea has been largely bedbug-free for years, but it has seen a surge in infestations as travel has rebounded after the pandemic -- with more than 100 cases of the bloodsucking pests reported since late November, official statistics show.
 
-https://www.businesswire.com/news/home/20250606849000/en/
+And while the public has bugged out -- and media coverage has spiralled -- thousands of people have turned to Kang's website, bedbugboard.com, for a sober data-driven look at the outbreak.
 
-Kim Wallace Carlson | Communications Director, Americas
+"I am extremely sensitive to insects, so I sleep under a mosquito net throughout all four seasons," Kang told AFP.
 
-Charlie Brooks | Global Director of Communications charlie.brooks@populous.com Tel: +44 (0)7881 268501
+His fear of bedbugs drove him to create an interactive map that shows the approximate locations of reported infestations across the country, as well as real-time news stories on the issue.
 
-Advertisement 1This advertisement has not loaded yet.document.addEventListener(`DOMContentLoaded`,function(){let template=document.getElementById(`oop-ad-template`);if(template&&!template.dataset.adInjected){let clone=template.content.cloneNode(!0);template.replaceWith(clone),template.parentElement&&(template.parentElement.dataset.adInjected=`true`)}});Trending Posthaste: Canada's 'other' condo meltdown could be the worst on record     Economy   Tim Hodgson: A divided Canada cannot build what the world needs     Economy  Advertisement 1Story continues belowThis advertisement has not loaded yet, but your article continues below.document.addEventListener(`DOMContentLoaded`,function(){let template=document.getElementById(`oop-ad-template`);if(template&&!template.dataset.adInjected){let clone=template.content.cloneNode(!0);template.replaceWith(clone),template.parentElement&&(template.parentElement.dataset.adInjected=`true`)}}); A lower loonie would have direct implications for Canadian investors     Investor   Woodside Energy's Louisiana LNG President Abruptly Departs     PMN Business   Posthaste: Why the Bank of Canada might be closer than you think to ending its pause on interest rates     News  Share this article in your social network         Share this Story : Financial Post       Copy Link   Email   X   Reddit   LinkedIn   Tumblr CommentsYou must be logged in to join the discussion or read more comments.Create an AccountSign in  Join the Conversation Postmedia is committed to maintaining a lively but civil forum for discussion. Please keep comments relevant and respectful. Comments may take up to an hour to appear on the site. You will receive an email if there is a reply to your comment, an update to a thread you follow or if a user you follow comments. Visit our Community Guidelines for more information.
+The site now receives as many as 50,000 visitors a day, up from around 40 when Kang launched it.
 
-❯ Follow us        Give us some feedback!  365 Bloor Street East, Toronto, Ontario, M4W 3L4
+He used a soothing olive-green colour scheme to try and create "peace of mind" for readers, but he told AFP that having to look at photographs of the critters and their eggs to run the website still gives him "goosebumps".
 
-© 2026 Financial Post, a division of Postmedia Network Inc. All rights reserved. Unauthorized distribution, transmission or republication strictly prohibited.
+The bedbug invasion of Seoul comes on the heels of a similar outbreak in Paris, which is set to host the Olympic Games next year.
 
-This website uses cookies to personalize your content (including ads), and allows us to analyze our traffic. Read more about cookies here. By continuing to use our site, you agree to our Terms of Use and Privacy Policy.
+A surge of reported sightings of the creatures sent a shudder through France during the summer and fall -- prompting several school closures nationwide.
 
-You can manage your saved articles in your account and clicking the X located at the bottom right of the article.
+Public concern has also spread to Britain and Algeria.
+
+In South Korea, 44 percent of reported cases have been in so-called gosiwon -- cheap, tiny housing units typically measuring less than five square metres.
+
+Other affected locations include student dormitories, public bathhouses, and extremely small housing units known as jjokbang, which often lack basic amenities such as bathrooms or kitchens.
+
+Authorities have swung into gear, with Seoul city government allocating 700 million won ($500,000) to defend residents in vulnerable housing from the invading pests.
+
+Incheon International Airport, the main airport serving the capital, plans to install high-temperature steam heaters this month to prevent the entry of the bugs into the country.
+
+Seoul also recently approved Neonicotinoids, a class of insecticides used widely on farms, for home use against bedbugs.
+
+"The city of Seoul defines the inconvenience and concern of citizens caused by bedbugs as a significant public health issue," said Park Yu-mi, an official at the Seoul Metropolitan Government.
+
+The city "seeks to take the lead in implementing countermeasures," she added.
+
+Bedbugs have appeared in greater numbers in recent decades, mostly due to high population densities, people taking more holidays and mass transit.
+
+In France, one in 10 households are believed to have had a bedbug problem over the past few years, usually requiring a pest control operation costing hundreds of euros that often needs to be repeated.
+
+The critters bite people to feed on their blood, creating wounds that can be itchy but do not usually cause other health problems.
+
+But exposure to bedbug droppings can trigger asthmatic attacks while bites can cause rashes or more severe reactions such as anaphylaxis, and even depression.
+
+South Korean experts said the insects are particularly hard to eradicate.
+
+"Bedbugs can live for over 100 days even if they do not eat properly. They are thin and also hide well," Kim Ju-hyeon, a professor at Seoul National University's school of tropical medicine, said in a YouTube video.
+
+Kang plans to keep his website running until the South Korean outbreaks subside.
+
+He said he has never personally experienced an infestation, but "I can imagine how stressful it would be if that happened to me".
+
+Bedbugs bite people to feed on their blood, creating wounds that can be itchy but do not usually cause other health problems
+AFP
+
+
+
+
+
+Jang Young-jin, CEO of pest control company Bugs Clean, demonstrates how to treat a mattress affected by bedbugs
+AFP
+
+© Copyright AFP 2025. All rights reserved.

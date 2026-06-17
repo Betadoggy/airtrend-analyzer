@@ -1,60 +1,44 @@
-Title: South Korean badminton player wins landmark Olympic gold — then takes shot at country’s governing body | CNN
-Source: CNN
-URL: https://www.cnn.com/2024/08/12/sport/south-korea-olympics-badminton-controversy-intl-hnk/index.html
+Title: AI poised to usher in new level of concierge services to the public
+Source: Tech Xplore
+URL: https://techxplore.com/news/2024-05-ai-poised-usher-concierge.html
 --------------------------------------------------
 
-South Korea’s badminton gold medalist An Se-young envisioned a glorious return from Paris, popping open a bottle of champagne with the coveted medal around her neck.
+Concierge services built on artificial intelligence have the potential to improve how hotels and other service businesses interact with customers, a new paper suggests.
 
-But that wasn’t the scene at South Korea’s Incheon Airport last Wednesday, when reporters surrounded the Olympian, peppering her with questions about her criticism of the Korean Badminton Association and the national team — which have prompted the country’s governing body to open an investigation.
+In the first work to introduce the concept, researchers have outlined the role an AI concierge, a technologically advanced assistant, may play in various areas of the service sector as well as the different forms such a helper might embody.
 
-“I wanted to win in the Olympics, and one of the reasons why I persistently worked hard is because I wanted my voice to have power,” the 22-year-old gold medalist told a South Korean broadcaster in Paris.
+Their paper envisions a virtual caretaker that, by combining natural language processing, behavioral data and predictive analytics, would anticipate a customer's needs, suggest certain actions, and automate routine tasks without having to be explicitly commanded to do so.
 
-An defeated China’s He Bingjiao 2-0 in the women’s singles final at the La Chapelle Arena Court on August 5, winning South Korea’s first Olympic gold in the event in 28 years.
+Though such a skilled assistant is still years away, Stephanie Liu, lead author of the paper and an associate professor of hospitality management at The Ohio State University, and her colleagues drew insight from several contemporary fields, including service management, psychology, human-computer interaction and ethics research, to detail what opportunities and challenges might arise from having an AI concierge manage human encounters.
 
-The country was busy celebrating her triumph, until the athlete began calling out alleged mistreatment that she said she had endured for seven years, when she joined the national team.
+"The traditional service industry uses concierges for high-end clients, meaning that only a few people have access to them," Liu said. "Now with the assistance of AI technology, everybody can have access to a concierge providing superior experiences."
 
-An said the problems came to a head in May, when she wrote on Instagram that a hospital she had visited with a national team trainer initially said that two to six weeks of rehabilitation would be enough for her to return to training.
+On that premise, the benefits of incorporating AI into customer service are twofold: It would allow companies to offer around-the-clock availability and consistency in their operations as well as improve how individuals engage with professional service organizations, she said.
 
-At the medalists’ press conference in Paris following her win, An claimed this was a “misdiagnosis” and said she had to “bear [the pain] and continue playing” because the Olympics were getting close.
+Moreover, as the younger workforce gravitates to more tech-oriented jobs and global travel becomes more common, generative AI could be an apt solution to deal with the escalating demands of evolving hospitality trends, said Liu.
 
-“My injury was at a difficult situation, worse than what I had thought,” she said of her right patellar tendon that partially ruptured during the Hangzhou Asian Games last October.
+"The development of AI technology for hotels, restaurants, health care, retail and tourism has a lot of potential," she said.
 
-“I was so disappointed,” An said of the national team, accusing it of poorly managing her injuries.
+The paper was published in the Journal of Service Management.
 
-The Korean Badminton Association refuted her claims in a 10-page statement on Wednesday, claiming that An had gone through five weeks of rehabilitation training with her own team, Samsung Life Sports, “at her request” and participated in the Kumamoto Masters Japan and Li-ning China Masters in November at “her own strong will.”
+Despite the social and economic benefits associated with implementing such machines, how effective AI concierges may be at completing a task is dependent on both the specific situation and the type of interface consumers use, said Liu.
 
-“Out of the 12 badminton athletes participating in the Olympics, An Se-young was provided a dedicated trainer since February this year to help manage and recover [from] her injury,” the association said, adding that it had flown an Eastern medicine doctor from Seoul to Paris after she suffered an ankle tendon injury shortly following her arrival at the Games.
+There are four primary forms a smart aide might take, each with distinctive attributes that would provide consumers with different levels of convenience, according to Liu.
 
-It also included what it said was a text message from head coach Kim Hak-kyun to An last November advising her to “focus on rehab” and that she did not need to “push too hard” to participate in the Masters.
+The first type is a dialogue interface that uses only text or speech to communicate, such as ChatGPT, a conversational agent often used to make inquiries and garner real-time assistance. Many of these interactive devices are already used in hotels and medical buildings for contactless booking or to connect consumers with other services and resources.
 
-While underscoring that it had done its best for the athlete, the association said it will “thoroughly check” hospital records to verify where An had been misdiagnosed and make sure that “such incident doesn’t occur again.”
+The second is a virtual avatar that employs a vivid digital appearance and a fully formed persona to foster a deeper emotional connection with the consumer. This method is often utilized for telehealth consultations and online learning programs.
 
-Alleged double standards
+The third iteration is a holographic projection wherein a simulated 3D image is brought into the physical world. According to the paper, this is ideally suited for scenarios where the visual impact is desired, but physical assistance itself is not necessary.
 
-An, who competes in women’s singles, also alleged that the national team had been prioritizing doubles players when it came to medical treatment and training “because doubles have always had good [match] results,” she told Yonhap News Agency last week.
+The paper rounds out the list by suggesting an AI concierge that would present as a tangible, or touchable robot. This form would offer the most human-like sensory experiences and would likely be able to execute multiple physical tasks, like transporting heavy luggage.
 
-South Korea’s badminton team won An’s gold medal in women’s singles and a silver in mixed doubles in Paris.
+Some international companies have already developed these cutting-edge tools for use in a limited capacity. One robotic concierge, known as Sam, was designed to aid those in senior living communities by helping them check in, make fall risk assessments and support staff with non-medical tasks. Another deployed at South Korea's Incheon International Airport helped consumers navigate paths to their destination and offered premier shopping and dining recommendations.
 
-“Singles and doubles are clearly different, and I think [the athletes] should be trained under a different system. First of all, head coaches and coaches [for singles and doubles] need to be divided and training methods should be systematically divided,” An told Yonhap.
+Yet as advanced computing algorithms become more intertwined in our daily lives, industry experts will likely have to consider consumer privacy concerns when deciding when and where to implement these AI systems. One way to deal with these issues would be to create the AI concierge with limited memory or other safewalls to protect stored personal data, such as identity and financial information, said Liu.
 
-In Paris, the country had four badminton coaches in addition to head coach Kim who supervised all of Korea’s badminton matches — men’s and women’s singles, men’s doubles, women’s doubles and mixed doubles.
+"Different companies are at different stages with this technology," said Liu. "Some have robots that can detect customers' emotions or take biometric inputs and others have really basic ones. It opens up a totally different level of service that we have to think critically about."
 
-In response to An’s criticism, the association said it would “thoroughly look into the training methods and exercise programs” of the national team “to verify the truth or falsehoods” of her comments.
+What's more, the paper notes that having a diversity of concierge options available for consumers to choose from is also advantageous from a mental health standpoint.
 
-Additionally, the coaches said they had “put in a great effort to maintain the best performances of each of the 12 players,” according to a separate statement attached to the association’s press release.
-
-Investigations announced
-
-An’s complaints have shocked the nation, even prompting the Culture, Sports and Tourism Ministry to launch an investigation into the badminton association as well as other sports following the conclusion of the Games. The Korea Sport and Olympic Committee is also looking into her claims.
-
-South Korea has seen numerous cases of athletes alleging mistreatment by teammates, coaching staff or athletic associations.
-
-In 2018, short track speed skater and two-time Olympic gold medalist Shim Suk-hee spoke out about allegedly being repeatedly raped by her former coach; a 22-year-old triathlete died by suicide in 2020 after accusing her coach and teammates of abuse; and a pair of star volleyball twins were dropped from the national team and their club sides amid a bullying scandal.
-
-Each time, the government and sport governing bodies have investigated and vowed to prevent other incidents.
-
-Fans have expressed their full support for the young Olympian on social media. “Cheer up An Se-young,” one Instagram user wrote, drawing more than 6,000 likes.
-
-“I think I’ve endured a lot over the past seven years, suppressing [what’s happened] for this goal. I couldn’t have reached this goal by myself, but there were a lot of disappointing things,” An told South Korean media last week.
-
-“I think our badminton can really make a lot of progress, but I think it’s time to look back on why we have only one gold medal,” she said.
+Because AI is viewed as having less agency than their human counterparts, it might help mitigate psychologically uncomfortable service situations that could arise because of how consumers feel they might be perceived by a human concierge. This reduced apprehension regarding the opinion of a machine may encourage heightened comfort levels and result in more favorable responses about the success of the AI concierge, said Liu.

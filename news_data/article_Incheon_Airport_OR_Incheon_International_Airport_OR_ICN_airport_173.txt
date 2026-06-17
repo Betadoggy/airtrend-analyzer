@@ -1,28 +1,26 @@
-Title: Alleged mastermind behind K-Pop celebrity stock heist extradited to South Korea
-Source: Bitdefender.com
-URL: https://www.bitdefender.com/en-us/blog/hotforsecurity/alleged-mastermind-behind-k-pop-celebrity-stock-heist-extradited-to-south-korea
+Title: Mondrian AI: Yennefer Enterprise AI Platform
+Source: Ubergizmo
+URL: https://www.ubergizmo.com/2024/01/mondrian-ai-yennefer-enterprise-ai-platform/
 --------------------------------------------------
 
-South Korean authorities have announced the extradition from Thailand and arrest of a suspected hacker, believed to be the mastermind behind an organised campaign of attacks that stole millions of dollars worth of stocks from celebrities, including BTS singer Jung Kook.
+Mondrian AI (official site) is a company that describes itself as having an “End-to-End AI Platform for the entire AI development process,” including a consulting service to put a complete solution into service from a customer’s business request and needs.
 
-Local news reports have confirmed that the 34-year-old Chinese man, escorted from Bangkok to Incheon Airport in South Korea in the early hours of Friday 22 August, is suspected of embezzling over 38 billion won (US $27 million) from wealthy individuals.
+Mondrian’s Yennefer Enterprise AI Platform (link) looks very complete and handles hardware resource allocation, AI model deployments, and the data pipeline from where it is stored through processing to the end-user dashboard.
 
-Between August 2023 to January 2024, "Mr A"'s gang hacked multiple financial accounts after stealing personal information from Korean telecom firms, and assuming the victims' identities.
+Although AI is the primary focus these days, the company has built expertise in data science and data visualization since they tend to use a similar stack and are in high demand by various customers.
 
-In the case of K-Pop star Jung Kook, the identity theft is thought to have taken place after he enlisted for his mandatory South Korean military service.
+Yennefer is designed to handle the complete development workflow and can interface with standard tools such as GitHub, the large public clouds where code and data are. Customers can then build their data processing with the model of their choice and define their system configurations by software. Finally, this is all deployed and managed in production.
 
-33,500 HYBE shares (worth an estimated 8.4 billion won or US $6 million at current exchange rates) were reportedly illegally siphoned out of the BTS singer's securities account in January 2024 by hackers who opened three brokerage accounts in Jung Kook's name.
+Such a platform can greatly accelerate how fast a complete solution can be deployed. Most companies, even huge ones, don’t have the engineering resources and know-how for every business unit or key project to deploy a major AI project.
 
-It has been reported that Jung Kook's Big Hit Music agency were quick thinking enough to spot the payout and have the funds returned. However, they did not manage to prevent the alleged sale of 500 stolen shares to a third party.
+That’s where the consulting aspect of Mondrian AI can give it an edge with specific customers, especially those who want to deploy something complex relatively quickly. While there are more and more platforms that claim to perform similar tasks, the business is expected to provide its own engineering or consultants. Just finding or selecting these can already be challenging.
 
-After the Big Hit Music agency filed a law suit, the shares allegedly sold by the hacker to the third party have now been returned to Jung Kook.
+Customers who want to run their AI workflows on-premises might be articulately interested in Yennefer as it was built for that. Many startups like starting their operations on public clouds for convenience, but large, established companies are often stricter about where their data can reside.
 
-Earlier this year Big Hit Music said that it had hardened the security of its artists in the wake of the attacks:
+Mondrian must also choose its projects carefully, as its engineering resources aren’t limitless. It has worked with prestigious companies such as Samsung, SK Telecom, Seoul University, and the Incheon Airport.
 
-"We enhanced our security measures regarding artists' private devices and personal information in addition to the legal measures."
+Interestingly, the company is also building its own ChatGPT-like system, optimized for the Korean language. The large language models (LLMs) we typically hear about are trained with English language content, and it’s not uncommon to hear developers complain about the lack of datasets to train LLMs in other languages.
 
-Investigators say that the suspected hacker was tracked with the assistance of Interpol and Thai authorities, after it was determined he had entered Thailand in April.
+Now, AI-based applications use the RAG (Retrieval augmented generation) architecture to build chatbots that can answer specific or proprietary questions. However, RAG relies on a high-performing LLM. Mondrian AI thinks its upcoming LLM can do the job, which could be a powerful argument for Korean companies to adopt the platform.
 
-Authorities in Seoul have issued a statement to the police saying that the suspect has admitted some of the allegations against him, whilst denying others.
-
-Headlines in South Korea related to cybercrime have become common place in South Korea, with a massive data breach occurring at the country's largest telecoms company, SK Telecom, earlier this year - with sensitive SIM card data of millions of customers exposed.
+Building a platform with such depth is impressive for a young company. There are a lot of moving parts that require cross-disciplinary expertise in addition to production knowledge as well.

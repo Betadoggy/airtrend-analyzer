@@ -1,398 +1,106 @@
-Title: Million Mile Madness Recap – Help Us Decide Who Won!
-Source: Frequentmiler.com
-URL: https://frequentmiler.com/million-mile-madness-recap-help-us-decide-who-won/
+Title: Cybersecurity firm at heart of massive IT outage says the issue is not a cyberattack or security incident. Here’s the latest
+Source: Fortune
+URL: https://fortune.com/2024/07/19/cloudstrike-microsoft-massive-it-outage-not-cyberattack-security-incident-latest/
 --------------------------------------------------
 
-The madness is over.
+Airlines and airports in the United States, Europe, Australia, India and elsewhere were reporting problems, with some flights grounded. Retail outlets, banks, railway companies and hospitals in several parts of the world were also affected in what appeared to be an unprecedented internet disruption.
 
-When SAS EuroBonus launched a promotion to earn one million miles by flying 15 different SkyTeam airlines by the end of 2024, it felt like it was calling out our name. Given Frequent Miler’s history of past challenges like 40K to Far Away, 3 Cards 3 Continents, and Flying by the Seat of our Points (among others), this SAS promotion is not just in our wheelhouse, it might as well be our wheelhouse. We knew it. Readers knew it.
+Here’s the Latest:
 
-Similar to our last challenge, Flying by the Seat of our Points, we had three team members travelling and competing for the glory that only a championship can bring (Greg, Nick and Stephen), while two of us stayed behind to hold the fort together and judge the contestant’s every move (Carrie and Tim).
+Banks in South Africa experience service disruptions for several hours
 
-Now that Greg, Nick and Stephen are all back at home, it’s time to take a breath and look back at what happened…and more importantly, decide who won!
+CAPE TOWN, South Africa — In South Africa, at least two major banks said they experienced service disruptions as customers complained they weren’t able to make payments using their bank cards at grocery stores and gas stations or use ATMs. Both said they were able to restore services hours later.
 
-In this article: Toggle
+Southern African regional airline Airlink also reported that its IT network and telephone lines were down because of what it called a global network outage, but said flights were not affected.
 
-How we’re scoring the challenge
+London Stock Exchange experiencing disruptions, but trading not affected
 
-Each of the contestants will be placed 1-3 in each of the four categories below and awarded the following points based on where they placed:
+LONDON — The London Stock Exchange says it is experiencing disruptions from the technology outage that has created chaos around the globe.
 
-1st Place – 25
+The LSE says its regulatory news service was not working Friday morning but the outage had not affected trading.
 
-2nd Place – 20
+“We are currently experiencing a third party technical issue which is impacting some of our services,” a London Stock Exchange Group spokesperson said in a statement.
 
-3rd Place – 15
+The exchange says it’s trying to resolve the problem as soon as possible.
 
-Speed: Who completed the challenge the fastest from the moment their first flight departs to the moment it lands.
+Long queues at many airports around the world, but some systems back online
 
-Affordability: Who spent the least on flights, accommodation, visas, transfers, etc. Food and activities are not a part of the affordability score for this challenge.
+Long queues have formed at many airports around the world as the global internet outage hit check-in procedures for flights — although in some locations systems were now back online.
 
-Style: Fast and cheap is good. Fast, cheap, and in style is better. Carrie and Tim will be judging each contestants trip for the level of “style” that they show us: comfort, creativity, fun, local experiences, enjoying airport lounges, etc.
+Berlin’s Brandenburg Airport was gradually returning to normal operations, the airport said in a statement, though some airlines had been forced to cancel flights after being hit with the outage from 7 a.m. local time (0500 GMT).
 
-Audience Winner: See the poll at the end of this post to weigh in on who did the best job combining all three elements of Million Mile Madness. The result will hold the exact same weight as Carrie and Tim’s.
+“Passenger handling continued with some restrictions. Departures took place with restrictions. There are still waiting times. Unfortunately, some flights had to be canceled by the airlines. The airport’s systems have been restarted and we are gradually returning to normal operations,” the airport said.
 
-In addition, there are some additional ways that each contestant can wrack up some points:
+German-based airline Eurowings, a budget subsidiary of Lufthansa, says it had to cancel German domestic flights as well as services to and from the U.K. because of disruption to its check-in and boarding processes. It called on people traveling inside Germany to book train tickets and submit them for reimbursement.
 
-Extra Credit: There were five activities that are worth 2 points, required video evidence and could be earned by each contestant for a maximum of 10 bonus points per person.
+In South Korea, several low-cost airlines reported problems, triggering delays in passenger boardings at Incheon international Airport, the country’s biggest airport, airport officials said.
 
-“Best Of” awards: On top of all of those extra credit opportunities, we’ll be passing out 10 “Best of” awards during the final livestream next Tuesday. Each one is worth 2 points.
+Jeju Air Co. said it was experiencing problems with ticketing and other services on its website. Air Premia Inc. said key services on its website, such as ticket bookings, cancellations and online check-ins, were not working. The website of Eastar Jet Co. wasn’t accessible as of early Friday evening. Incheon airport officials and the country’s Transport Ministry said they were checking details of damages.
 
-Personal missions: During our last, pre-challenge Ask Us Anything, we invited each of the contestants to tell us about one aspect of their trip that they were confident would leave the other two trailing in their wake – some might call it “trash talk.” We then turned that confidence into personal missions specific to each person. Each “mission” is worth 3 points.
+AirAsia announced on its Thai Facebook page that its reservation and check-in system had been impacted and encouraged passengers to go to airports early as they might face slower check-in and longer queues.
 
-Tell us your story: The only way readers, listeners and judges can stay up-to-date on their adventures is if they tell us…or show us! This time around, we expected that each contestant would give us video AND journal updates daily. This is no small feat, and if they could manage it during the whole trip, there would be riches in store. If they fell asleep at the keyboard, the results could be disastrous:
+In the U.S., United Airlines said that the outage was impacting its computer systems and warned customers of potential flight delays. The carrier said some flights are resuming and it is issuing waivers to make it easier to change travel plans within its website.
 
-Perfect (don’t miss a single update) – +5 points.
+Cybersecurity company at heart of IT outage says the issue is not a cyberattack or security incident
 
-Only miss one update – We forgive you.
+LONDON — The chief executive of the cybersecurity company at the heart of a worldwide Microsoft outage says it is working to fix a defect sent out in a Windows update.
 
-Miss 2 updates – 5% reduction in total score.
+“This is not a security incident or cyberattack,” CrowdStrike CEO George Kurtz said on the social platform X. “The issue has been identified, isolated and a fix has been deployed.”
 
-Miss 3 updates – 7% reduction in total score.
+Kurtz said there was a defect in a “single content update for Windows hosts.” Mac and Linux hosts were not affected.
 
-Miss 4 updates – 10% reduction in total score.
+The company referred customers to its support portal for updates.
 
-Miss 5 or more updates – Automatic 3rd place finish.
+Pharmacy chains in Norway report problems with providing prescription medication
 
-Side by Side Stats
+HELSINKI — Two pharmacy chains in Norway said they are having problems providing customers with their prescription medicine and are facing substantial connection delays due to the global network problems.
 
-Greg Nick Stephen Total Time 9:02 12:19:45 10:05:28 SAS Challenge Time 6:22:50 12:19:45 10:05:28 Distance (Miles) 31,090 33,317 34,620 Number flights 23 22 24 Number premium flights 7 3 4 Premium % 30% 14% 17% Total Cost (including point RRVs) $8,265 $6,199 $5,106 Total Cash Cost $4,230 $4,592 $3,720 Cost for SAS Qualifying Flights $3,147 $2,763 $3,201 Hotel Nights 6 10 5 Hotel Nights as % of Trip 70% 78% 49% Total Hotel Cost (including point RRVs) $1,304 $1,070 $587 Out of pocket hotel costs $12 $1,070 $377
+Several branches of the Apotek1 pharmacy have closed across Norway after being affected by IT issues which also shut down the chain’s online sales, the Norwegian news agency NTB reported.
 
-Million Mile Madness Results
+The Boots drugstore and pharmacy chain also ran into problems delivering products to clients in Norway. Boots said that “due to global network problems, you may experience challenges with ordering and possible delays in dispatches,” NTB reported.
 
-Without further ado, here’s the final results of the Million Madness Challenge:
+Paris Olympics organizers say some Olympic delegations’ arrivals have been delayed
 
-Speed: 1st – Greg (25 pts), 2nd – Stephen (20 pts), 3rd – Nick (15 pts)
+PARIS — Paris Olympics organizers say some Olympic delegations’ arrivals, as well as the delivery of some uniforms and accreditations, have been delayed because of the outage.
 
-Affordability: 1st – Stephen (25 pts), 2nd – Nick (20 pts), 3rd – Greg (15 pts)
+The organizers said in a statement that ticketing and the torch relay have not been affected. “Our teams have been fully mobilized to ensure the continuity of operations at optimum levels,” organizers said.
 
-Style: 1st – Greg (25 pts), 2nd – Nick (20 pts), 3rd – Stephen (15 pts)
+Internet outage causes problems at most doctors’ offices across England
 
-Audience Winner: 1st – Greg (25 pts), 2nd – Nick (20 pts), 3rd – Stephen (15 pts)
+LONDON — Britain’s National Health Service says a global internet outage is causing problems at most doctors’ offices across England.
 
-Extra Credit: Greg -10 pts, Nick – 8 pts (missed the extra credit for petting a furry friend), Stephen – 8 pts (missed extra credit for learning something from a local)
+NHS England said in a statement that the glitch was hitting the appointment and patient record system used across the health service. The state-funded NHS treats the vast majority of people in the U.K.
 
-“Best Of” awards: Stephen – 8 pts, Nick – 6 pts, Stephen – 6 pts
+The NHS said the issue was affecting the majority of family doctors’ practices, but was not hitting the 999 number used to call for emergency ambulances.
 
-Personal missions: Greg – 3 pts (fastest to 15 carriers), Nick – 0 pts (most cities visited and audience choice), Stephen – 0 pts (beat Greg by 2 days and Nick by 4)
+Airlines across the world report disruptions to flights
 
-Journal Bonus: Greg – 0 pts (missed one update), Nick – 5 pts, Stephen – 5 pts
+Airlines across the world, from Thailand to Australia, India, the United States and several European countries, reported disruptions to check-in systems and other issues that caused flights to be grounded or delayed.
 
-Greg Nick Stephen Speed 25 15 20 Affordability 15 20 25 Style 25 20 15 Audience Choice 25 20 15 Extra Credit 10 8 8 Best of awards 6 6 8 Personal Missions 3 0 0 Journal Bonus 0 5 5 Total 109 94 96 Final Place 1st 3rd 2nd
+With athletes and spectators from around the world heading to France for the Paris Olympics, the Paris airport authority says its computer systems ″are not impacted″ by the global outage, but several airlines and airports elsewhere are.
 
-And the winner is…
+As a result, ″this situation has an impact on the operations of airlines at Paris-Charles de Gaulle and Paris-Orly airports: delays in check-in, delays and temporary suspension of some flights. Our teams are mobilized to orient and assist passengers,″ the airport authority said in a statement.
 
-Greg the Frequent Miler! In the end, after all the points were counted, it was neck and neck between Stephen and Greg with the final outcome resting on the audience choice award.
+In the U.S., the FAA said the airlines United, American, Delta and Allegiant had all been grounded.
 
-After four days and well over 1,200 votes, Greg was the people’s choice with 41% of the total, making him the winner! It was hard-fought and each of our three contestants showed plenty of creativity, know-how and determination in traveling around the world in the quest to become a SAS millionaire.
+Thailand’s Suvarnabhumi Airport, a gateway to one of the world’s most visited cities, reported that some airlines were forced to check in passengers manually due to outages to their systems, while in the country’s second largest airport of Don Mueang, Air Asia was also checking passengers in manually. Director of Tourism of Thailand, the country’s tourism authority, told state broadcaster Thai PBS the issue was with Navitaire, an e-commerce platform for air travel, and up to six airports had been affected.
 
-Congrats to Greg for killing the SAS EuroBonus Challenge with style, speed and panache. You’re the 2024 second annual challenge champion!
+In Germany, flights at Berlin-Brandenburg Airport were halted for several hours from Friday morning due to check-in problems, while some flights were cancelled. An airport spokeswoman said flights resumed after 10 a.m.. Issues were also reported in the busy European hubs of Amsterdam, Zurich and Rome.
 
-Trip Summaries
+Baltic container hub in Poland suspends business
 
-Greg the Frequent Miler
+WARSAW — Baltic Hub, a major container hub in the Baltic port of Gdansk, Poland, says it is battling problems resulting from the global system outage. Their entry gates are temporarily closed and they have suspended business, the Baltic Hub said in a statement.
 
-Greg’s Trip Stats
+British broadcaster back on air
 
-Total Time: 9:02:05
+LONDON — Britain’s Sky News was broadcasting again after the outage knocked it off the air during the morning. The news anchor referred to printed notes as Sky News got back on the air. The broadcaster was able to deliver news online, on its app and website during the broadcast outage.
 
-Time it took to complete SAS challenge: 6:22:50
+Milan’s stock exchange index information restored
 
-Total Distance travelled: 31,090 miles
+ROME — Borsa Italiana, the company that manages Milan’s stock exchange, said the “correct disclosure of the index FTSE MIB has been restored.” Earlier Friday, the company had said that the index had not been updated, without providing additional information.
 
-Total flight legs: 23
+Israel’s Cyber Directorate attributes outage to cybersecurity platform Crowdstrike
 
-Number of legs in a premium cabin: 7
+JERUSALEM — Israel’s Cyber Directorate said on Friday that it was among those affected by the global outages, attributing them to a problem with the cybersecurity platform Crowdstrike. The outage also hit the country’s post offices and hospitals, according to the ministries of communication and health.
 
-Premium Cabin percentage: 30%
-
-Total Cost (including points and miles): $8,265
-
-Out of pocket cash cost: $4,230
-
-Cost of qualifying flights to complete challenge: $3,147
-
-Points, miles and credits used: $170 Hotel.com GC, 182,500 AA miles, 28,400 Marriott pts, $220 Hilton credit, 95,000 Hilton points, 25,500 Delta SkyMiles, 25K Hyatt points.
-
-Hotel Nights: 6
-
-Hotel Nights as percentage of trip: 70%
-
-Total Hotel Cost (including points and miles): $1,304
-
-Out of pocket hotel cost: $12
-
-Highlights
-
-Here are some of Greg’s trip updates that caught our attention the most. We’ve reviewed the blog and Instagram reactions to include your thoughts in this assessment as well!
-
-Etihad First Apartments from Paris to Abu Dhabi – You all loved the Armani pajamas, two different wine tastings, and of course the incredibly spacious apartment!
-
-Blade helicopter ride and free massage in New York City – Greg started his trip with buckets of style. First, he used a $300 Equinox credit from his American Express Platinum Card® to get a free massage treatment before he jumped on his Europe, then rode to the airport in style using a complimentary blade helicopter transfer.
-
-The Conrad Tokyo Hotel – Once again, you all seem to love sleepwear because the Conrad pajamas really caught your attention, as well as the beautiful room tour.
-
-Using points and miles – While Greg’s trip came in at by far the highest total cost, his out of pocket cash outlay was right in the same ballpark as Stephen and Nick’s trip, as was his cost of flights to complete the challenge. How did that happen? He used a ton of points and miles to make his trip more luxurious. Maybe he should start a blog some day!
-
-Sushi-making classes with a real Sushi Master and hedgehog petting at Harry’s Hedgehog Shop – These two outings in Tokyo had you all equally excited, and maybe a little jealous too. Hedgehogs may be prickly, but when you bribe them with little worms, they’re quite cuddly and cute too!<
-
-The JAL First Class experience, including 100th Anniversary Edition Hibiki – When Greg successfully made it onto a flight that is brag-worthy in its own right, but also gave him access to a very exclusive whiskey that happens to have sentimental value for the team (from our Party of 5 ANA first class suites experience together), you were all suddenly trying to find an application for working at Frequent Miler.
-
-Lowlights
-
-Using your feedback from Instagram to help assess Greg’s highs and lows, here are some of Greg’s trip lowlights:
-
-Isn’t this trip expensive? – Some of you couldn’t help but notice Greg’s more relaxed approach to the budget.
-
-Did Greg get out enough? – Greg slayed it in New York, Copenhagen and Tokyo with his on the ground activities. In between it was a little sparse, although part of that was the weather in Hangzhou (see below).
-
-Hangzhou busts – Greg was a little too late for the night markets in Hangzhou, and then the weather didn’t cooperate for his boat ride goals the next morning.
-
-Nick Reyes
-
-Nick’s Trip Stats
-
-Total Time: 12:19:45
-
-Time it took to complete SAS challenge: 12:19:45
-
-Total Distance travelled: 33,317
-
-Total flight legs: 22 + 2 ground transit legs between cities
-
-Number of legs in a premium cabin: 3
-
-Premium Cabin percentage: 14%
-
-Total Cost (including points and miles): $6,199
-
-Out of pocket cash cost: $4,592
-
-Cost of flights needed to complete challenge: $2,763
-
-Points, miles and credits used: Amex airline incidental fee credit ($200), 102,500 AA miles, 8,000 United miles
-
-Hotel Nights: 10
-
-Hotel Nights as percentage of trip: 78%
-
-Total Hotel Cost (including points and miles): $1,070
-
-Out of pocket hotel cost: $1,070
-
-Highlights
-
-Here’s what got us the most excited during Nick’s trip:
-
-Therme Bucharest – Everyone was excited to see Nick’s visit to a water-park-meets-spa, Therme Bucharest. This was in the middle of a stretch of several days where this was the only real on-the-ground activity we saw from any of our competitors!
-
-Taipei food and language outing with Nick’s local friend – As it turns out, there are a number of Xiao Long Bao fans in our audience! You were excited to see Nick trying local delicacies like these.
-
-Gulangyu and the Terra Cotta Warriors – Some of you were excited to learn about a new off-the-beaten-path destination with the Gulangyu “piano island” visit, and even more of you were thrilled to see Nick visiting the terra cotta warriors in Xi’an. Either way, you loved seeing Nick take advantage of his 10-year China visa with some worthy destinations.
-
-Etihad First Class Apartments – Then of course, you were all super excited to see Nick going after those style points with the exact reverse of Greg’s Etihad First Class Apartments itinerary.
-
-Lowlights
-
-According to your own feedback, here are some of Nick’s trip lowlights:
-
-What about speed? – Nick was intentional. Verrrry intentional. Traveling ~50% longer than either of his competitors, some folks felt like Nick forgot that speed was even a part of this challenge.
-
-Missed flight – Nick was the only competitor to actually miss a flight…and he did it before he even left New York.
-
-What, you don’t like animals? Nick was the only one of our competitors to not take the time to relax with a furry friend…which was what we thought the easiest extra credit assignment would be.
-
-No breakfast for Nick – At least a few of us were amused by how impossible it was for Nick to score free breakfast in the many Priority Pass lounges of Incheon Airport before his long Air Asia flight.
-
-Stephen “the Sultan of Savings” Pepper
-
-Stephen’s Trip Stats
-
-Total Time: 10:05:28
-
-Time it took to complete SAS challenge: 10:05:28
-
-Total Distance travelled: 34,620
-
-Total flight legs: 24
-
-Number of legs in a premium cabin: 4
-
-Premium Cabin percentage: 17%
-
-Total Cost (including points and miles): $5,106
-
-Out of pocket cash cost: $3,720
-
-Cost of flights needed to complete challenge: $3,201
-
-Points, miles and credits used: 21,500 AA miles, IHG fixed 40K cert, 12,500 Aeroplan points, 56,000 Flying Blue miles.
-
-Hotel Nights: 5
-
-Hotel Nights as percentage of trip: 49%
-
-Total Hotel Cost (including points and miles): $587
-
-Out of pocket hotel cost: $377
-
-Highlights
-
-For Stephen, there were quite a few things that got us excited:
-
-Hotel upgrades, including InterContinental Athenee Palace Bucharest – Our viewers noticed that, especially in the first half, Stephen’s travels included some very restful accommodations, often with upgrades. The InterContinental Athenee Palace Bucharest seemed especially nice.
-
-Last-minute Garuda Business Class – Many of you were very grateful to see Stephen switch up his plans to avoid a 10-hour economy flight on Saudia, opting for a Garuda Business class flight instead.
-
-Cheap, Cheap – Stephen Pepper prides himself on being a cheap date, and he showed it by coming in first in affordability.
-
-15 Priority Pass Lounges! – Our viewers appreciated the extra-credit task Stephen gave himself, making sure to visit 15 different Priority Pass lounges during his journey, even if it meant visiting one in Vegas when he landed!
-
-Lowlights
-
-According to your own feedback, here are some of Stephen’s trip lowlights:
-
-Show us more! – Our viewers love Stephen and they always want to see more of him.
-
-Not much local interaction – Stephen was the only competitor to not take advantage of the extra credit for learning something from a local. In fact, we didn’t get to see a ton of him in exotic, non-airport locales at all.
-
-Rained out in Bucharest – Just like Greg in Hangzhou, Stephen got rained out of his planned activities in Bucharest.
-
-“Best of” Award Nominees
-
-Carrie and Tim were kind enough to give the fellas a ton of opportunities to earn additional points: extra credit, personal missions, journals and “Best Of” awards. They had ten different categories that they could win…some of them are quantitative, others are up to the judges to decide who won. Below you’ll find our nominees for Best Flight, Best Hotel, Best Video Update, Best Local Food Experience, Best Selfie with an FM hat on and Best Airport Activity.
-
-We’ll announce the winners during the final livestream next Tuesday night…in the meantime, let us know in the comments who we should pick for each category!
-
-Best hotel
-
-Greg – Conrad Tokyo
-
-We often hear about the Conrad Tokyo as being one of the best “luxury values” on points in Tokyo. Greg celebrated completing his 15 carrier challenge by turning “putting on the ritz” in a beautiful room with view over Tokyo Bay.
-
-Nick – Canopy Xi’an
-
-Easily the most eye-catching hotel in Nick’s travels was a brand that we don’t see a ton about – Canopy by Hilton. Nick was looking to brush up on some hand-to-hand combat skills before his encounter with the Terracotta Warriors and found the perfect place to practice at the hotel…boxing ring?
-
-Stephen (winner) – Intercontinental Athenee Bucharest
-
-Stephen stayed in some nice hotels in Europe, but this Intercontinental in Bucharest, Romania was our favorite. He scored a sweet suite upgrade (see what we did there) and took a well-stocked club lounge for all he could.
-
-Best flight
-
-Greg (winner) – Etihad Apartments Paris – Abu Dhabi
-
-Greg had a pretty spectacular trip from Europe to Asia, stacking up Etihad First Apartments and Qatar business class for hours upon hours of food and good sleep. While on Etihad, he decided that only thing better than trying one wine off of the stellar wine list would be to taste all of them! The flight attendants were game and took him on a multi-course food and wine odyssey.
-
-Nick – Etihad Apartments Abu Dhabi – Paris
-
-Nick had a great idea: fly one of the best First Class products in the air. He took advantage of a great sweet spot, booking the fabulous Etihad Apartments between Abu Dhabi and Paris – which Nick will tell you is waaay better than going from Paris to Abu Dhabi like Greg did.
-
-Stephen – Garuda Business Class Riyadh – Jakarta
-
-Stephen was the only person that held to his economy roots when transiting between Europe and Asia…until he realized that meant spending 10+ hours in the back of a Saudia plane. Luckily, a cooler Pepper prevailed and he diverted at the last minute to a business class flight on Garuda.
-
-Best local food experience
-
-Greg – Sushi Making in Tokyo
-
-When in Tokyo, roll sushi! Greg didn’t waste the opportunity by learning how to make sushi from a Michelin-starred sushi master during his day exploring Tokyo. By his own admission, the Frequent Miler is usually terrible at cooking…but he found out that he was a natural with rice and raw fish.
-
-Nick (winner) – Bubble Tea and Dim Sum in Taipei
-
-Nick combined learning something from a local AND a food experience in one terrific day where gave it his best go at learning how to order bubble tea and dim sum in Taipei.
-
-Stephen – Pho in Vietnam
-
-Stephen took some time away from the non-stop travel to enjoy a hot stone massage, followed by a steaming-hot bowl of pho in Vietnam.
-
-Best video update
-
-Greg (winner) – Mystery animal at Harry’s Hedgehogs
-
-Greg took his extra-credit mission of finding an animal to pet very seriously, visiting a Hedgehog shop which also had another little mystery animal to visit…ever heard of a “Mia Cat?”
-
-Nick – Hotel laundry how-to!
-
-It seems a lot of you either found Nick’s laundry hotel hack useful or fascinating, but this video got more likes than almost any other video of the challenge!
-
-Stephen – Reunion with Truffles
-
-Who does heartwarming better than Stephen’s adorable dog Truffles. Their long-awaited reunion was a classic!
-
-Best selfie with a Frequent Miler hat on
-
-Greg – Fine wine tasting at 35,000 feet in Etihad First Class Apartments
-
-Nick – Enjoying the Christmas Markets in Vienna
-
-Stephen (winner) – With a Thomas Dambo troll
-
-Best airport activity
-
-Greg – Japan Airlines First Class Lounge Haneda
-
-This lounge included several different areas with different ambiances and Greg visited/reviewed them all! The Red Suite seemed to impress him the most with its speakeasy-type vibe!
-
-Nick – Etihad First Lounge Abu Dhabi
-
-Nick got himself a complimentary massage in the Etihad First Class Lounge in Abu Dhabi, and despite not liking massages much (…what???) he actually enjoyed this one!
-
-Stephen (winner) – Butterfly Gardens Singapore
-
-Stephen always finds a way to explore the many interesting exhibits at the Singapore airport, including this beautiful and unique butterfly garden!
-
-Vote for the winner of Million Mile Madness
-
-Before we get to the audience vote, we gave each of our competitors one, final chance to give their pitch to as to why they’re the obvious winner.
-
-Why Greg thinks that he should win
-
-I had three goals for this trip, and I crushed them all…
-
-Do it fast. I wanted to get back to my family as quickly as possible. And, indeed I did. It took me only 9 days from start to finish.
-
-Do it in style. I wanted to fly in luxury as much as was feasible. And, indeed, I did. All of my longest flights were in peak luxury: Etihad First Apartments (~7 hours); Qatar business class (~10 hours); and JAL first class (~12 hours). And all were booked with AA miles at incredibly reasonably prices. Other luxuries included two first class lounges (along with countless other lounges); 7 nights in luxury and high-end hotels; a full body Equinox massage; and a helicopter ride to JFK. Sightseeing was not one of my objectives for this trip, but I still managed to explore Copenhagen, experience Bucharest’s night life in Old Town, enjoy an invigorating run through Jeddah’s airport, explore West Lake China, take a Sushi Master’s sushi making class in Tokyo, and hold hedgehogs and pet a meerkat at a hedgehog cafe.
-
-My secret mission was to acquire Hibiki’s 100th Anniversary Suntory Whiskey, which is only available to JAL and ANA first class passengers for a limited time! Following our Party of 5 adventure in 2023 where the entire team enjoyed a whiskey tasting aboard ANA first class and declared Hibiki the undisputed winner, I knew Hibiki’s 100th anniversary whiskey would make the perfect nightcap to this trip around the world. The problem was that first class award space wasn’t available when I started the trip. It wasn’t even available once I finished all 15 SkyTeam flights. But an award seat finally appeared on the day I was set to go home whiskey-less. I cancelled those backup plans and booked JAL first class (which was fantastic!) and bought the Hibiki on that flight. I can’t wait to share it with the team at our next in-person meet!
-
-Why Nick thinks that he should win
-
-The Million Mile Madness challenge pushed us to complete flying 15 qualifying SkyTeam carriers with the most Speed, Affordability, and Style. I was the slowest of the three of us, so why should readers vote for me?
-
-I think it’s pretty simple: I completed the challenge in a reasonably quick amount of time (~13 days to fly 15 qualifying airlines!), I did it without wasting too many dimes, and I had a great time.
-
-When it comes to style, I matched several of Greg’s top elements: Qatar business class from the Middle East to Asia; Etihad Apartments first class between the Middle East and Europe; a complimentary massage (albeit a shorter one!) in the Etihad first class lounge (although you could make the argument that Stephen’s inexpensive massage beats both of our massage elements). But I also added my own “style” by taking advantage of layovers along the way to spend extra time in Copenhagen (and get a great dinner at Slurp Ramen Joint!), spend a day relaxing at the largest wellness center in Europe at Therme Bucharest, visit a friend in Taipei for dinner and learn some Chinese words, visit Gulangyu Island (the “Piano Island), a UNESCO World Heritage site in Xiamen, visit another UNESCO World Heritage site in the Terracotta Army in Xi’an, and spend a day wandering the Christmas Markets of Vienna before capping things off with delicious tapas and sangria in Barcelona — and at far, far less total cost than Greg!
-
-No, I didn’t beat Stephen on affordability, but I gave him a fair run for his money (and I might have been able to beat him without the Etihad first class award!). When it comes to bang for your buck, I think my trip was hard to beat. Did I visit more Priority Pass lounges than Stephen? No, probably not. Could I have done more if I spent more? Sure. Did Greg have a killer finish with the special edition Hibiki that I know he genuinely looks forward to sharing with the team and that I can’t wait to taste? Absolutely. But did anyone combine Speed, Affordability, and Style better than I did? If you think so, then by all means vote for the person who did.
-
-Why Stephen thinks that he should win
-
-If you’re going to fly all around the world to earn one million miles, it seemed to me that the most important factor would be to do it as cheaply as possible – especially when you’re doing it on your boss’s dime! Affordability was therefore what I regarded as the most important of the three main categories and I managed to complete the challenge while spending the least of all three of us.
-
-There was a fairly significant difference in affordability too. Nick spent an extra 20% than I did, while Greg spent a whopping 62% more than me. Despite that, I was still extremely competitive with my speed against Greg considering he was able to spend more to obtain optimal flight timings, while it took Nick 2.5 more days to complete his journey than I did – a pretty big difference on speed. Despite all that, I managed to fly the most miles of us all at a much lower cost than the other contestants.
-
-Despite spending the least of all three of us, I still managed to travel in style. I got excellent value from my American Airlines positioning flights, flew business class or first class four times, had numerous rows to myself or empty middle seats when flying in economy and visited 15 different Priority Pass lounges to match the 15 different SkyTeam airlines that I flew.
-
-I’m also proud of the fact that I had a 100% success rate getting a suite upgrade at hotels where it was possible to get a suite. That didn’t even include any Hyatt stays where I would’ve been eligible for a suite upgrade thanks to my Globalist status; instead, I received those suite upgrades with IHG, Marriott and Hilton. The Marriott upgrade was courtesy of redeeming a Nightly Upgrade Award which most people struggle to get any success with, so that’s probably worth a win in its own right 😉
-
-I was therefore able to complete the challenge most affordably by a large margin, in a speedy way and in far more style than might’ve been expected considering how much less I spent than Greg and Nick. If you agree, then vote for me!
-
-Million Mile Madness Reader / Viewer Poll
-
-Ok, now it’s your turn. Each of our competitors has finished their Million Mile Madness and, like they say in sports, “the tape doesn’t lie.” Now that you’ve seen what each of them did to obtain their SAS glory, it’s time for the audience to weigh in. Like the other three categories, the “people’s choice” winner will get 25 points, 2nd place will get 20 and 3rd will have a sort of respectable 15 points.
-
-Who do you think combined speed, affordability and style the best?
-
-Who do you think won Million Mile Madness?
-
-Greg (42%, 558 Votes)
-
-Nick (34%, 452 Votes)
-
-Stephen (25%, 332 Votes)
-
-Total Voters: 1,342
-
-Loading ...
-
-Want to learn more about miles and points? Subscribe to email updates or check out our podcast on your favorite podcast platform.
+A recording playing on CrowdStrike’s customer service line said, “CrowdStrike is aware of the reports of crashes on Microsoft ports related to the Falcon sensor.” It attributed the problems to one of its products used to block online attacks. It said callers should monitor its customer support portal.

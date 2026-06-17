@@ -1,0 +1,66 @@
+Title: AI Blueprint for Video Search and Summarization Now Available to Deploy Video Analytics AI Agents Across Industries
+Source: Nvidia.com
+URL: https://blogs.nvidia.com/blog/ai-blueprint-video-search-and-summarization/
+--------------------------------------------------
+
+The age of video analytics AI agents is here.
+
+Video is one of the defining features of the modern digital landscape, accounting for over 50% of all global data traffic. Dominant in media and increasingly important for enterprises across industries, it is one of the largest and most ubiquitous data sources in the world. Yet less than 1% of it is analyzed for insights.
+
+Nearly half of global GDP comes from physical industries — spanning energy to automotive and electronics. With labor shortage concerns, manufacturing onshoring efforts and rising demand for automation, video analytics AI agents will play a more critical role than ever, helping bridge the physical and digital worlds.
+
+To accelerate the development of these agents, NVIDIA today is making the AI Blueprint for video search and summarization (VSS), powered by the NVIDIA Metropolis platform, generally available — giving developers the tools to create and deploy highly capable AI agents for analyzing vast sums of real-time and archived videos.
+
+A wave of vision AI agents and productivity assistants powered by vision language models (VLMs) are coming online. Combining powerful computer vision models with the skills of super intelligent large language models (LLMs), these video analytics AI agents allow enterprises to easily see, search and summarize huge volumes of video. By analyzing videos in real time or reviewing terabytes of recorded video, video analytics AI agents are unlocking unprecedented value and opportunities across a range of important industries.
+
+Manufacturers and warehouses are using AI agents to help increase worker safety and productivity. For example, agents can help distribute forklifts and position workers for optimal efficiency. Smart cities are deploying video analytics AI agents to reduce traffic congestion and increase safety, and the uses go on and on.
+
+A Blueprint to Create Diverse Fleets of Video Analytics AI Agents
+
+The VSS blueprint is built on top of the NVIDIA Metropolis platform and boosted by VLMs and LLMs such as NVIDIA VILA and NVIDIA Llama Nemotron, NVIDIA NeMo Retriever microservices, and retrieval-augmented generation (RAG) — a technique that connects LLMs to a company’s enterprise data.
+
+The VSS blueprint incorporates the NVIDIA AI Enterprise software platform, including NVIDIA NIM microservices for VLMs, LLMs and advanced AI frameworks for RAG. With the VSS blueprint, users can summarize a video 100x faster than watching in real time. For example, an hourlong video can be summarized in text in less than one minute.
+
+The VSS blueprint offers a host of powerful features designed to provide robust video understanding, performance and scalability.
+
+This release introduces expanded hardware support, including the ability to deploy on a single NVIDIA A100 or H100 GPU for smaller workloads, offering greater flexibility in resource allocation. The blueprint can also be deployed at the edge on the NVIDIA RTX 6000 PRO and NVIDIA DGX Spark computing platforms.
+
+The VSS blueprint can process hundreds of live video streams or burst clips simultaneously. In addition to visual understanding, it offers audio transcription. Converting speech to text adds contextual depth in scenarios where audio is critical — such as training videos, keynotes or team meetings.
+
+Industry Leaders Deploy Video Analytics AI Agents to Drive Business Value
+
+Everyone from the world’s leading manufacturers to smart cities and sports leagues are using the VSS blueprint to develop AI agents for optimizing operations.
+
+Pegatron, a leading electronics manufacturing company, uses the VSS blueprint to study operating procedures and train employees on best practices. The company is also integrating the blueprint into its PEGAAi platform so organizations can build AI agents to transform manufacturing processes.
+
+These agents can ingest and analyze massive volumes of video, enabling advanced capabilities like automated monitoring, anomaly detection, video search and incident reporting. Pegatron’s Visual Analytics Agent can be used to understand operating procedures for printed circuit board assembly and identify when actions are correct or incorrect. To date, the agents have reduced Pegatron’s labor costs by 7% and defect rates by 67%.
+
+Additional leading Taiwanese semiconductor and electronics manufacturers are building AI agents and digital twins to optimize their planning and operational applications.
+
+Kaohsiung City, Taiwan, is using a unified smart city vision AI application developed by its partner, Linker Vision, to improve incident response times. Previously, city departments such as waste management, transportation and emergency response were isolated by siloed infrastructure — leading to slow response times due to lack of access to critical information.
+
+Powered by the VSS blueprint, Linker Vision’s AI-powered application has agents that combine real-time video analytics with generative AI to not just detect visual elements but also understand and narrate complex urban events like floods or traffic accidents.
+
+Linker Vision currently delivers timely insights to 12 city departments and is on track to scale from 30,000 city cameras to over 50,000 by 2026. These insights are providing improved situational awareness and data-driven decision-making across city services, and reducing incident response times by up to 80%.
+
+The National Hockey League used the VAST InsightEngine with the VSS blueprint to streamline and accelerate vision AI workflows. It manages massive volumes of game footage.
+
+With the VAST InsightEngine, the NHL is positioned to search through petabytes of video in sub-seconds, enabling near-instant retrieval of highlights and in-game moments. AI-driven agentic workflows further enhance content creation by automatically clipping, tagging and assembling video content for ease of access and use.
+
+In the future, the League could potentially use real-time AI reasoning to enable tailored insights — such as player stats, strategy analyses or fantasy recommendations — generated dynamically during live games. This end-to-end automation could transform how media is created, curated and delivered, setting a new standard for AI-driven sports content production.
+
+Siemens is using its Industrial Copilot for Operations to assist factory floor workers with equipment maintenance tasks, error handling and performance optimization. This generative AI-powered assistant offers real-time answers to equipment errors using information about operational and document data.
+
+The copilot was built with a fusion of VSS components like VLMs, LLMs and NVIDIA NeMo microservices. The Industrial Copilot has resulted in rapid decision-making and reduced machine downtime. Siemens has reported a 30% increase in productivity, with the potential to reach 50%.
+
+Supported by an Expanding Partner Ecosystem Creating Sophisticated AI Agents
+
+NVIDIA partners are using the VSS blueprint to expedite the creation of agentic AI video analytics capabilities for their workflows, reducing development time from months to weeks.
+
+Superb AI, a leader in intelligent video analytics, set up a sophisticated airport operations project at Incheon Airport to reduce passenger wait times in a matter of weeks. In Malaysia, solution provider ITMAX is building advanced visual AI agents with the VSS blueprint for the City of Kuala Lumpur to improve overall city management and reduce incident response times.
+
+In the advertising sector, PYLER integrated the VSS blueprint into its brand safety (AiD) and ad targeting (AiM) solutions in just a few weeks. Using AiD and AiM, Samsung Electronics increased advertising effectiveness with brand- and product-aligned, high-value ad placements. BYD saw its ad-click through rates increase 4x by targeting contextually relevant and positive content, while Hana Financial Group surpassed multiple brand campaign goals.
+
+Fingermark is the application provider of Eyecue, a real-time computer vision platform used by quick service restaurants. Fingermark is adding the VSS blueprint into Eyecue to turn video footage into clear, actionable insights regarding drive-thru wait times, service bottlenecks and staff-related incidents at scale.
+
+Try the VSS blueprint on build.nvidia.com and read this technical blog for more details.

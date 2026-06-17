@@ -1,44 +1,88 @@
-Title: More than 300 South Korean workers return home after US immigration raid
-Source: Al Jazeera English
-URL: https://www.aljazeera.com/news/2025/9/12/more-than-300-south-korean-workers-return-home-after-us-immigration-raid
+Title: Here’s why airlines weigh passengers
+Source: The Points Guy
+URL: https://thepointsguy.com/news/why-airlines-weigh-passengers/
 --------------------------------------------------
 
-A chartered flight carrying hundreds of South Korean workers arrested in a major United States immigration raid has landed in Incheon, ending a weeklong saga that rattled Seoul and cast a dark shadow over its ties with key ally Washington.
+Stepping on the scale can be stressful. So can air travel. Now imagine being asked if you'd be willing to step on the scale just before boarding a flight.
 
-Television footage showed a Korean Air Boeing 747-8I touching down at Incheon International Airport on Friday with more than 310 passengers who had been arrested in the US state of Georgia.
+That's what Finnair passengers traveling through the airline's home base at Helsinki Airport (HEL) in Finland may find in the coming months.
 
-Recommended Stories
+Throughout February and then again in April and May, the airline is offering passengers the chance to voluntarily weigh in at their departure gate, Finnair said this week.
 
-list of 3 items
+To be clear, the program is completely optional. And, the carrier says, it's virtually anonymous: Neither your name nor your reservation information will be linked to your weight — though your age, gender and travel cabin on the aircraft would be included.
 
-list 1 of 3Court lifts sentence on South Korean woman who bit off attacker’s tongue
+Why, you might ask, would the airline want to collect this information?
 
-list 2 of 3Detained South Koreans released, fly home after US immigration raid
+It has to do with weight and balance, which are critical to safely and efficiently operating an aircraft.
 
-list 3 of 3Countries struggled to respond to Israel’s killing of journalists: emails
+Finnair plans to compile the collective weights of consenting passengers and their carry-on belongings — including luggage — at the gate.
 
-end of list
+It's information that can be immensely helpful to airlines.
 
-The workers made up the bulk of the 475 people swept up during a raid at a Hyundai-LG battery plant construction site – the largest single-site immigration operation since US President Donald Trump resumed office and pledged to intensify crackdowns.
+"The issue of weighing passengers is that every airplane has a weight and balance program, whether you're a small airplane or a big airplane," said Michael Suckow, a professor at Purdue University's School of Aviation and Transportation Technology.
 
-“Everything at Atlanta went smoothly,” a South Korean Foreign Ministry official told the AFP news agency, confirming the flight left as scheduled.
+Why do airlines weigh passengers?
 
-Images of workers in handcuffs and chains during the arrests caused deep outrage in South Korea, where anger has spread over what many see as a betrayal of an ally.
+Finnair isn't alone in asking passengers to step on the scale.
 
-At the airport, protesters held placards mocking Trump in an ICE uniform and accusing Washington of luring investment only to criminalise workers. One man’s sign read: “You told us to invest, only to arrest us! Is this how you treat an ally?”
+Korean Air similarly announced it would weigh passengers last fall at Seoul, South Korea's Gimpo International Airport (GMP) and Incheon International Airport (ICN) as the airline sought to calculate the average weight of passengers. However, the airline ultimately took down its notice in the face of swift backlash, according to CNBC.
 
-Rare political unity in South Korea
+Air New Zealand also made headlines last year for weighing its passengers departing from Auckland Airport (AKL) in New Zealand for international flights.
 
-President Lee Jae-mMyung called the raid “bewildering” and warned it could deter future investment. He said Seoul was pressing Washington “to ensure that visa issuance for investment-related purposes operates normally”.
+The practice — although controversial to many travelers — is actually fairly standard within the airline industry.
 
-Al Jazeera’s Jack Barton, reporting from Incheon airport, said US officials had insisted “right up until the last moment that they were going to be deported and that there would be restrictions … on re-entry for at least the next five years”.
+Aircraft weight and balance are critical
 
-But, Barton noted, “the South Korean government was able to negotiate with the Trump administration … and they were allowed in the end to [make] a voluntary return, and … there will be no visa restrictions or re-entry restrictions.”
+Planes have maximum takeoff weights that can't be exceeded, and in planning for a flight, airlines have to consider anything on board that will contribute to the takeoff weight — from the plane's fuselage to the jet fuel, equipment, cargo and, indeed, the passengers themselves.
 
-Barton said the raid had caused rare political unity in South Korea. “This is the only issue I’ve seen them really sort of on the same page,” he reported, with politicians from across the spectrum condemning images of workers “having their ankles and hands chained together, and then doing that sort of perp walk onto the bus”.
+"If you don't have the right weight balance profile, a wrong gust of wind — boom, you'll drag the tail," said Blaise Waguespack, a professor at Embry-Riddle Aeronautical University who specializes in airline marketing and operations.
 
-He added that polls showed at least 60 percent of South Koreans disapproved of the raid, warning the fallout could damage future investments.
+Airlines may also occasionally weigh passengers so they can recalibrate the weight distribution of their aircraft in order for them to safely take off and land, Waguespack noted.
 
-Industry executives said the arrests would delay construction at the $4.3bn Georgia facility.
+Knowing how much weight an aircraft can handle can be important in situations where an aircraft is operating in an area with sweltering temperatures, for example.
 
-Labour groups in Seoul demanded accountability. The Korean Confederation of Trade Unions urged Trump to apologise, accusing his administration of “a clear violation of human rights” and calling on South Korea to suspend US investments.
+Bob Thomas, an Embry-Riddle professor at the university's aeronautical science department, said in areas that can get extremely hot, airlines may need to reduce the weight of their aircraft in order to take off.
+
+"Most people don't realize that the weight just doesn't affect your actual take-off distance, but it also affects making sure that you can climb over obstacles afterward," Thomas said.
+
+Those measurements may prove more significant for airlines' fleets of smaller aircraft, such as regional jets you may fly on to or from a smaller airport, where each passenger's weight may prove more significant.
+
+Do US airlines weigh passengers?
+
+In the U.S., airlines can also determine the weight distribution of planes from surveys conducted by the Centers for Disease Control and Prevention. The survey, known as the National Health and Nutrition Examination Survey, weighs a sample of U.S. residents, which airlines can then use to determine the average weight of a passenger.
+
+Related: When is the best time to book flights for the cheapest airfare?
+
+Even though U.S. airlines have other means to determine the average passenger weight, an advisory circular from the Federal Aviation Administration said airlines are allowed to weigh travelers at any given time.
+
+A regulatory requirement
+
+It's ultimately up to the carrier's governmental airline regulators to determine how airlines figure out weight distribution.
+
+So, some countries may require their carriers to have passengers step on a scale.
+
+In the cases of Finnair, Korean Air and Air New Zealand, the carriers are typically following mandates from their respective countries that require them to periodically update their calculations for average passenger weight.
+
+A Korean Air spokesperson said that the carrier, along with other Korean airlines, was weighing passengers and their carry-ons to provide data to the country's Ministry of Land, Infrastructure and Transport for its "Aircraft Weight and Balance Management Standards," which are updated every five years.
+
+Related: Maximize your airfare: The best credit cards for booking flights
+
+"This is a government mandate and is necessary for the safety of flight operations," the spokesperson said last fall.
+
+More recently, Finnair explained that it must collect new data every five years and report it to the country's regulators to ensure future weight and balance calculations are on the mark.
+
+The airline plans to rotate its upcoming weigh-in program around various gates in Helsinki this month to collect mid-winter data since passengers tend to carry heavier coats and more layers during the colder months. Then, it will do the same in April and May when the temperatures warm up.
+
+Data collected this year will figure into the airline's weight and balance calculations between 2025 and 2030.
+
+And, rest assured, the airline says your information will remain confidential and anonymous.
+
+"We use the weighing data for the average calculations required for the safe operation of flights, and the collected data is not linked in any way to the customer's personal data," Finnair head of ground processes Satu Munnukka said in a statement. "Only the customer service agent working at the measuring point can see the total weight, so you can participate in the study with peace of mind."
+
+Bottom line
+
+It can feel unpleasant if an airline asks for your weight, but know that it is a customary practice.
+
+"It's definitely an awkward situation, an awkward conversation, an awkward request," Suckow said, "but it is something that the carriers have to figure out how to do if asked by [regulatory authorities] to validate their program."
+
+Related reading:

@@ -1,0 +1,14 @@
+Title: Boeing 737 Loses Pressure And Drops 25,000 Feet
+Source: Jalopnik
+URL: https://jalopnik.com/boeing-737-loses-pressure-and-drops-25-000-feet-1851567722
+--------------------------------------------------
+
+It seems like planes are dropping out of the sky all the time right now. Some fell from turbulence, others for entirely unknown reasons. The most recent dramatic dive, however, comes from the scariest cause of all: An actual mechanical issue with a Korean Air Boeing 737.
+
+The 737 Max 8, on course from Incheon, South Korea to Taiwan, reportedly experienced sudden cabin depressurization less than an hour into the flight. That depressurization led to 19 passengers being hospitalized for nose and ear issues, according to the AP:
+
+A Korean Air flight to Taiwan was forced to return to Incheon airport west of Seoul after a sudden depressurization on the plane, a Boeing 737 Max 8, the transport ministry said Tuesday.
+
+The ministry said 19 of the 133 people aboard the flight Saturday were sent to hospitals due to ear pain and nosebleeds, but none suffered serious injuries.
+
+The Economic Times checked the flight's path, as recorded on FlightRadar24, and found that the plane dropped almost 25,000 feet in response to the loss of pressure — retreating to altitudes where the atmosphere does the work that the fuselage apparently gave up on.

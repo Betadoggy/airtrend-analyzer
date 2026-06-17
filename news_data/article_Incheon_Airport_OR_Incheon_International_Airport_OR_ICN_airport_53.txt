@@ -1,18 +1,44 @@
-Title: BTS’s Jin Sees His Solo Smash Soar 12,000% In Sales
-Source: Forbes
-URL: https://www.forbes.com/sites/hughmcintyre/2024/10/28/btss-jin-sees-his-solo-smash-soar-12000-in-sales/
+Title: AI poised to usher in new level of concierge services to the public
+Source: Science Daily
+URL: https://www.sciencedaily.com/releases/2024/05/240523153643.htm
 --------------------------------------------------
 
-Jin is preparing to go solo in a way he has never attempted before. The BTS star is planning on dropping his first album on his own, Happy, later this fall. Ahead of the first bits of music from that project hitting the charts, one of his earlier tracks is on the rise as fans buy the tune once again in large numbers.
+In the first work to introduce the concept, researchers have outlined the role an AI concierge, a technologically advanced assistant, may play in various areas of the service sector as well as the different forms such a helper might embody.
 
-“Super Tuna,” one of Jin’s only solo songs, is back on a number of Billboard charts this week. The musician recently shared a new, extended take on the cut, which spurred a buying frenzy around the composition.
+Their paper envisions a virtual caretaker that, by combining natural language processing, behavioral data and predictive analytics, would anticipate a customer's needs, suggest certain actions, and automate routine tasks without having to be explicitly commanded to do so.
 
-Luminate reports that in the past tracking frame, “Super Tuna” sold another 4,200 copies. That sum takes into account all versions of the song, including the original and the longer, more involved edition.
+Though such a skilled assistant is still years away, Stephanie Liu, lead author of the paper and an associate professor of hospitality management at The Ohio State University, and her colleagues drew insight from several contemporary fields, including service management, psychology, human-computer interaction and ethics research, to detail what opportunities and challenges might arise from having an AI concierge manage human encounters.
 
-The week prior, before Jin re-released the tune, “Super Tuna” didn’t manage even 50 sales. That means that in the span of only a few days, sales of the BTS soloist’s smash improved by more than 12,200%.
+"The traditional service industry uses concierges for high-end clients, meaning that only a few people have access to them," Liu said. "Now with the assistance of AI technology, everybody can have access to a concierge providing superior experiences."
 
-All those purchases help “Super Tuna” become a big hit on the Billboard charts again. The track performs best on the World Digital Song Sales list, which it’s ruled in the past. This frame, Jin is back at No. 1 with the fishy tune.
+On that premise, the benefits of incorporating AI into customer service are twofold: It would allow companies to offer around-the-clock availability and consistency in their operations as well as improve how individuals engage with professional service organizations, she said.
 
-“Super Tuna” also swims back to the Digital Song Sales chart, which is genre-agnostic. On that list, Jin reappears at No. 3. That marks a new peak for the single. It’s also now one of just two hits from the singer that have managed more than one frame on the tally.
+Moreover, as the younger workforce gravitates to more tech-oriented jobs and global travel becomes more common, generative AI could be an apt solution to deal with the escalating demands of evolving hospitality trends, said Liu.
 
-Jin originally released “Super Tuna” as a gift for his fans. The song arrived in 2021, not long before he entered the South Korean military, which is required of all men in the country by a certain age. It became a sales win at the time, as does essentially everything that any member of BTS releases. Clearly, his following was still interested in the song years later, as they’ve made it not just a chart hit again, but even bigger than the first time around on at least one list in the U.S.
+"The development of AI technology for hotels, restaurants, health care, retail and tourism has a lot of potential," she said.
+
+The paper was published recently in the Journal of Service Management.
+
+Despite the social and economic benefits associated with implementing such machines, how effective AI concierges may be at completing a task is dependent on both the specific situation and the type of interface consumers use, said Liu.
+
+There are four primary forms a smart aide might take, each with distinctive attributes that would provide consumers with different levels of convenience, according to Liu.
+
+The first type is a dialogue interface that uses only text or speech to communicate, such as ChatGPT, a conversational agent often used to make inquiries and garner real-time assistance. Many of these interactive devices are already used in hotels and medical buildings for contactless booking or to connect consumers with other services and resources.
+
+The second is a virtual avatar that employs a vivid digital appearance and a fully formed persona to foster a deeper emotional connection with the consumer. This method is often utilized for telehealth consultations and online learning programs.
+
+The third iteration is a holographic projection wherein a simulated 3D image is brought into the physical world. According to the paper, this is ideally suited for scenarios where the visual impact is desired, but physical assistance itself is not necessary.
+
+The paper rounds out the list by suggesting an AI concierge that would present as a tangible, or touchable robot. This form would offer the most human-like sensory experiences and would likely be able to execute multiple physical tasks, like transporting heavy luggage.
+
+Some international companies have already developed these cutting-edge tools for use in a limited capacity. One robotic concierge, known as Sam, was designed to aid those in senior living communities by helping them check in, make fall risk assessments and support staff with non-medical tasks. Another deployed at South Korea's Incheon International Airport helped consumers navigate paths to their destination and offered premier shopping and dining recommendations.
+
+Yet as advanced computing algorithms become more intertwined in our daily lives, industry experts will likely have to consider consumer privacy concerns when deciding when and where to implement these AI systems. One way to deal with these issues would be to create the AI concierge with limited memory or other safewalls to protect stored personal data, such as identity and financial information, said Liu.
+
+"Different companies are at different stages with this technology," said Liu. "Some have robots that can detect customers' emotions or take biometric inputs and others have really basic ones. It opens up a totally different level of service that we have to think critically about."
+
+What's more, the paper notes that having a diversity of concierge options available for consumers to choose from is also advantageous from a mental health standpoint.
+
+Because AI is viewed as having less agency than their human counterparts, it might help mitigate psychologically uncomfortable service situations that could arise because of how consumers feel they might be perceived by a human concierge. This reduced apprehension regarding the opinion of a machine may encourage heightened comfort levels and result in more favorable responses about the success of the AI concierge, said Liu.
+
+Ultimately, there's still much multidisciplinary testing to be done to ensure these technologies can be applied in a widespread and equitable manner. Liu adds that future research should seek to determine how certain design elements, such as the perceived gender, ethnicity or voice of these robotic assistants, would impact overall consumer satisfaction.

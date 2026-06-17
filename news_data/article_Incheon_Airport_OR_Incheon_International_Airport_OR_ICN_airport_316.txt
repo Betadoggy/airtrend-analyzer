@@ -1,68 +1,94 @@
-Title: SAS Challenge Update: Calm Before the Storm
-Source: Offthebeatenpoints.com
-URL: https://www.offthebeatenpoints.com/sas-challenge-update-calm-before-the-storm/
+Title: Japan-South Korea travelers help Incheon air traffic hit pre-COVID levels
+Source: Biztoc.com
+URL: https://biztoc.com/x/f9ad0bfced90885a
 --------------------------------------------------
 
-I’m writing to you from a sweaty Seoul Incheon Airport, having successfully completed the second leg of my 10-day quest to fly 15 SkyTeam airlines and become 1,000,000 SAS EuroBonus Points richer. On this installment, I’ve crossed off three more required airlines: Kenya Airlines, China Eastern, and Xiamen Airlines, and come to realize that whoever’s in charge of climate control at Asian airports seem to hate air conditioning. Here’s my itinerary over the past three days:
+Market Summary
 
-To refresh your memory, here’s my whole itinerary up until this point:
+Stocks were broadly supported by risk-on sentiment as investors processed the U.S.-Iran interim progress, but the rebound looks fragile heading into central-bank catalysts. The S&P 500 and Nasdaq traded with attention on rates and oil, while volatility cues remained elevated. Sector leadership skewed toward AI- and energy-linked names as traders balanced easing energy risks against ongoing inflation and Fed timing.
 
-So why the sensationalist headline? The few days I’ve outlined are a veritable walk in the park compared to what I’m about to do. Over the next 48 hours, I head to Madrid via eight consecutive flights, each with a three-hour layover, give or take.
+SpaceX to buy AI coding start-up Cursor for $60 billion - in stock deal
 
-Before we get to that, though, let’s take a quick look at the past three days.
+SpaceX is reshaping big-tech’s market structure again—this time through a $60 billion push into AI coding agents. Multiple filings and coverage point to a rapid post-IPO buildout that’s already moving valuations.
 
-Ho Chi Minh to Bangkok
+Figure of the Day
 
-After a decent night at the Holiday Inn & Suites Saigon Airport, I woke up early to catch my Thai Airways flight to Bangkok. The flight itself went smoothly, but I have a couple issues with Saigon Airport.
+15.4% - US housing starts fell in May, down to a 1.177 million annualized rate
 
-First, the staff is generally unhelpful and cold. They couldn’t be more different than the many kind, helpful, and generous Vietnamese folks I met travelling here.
+Brent slips below $80 - as U.S.-Iran deal boosts supply hopes
 
-Second, immigration lines are too long—I queued for 40 minutes when I entered the country and 30 minutes when I exited. There were legions of immigration officers present, so long lines seem less due to staffing shortages and more due to a lethargic staff’s general indifference.
+Markets are treating the interim U.S.-Iran understanding as an economic catalyst, with oil sliding and risk appetite improving. The data points to supply logistics still lagging behind deal headlines.
 
-Oman Air Business and First Class Lounge Bangkok
+Warsh faces tightrope in first Fed meeting - markets wait for rate signal
 
-One of the great joys of flying within Asia is making use of Priority Pass membership. In contrast to the dingy European and American lounges that are hardly ever more pleasant or less depressing than sitting in the concourse, Priority Pass lounges in Asia, which generally serve decent food and have ample seating, are worth visiting.
+Fed policy is back on center stage as Warsh takes the chair amid uncertainty on inflation and rate paths. Coverage focuses on what his first meeting likely means for bonds and the rally’s durability.
 
-While the Oman Air lounge is probably slightly worse than the average Asian Priority Pass lounge, it blows nearly anything you’ll find in the US or Europe out of the water. The lounge was mostly empty and had ample universal power outlets, so it was a good place to hammer out some work. The food and drink wasn’t great but would do fine in a bind.
+Bullish
 
-Bangkok to Guangzhou
+BlackRock launches bitcoin income fund - offers cash flow alongside BTC exposure
 
-I walked from the Oman Air lounge to gate E3, where boarding began about 20 minutes late. Fortunately, the flight was around a third full, so we boarded in a matter of minutes and pushed back on time.
+BlackRock’s new bitcoin income fund pairs spot bitcoin exposure with a covered-call approach to generate income, giving institutions more ways to access crypto without giving up yield potential. More on theblock.co
 
-This was a fifth-freedom flight on Kenya Airways’ Airways 787-8. Because I wanted to review the product, I paid a small sum to upgrade from economy to business class but, had I not reviewed it, I’d probably have been annoyed at spending the money to upgrade. For one, the plane was nearly empty, so I could’ve easily spread out over an entire row.
+Bank of Japan lifts rates to 31-year high - yen and carry-trade in focus
 
-Second, the food served was pretty pitiful—worse than any of the meals I’ve received in economy class on intra-Asia flights with Korean, China Airlines, or China Eastern. That said, the staff was exceptionally lovely, though presumably I would’ve had that in economy class.
+Central banks are moving on inflation and currency pressure, with the Bank of Japan leading. The rate lift ripples across FX and risk assets globally.
 
-Guangzhou Grand Hyatt
+US strategic oil reserve hits lowest level since 1983 - supply cushion thins
 
-I spent Friday night to Saturday night at the Grand Hyatt in Guangzhou, paying 13,000 Hyatt Points for a suite that was substantially larger than my apartment in Chicago. Points well spent, though the room felt dated and the air conditioning didn’t work very well.
+Energy security and supply management remain the dominant macro constraint—even as diplomatic progress emerges. The Strategic Petroleum Reserve and Hormuz reopening dynamics frame pricing and risk.
 
-Guangzhou Lounge
+Bearish
 
-Late Saturday night, I caught an hourlong business class flight to Xiamen on the city’s eponymous airline. Beforehand, I visited the Premium Lounge which was somewhat crowded and dark but had a great noodle station and a buffet with good Cantonese fare.
+B-52 bomber crash after takeoff - all eight crew onboard killed
 
-Guangzhou to Xiamen
+A B-52 Stratofortress crashed shortly after takeoff during a routine test mission at Edwards Air Force Base, with all eight crew members killed as authorities launch an investigation. More on tippinsights.com
 
-Traditionally, Xiamen Airlines has operated only Boeing aircraft, but it recently took delivery of its first ever Airbus, a A321neo. Business class is in a 2-2 configuration, though you’ll get a bit of privacy from plastic wings at shoulder height. I found the seat very comfortable.
+GM eyes defense expansion - in talks to build weapon parts with Lockheed Martin
 
-Xiamen Lounge
+Defense is accelerating through industrial deal-making, with GM moving into weapons production discussions. The story clusters defense procurement risk and supply chain expansion together.
 
-After a very short stay at a Courtyard Marriott near the airport, I headed back to Xiamen Airport for an early morning flight on Spring Airlines. Using my trusty Priority Pass membership, I visited the Xiamen Airlines lounge which was enormous and had a decent variety of Chinese breakfast food.
+G7 allies question Trump’s Hormuz optimism - stocks waver amid reopening uncertainty
 
-Xiamen to Shanghai
+Geopolitical tensions are testing oil and trade flows across the Middle East while allies press for clarity on shipping safety. The focus is less on headlines and more on implementation details.
 
-Considering Spring Airlines is a budget carrier, the experience was a pleasant surprise. The plane was clean, the crew was attentive, and a small snack was provided—quite a contrast to the Batik Air horror show from Singapore to Jakarta.
+Regulatory Impact
 
-Shanghai to Taipei
+Regulators are tightening oversight in parallel: the CRTC warned Bell and Telus to drop wireless fees or face compliance action, while the EU is pressing banks on capital-rule simplification rather than broad overhauls.
 
-My final flight of the day allowed me to cross off China Eastern. Thankfully, it was a pleasantly uneventful hop that got me into Taipei around 4:30 in the afternoon.
+Fox buys Roku for $22 billion - streaming push expands Murdoch media footprint
 
-Grand Mayfull Hotel Taipei
+Corporate M&A continues to target streaming and AI-adjacent assets, with Fox pushing deep into Roku and the broader content pipeline. The deal is framed as a strategic pivot in the TV ad era.
 
-This hotel was the surprise highlight of my Asia leg. A gorgeous room, well-appointed gym, serene pool and sauna, and very close proximity to Taipei Songshan Airport made it hard to leave. Above all, everything just seemed much cleaner and more modern than any of the other hotels I’ve stayed in so far. It was on par with the Four Seasons Jakarta, despite being a cheaper hotel in a far more expensive city.
+Bank regulator targets overlap in capital rules - EU resists banks’ plea for overhaul
 
-Here goes nothing
+Telecom and banking regulators are increasing scrutiny around fees and capital rules, turning compliance into a market-moving theme. The pair highlights enforcement risk and rule complexity for large institutions.
 
-Fortunately, I have no family history of deep vein thrombosis. Then again, nobody in my family has attempted something so asinine, at least with respect to commercial aviation.
+Quote
 
-Updates from the eye of the storm soon. Wish me luck.
+“Let’s not panic.”
+
+— Brad Smith, Microsoft vice chair and president
+
+Trump’s Anthropic crackdown sets off AI alarms for U.S. allies - export controls bite
+
+High-profile AI governance clashes are escalating, with Anthropic model controls drawing alarm from cybersecurity and industry circles. The cluster captures regulation-through-enforcement and its international spillover.
+
+Starbucks Korea to temporarily shut all stores - history lesson after bungled coffee promo
+
+Starbucks is dealing with reputational blowback as its Korea promotion triggers broad store closures. The story is a corporate turn-around stress signal tied to brand management failure.
+
+Yum to sell Pizza Hut for $2.7 billion - sharp focus shift after years of struggles
+
+Pizza Hut is being sold at scale as Yum trims struggling assets, with private equity stepping in. The coverage highlights a major portfolio reset tied to profitability pressure.
+
+US housing starts collapse in May - lowest since COVID as sentiment sours
+
+Markets are digesting housing deterioration with a sharp May drop in starts and affordability pressure. The cluster is built around employment-linked demand and construction activity cooling.
+
+US-Iran peace progress helps push Treasury yields lower - investors reprice inflation path
+
+Bank of Japan and bond repricing are intersecting with broader risk shifts, while yields and FX volatility stay in play. The cluster reflects the immediate transmission path to markets.
+
+B-52 bomber goes down after takeoff - all eight crew onboard killed
+
+A deadly B-52 crash at Edwards Air Force Base adds crisis weight across defense and aviation safety. The story is immediate, fatal, and likely to trigger investigations.

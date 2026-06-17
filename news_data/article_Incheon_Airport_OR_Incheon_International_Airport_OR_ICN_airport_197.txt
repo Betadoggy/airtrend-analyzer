@@ -1,60 +1,51 @@
-Title: South Korea workers detained in US raid head home
-Source: BBC News
-URL: https://www.bbc.com/news/articles/cn0r434g5k1o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D
+Title: 'Problem with Toilets' Forces American Airlines Plane To Turn Around, Land At Original Airport After 9 Hours
+Source: International Business Times
+URL: https://www.ibtimes.com/american-airlines-flight-toilet-malunction-3744514
 --------------------------------------------------
 
-More than 300 South Koreans who were detained in a massive immigration raid at a Hyundai plant in the US state of Georgia have arrived back home.
+EditionsAustralia EditionKorea EditionJapan EditionIndia EditionSingapore EditionUnited KingdomUnited States
+ doFir.push(function(){if(getCookie('nwsubl')){jQuery(".login-btn .sign-up2").hide();jQuery(".login-btn .myaccount").show()};jQuery(".login-btn .myaccount").on('click',function(e){e.preventDefault();jQuery(".login-btn ul").toggle()});jQuery(document).ready(function(){jQuery(".myaccount").add(".m-manage").each(function(){jQuery(this).attr('href','https://myaccount.ibtimes.com/manage')})})}) fqtag.fscmd.push(function(){LJS("https://users.api.jeeng.com/users/domains/V1DXygbq01/sdk/")}) googletag.cmd.push(function () { if(dfpSlots.slotobjs["top"]){ ibt_log("ADS GPT register ad slot top", Date.now()-timerStart); googletag.display("dfp-ad-top"); } });if(/top\|[0-1]\|1/.test(dfpSlots.pginfo[ibtmedia_device])) document.getElementById("ad-top-wrapper").className+=" block-sticky"  dfpSlots.vplayer=(['ibtuk','ibtus'].indexOf(site_id)>-1)?'primis player':'NoVideo';if(site_id=='ibtuk'&&oa.geo.country!='IL'&&ibtmedia_device=='mobile')dfpSlots.vplayer='NoVideo';if(/adtest=primis/.test(location.href))dfpSlots.vplayer='primis player';else if(/adtest=native/.test(location.href))dfpSlots.vplayer='ibt player';if(dfpSlots.vplayer=='primis player'){if(site_id=='ibtus'){dfpSlots.primis='117767'}else dfpSlots.primis='117814';dfpSlots.primisVideo=function(){if(dfpSlots.primisVideoLoaded)return;dfpSlots.primisVideoLoaded=1;if(adBlock=='Y')return;var d=document,gi='getElementById',s=d.createElement('script');s.type='text/javascript';s.src='https://live.primis.tech/live/liveView.php?s='+dfpSlots.primis+'&cbuster='+Date.now();if(window.ibt_avf){ibt_avf.appendChild(s);d.body.classList.add('video-primis')}else d[gi]('tvplayer').appendChild(s)}}
+if(dfpSlots.vplayer=='NoVideo'&&document.getElementById('ibt-mobile-avf'))document.getElementById('ibt-mobile-avf').remove();dataLayer[0].VideoABTest=dfpSlots.vplayer;var ibt_avf=(brW 
 
-Their return comes as the country's president and Hyundai's chief executive have warned about the impact of the raid.
 
-A chartered Korean Air jet carrying the workers and 14 non-Koreans who were also detained in the raid took off from Atlanta at midday local time on Thursday (17:00 BST). One South Korean national has reportedly chosen to stay in the US to seek permanent residency.
+U.S.
 
-The incident has shaken ties between the US and South Korea, whose companies are investing billions in the States – investment President Donald Trump has pushed to secure.
+ if(document.querySelector(".breadcrumb").innerHTML.trim()==''){document.querySelector(".breadcrumb").parentNode.parentNode.removeChild(document.querySelector(".breadcrumb").parentNode)} 
+‘Problem with Toilets’ Forces American Airlines Plane To Turn Around, Land At Original Airport After 9 HoursPassengers were initially not given an explanation for the change
 
-The workers' departure was delayed by more than a day because of an instruction from the White House, South Korean President Lee Jae Myung said on Thursday.
 
-Trump ordered the pause to check whether the workers were willing to remain in the US to continue working and training Americans, according to a South Korean foreign ministry official.
+By
 
-The workers looked happy but tired as they were brought through Incheon International Airport and shepherded onto buses to be reunited with their families.
+ Maryam Khanum 
 
-"I'm back, I'm free," one of them shouted.
 
-A large group of journalists had gathered at the airport ahead of the workers' arrival on Friday.
+Published 09/25/24 AT 12:48 PM EDT
+Share on Facebook
+Share on Twitter
+Share on LinkedIn
+Share on Reddit
+Share on Flipboard doFir.push(function(){var flipboard=1;jQuery(".genericon-flipboard").on('click',function(e){e.preventDefault();e.stopPropagation();if(flipboard){flipboard=0;LJ('https://cdn.flipboard.com/web/buttons/js/flbuttons.min.js',function(){jQuery(".genericon-flipboard").trigger('click')})}})}) Share on Pocket
 
-There were also a few people protesting the raid. One of them held up a banner showing Trump in the uniform of an immigration agent, with the caption: "We're friends! Aren't we?"
 
-Another protester's banner read: "Public outrage over detention of 300 Koreans, shackled up and treated like major criminals! Why shall [we] continue US investments after such back-stabbing?"
 
-The returning workers have requested privacy, South Korea's foreign ministry said earlier on Friday, advising media outlets to blur any photographs and videos so that they will not be identified.
 
-Security was tight at the airport, with officers directing other travellers to gates not used by the workers.
+An American Airlines flight inexplicably turned around, returning passengers to the airport they took off from after 9 hours of flying.
+Latin Times
 
-Last week, US officials detained 475 people - more than 300 of them South Korean nationals - who they said were working illegally at Hyundai's battery facility, one of the largest foreign investment projects in Georgia.
+An unexpected U-turn on an American Airlines flight left passengers fuming.
 
-The workers were taken away in handcuffs and chains to be detained, sparking outrage in their home country.
+An American Airlines flight from Dallas, Texas to Incheon International Airport in Seoul, South Korea turned around 5 hours into its journey, returning all passengers from the airport it initially took off from. Passengers were provided with no explanation about why their journey was altered when the incident occurred on Sept. 7.
 
-Companies would be "very hesitant" about investing in the US following the raid, South Korea's president said on Thursday.
+One passenger, 41-year-old Jimin Lee, took to Instagram to voice her complaints. In a now-viral video, Lee records her predicament as she enjoys refreshments on her flight.
 
-"The situation is extremely bewildering," Lee added, while noting it is common practice for Korean firms to send workers to help set up overseas factories.
+"New fear unlocked: Your flight to Korea may go five hours and come back with zero explanation," wrote Lee in the caption.
 
-"If that's no longer allowed, establishing manufacturing facilities in the US will only become more difficult... making companies question whether it's worth doing at all," he added.
+According to Lee, airline staff explained the incident as having been caused by an issue with the toilets. The pilot also reportedly asked if any passengers were carrying a screwdriver which could have helped fix the issue.
 
-On Friday, the South Korean foreign ministry said it had called for the US Congress to support a new visa for Korean firms.
+"American Airlines needs a lesson in effective communication," Lee concluded.
 
-During meetings with US senators in Washington this week, Foreign Minister Cho Hyun reiterated concerns among South Koreans over the arrests, the ministry said in a statement.
+In a statement provided to UNILAD, an American Airlines spokesperson explained that a maintenance issue caused the sudden re-routing of the plane.
 
-Meanwhile, Hyundai's chief executive José Muñoz has said the raid will delay the factory's opening by at least two months, as the company needs to find new workers to finish the job.
+"On September 7, American Airlines flight 281 with service from Dallas Fort Worth (DFW) to Seoul (ICN) returned to DFW due to a maintenance issue. The flight landed safely and without incident at DFW, and the aircraft was taken out of service to be inspected by our maintenance team. We never want to disrupt our customers' travel plans, and we apologize for the inconvenience." said the spokesperson.
 
-Mr Muñoz told US media that the raid will create "minimum two to three months delay [in opening the factory] because now all these people want to get back".
-
-LG Energy Solution, which operates the plant with Hyundai, said that many of its employees who were arrested had various types of visas or were under a visa waiver programme.
-
-A worker at the plant spoke to the BBC about the panic and confusion during the raid. The employee said the vast majority of the workers detained were mechanics installing production lines at the site, and were employed by a contractor.
-
-South Korea, a close US ally in Asia, has pledged to invest tens of billions of dollars in America, partly to offset tariffs.
-
-Media in the country have described the raid as a "shock," with the Dong-A Ilbo newspaper warning that it could have "a chilling effect on the activities of our businesses in the United States".
-
-The Yonhap News Agency published an editorial on Thursday urging the two countries to "cooperate to repair cracks in their alliance".
-
-The timing of the raid, as the two governments engage in sensitive trade talks, has raised concern in Seoul.
+© Latin Times. All rights reserved. Do not reproduce without permission.
