@@ -3,31 +3,7 @@ Source: International Business Times
 URL: https://www.ibtimes.com/330-koreans-kidnapped-how-cambodia-job-scams-killed-student-park-min-ho-3788609
 --------------------------------------------------
 
-EditionsAustralia EditionKorea EditionJapan EditionIndia EditionSingapore EditionUnited KingdomUnited States
- doFir.push(function(){if(getCookie('nwsubl')){jQuery(".login-btn .sign-up2").hide();jQuery(".login-btn .myaccount").show()};jQuery(".login-btn .myaccount").on('click',function(e){e.preventDefault();jQuery(".login-btn ul").toggle()});jQuery(document).ready(function(){jQuery(".myaccount").add(".m-manage").each(function(){jQuery(this).attr('href','https://myaccount.ibtimes.com/manage')})})}) fqtag.fscmd.push(function(){LJS("https://users.api.jeeng.com/users/domains/V1DXygbq01/sdk/")}) googletag.cmd.push(function () { if(dfpSlots.slotobjs["top"]){ ibt_log("ADS GPT register ad slot top", Date.now()-timerStart); googletag.display("dfp-ad-top"); } });if(/top\|[0-1]\|1/.test(dfpSlots.pginfo[ibtmedia_device])) document.getElementById("ad-top-wrapper").className+=" block-sticky"  dfpSlots.vplayer=(['ibtuk','ibtus'].indexOf(site_id)>-1)?'primis player':'NoVideo';if(site_id=='ibtuk'&&oa.geo.country!='IL'&&ibtmedia_device=='mobile')dfpSlots.vplayer='NoVideo';if(/adtest=primis/.test(location.href))dfpSlots.vplayer='primis player';else if(/adtest=native/.test(location.href))dfpSlots.vplayer='ibt player';if(dfpSlots.vplayer=='primis player'){if(site_id=='ibtus'){dfpSlots.primis='117767'}else dfpSlots.primis='117814';dfpSlots.primisVideo=function(){if(dfpSlots.primisVideoLoaded)return;dfpSlots.primisVideoLoaded=1;if(adBlock=='Y')return;var d=document,gi='getElementById',s=d.createElement('script');s.type='text/javascript';s.src='https://live.primis.tech/live/liveView.php?s='+dfpSlots.primis+'&cbuster='+Date.now();if(window.ibt_avf){ibt_avf.appendChild(s);d.body.classList.add('video-primis')}else d[gi]('tvplayer').appendChild(s)}}
-if(dfpSlots.vplayer=='NoVideo'&&document.getElementById('ibt-mobile-avf'))document.getElementById('ibt-mobile-avf').remove();dataLayer[0].VideoABTest=dfpSlots.vplayer;var ibt_avf=(brW 
-
-
-World
-
- if(document.querySelector(".breadcrumb").innerHTML.trim()==''){document.querySelector(".breadcrumb").parentNode.parentNode.removeChild(document.querySelector(".breadcrumb").parentNode)} 
 330 Koreans Kidnapped: How Cambodia Job Scams Killed Student Park Min-hoOfficial figures show that in 2024, more than 3,200 Koreans who travelled to Cambodia never returned home.
-
-
-By
-
- Ria Pathak 
-
-
-Published 10/28/25 AT 6:47 AM EDT
-Share on Facebook
-Share on Twitter
-Share on LinkedIn
-Share on Reddit
-Share on Flipboard doFir.push(function(){var flipboard=1;jQuery(".genericon-flipboard").on('click',function(e){e.preventDefault();e.stopPropagation();if(flipboard){flipboard=0;LJ('https://cdn.flipboard.com/web/buttons/js/flbuttons.min.js',function(){jQuery(".genericon-flipboard").trigger('click')})}})}) Share on Pocket
-
-
-
 
 Official figures show that in 2024, more than 3,200 Koreans who travelled to Cambodia never returned home.
 
@@ -62,5 +38,3 @@ According to reports, recruitment typically begins online. Job seekers are promi
 A minority, however, reportedly joined these schemes knowingly, seeking quick profits. 'Many Koreans are aware they're engaging in illegal operations,' said Jeon Dae-sik, vice president of the Asian Federation of Korean Business in Cambodia, in an interview with the JoongAng Ilbo.
 
 Meanwhile, Park's cremated remains were returned to Incheon International Airport on 21 October, received by investigators before being taken to his hometown of Yecheon. His parents, who had begged for help since his disappearance, were left with few answers, only confirmation of a pattern that continues to play with the future of many.
-
-This article is copyrighted by IBTimes.co.uk, the business news leader

@@ -3,10 +3,6 @@ Source: Yna.co.kr
 URL: https://en.yna.co.kr/view/AEN20241127001553315
 --------------------------------------------------
 
-(ATTN: RECASTS headline, lead with more info; UPDATES throughout with latest; ADDS more photos)
-
-By Kim Hyun-soo
-
 SEOUL, Nov. 27 (Yonhap) -- The heaviest snowfall for November in 117 years blanketed Seoul and the surrounding regions Wednesday, causing injuries, disrupting traffic and cutting off power supplies, as authorities are on high alert for more snow later this week.
 
 As of 3 p.m., the capital city had received 18 centimeters of snow, marking the biggest snowfall in November since modern weather observations began in 1907, according to the Korea Meteorological Administration (KMA).

@@ -3,14 +3,7 @@ Source: ABC News (AU)
 URL: https://www.abc.net.au/news/2024-03-12/korea-ambassador-flies-australia-travel-ban-probe/103573252
 --------------------------------------------------
 
-More from ABCClose menuABC ABC News ABC iview ABC listen Kids & Students Indigenous Information & ServicesEditorial PoliciesRead our editorial guiding principlesFollow the ABCnewsiviewlistenABC NewsJust InFor YouPoliticsWorldBusinessAnalysisSportLifestyleEntertainmentQuizzesMoreSearchLog inNews HomeJust InFor YouAnalysisRuralWatch LiveHealthIndigenousPoliticsScienceDeep TimeElectionsWorldEnvironmentInvestigationsBusinessLocal newsQuizzesSportAFLNRLFootballTennisCricketNetballLifestyleWellbeingRelationships & FamilyFood & RecipesPersonal FinanceHome & GardenEntertainmentTV & MoviesBooksMusicPop CultureArtsYour ABC AccountPersonalise the news and
-
-Appearance (BETA) Follow system settings Select an optionAlways lightAlways darkFollow system settingsFind any issues using dark mode? Please let us know
-
-@media (forced-colors: active) {
-          .background { fill: none; }
-        }
-      ABC iViewABC ListenABC NewsNews HomeKorean ambassador Lee Jong-sup flies into Australia despite corruption probe at homeShareShare articleKorean ambassador Lee Jong-sup flies into Australia despite corruption probe at homeExclusive by defence correspondent Andrew GreeneTopic:Federal Government
+Korean ambassador Lee Jong-sup flies into Australia despite corruption probe at homeShareShare articleKorean ambassador Lee Jong-sup flies into Australia despite corruption probe at homeExclusive by defence correspondent Andrew GreeneTopic:Federal Government
 
 Then South Korean defence minister Lee Jong-sup (right) meets his Australian counterpart Richard Marles in 2023. (Department of Defence)
 
@@ -49,15 +42,3 @@ Military contractor Hanwha wins a bid to build infantry fighting vehicles for t
 Last May, two months before the death of Corporal Chae, Australia's Defence Minister Richard Marles held talks with his then counterpart Lee Jong-sup at a meeting where the pair agreed to work on enhancing military ties between both nations.
 
 South Korean company Hanwha was two months later selected to construct new Infantry Fighting Vehicles for the Australian Army in a multi-billion-dollar project based in Mr Marles's Victorian electorate.
-
-Copy linkFacebookX (formerly Twitter)Top StoriesThe 'hunting season' came for Iranians, then the US struckTopic:Unrest, Conflict and War
-
-Russian artist who satirised Putin shot dead in PolandTopic:World Politics
-
-Back to topFooterABC News homepageYour home of Australian stories, conversations and events that shape our nation.
-
-This service may include material from Agence France-Presse (AFP), APTN, Reuters, AAP, CNN and the BBC World Service which is copyright and cannot be reproduced.
-
-We acknowledge Aboriginal and Torres Strait Islander peoples as the First Australians and Traditional Custodians of the lands where we live, learn, and work.
-
-TiktokFacebookInstagramYouTubeApple NewsXMusic & AudiolistenTriple JTriple J UnearthedLive RadioHottest 100Movies & TViviewList of ABC ShowsLive TVTV GuideKids & StudentsEducationBTNABC KidsSign up to our newslettersSign up to get the latest on your favourite topics from the ABC

@@ -108,7 +108,3 @@ Supporting information
 S1 Dataset. Raw data of flight passengers https://doi.org/10.6084/m9.figshare.26406430.v1.
 
 The total number of flight passengers analyzed in this study was 190, including 10 flight attendants and 180 passengers. In this study, data were collected by adding a period of 14 days from the date of the last confirmed case of COVID-19.
-
-https://doi.org/10.1371/journal.pone.0309044.s001
-
-(XLSX)

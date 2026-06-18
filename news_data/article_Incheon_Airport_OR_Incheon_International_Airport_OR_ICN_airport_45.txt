@@ -36,5 +36,3 @@ As of March 17, the Federal Aviation Administration has not indicated plans to i
 "The FAA recommends that passengers keep cell phones and other devices nearby in the cabin to quickly access them if necessary," an FAA spokesperson announced. "Flight crews are trained to recognize and respond to lithium battery fires in the cabin. Passengers should notify the flight crew immediately if their lithium battery or device is overheating, expanding, smoking or burning."
 
 Domestic air passengers in the U.S. are permitted to carry spare lithium-ion batteries in their carry-on luggage only, and they must be less than 100 watt-hours, per FAA regulations. The FAA also requires batteries to be "protected from short circuit, i.e., the terminals must not come in contact with other metal" and suggests covering them with tape.
-
-Related reading:

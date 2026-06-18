@@ -7,7 +7,7 @@ from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
 from sklearn.feature_extraction.text import TfidfVectorizer
 
-# 🌟 AI 제로샷 분류를 위한 Hugging Face 파이프라인 로드
+# AI 제로샷 분류를 위한 Hugging Face 파이프라인 로드
 try:
     from transformers import pipeline
 except ImportError:
@@ -89,9 +89,10 @@ class TextAnalyzer:
                 url = lines[2].replace("URL: ", "").strip() if len(lines) > 2 else ""
                 content = "".join(lines[5:]) if len(lines) > 5 else ""
                 
-                # 🌟 [가드레일 필터링] 제니, 트럼프 기사 같이 인천공항과 관계없는 순수 외부 노이즈 차단
-                required_keywords = ['incheon', 'airport', 'icn', 'flight']
-                if not any(kw in content.lower() for kw in required_keywords):
+                # [가드레일 필터링] 제니, 트럼프 기사 같이 인천공항과 관계없는 순수 외부 노이즈 차단
+                required_keywords = ['incheon', 'incheon airport', 'icn', 'incheon international airport', 'icn airport']
+                content_lower = content.lower()
+                if not any(kw in content_lower for kw in required_keywords):
                     # 소음 기사는 원천적으로 제외 메시지를 띄우고 수집하지 않음
                     print(f" [가드레일 필터링] 공항 도메인과 무관한 기사 제외: {path.name}")
                     continue
@@ -110,7 +111,7 @@ class TextAnalyzer:
         return pd.DataFrame(data)
 
     def classify_steep_with_ai(self, df):
-        """🌟 [핵심 변경] 단어 빈도가 아닌 AI 모델 기반 딥러닝 문맥 추론으로 STEEP 분류 진행"""
+        """ [핵심 변경] 단어 빈도가 아닌 AI 모델 기반 딥러닝 문맥 추론으로 STEEP 분류 진행"""
         print("\n>>> AI 모델을 활용한 거시환경(STEEP) 문맥 분석 시작...")
         
         def predict_category(row):

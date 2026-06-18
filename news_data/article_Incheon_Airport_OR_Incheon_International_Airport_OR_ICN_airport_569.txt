@@ -4,7 +4,3 @@ URL: http://www.kleagueunited.com/2025/08/daegus-day-but-dark-clouds-rumble.html
 --------------------------------------------------
 
 Copyright © 2018 K League United | South Korean football news, opinions, match previews and score predictions
-
-(.*?)/g;var input=item.description;if(regex.test(input)){item.description=input.match(regex)[2]
-if(item.description!=undefined)
-item.description=item.description.replace('','').replace('

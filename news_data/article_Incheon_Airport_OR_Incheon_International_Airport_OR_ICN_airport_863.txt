@@ -117,10 +117,6 @@ H6. Ecological behavior positively influences social performance of airline sust
 
 Utilizing the conceptual framework depicted in Fig 1, a set of 28 survey items was devised for the quantitative methodology, drawing insights from prior studies in various industries concerning environmental knowledge, awareness, concern, ecological behavior, and sustainability performance (environmental, financial, social), as outlined in Table 1. All questionnaires underwent meticulous revision to align with the specific objectives of the study, utilizing a 5-point Likert scale. Subsequently, they were translated into the local language in Korea with the aid of two experienced translators to ensure the clarity of the survey questions for the participants. The translation process adhered to Ruvio & Shoham’s guidelines [79] to maintain cultural and linguistic equivalence in the scales. Moreover, a convenience sampling method [80], employing a non-probabilistic, self-participation approach, was implemented following Tarhini’s guidelines [81]. Moreover, a convenience sampling method [80], employing a non-probabilistic, self-participation approach, was implemented following Tarhini’s guidelines [81]. This method facilitated data collection; however, it may constrain the generalizability of the findings beyond the study sample. Five pilot tests were conducted 10 volunteers, and feedback from most participants guided the necessary adjustments to the survey questionnaires.
 
-https://doi.org/10.1371/journal.pstr.0000204.t001
-
-https://doi.org/10.1371/journal.pstr.0000204.g001
-
 3.2 Data analysis
 
 The primary survey utilized a Google survey tool and was specifically allocated to existing Airlines staff members via a widely used Korean social media platform. Over a period of 16 weeks, a total of 230 completed samples were gathered. Data analysis involved the use of SPSS version 25 for tasks like descriptive statistics and internal reliability assessment (Cronbach’s alpha). Furthermore, AMOS 23 was employed to conduct CFA encompassing convergent reliability, discriminant reliability, model fit analysis, and SEM path analysis to validate the proposed hypotheses [86,87]. Additionally, to evaluate multicollinearity among independent variables across factors and confirm their suitability for SEM analysis, a correlation analysis was performed using AMOS version 23 [88].
@@ -129,33 +125,21 @@ The primary survey utilized a Google survey tool and was specifically allocated 
 
 Table 2 illustrates the demographic distribution of the 230 employees working across various airline sectors. Among these, 63.5% were female while 36.5% were male. The participant distribution within this study encompassed 55.2% employed by full-service carriers within Korea, 26.1% with low-cost carriers in Korea, 16.1% from full-service carriers outside Korea, and 2.6% with low-cost carriers outside Korea. Regarding tenure in service, the majority had 6–10 years and above category, constituting 23.5% of the cohort, followed by individuals with over 20 years of experience at 22.6%. Participants with service durations of 1–5 years accounted for 21.7%, while those with 11–15 years comprised 18.7%. The 16–20 years category represented 10.4%, and those with less than one year of service accounted for 3.0%. Furthermore, in terms of occupational distribution, office-based personnel, inclusive of head office staff within the airlines, constituted 37.4% of the sample. Cabin crew members represented 27%, while individuals working in airport-related roles, comprised 23.9%. Cockpit crew members, technicians, facility support, and others each accounted for 3.9% of the total participant distribution.
 
-https://doi.org/10.1371/journal.pstr.0000204.t002
-
 3.2.2 CFA (Confirmatory Factor Analysis).
 
 Prior to examining the hypotheses, a measurement model underwent validation using confirmatory factor analysis. During the data analysis, it was determined that seven questionnaires from the variables of environmental knowledge, environmental awareness, environmental concern, and ecological behavior fell below the recommended SMC threshold at 0.4. To enhance the quality of this research, the seven items including E.K1, E.K2, E.A2, E.C2, E.C4, E.B1, E.B4 were subsequently excluded from the analysis, leaving 21 items for further examination. The remaining 21 questionnaire items achieved an acceptable level of SMC at 0.4 and above, ensuring the reliability of each questionnaire. Additionally, to address other internal consistency issues and uphold reliability, Cronbach’s alpha analysis was performed [80]. As presented by Table 3, a total 20 questionnaires out of 21 exceeded the recommendation level of Cronbach alpha at 0.7 while mediating variable of ecological behavior’ was computed at 0.657 which is slightly lower than the recommended value at 0.7. Based on a study conducted by Helmstadter [89], the present research retained the mediating variable despite its Cronbach’s alpha value being under 0.7 of Cronbach Alpha.
 
-https://doi.org/10.1371/journal.pstr.0000204.t003
-
 Evaluations of AVE (Average Variance Extracted) and CR (Composite Reliability) were conducted to examine correlations among the provided variables, as depicted in Table 3. Typically, AVE and CR values exceeding 0.5 and 0.7, respectively, are considered acceptable [90]. Nevertheless, the perspective of Fornell and Larcker [91] was also taken into account to accommodate certain items that fell slightly below the thresholds of 0.5 for AVE and 0.7 for CR in this study. According to their argument [84], if the AVE value is below 0.5 but the CR value exceeds 0.6, the construct’s convergent validity remains satisfactory. Furthermore, this research also considered the perspective of Helmstadter [82], who suggests that while a Cronbach alpha value above 0.5 can be acceptable, the generally accepted threshold is higher, at 0.7 [83]. Drawing from the literature reviewed, pairs of CR and AVE values were computed: [0.680 (CR), 0.519 (AVE)] for environmental knowledge, [0.772 (CR), 0.532 (AVE)] for environmental awareness, [0.666 (CR), 0.500 (AVE)] for environmental concern, [0.702 (CR), 0.544 (AVE)] for ecological behavior, [0.900 (CR), 0.692 (AVE)] for environmental performance, [0.890 (CR), 0.674 (AVE)] for financial performance, and [0.924 (CR), 0.754 (AVE)] for social performance. It is noted that the CR and AVE results for all variables in this study surpassed the acceptable thresholds of 0.5 for AVE and 0.6 for CR. Furthermore, a discriminant validity examination was carried out, as illustrated in Table 4.
-
-https://doi.org/10.1371/journal.pstr.0000204.t004
 
 3.2.3 Model fit indices.
 
 Table 5 presents the computed fit indices for this conceptual framework. It was observed that the majority of the fit index indicators either met acceptable standards or closely approached them. Through CFA, the factors within the absolute fit index surpassed the recommended thresholds, registering MIN/DF = 1.860, RMR = 0.037, GFI = 0.903, AGFI = 0.848, and RMSEA = 0.061. The factors within the incremental fit index achieved acceptable levels, demonstrating NFI = 0.916 and CFI = 0.958.
-
-https://doi.org/10.1371/journal.pstr.0000204.t005
 
 The outcomes of the goodness-of-fit assessment using the CFA approach were within acceptable ranges, indicating an elevated level of accuracy. These findings suggest that the model adequately meets the prescribed criteria for goodness of fit in CFA analysis without encountering any notable issues.
 
 3.2.4 SEM (Structural Equation Modelling) analysis.
 
 Table 6 displays the synthesis of the anticipated conceptual framework alongside outcomes derived from path analysis. Fig 2 depicts results indicating a substantial impact of environmental concern on ecological behavior (β = 0.875, SE = 0.248, CR = 4.811, p < 0.001). Conversely, the influence of environmental knowledge on ecological behavior was found to be no substantial (β = -0.035, SE = 0.058, CR = -0.131). Consequently, hypothesis H3 gains support, while H1 is rejected.
-
-https://doi.org/10.1371/journal.pstr.0000204.t006
-
-https://doi.org/10.1371/journal.pstr.0000204.g002
 
 The hypothesis concerning the relationship between environmental awareness and ecological behavior (β = -0.484, SE = 0.075, CR = -5.008, and p < 0.001), revealed an unexpected negative effect, indicating that as awareness increases, ecological behavior tends to decrease. Nevertheless, as the result is statistically significant (p < 0.001), the hypothesis is considered supported. The structural paths from ecological behavior to environmental (β = 1, SE = 0.364, CR = 6.459, p < 0.001), financial (β = 1, SE = 0.243, CR = 6.049, p < 0.001), and social performance (β = 1, SE = 0.404, CR = 6.637, p < 0.001) are all statistically significant, indicating robust relationships. Thus, hypotheses H4, H5, and H6 collectively receive support.
 

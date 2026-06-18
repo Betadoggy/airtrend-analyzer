@@ -3,8 +3,6 @@ Source: CNBC
 URL: https://www.cnbc.com/2024/02/26/electric-air-transport-set-to-take-off-with-air-taxis-cargo-deliveries.html
 --------------------------------------------------
 
-Bloomberg | Bloomberg | Getty Images
-
 SINGAPORE — Among displays of defense jets, passenger airliners and high-tech aviation equipment at the Singapore Airshow were electric air transport vehicles — touted as the future of urban transportation.
 
 Electric vertical take-off and landing vehicles, or eVTOLs, which can land and take off vertically can be used as air taxis, for cargo delivery, medical and emergency response transportation and as private vehicles.

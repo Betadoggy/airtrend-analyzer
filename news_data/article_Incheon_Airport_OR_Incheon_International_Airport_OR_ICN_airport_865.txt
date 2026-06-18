@@ -109,8 +109,6 @@ Income level is another critical determinant of impulse buying behavior. Tariq J
 
 This study aims to thoroughly investigate the internal factors that influence online impulse buying on Shopee’s video platforms. These factors, rooted in an economic framework, encompass the entertainment, educational, escapist, and esthetic experiences. The research also utilizes the PAD emotional state model, which evaluates emotional responses based on pleasure and arousal, to gain insights into the emotional triggers behind online impulse buying. Additionally, demographic factors such as age, gender, and income are considered to understand their direct control on online impulse buying behavior. The proposed research framework is demonstrated in Fig 1.
 
-https://doi.org/10.1371/journal.pone.0322866.g001
-
 3. Method
 
 3.1. Participants
@@ -119,15 +117,11 @@ This study employed a quantitative research methodology to investigate the facto
 
 The demographic composition of the sample included 150 males (34,2%), 288 females (65,8%). The sample predominantly consisted of young, educated individuals with varying monthly incomes: 180 participants (41.1%) earned less than 5 million VND, 114 participants (26%) earned between 5 and 10 million VND, 84 participants (19.2%) earned between 10 and 15 million VND, 38 participants (8.7%) earned between 15 and 20 million VND, and 22 participants (5%) earned more than 20 million VND. Variations were observed in impulsive purchase frequency and amounts of impulsive purchases. Specifically, 289 participants (66%) reported making impulsive purchases fewer than three times per month, 96 participants (21.9%) reported making three to five impulsive purchases per month, and 53 participants (12.1%) reported making more than five impulsive purchases per month. Regarding the types of products purchased, 180 participants (41.1%) reported buying cosmetics. This was followed by electronic equipment, with 66 participants (15.1%), and household appliances, with 58 participants (13.2%). Fashion items were purchased by 34 participants (7.8%). Additionally, 100 participants (22.8%) indicated that they bought other types of products not specifically categorized in the provided options (see Table 1).
 
-https://doi.org/10.1371/journal.pone.0322866.t001
-
 3.2. Instruments
 
 This study utilized a structured questionnaire as the primary instrument, which was divided into three sections. The first section collected demographic information, including age, gender, educational level, occupation and income. The second section focused on purchasing behavior on Shopee, such as the frequency of spontaneous purchases. The third section measured the study’s variables using a five-point Likert scale, ranging from strong disagreement (1) to strong agreement (5).
 
 The questionnaire was adapted from validated scales and measurement tools from previous research, including Huang et al. [109], Hsieh et al. [110], Kim et al. [89], Mehrabian and Russell [84], and Rook and Fisher [111]. The instrument was reviewed by a marketing research expert to ensure its validity. The questionnaire covered seven variables, including Entertainment experience, Educational experience, Escapist experience, Esthetic experience, Arousal, Pleasure, and Online impulse buying, which were assessed through 28 items as presented in Table 2.
-
-https://doi.org/10.1371/journal.pone.0322866.t002
 
 3.3. Data collection
 
@@ -163,11 +157,7 @@ Discriminant validity is a fundamental aspect of construct evaluation, ensuring 
 
 The Fornell-Larcker criterion establishes discriminant validity by comparing the square root of the Average Variance Extracted (AVE) for each latent variable with its correlations with other variables. If the square root of a construct’s AVE is greater than its highest correlation with any other construct, discriminant validity is confirmed. The data presented in Table 3 demonstrate that for all constructs, the square roots of their AVEs exceed their respective inter-construct correlations. This finding satisfies the Fornell-Larcker criterion, confirming that the constructs are adequately distinct from each other.
 
-https://doi.org/10.1371/journal.pone.0322866.t003
-
 The Heterotrait-Monotrait (HTMT) ratio method evaluates discriminant validity by measuring the ratio of between-construct correlations (heterotrait) to within-construct correlations (monotrait). According to Henseler et al. [119] and Garson [120], discriminant validity is established when the HTMT value remains below 1. In this study, as shown in Table 4, all HTMT values meet this criterion, confirming that the constructs maintain discriminant validity. Although two HTMT values (ET-ED: 0.917 and AR-PL: 0.921) slightly exceed 0.9, this does not necessarily indicate a violation of discriminant validity. Moreover, in research fields where constructs are theoretically related but still distinct, such as psychology and social sciences, higher correlations are expected and do not automatically indicate poor discriminant validity [119]. While the conventional HTMT threshold is set below 0.85 or 0.9, some researchers (e.g., Voorhess et al. [121], Hair et al. [115], Garson [120]) argue that discriminant validity remains acceptable as long as HTMT values do not reach 1. Their reasoning is based on the premise that perfect collinearity occurs only when HTMT equals 1, implying that constructs become indistinguishable. Therefore, an HTMT value approaching but not reaching 1 suggests a strong relationship without necessarily compromising discriminant validity. Furthermore, the robustness of discriminant validity in this study is further supported by additional checks, including the HTMT bootstrap confidence intervals and the Fornell-Larcker criterion, both of which consistently confirm the distinctiveness of the constructs. Given this broader acceptance, the results affirm that the necessary criteria for discriminant validity are met, as none of the HTMT values reach or exceed 1.
-
-https://doi.org/10.1371/journal.pone.0322866.t004
 
 4.2. Structural model results
 
@@ -177,19 +167,13 @@ This study utilized a self-response survey to collect data on both predictor and
 
 To address this issue, the study meticulously applied collinearity statistics, focusing on the Variance Inflation Factor (VIF), to assess the presence of multicollinearity among the independent latent variables. Multicollinearity can compromise the accuracy of the model by inflating standard errors and distorting parameter estimates. According to Hair et al. [115], a VIF score above 5 suggests a high likelihood of multicollinearity. However, as demonstrated in Table 5, all VIF values recorded are below this threshold, indicating no significant multicollinearity concerns among the latent variables. This result confirms that the issue of multicollinearity has been effectively addressed, thereby enhancing the model’s overall validity and reliability.
 
-https://doi.org/10.1371/journal.pone.0322866.t005
-
 4.2.2. Hypotheses assessments.
 
 Table 5 and Fig 2 shows the results of the hypothesis testing. Firstly, the results show that entertainment experience (ET) significantly enhances both arousal (AR) and pleasure (PL), supporting H1 (O = 0.291, p = 0.000) and H2 (O = 0.170, p = 0.016). These findings suggest that an enhanced entertainment experience leads to higher levels of consumer arousal and pleasure. Similarly, education experience (ED) has a significant effect on both arousal (AR) and pleasure (PL), supporting H3 (O = 0.265, p = 0.000) and H4 (O = 0.128, p = 0.031). The results indicate that the positive effects of education experience consistently promote feelings of arousal and pleasure. Moreover, the analysis results support H5 (O = 0.163, p = 0.001), indicating a positive influence of escapist experience (ES) on arousal (AR), while rejecting H6 (O = 0.008, p = 0.856) which indicate insignificant effect of escapist experience (ES) on pleasure (PL). This implies that although escapist experience may arouse customers, they do not necessarily contribute to their pleasure. Similarly, esthetic experience (EH) positively affects arousal (AR), supporting H7 (O = 0.218, p = 0.000), but does not significantly impact pleasure (PL), leading to the rejection of H8 (O = 0.063, p = 0.141) This implies that while esthetic experience enhances arousal, it does not significantly motivate consumer pleasure. Furthermore, the results show that arousal (AR) has a significant positive impact on both pleasure (PL) and impulse buying behavior (OIB), supporting H9 (O = 0.566, p = 0.000) and H10 (O = 0.576, p = 0.000). These findings demonstrate that as arousal levels rise, so do consumers’ pleasure and their tendency towards impulse buying behavior. Notably, H10, with the highest O value of 0.576, highlights that arousal (AR) has the most significant effect on impulse buying behavior (OIB). Finally, the results support H11 (O = 0.215, p = 0.003), demonstrating that pleasure (PL) positively influences impulse buying behavior (OIB). The findings indicate that as consumers perceive a high level of pleasure when watching product introduction videos, their inclination towards making impulsive purchases also escalates.
 
-https://doi.org/10.1371/journal.pone.0322866.g002
-
 4.2.3. The effects of control variables.
 
 Table 6 presents the results of impact of control variables on online impulse buying (OIB). The analysis reveals that age does not have a significant effect on OIB, as indicated by the rejection of hypothesis H12 (a) (O = -0.002, p = 0.955). In contrast, both gender and income significantly influence OIB, as supported by the acceptance of hypotheses H12 (b) (O = 0.108, p = 0.001) and H12 (c) (O = 0.105, p = 0.001). These findings suggest that gender and income directly affect online impulse buying, with variations in impulsive behavior observed across different gender and income groups. However, age does not play a significant role, indicating that consumers across different age groups tend to exhibit similar levels of impulse buying behavior.
-
-https://doi.org/10.1371/journal.pone.0322866.t006
 
 4.2.3. Evaluation of explanatory power (R square) and predictive power (Q square) of the research model.
 
@@ -263,15 +247,7 @@ Supporting information
 
 S1 File. Survey questionnaire.
 
-https://doi.org/10.1371/journal.pone.0322866.s001
-
-(PDF)
-
 S2 File. Dataset used in analysis.
-
-https://doi.org/10.1371/journal.pone.0322866.s002
-
-(XLSX)
 
 Acknowledgments
 

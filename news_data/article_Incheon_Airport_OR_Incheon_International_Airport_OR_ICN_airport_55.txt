@@ -9,11 +9,7 @@ Femtocells are customer premises equipment which include a small mobile base sta
 
 KT deployed thousands of the devices, all of which used the same certificate to authenticate to the carrier’s network. According to analysis by Korean infosec academic and IEEE Fellow Yongdae Kim, the femtocells had no root password, stored keys in plaintext, and were remotely accessible because SSH was enabled.
 
-REG AD
-
 Attackers could therefore waltz in and retrieve the certificate, then use it to clone a femtocell that KT would treat as a legitimate device and happily connect to its network. And because the cert was set to expire after ten years, miscreants who understood these vulnerabilities had a long period in which to clone a femtocell and use it for evil. The Ministry’s report suggests attackers cloned up to 20 femtocells and used one for ten months across 2024 and 2025.
-
-REG AD
 
 The report also found that KT customers’ devices would automatically connect to a cloned femtocell, and that attackers could learn their subscriber numbers, read those customers’ text messages and learn what numbers they called.
 
@@ -30,8 +26,6 @@ Yongdae Kim wrote that the $169,000 haul “is absurdly small for this infrastru
 “Rational inference: large-scale data collection was primary. Someone's greed exposed it. Without micropayment fraud, undetectable,” he added, suggesting that miscreants running cloned femtocells may have used their ability to access customers’ phones for surveillance.
 
 That theory appears plausible for two reasons. One is that KT only has data on micro-payments from July 2024. The Ministry’s report therefore states it is not a definitive account of femtocell-related problems.
-
-REG AD
 
 The other is that Korean police today published the results of their investigation into the matter, which turned up one fake femtocell that used a key installed in a device used on a Korean military base in 2019, and which went missing in 2020.
 

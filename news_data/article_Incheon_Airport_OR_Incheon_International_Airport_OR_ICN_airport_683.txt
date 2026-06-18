@@ -3,8 +3,6 @@ Source: Boardingarea.com
 URL: https://pointmetotheplane.boardingarea.com/seoul-south-korea/
 --------------------------------------------------
 
-3.4K
-
 It was time to rediscover the vibrant city of Seoul, capital of South Korea. I had visited before and it was high on my list for time to revisit destinations. Seoul is the soul of South Korea (pun intended); it represents the culture and achievements of this fascinating country. From an isolated peninsula to a leading world economy, Korea’s story springs from the heart of Seoul.
 
 Where Exactly is South Korea?
@@ -104,5 +102,3 @@ Annyeonghaseyo hangug!
 안녕하세요 한국
 
 (Hello Korea!)
-
-Related Articles:
