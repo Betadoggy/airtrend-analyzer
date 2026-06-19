@@ -1,0 +1,36 @@
+Title: Mystery border control outage causes misery at Malaysia/Singapore frontier
+Source: Theregister.com
+URL: https://www.theregister.com/2024/12/10/johor_bahru_singapore_outage_immigration/
+--------------------------------------------------
+
+Malaysia's automated border control equipment – known as e-gates or automates – glitched out over the weekend, leaving travelers crossing the very busy border between Johor Bahru and Singapore required to spend hours waiting in line.
+
+The outages reportedly left tens of thousands of people in line at a very crowded checkpoint at Johor Bahru's Sultan Iskandar Building for up to four hours as immigration officers were forced to clear people manually.
+
+The glitch began around noon on Sunday. Four hours later, the Malaysian Immigration Department in Johor announced it had opened extra lanes to relieve the congestion. Ten hours after the delays began, it issued an update declaring that all immigration checkpoints and e-gate routes were operating "as usual."
+
+REG AD
+
+The crossing is one of the world's busiest, as Singapore and Malaysia (usually) allow easy movement between the two nations. Around 350,000 people take advantage of that each day, along with 100,000-plus vehicles.
+
+REG AD
+
+Many commute from Johor Bahru to work in Singapore, benefiting from lower living costs in Malaysia and higher wages in Singapore. Conversely, Singaporeans often visit Malaysia for day trips, shopping, and leisure. Johor Bahru is also home to many of the datacenters that serve Singapore and the region.
+
+Singapore Immigration and Checkpoints Authority (ICA) is issued a travel advisory asking people to delay their journeys to Johor Baru to help ease the situation.
+
+The outage primarily affected travelers making the journey by bus. Those in other types of vehicles – like cars or motorbikes – did not experience the same delays. Bus passengers must exit the vehicle at immigration and pass through the gates on foot, before reboarding the bus and continuing their journey.
+
+However, according to ICA's December 2023 statistics, 45 percent of people coming into Singapore through the checkpoint use buses. So the numbers are significant.
+
+The cause of the outage is currently unknown. Photographs show the autogates appearing red with error symbols. Rumors circulated that the autogates experienced an internet outage, although other equipment at the border functioned without issues and there has been no official confirmation of a cause.
+
+Late last week, a power outage at the same checkpoint took out the machines and caused huge waits. That outage had the added bonus of occuring at night, leaving travelers waiting in the dark.
+
+The border crossing system was recently enhanced with a QR code-based system that authorities claimed would speed credential checks.
+
+"If you're travelling solo or with family to JB, you can simply scan your QR code, verify and go because QR code is your new passport! But don't forget to still bring along your passport for verification at overseas immigration clearance," advised a social media post amplified by Singapore's Immigration and Checkpoints Authority (ICA) last month.
+
+REG AD
+
+The initiative mirrors efforts at Singapore's Changi airport – the 18th busiest in the world – where facial recognition technology has been implemented to streamline certain immigration processes for passportless completion.

@@ -1,0 +1,66 @@
+Title: Commentary: Does Singapore really need such a short flight to Melaka?
+Source: CNA
+URL: https://www.channelnewsasia.com/commentary/singapore-melaka-flight-scoot-changi-airport-klia-short-haul-emissions-4577366
+--------------------------------------------------
+
+SINGAPORE: Scoot announced earlier in August the launch of flights from Oct 23 connecting Changi with Melaka, a small historic city located about two-thirds of the way from Singapore to Kuala Lumpur. The route is 216km long, making it the shortest in Changi Airport history.
+
+Some netizens were quick to criticise the route, pointing out that the carbon emissions of short flights far exceed that of buses or trains, or even private vehicles.
+
+Flights of such short distances are notoriously inefficient from a fuel consumption and emissions perspective. Take the Singapore-Kuala Lumpur route for instance, which was the busiest international route in the world last year, according to travel data provider OAG.
+
+Of the top 20 international routes in 2023, it is the shortest at only 296km. The average flight from Singapore to Kuala Lumpur International Airport (KLIA) in July 2024 was 45 minutes long plus 22 minutes of taxiing, according to Cirium aviation analytics.
+
+This results in 37.75kg of carbon dioxide emissions per economy class seat, based on EmeraldSky Flight Emissions data from Cirium. For comparison, a bus passenger, or a person in a car of four passengers contributes approximately 10kg of emissions in a trip from Singapore to Kuala Lumpur.
+
+A Singapore-Melaka flight would take only about 20 minutes under a direct routing but will likely be in the air for 30 to 40 minutes, resulting in approximately 30kg of carbon dioxide emissions per seat.
+
+PRESSURE TO RELOOK HSR
+
+In other regions, routes of similar length are being cut back significantly or disappearing entirely due to an increased focus on environmental sustainability.
+
+In contrast, the number of flights between Singapore and Kuala Lumpur will likely continue to expand without a high-speed rail (HSR) link, which has been considered many times over the years with the last proposed project being dropped in late 2020.
+
+The number of scheduled flights between Changi Airport and KLIA is up by 5 per cent in 2024 compared with 2023 to about 27,800, according to OAG. This excludes the new route connecting Changi Airport with Kuala Lumpur’s old airport Subang, which was launched on Sep 1 by Singapore Airlines (SIA) subsidiary Scoot, and the route connecting Singapore’s Seletar Airport with Subang.
+
+The pressure on Singapore and Malaysia to relook HSR will likely mount over the next few years given the increasing importance of sustainability, as I wrote in a white paper that was published earlier this year by the Aviation Studies Institute at the Singapore University of Technology and Design (SUTD).
+
+A train connecting Singapore with Kuala Lumpur in 90 minutes would result in most - if not all - traffic shifting from air to rail. It could even serve connecting passengers by rail if the new line includes stops at the two main airports.
+
+POTENTIAL BUS CONNECTIONS BETWEEN AIRPORTS
+
+A Kuala Lumpur-Singapore HSR line would also be a gamechanger for the Singapore-Melaka market as the train would stop in Melaka. But when researching the white paper, I never imagined Singapore-Melaka would be considered in the current environment as a potential airline route.
+
+Buses now frequently connect Singapore with Melaka in as little as four hours. As some netizens pointed out, the door-to-door travel time on the bus takes about the same amount of time as the new flight. Driving a car can be quicker, depending on traffic conditions.
+
+The new Scoot flights will be mostly aimed at transit passengers, but are connecting flights at Changi Airport the best option for passengers travelling from other countries to Melaka?
+
+A direct bus from Changi Airport to central Melaka - preferably an electric bus - would be a more sustainable option for such passengers. Melaka visitors from outside the region already have the option of flying to KLIA and hopping on one of the many buses that run from KLIA to Melaka in about two and a half hours.
+
+In future it may be possible to even provide airside bus connections from Melaka Airport to both KLIA and Changi Airport. These would enable passengers to proceed directly to international airports without having to go through immigration until they reach their destination.
+
+Such buses are now used to connect several airports in North America. For example, passengers can board secured buses to Philadelphia International Airport after going through security at the small airport in Allentown, Pennsylvania, or Atlantic City, New Jersey. Just like when taking two flights, bags are transferred from the bus to the connecting flight.
+
+At Hong Kong International Airport, there are now secured airside buses to and from Macau as well as Zhuhai.
+
+Authorities from Singapore and Malaysia would have to agree on such a concept. While this seems unlikely - even a landside bus from Singapore to Johor’s Senai Airport was rejected several years ago - the increased importance of sustainability could result in logic prevailing over politics.
+
+Currently there are only landside buses from Changi Airport to Johor Bahru with passengers required to go through immigration at Changi and again at the Johor-Singapore Causeway.
+
+OTHER ZERO-EMISSION OPTIONS
+
+Replacing short flights with buses not only provides a greener option but enables small airports which have experienced a reduction in air services to improve utilisation of their infrastructure and manpower. Melaka Airport’s terminal has the capacity to handle 500,000 passengers per year but last year it had just 29,000.
+
+In 2019, Melaka Airport handled 136,000 passengers, with flights to Kota Bahru, Langkawi, Penang and Pekanbaru. Only Penang and Pekanbaru resumed after the pandemic and both these routes were suspended last year, leaving Melaka with no scheduled air services and an empty terminal that is only used occasionally by private flights.
+
+Flights to Singapore may have seemed like an attractive solution to Melaka authorities and tourism stakeholders but are they sustainable?
+
+Electric vertical takeoff and landing (eVTOL) aircraft could be an option as early as 2026 for travel between Singapore and Melaka. Singapore has supported the development of eVTOLs, which typically seat four to six passengers, and is keen to become an eVTOL hub.
+
+Electric or hydrogen-powered turboprop aircraft are also a future possibility for Singapore-Melaka along with other very short air routes from Singapore. They will not be available quite as soon as eVTOLs but will have significantly more capacity. The Heart Aerospace ES-30, for example, is slated to enter service in 2028 with 30 seats.
+
+Several such aircraft are now under development along with retrofit options for existing turboprops, but airlines and governments in Southeast Asia have not yet followed their counterparts in other regions in committing to these new technologies.
+
+The potential backlash from the launch of the Singapore-Melaka route could be the wake-up call airlines and governments need to start seriously considering zero-emission options for super short routes.
+
+Brendan Sobie is the founder of Singapore-based independent aviation consulting and analysis firm Sobie Aviation.

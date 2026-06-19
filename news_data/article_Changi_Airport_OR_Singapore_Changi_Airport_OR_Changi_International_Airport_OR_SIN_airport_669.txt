@@ -1,0 +1,76 @@
+Title: Why Airlines Want To Make It Easier For You To Pay For Flights
+Source: Forbes
+URL: https://www.forbes.com/sites/marisagarcia/2023/11/17/why-airlines-want-to-make-it-easier-for-you-to-pay-for-flights/
+--------------------------------------------------
+
+Airlines recognize payment systems are crucial to customer experience and sales performance. A lack of preferred payment options, a tedious process, and security concerns can result in abandoned flight bookings. Another focus for airlines is managing their payment costs while leveraging payment options to increase revenue.
+
+Overall, airlines want to provide various payment options to meet customer preferences in different regions, improve customer engagement, and capitalize on the revenue potential of innovative payment strategies. The goal is to make payments seamless and offer passengers more choice in how they pay to fly.
+
+International Air Transport Association Modern Airline Retailing
+
+The International Air Transport Association developed the Modern Airline Retailing program to ensure booking is as fast and straightforward as possible, no matter what shopping channel customers use. This new approach to airline retailing lets travelers keep track of their flights with a single order number, making it easier to manage bookings and handle travel disruptions. Airlines also look closer at their customers’ payment preferences as part of the drive to modernize retail.
+
+How Travelers Prefer To Pay For Airline Tickets
+
+The most recent IATA Global Passenger Survey shows that travelers want flight bookings to be as convenient and fast as any other purchases they make through major online retailers. They also have set payment preferences.
+
+IATA found that 62% of customers cited convenience as the main reason they chose a particular payment method. By far, the most popular form of payment (73%) was credit/debit card. Digital wallet payments came in a distant second (18%), tied with bank transfers (18%).
+
+At the same time, preferences vary significantly by region. Credit/debit cards are most popular among travelers in Latin America (85%), Europe (81%), and North America (74%). African travelers are the least likely (57%) to pay with a credit or debit card for their flights.
+
+Digital wallets are most popular among travelers in the Asia Pacific region, where 41% of survey respondents listed them as their preferred payment option.
+
+The popularity of digital wallets among travelers in Asia is such that even airports are getting in on the action. Singapore’s Changi Airport has grown its Changi Pay digital wallet through a partnership with Alipay, which enables travelers to use the Changi Pay app for purchases at multiple retailers across China.
+
+Europe is the second largest market for digital wallets, though a significantly lower 15% of passengers want to use these to pay for flights. The Middle East came in third, with 14% of travelers preferring this payment method.
+
+Direct bank transfer was Africa's most preferred payment method (36%), followed by the Middle East (21%). In response to these preferences, IATA has developed IATA Pay, which makes it easier for travelers to pay for airline tickets purchased online through direct debit from their bank account.
+
+IATA Pay is also an advantage for airlines since they can save up to 99% of payment processing fees and get payment settlement sooner. Seeing this advantage clearly, Emirates adopted IATA Pay in 2021.
+
+Payment Complications Discourage Sales, IATA Finds
+
+The IATA survey also found that airlines lost 25% of potential product and service sales during the customer journey because of payment issues.
+
+“Payment needs to be seen as part of the commercial offer and not just as a financial transaction at the end of the sale,” said Muhammad Albakri, IATA’s Senior Vice President for Financial Settlement and Distribution Services. “Customers want to be able to use their preferred payment method with convenience and security. Each market is different, and there is no one-size-fits-all answer. If a preferred payment method is not available or too complicated, the potential sale may be lost. Ensuring the customer can use their preferred payment method more often is a key part of the Modern Airline Retailing program.”
+
+Avelo Airlines Introduces PayPal’s Pay in 4 Easy Payments
+
+Several airlines have introduced book now pay later ticket payment methods, like AffirmAFRM, PayPal, Uplift, and Klarna. These allow travelers to break up the cost of their tickets into installments. Some of these services charge interest, but they allow passengers to book flights when they might otherwise hesitate.
+
+Avelo Airlines recently announced it was teaming up with PayPalPYPL to offer its Pay in 4 feature. This lets customers split the cost of their bookings into four interest-free payments. Avelo is the first U.S. airline to add this feature.
+
+Airlines’ “Nuanced” Relationship With Credit Cards
+
+Airlines have what IATA refers to as a “nuanced” relationship with credit cards. That’s a bit of an understatement, considering that airline loyalty credit card partnerships contribute significantly to airline revenue. IdeaWorksCompany, which tracks airline ancillary sales, says the “15 top performing airlines disclosed a year-over-year frequent flyer program revenue gain of $8.3 billion for 2022.”
+
+At the same time, credit card companies take a lot in return for their customers. Credit card payment processing costs airlines over $20 billion annually, accounting for 2.2% of ticket sales.
+
+While this may still be the preferred form of payment for most airline customers, airlines have a strong incentive to embrace alternatives.
+
+Airlines Could Boost Revenue By Focusing On Payments
+
+A report by McKinsey, Payments Value Opportunity in Airline Retailing, suggests that by focusing on payments, airlines could improve their revenue significantly.
+
+“In addition to the $40 billion retailing opportunity, airlines could potentially reap a further $14 billion in value through strategically addressing payments. This figure comprises revenue from payments ($8 billion), which could be generated by increasing sales of ancillary services, enhancing loyalty programs, and giving customers more flexible exchange and refund processes. A further $2 billion in value lies in reducing payment cost, particularly for B2B or corporate sales, while $4 billion could be generated through putting payment enablers in place to increase direct channel usage, and improve payment conversion,” the authors of the McKinsey report write.
+
+Cash-Up Front: Frontier Airlines’ GoWild! All-You-Can-Fly Pass
+
+Frontier Airlines has a clever take on payment, supporting the airline's cash flow by encouraging travelers to pay for future flights at a significant discount. The airline’s GoWild! All-You-Can-Fly annual pass, which costs $499, allows pass holders to book “unlimited flights” to all Frontier destinations. As an added incentive, Frontier rewards passholders with Miles Silver Elite status.
+
+There are a few hitches. The pass only covers airfare and does not cover ancillary costs, like bags or seat assignments. Passholders would pay $0.01 in airfare plus taxes, fees, and charges when booking their flights. They can book the day before flight departure for domestic travel and ten days before the flight for international travel. While pass holders can book their flights in advance, an early booking charge may apply. Plus, the seats available to pass holders are “capacity-controlled, limited in quantity, and offered on a first-come, first-served basis.” The pass also renews automatically unless the customer cancels it or opts out of auto-renewal on their Frontier Airlines profile page. But, the airline is transparent about these limitations.
+
+Frontier isn't alone in this cash-fueling strategy. For example, Scandinavian Airlines-SAS offers pre-pay travel pass programs for businesses.
+
+Pre-pay programs don’t always go well for airlines. One memorable case is the $250,000 AAirpass ticket, introduced in 1981 by then American Airlines President Robert Crandall. Affluent travelers got lifetime access to first class seats, with expensive consequences for the airline.
+
+Frontier’s program is more humble, and more effective.
+
+How You’ll Pay For Airline Tickets In Future
+
+Airlines want to make payments easier and integrate payment options that resonate with customer preferences. By offering a variety of payment methods and innovative solutions like installment payments and all-you-can-fly passes, airlines prioritize customer convenience and loyalty.
+
+For savvy travelers, these advancements mean more control over how and when they pay for travel. For airlines, this shift means more revenue, greater security of payments, and improved cash flow.
+
+“Airlines need to analyze where they are making sales and the best way to accept payment in this market,” said Christophe Kato, IATA’s Head of Payment Services. “They will need to work with travel agents and other third parties as well as look to their own resources to ensure they formulate and deliver a comprehensive payment strategy. It’s not easy because it is not ‘one-size-fits-all.’ Payment is fast becoming a fragmented sector with the emergence of numerous local payment instruments, and airlines will need to develop robust partnerships to meet that new challenge.”

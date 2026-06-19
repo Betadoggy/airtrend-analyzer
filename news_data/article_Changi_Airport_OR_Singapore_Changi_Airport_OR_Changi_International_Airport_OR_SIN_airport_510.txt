@@ -1,0 +1,46 @@
+Title: Standard Chartered-Backed Libeara Launches Tokenized Gold Fund in Singapore
+Source: Cryptonews
+URL: https://cryptonews.com/news/standard-chartered-backed-libeara-launches-tokenized-gold-fund-in-singapore/
+--------------------------------------------------
+
+The structure removes vaulting costs while keeping regulated, gold-linked exposure.
+
+Libeara, a tokenization platform backed by Standard Chartered’s venture arm SC Ventures, has rolled out a new tokenized gold investment fund in Singapore, bringing one of the world’s oldest safe-haven assets onto digital rails.
+
+The fund, launched in partnership with FundBridge Capital, offers exposure to the gold retail sector. A representative told Cryptonews.com that the fund participants “cannot participate in the fund to speculate on gold prices, this is not a tokenized gold fund.”
+
+“The tokens issued by the fund do not represent a claim on any physical gold as the fund does not directly invest in or hold any physical gold. They represent a stake in the underlying loan portfolio of MG 999,” they added.
+
+FundBridge Says Tokenized Gold Cuts Costs While Preserving Price Exposure
+
+FundBridge said the structure removes the traditional costs of vaulting and logistics while keeping the price exposure intact.
+
+“FundBridge’s priority is to bridge traditional fund governance with emerging digital infrastructure,” CEO Sue Lynn Lim reportedly told Nikkie.
+
+“We’ve worked closely with our partners to ensure the framework meets the standards of a regulated fund environment while advancing the use of real-world assets on-chain.”
+
+The fund, named MG 999, is available exclusively to institutional and accredited participants.
+
+“While loan value is denominated in grams of gold; the interest paid is calculated on the USD value of these loans, and is designed to cover fund costs and provide a yield to the fund’s investors,” a representative said.
+
+The move extends a broader push by established financial institutions to tokenize real-world assets, bonds, funds, treasuries and now precious metals, as blockchain technology gains ground well beyond the volatile world of cryptocurrencies.
+
+SC Ventures has been steadily expanding its digital-assets footprint in Asia. Alongside Libeara, the bank holds majority stakes in Zodia Custody and Zodia Markets, both focused on institutional digital-asset services.
+
+The latest initiative underscores how traditional finance players are leveraging their reputation to enter a sector that has struggled with trust following multiple industry blowups.
+
+Gold Demand Surges as Institutions Seek Alternatives
+
+The launch also comes during a renewed surge in global gold demand. Central banks have been increasing their bullion reserves this year amid ongoing concerns about the long-term dominance of the US dollar and geopolitical uncertainty.
+
+President Donald Trump’s tariff policies have further stoked demand for safer assets.
+
+Last month, Standard Chartered joined other financial institutions in launching a physically backed gold fund in Singapore, with the bank acting as custodian for bullion stored at the high-security Le Freeport vault near Changi Airport.
+
+That product targets investors seeking exposure to allocated metal rather than tokenized units.
+
+MG 999 also contains a lending component aimed at Singapore’s jewelry sector. Mustafa Gold, a major retailer in the city-state, has been named the fund’s first borrower.
+
+The structure allows Mustafa to secure credit against its gold jewelry inventory while keeping the pieces on display.
+
+“Gold-linked tokens are quite unique and complex,” said Mustafa founder Mustaq Ahmad. “MG 999 lets retailers tap digital innovation and better manage working-capital needs.”

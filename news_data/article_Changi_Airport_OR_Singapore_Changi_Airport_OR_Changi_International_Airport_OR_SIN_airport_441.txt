@@ -1,0 +1,50 @@
+Title: Changi Airport Group’s S$272 million capital allowance appeal dismissed by Singapore High Court
+Source: The Online Citizen
+URL: https://www.theonlinecitizen.com/2024/11/04/changi-airport-groups-s272-million-capital-allowance-appeal-dismissed-by-singapore-high-court/
+--------------------------------------------------
+
+On 1 November 2024, the High Court of Singapore, presided over by Justice Choo Han Teck, issued its judgment on the appeal brought by Changi Airport Group (Singapore) Pte Ltd (CAG) against the Comptroller of Income Tax.
+
+The appeal contested the tribunal's decision that runways, taxiways, and aprons (collectively known as RTA) do not qualify for capital allowances under Section 19A of the Income Tax Act (ITA), being classified instead as “structures.”
+
+The case stemmed from CAG’s capital expenditure claims totalling S$272,575,162 for the years of assessment 2011 to 2013.
+
+CAG argued that the RTA should be considered "plant" and thus eligible for capital allowances. The Comptroller, however, categorised them as “structures,” only allowing industrial building allowances under Section 16 of the ITA.
+
+This classification determines the type and extent of tax benefits that can be claimed for capital investments in infrastructure, impacting the financial advantages a company can receive for such expenditures.
+
+Justice Choo noted that the appellant and the Comptroller agreed on the functional characteristics of the RTA: these were designed for safe aircraft operations, including the drainage and friction-enhancing pavement composition.
+
+However, the dispute centred on whether these features qualified the RTA as “plant” rather than a “structure.”
+
+CAG, represented by Mr Tan Kay Kheng, cited several precedents, including foreign cases like Schofield v R&H Hall and Commissioner of Inland Revenue v Waitaki International Ltd, in support of its position.
+
+The company argued that the RTA's integral role in aviation safety and its specific design justified its classification as plant. They highlighted that the RTA’s functions included navigational assistance and electric shock prevention, suggesting a purpose beyond that of a mere setting.
+
+The Comptroller's counsel, Mr Bjorn Lee, countered that the board’s decision was reasonable, maintaining that the RTA’s role as foundational infrastructure did not equate to "plant" under legal interpretation.
+
+He pointed out that while certain aerodrome equipment associated with navigation and safety had received capital allowance, the RTA functioned primarily as the space facilitating aircraft movement.
+
+Justice Choo dismissed the appeal, upholding the Board's findings. He reinforced the distinction established in prior rulings between “plant” and “structure.”
+
+The judgment referenced the ZF v Comptroller of Income Tax precedent, which delineated the approach to classifying assets under the ITA, maintaining that “plant” refers to functional apparatus used directly in trade, unlike buildings or structures serving as premises.
+
+“While the appellant says that the RTA and the Aerodrome Equipment form an indivisible apparatus, the Board’s inquiry showed that the RTA continues to function even in the absence of the Aerodrome Equipment,” wrote Justice Choo in his judgment.
+
+The High Court found CAG’s argument that the RTA was inseparable from its aerodrome equipment unconvincing. While interconnected, the court noted that the RTA could function without the said equipment, distinguishing it from examples like dry docks or silos deemed "plant" in other cases.
+
+Additionally, the presence of specialised features in the RTA, such as friction-enhancing pavements, did not transform their primary classification from infrastructure to plant.
+
+Justice Choo emphasised the importance of respecting the tribunal's expertise, cautioning against intervention unless the decision lacked reasonable grounds. This deference aligns with Singapore’s principle that the judiciary should only overturn tribunal findings in cases of legal misinterpretation or unreasonable conclusions.
+
+The ruling reaffirms the boundaries between capital allowances for plant/machinery and those for buildings/structures, maintaining the mutual exclusivity of these classifications under the ITA.
+
+CAG’s reliance on broad interpretations was found insufficient against the established criteria and context-specific analysis mandated by Singapore's tax laws.
+
+Justice Choo emphasised this deference, stating, “Not only is the Board the primary trier of fact, having the benefit of hearing witness testimony and visiting the relevant sites, it is also a specialist tribunal constituted by legislature with the subject-matter expertise to adjudicate upon these disputes. Therefore, as long as there is reasonable ground for the Board’s findings, the court should be slow to intervene.”
+
+In conclusion, the High Court affirmed that while the RTA's functions are essential for airport operations, their classification as structures for tax purposes remains appropriate.
+
+CAG's appeal was dismissed, and further deliberation on costs will be conducted if parties cannot reach an agreement.
+
+Counsel for CAG included Mr Tan Kay Kheng, Mr Tan Shao Tong, and Mr Goh Ziluo of WongPartnership LLP, while Mr Bjorn Lee Long Jin and Ms Flora Koh represented the Comptroller on behalf of the Inland Revenue Authority of Singapore.

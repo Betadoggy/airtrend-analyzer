@@ -1,0 +1,60 @@
+Title: Western Sydney International Airport's First International Tickets Go on Sale on Singapore Airlines
+Source: Ibtimes.com.au
+URL: https://www.ibtimes.com.au/western-sydney-international-airports-first-international-tickets-go-sale-singapore-airlines-1864344
+--------------------------------------------------
+
+EditionsAustraliaIndiaInternationalSingaporeUnited KingdomUnited States
+ doFir.push(function(){if(getCookie('nwsubl')){jQuery(".login-btn .sign-up2").hide();jQuery(".login-btn .myaccount").show()};jQuery(".login-btn .myaccount").on('click',function(e){e.preventDefault();jQuery(".login-btn ul").toggle()});jQuery(document).ready(function(){jQuery(".myaccount").add(".m-manage").each(function(){jQuery(this).attr('href','https://myaccount.ibtimes.com.au/manage')})})}) googletag.cmd.push(function () { if(dfpSlots.slotobjs["top"]){ ibt_log("ADS GPT register ad slot top", Date.now()-timerStart); googletag.display("dfp-ad-top"); } });if(/top\|[0-1]\|1/.test(dfpSlots.pginfo[ibtmedia_device])) document.getElementById("ad-top-wrapper").className+=" block-sticky"  dfpSlots.vplayer=(['ibtuk','ibtus'].indexOf(site_id)>-1)?'primis player':'NoVideo';if(site_id=='ibtuk'&&oa.geo.country!='IL'&&ibtmedia_device=='mobile')dfpSlots.vplayer='NoVideo';if(/adtest=primis/.test(location.href))dfpSlots.vplayer='primis player';else if(/adtest=native/.test(location.href))dfpSlots.vplayer='ibt player';if(dfpSlots.vplayer=='primis player'){if(site_id=='ibtus'){dfpSlots.primis='117767'}else dfpSlots.primis='117814';dfpSlots.primisVideo=function(){if(dfpSlots.primisVideoLoaded)return;dfpSlots.primisVideoLoaded=1;if(adBlock=='Y')return;var d=document,gi='getElementById',s=d.createElement('script');s.type='text/javascript';s.src='https://live.primis.tech/live/liveView.php?s='+dfpSlots.primis+'&cbuster='+Date.now();if(window.ibt_avf){ibt_avf.appendChild(s);d.body.classList.add('video-primis')}else d[gi]('tvplayer').appendChild(s)}}
+if(dfpSlots.vplayer=='NoVideo'&&document.getElementById('ibt-mobile-avf'))document.getElementById('ibt-mobile-avf').remove();dataLayer[0].VideoABTest=dfpSlots.vplayer;var ibt_avf=(brW 
+
+
+News
+
+ if(document.querySelector(".breadcrumb").innerHTML.trim()==''){document.querySelector(".breadcrumb").parentNode.parentNode.removeChild(document.querySelector(".breadcrumb").parentNode)} 
+Western Sydney International Airport's First International Tickets Go on Sale on Singapore AirlinesBe one of the first to fly out of Sydney's new airport.
+
+
+By
+
+
+
+          
+
+
+
+
+ Bella Javier Liamzon 
+
+
+Published 03/25/26 AT 2:37 PM AEDT
+Share on Facebook
+Share on Twitter
+Share on LinkedIn
+Share on Reddit
+Share on Flipboard doFir.push(function(){var flipboard=1;jQuery(".genericon-flipboard").on('click',function(e){e.preventDefault();e.stopPropagation();if(flipboard){flipboard=0;LJ('https://cdn.flipboard.com/web/buttons/js/flbuttons.min.js',function(){jQuery(".genericon-flipboard").trigger('click')})}})}) Share on Pocket
+
+
+
+Australia's newest airport Western Sydney International (Nancy-Bird Walton) Airport may be months away from officially opening its doors, but you can now purchase tickets to be one of the first international passengers to fly out of it.
+
+Singapore Airlines has started selling tickets for flights Sydney-Singapore flights scheduled for November 2026.
+
+According to a report by Travel Weekly, Singapore Airlines will begin operating daily non-stop flights on November 23.
+
+The service will depart Singapore at 11:30 a.m. local time and arrive at Western Sydney Internation Airport (WSI) at 10:20 p.m. local time.
+
+For flights going from Sydney to Singapore, the service will depart WSI on the same day at 11:55 p.m. local time and arrive in Singapore at 5:05 a.m. local time.
+
+Per the report, the flight will operate on Airbus A350-900 medium-haul aircraft, which has a total of 303 seats. 40 of these seats will be allocated for the Business Class, and 263 will be allocated for the Economy Class.
+
+According to a report by Sky News, Infrastructure and Transport Minister Catherine King has released a statement as tickets for these flights begin to go on sale.
+
+"Singapore Airlines was the first international airline to commit to fly into Western Sydney International, and I'm really pleased tickets are on sale so people can start planning their next flight," said King.
+
+Singapore Airlines Senior Vice President Marketing Planning of Singapore Airlines Dai Haoyu likewise released a statement, saying, "Singapore Airlines' services to Australia's newest gateway at Western Sydney will deliver more choice and strengthen connectivity to this popular destination for our customers."
+
+"Western Sydney's late-night departure capacity will enable a seamless travel journey and connections through Singapore Changi Airport, to more than 130 global destinations served by the SIA Group," he added.
+
+Aside from Singapore Airlines, Qantas and Jetstar will also flight out of WSI. Air New Zealand will also begin flying out of the airport by next year depending on the availability of aircraft.
+
+This article is copyrighted by Travelers Today, the travel news leader

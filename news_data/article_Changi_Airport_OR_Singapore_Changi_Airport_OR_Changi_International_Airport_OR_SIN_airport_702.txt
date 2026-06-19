@@ -1,0 +1,78 @@
+Title: The 5 most exciting innovations coming to an airport near you
+Source: Boston Herald
+URL: https://www.bostonherald.com/2024/03/05/the-5-most-exciting-innovations-coming-to-an-airport-near-you/
+--------------------------------------------------
+
+Imagine it’s the year 2030 and you’re heading to the airport to catch a flight. At the curb, you hop onto a Segway-like scooter that will serve as your personal airport vehicle. It scans data from your phone to determine your gate number and glides in and out of massive elevator banks — no escalators — to move between check-in and security floors. Along the way, a machine scans your face to verify your identity and directs you to an individual security tunnel where you self-screen your luggage.
+
+None of this is science fiction. Within six years, architecture firm Gensler says it will install such a prototype at a major North American airport, including all of the above features.
+
+“Airports are starting to shift toward autonomy,” says Ty Osbaugh, who is heading up the project as Gensler’s global cities sector leader. Airport innovation is happening faster than we think, he says, foreseeing a focus on self-service in keeping with an already dominant lifestyle that prefers digitization to real-life interactions.
+
+This is not a novel idea. Use of biometric technologies has grown steadily at airports for years, and self-serve security checkpoints have already begun use in experimental pilot programs (typically for pre-screened travelers) in such major cities as New York, Dubai and Tokyo.
+
+There’s business justification for all this that goes well beyond convenience and modernization. As airport terminals lengthen to accommodate larger airplanes—which need wider spaces between gates to be able to maneuver in and out of parking spaces—airlines have noticed that passengers are struggling to get to their gates on time, resulting in missed flights and connections.
+
+Technological enhancements can help passengers reach gates on time — and make quick connections — making airline operations smoother and more efficient. Osbaugh says these changes will eventually become standard practice in the industry.
+
+Updating an existing airport terminal is time-consuming, expensive work that often costs hundreds of millions of dollars — and sometimes billions, as with New York-area airports Newark International (EWR) and LaGuardia (LGA), which both debuted facilities last year after massive, 10-figure renovations.
+
+Change is happening at an unprecedented pace, thanks to the Biden administration’s willingness to fund them. This month it allocated nearly $1 billion in grants to 100 U.S. airports — something it has done annually since 2022. Still, a single feature such as the self-screening security tunnels rolling out this year at Harry Reid International Airport in Las Vegas (LAS) can take more than five years to research, develop and test.
+
+Osbaugh thinks security screening might eventually happen before you even arrive at the airport — in a specially designed smart car that picks you up at home.
+
+That could take some time. For now, here are five innovations you’ll be seeing before year’s end.
+
+Self-service security screening
+
+Where it’s coming: Las Vegas’ Harry Reid International Airport (LAS)
+
+How it works: Imagine going through the security screening process without interacting with a TSA agent. (You’ll be watched on video.) Travelers departing from LAS with TSA PreCheck clearance will soon be able to do this. Although the program was scheduled to roll out in January, the Department of Homeland Security and TSA confirmed exclusively to Bloomberg that a pilot program will roll out in early March.
+
+Here’s how we understand it to work: Travelers will access the self-service lanes through TSA PreCheck lines; digital ID verification will open gates for access to them. Your movements will then be monitored remotely as you are tracked by cameras doubling as metal detectors. As at a supermarket, you place your items — your carry-on and phone, for instance — on the conveyor belt. If anything is detected in your pockets, a video screen — which works almost like a mirror — will show you where. Once all is well, you’ll see a green prompt, and automated exit doors will open and let you exit to find your gate. If further inspection is needed, a red prompt will pop up and you’ll undergo additional screening by a TSA officer. Instructions are projected in real time; a help button can summon a TSA officer if live assistance is needed.
+
+As with most new technologies, this will initially be optional — a novel experience for early adopters — rather than replace familiar systems at once. And even though it might feel like something from the distant future, the engineers behind it are already hard at work on an even more advanced version.
+
+Facial recognition
+
+Where it’s live: Hartsfield-Jackson Atlanta International Airport (ATL), Detroit Metropolitan Wayne County Airport (DTW), John F. Kennedy International Airport (JFK) and LaGuardia in New York (LGA), Los Angeles International Airport (LAX), Dubai International Airport (DXB), Beijing Capital International Airport (PEK) and Frankfurt Airport (FRA)
+
+Where it’s coming next: Singapore Changi Airport (SIN)
+
+How it works: Tagging and dropping off checked bags is getting reduced to a simple face scan, as with verifying your identity before security. That means no more showing your ID and boarding pass to agents at counters and in front of security queues; instead you’ll smile at a small camera as if you’re taking an ID photo at a corporate office building, and airline software will scan the image to confirm your identity against its database.
+
+American Airlines has such a system in place for PreCheck travelers at Ronald Reagan Washington National Airport (DCA), as does United Airlines at Chicago O’Hare International Airport (ORD). Dubai and Frankfurt are among the international airports with versions of this technology. Delta Air Lines’ Digital ID facial recognition program recently expanded to JFK, LGA and LAX after a successful three-year pilot in Atlanta and Detroit. To use Delta’s system, you need to have TSA PreCheck and a SkyMiles number and your passport number must be stored in the Fly Delta app. (Eligible travelers will receive a special push notification when at an airport equipped with the technology.)
+
+Expect more soon: Singapore will let departing travelers use biometrics in lieu of physical passports to clear border control in the first half of this year.
+
+Autonomous wheelchairs
+
+Where it’s live: Kansai International Airport (KIX), Narita International Airport (NRT), Savannah/Hilton Head International Airport (SAV), Haneda Airport (HND) and Winnipeg Richardson International Airport (YWG)
+
+Where it’s coming next: Zurich Airport (ZRH) How it works: With accessible travel hitting all-time highs — and increased demand for wheelchair-push services at airports — airlines are scrambling to build staff. Enter Swiss-based startup DAAV, which has designed a lightweight, robotic, electric wheelchair specifically for airport use. Scan your mobile boarding pass to tell it where you’re going, or let a second adult lead the way by choosing “follow me” on a built-in touchpad. Its slim proportions let it fit into such tight spaces as security lines; omnidirectional steering makes it easy to navigate crowds. A pilot is expected to commence in Zurich by the end of this year.
+
+Japanese mobility company Whill has been working with Panasonic to develop autonomous wheelchairs since at least 2017. You can already find these models at select airports in the US and Japan, including Savannah and Haneda.
+
+Prebooked security time slots
+
+Where it’s live: Roughly two dozen North American and European airports, such as Amsterdam Schipol (AMS), London Heathrow (LHR), LAX and Singapore.
+
+Where it’s coming next: Barcelona-El Prat Airport (BCN) and Malagá-Costa del Sol Airport (AGP)
+
+How it works: You know the drill: Make a restaurant reservation and (theoretically) you won’t have to wait at the bar. The same now goes for airport security lines, with a number of airports introducing online reservations to help you avoid checkpoint queues. The particulars differ; some airports let you book three days before your flight, others open reservations one week ahead of time. Most offer arrival windows that last from 20 to 30 minutes, allowing you a bit of wiggle room.
+
+The biggest provider for this service is Clear, the international alternative to PreCheck; it offers free prebooking to the general public (not just Clear members) via its Reserve program at 20 locations in North America and Europe; Barcelona and Malagá will soon offer this. Some airports are rolling out their own efforts, including Toronto’s Pearson International Airport (YYZ), Denver International Airport (DEN) and Heathrow, which in October started a six-month pilot for travelers flying out of Terminal 3.
+
+Schiphol is one of the first such airports to measure the demand for this service: It logged 500,000 reservations for security screening in the first five months they were offered, from March to August 2023.
+
+Robotic mini-manicures
+
+Where it’s live: JFK, Las Vegas (LAS), Miami International Airport (MIA), Denver and Will Rogers World Airport in Oklahoma City (OKC)
+
+Where it’s coming next: To be announced
+
+How it works: If you’ve walked by XpresSpa locations at airports around the world and wondered who arrives at an airport early enough to get their nails done, consider that these shops are now among the world’s few purveyors of robotic “minicures” that take just 10 minutes. The treatments are done with the help of a futuristic AI-powered machine that looks like a 3D printer. Follow prompts on a built-in screen to choose among several dozen colors; it will tell you where to place your fingers so it can perfectly coat your nails one by one.
+
+___
+
+©2024 Bloomberg L.P. Visit bloomberg.com. Distributed by Tribune Content Agency, LLC.

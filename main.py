@@ -18,9 +18,9 @@ else:
 # 설정값
 CONFIG = {
     "API_KEY": '0ae709890d054bbba717b80b3a76c039',
-    "PAGE_SIZE": 1100,
+    "PAGE_SIZE": 1800,
     "DATA_FOLDER": "news_data",
-    "BASE_QUERY": '("Incheon Airport" OR "Incheon International Airport" OR "ICN airport")'
+    "BASE_QUERY": '("Changi Airport" OR "Singapore Changi Airport" OR "Changi International Airport" OR "SIN airport")'
 }
 
 def timer(func):
@@ -68,8 +68,8 @@ def run_analysis(analyzer):
 def main():
     total_start = time.time()
     
-    # run_crawling(NewsCrawler(api_key=CONFIG['API_KEY'], save_dir=CONFIG['DATA_FOLDER']))
-    run_analysis(TextAnalyzer(data_dir=CONFIG['DATA_FOLDER']))
+    run_crawling(NewsCrawler(api_key=CONFIG['API_KEY'], save_dir=CONFIG['DATA_FOLDER']))
+    # run_analysis(TextAnalyzer(data_dir=CONFIG['DATA_FOLDER']))
     
     print(f"\n>>> 전체 작업 완료 (총 {time.time() - total_start:.2f}초)")
 

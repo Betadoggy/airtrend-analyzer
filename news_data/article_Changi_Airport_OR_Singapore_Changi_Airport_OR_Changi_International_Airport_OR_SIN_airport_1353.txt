@@ -1,0 +1,84 @@
+Title: Chaos as airlines around the world hit by IT outage
+Source: Al Jazeera English
+URL: https://www.aljazeera.com/economy/2024/7/19/chaos-as-airlines-around-the-world-hit-by-it-outage
+--------------------------------------------------
+
+Passengers around the world have faced flight delays, cancellations and problems checking in as airports and airlines are caught up in a significant IT outage that also has affected industries ranging from banks to media companies.
+
+Some airlines and airports have since said they were back online, with the United States government holding out hope that the transportation system would be back to normal by Saturday.
+
+Recommended Stories
+
+list of 4 items
+
+list 1 of 4‘By the grace of Almighty God’: Key moments from Trump’s RNC speech
+
+list 2 of 4How the youth are fighting to change South Africa’s future
+
+list 3 of 4ICJ finds Israel occupation of Palestinian territories illegal, must end
+
+list 4 of 4World reacts to Russia’s sentencing of US journalist Evan Gershkovich
+
+end of list
+
+Out of more than 110,000 commercial flights scheduled on Friday, at least 2,691 have been cancelled globally, according to data from the global aviation analytics firm Cirium. More are expected to be called off.
+
+In Edinburgh, the Reuters news agency reported that boarding pass scanners displayed a “server offline” message, and the airport said passengers should not travel to the airport without checking their flight status online first.
+
+Elsewhere, airports and airlines advised customers to arrive earlier than normal for flights. Analysts said the outage was likely tied to a glitch in Microsoft software used around the world.
+
+The aviation sector has been hit particularly hard: Airlines rely on a closely coordinated schedule often run by air traffic control. A delay of a few minutes can throw off flight schedules for takeoffs and landings for the rest of the day.
+
+Microsoft said users might be unable to access Office 365 apps and services due to a “configuration change in a portion of our Azure-backed workloads” — a reference to the company’s cloud computing software.
+
+Hong Kong International Airport said a Microsoft outage was affecting several airlines, and it had switched to manual check-ins, but flight operations had not been affected. Singapore Changi Airport also said check-ins were being handled manually.
+
+The cybersecurity firm Crowdstrike said it was working with customers impacted by a defect found in a single content update for Microsoft Windows hosts.
+
+Chaos at the airport
+
+Airlines across the US, Asia and Europe, including major carriers such as Ryanair, Delta Air Lines and Air India, said they had either faced delays or disruptions.
+
+Even airlines that were not directly affected said they would have to grapple with delays due to the global nature of the disruptions.
+
+The outage sparked chaos for passengers on what was one of the busiest travel days of the year in Europe as school holidays got under way.
+
+At Madrid-Barajas Airport, passengers complained of queues and a lack of information.
+
+“Nobody was around to tell us where we could check in when we arrived,” Ana Rodriguez, a tourist from Mexico, said. “So different groups queued in different places, and then in the end, someone — after a bottleneck of people was formed — told us to come here.”
+
+In India, airlines at Terminal 3 in New Delhi airport were giving handwritten boarding passes to flyers, while staff were using whiteboards to display gate information for flights, according to an official for the airport.
+
+At Baltimore’s airport, Rose Geffrard, 37, a nurse travelling with her six-year-old son and four-year-old daughter to a cousin’s wedding in Boston, said she spent nearly two hours waiting in a line to get paper tickets as Spirit Airlines personnel looked up their names on a paper manifest.
+
+Airline personnel had to leaf through printed passenger manifests before issuing paper tickets. Then, they consulted a printed seating chart to make sure they were not double-assigning seats. The lengthy process led to long waits.
+
+Several US carriers, including American Airlines, United Airlines and Delta, issued “ground stops” for all their flights early on Friday due to communication problems, according to the US Federal Aviation Administration (FAA).
+
+Ground stops essentially send a signal to airports to delay or pause any departing flights — though they do not prevent airplanes already in the air from landing safely.
+
+Slow resolution
+
+American Airlines later said it had resumed operations. Delta said it has resumed some flight departures but warned of additional delays and cancellations. FAA data showed Delta’s operations in Atlanta, Detroit, Minneapolis and Salt Lake City were still impacted.
+
+There are more than 27,000 flights scheduled on Friday from the US carrying up to 3.7 million passengers, Cirium data showed.
+
+Transportation system issues appeared to be resolving, and it is hoped that they would be back to normal by Saturday, said US Transportation Secretary Pete Buttigieg, adding that the FAA did not appear to be impacted.
+
+In Europe, Spanish carrier Iberia said it had managed to avoid flight cancellations.
+
+But Amsterdam’s Schiphol airport, Berlin’s airport, London Gatwick, Edinburgh’s airport and others said they were impacted by the outage. The flight-tracking service FlightRadar24 identified Schiphol as the airport with the worst disruptions globally.
+
+A Schiphol spokesperson said flights to and from the airport had been affected, adding it was not yet clear how many and that travellers were advised to contact their airlines.
+
+Compensation
+
+In Europe, airlines are required to compensate passengers for delays of more than three hours, but it was unclear to what extent they would be held legally responsible for the outage.
+
+“The airlines will have to prove that this was in fact an extraordinary circumstance,” a spokesperson for the European Consumer Organisation said.
+
+“If this is the case, passengers will not receive compensation, according to EU law.”
+
+Major US airlines in 2022 committed to providing meals for customers delayed by at least three hours and hotel rooms for stranded passengers if prompted by issues under the airlines’ control.
+
+Unlike Europe, there is no legal requirement that airlines in the US compensate passengers for lengthy delays. It is also not clear if the IT issue will be deemed an airline-caused delay.

@@ -1,0 +1,98 @@
+Title: Digikey Partners With GroupGets To Enable Hardware Startups To Bring Products To Market
+Source: Ponoko.com
+URL: https://www.ponoko.com/blog/ponoko/digikey-partners-with-groupgets-to-enable-hardware-startups-to-bring-products-to-market/
+--------------------------------------------------
+
+DigiKey, a leading global commerce distributor, has partnered with GroupGets to launch the “Get MADE” crowdfunding initiative. This program aims to promote and fund hardware creators by allowing startups to get their hardware projects funded, produced, and sold on DigiKey’s website. Through this collaboration, DigiKey and GroupGets will provide support and resources to qualifying devices, including cross-promotion, design assistance, distribution, and partial funding. How will the “Get MADE” crowdfunding initiative by DigiKey and GroupGets impact the funding and market entry opportunities for hardware creators, what specific support and resources will DigiKey and GroupGets provide to qualifying devices through the “Get MADE” program, and in what ways does the collaboration between DigiKey and GroupGets demonstrate their commitment to fostering innovation in the hardware industry?
+
+Read the full article here
+
+Top Stories This Week
+
+Digikey Partners With GroupGets To Enable Hardware Startups To Bring Products To Market
+
+Police Robots Go On Patrol At Singapore Airport
+
+MediaTek Denies AI Server Chip Partnership With Google
+
+Japan-Made Semiconductors Skirt Sanctions To Enter Russia
+
+Industry Increases Use Of Robots-as-a-Service
+
+Space Factory Will Manufacture Goods from Orbit
+
+Conversation With ChatGPT Was Enough To Develop Part Of A CPU
+
+Physical Servers or Virtual? The Ultimate Guide
+
+New Sensor Could Protect Firefighters From Harmful Chemicals
+
+Wearable Monitor Detects Stress Hormone Levels Across A Full 24-Hour Day
+
+RISC-V: The Game-Changer In Microprocessor Investments
+
+Hardware Business News
+
+Police Robots Go On Patrol At Singapore Airport
+
+The Singapore Police Force has introduced two formidable robots to patrol Changi Airport, marking the beginning of their plan to deploy such robots across the city-state to support frontline officers. Measuring over 7 feet tall when fully extended, these robots serve as an additional police presence and provide extra surveillance capabilities. Equipped with 360-degree vision, speakers, sirens, and communication buttons, the robots can enforce cordons, warn bystanders, and facilitate direct communication with the police. How will the deployment of patrol robots in Singapore augment the capabilities of frontline officers and contribute to the overall efficiency of law enforcement operations, what specific features and technologies enable these robots to effectively enforce security measures and assist human officers during incidents at Changi Airport, and as Singapore continues to embrace robotic technology across various civic domains, how might the acceptance and integration of these security robots impact public perceptions and the overall landscape of law enforcement in the city-state?
+
+Read the full article here
+
+MediaTek Denies AI Server Chip Partnership With Google
+
+Taiwanese chip designer MediaTek has denied recent reports suggesting a partnership with Google to collaborate on artificial intelligence server chip development and released a statement stating that the report was false and based on unverified speculative information. The reports had claimed that MediaTek had received significant orders from Google for AI server chips, with collaboration from Taiwan Semiconductor Manufacturing Co. (TSMC) for chip production. While MediaTek denied this specific partnership, it acknowledged collaborations with other companies in the AI development field, such as its recent partnership with Nvidia for in-vehicle infotainment systems. What are the potential consequences for a company like MediaTek when false reports about partnerships and orders are published, how does MediaTek’s denial of the partnership with Google affect investor sentiment and the perception of the company’s future prospects, and considering MediaTek’s collaborations in the AI field, what are the implications for the company’s overall strategy and revenue diversification as it seeks alternative sources amidst weakening demand for consumer electronic products?
+
+Read the full article here
+
+Japan-Made Semiconductors Skirt Sanctions To Enter Russia
+
+Japanese-made semiconductors are still reaching Russia indirectly through third countries, despite export restrictions imposed due to Russia’s invasion of Ukraine. The flow of chips through China and other nations bypasses Japanese laws regulating direct exports, raising concerns about the effectiveness of current sanctions and the need for additional measures to prevent indirect trade. How can Japan enhance its export controls to effectively prevent the indirect flow of semiconductors to Russia, what efforts can be made at an international level to discourage the evasion of export restrictions for sensitive technologies like semiconductors, and what are the implications for the semiconductor industry and global trade?
+
+Read the full article here
+
+Industry Increases Use Of Robots-as-a-Service
+
+The “as-a-service” model, popularized by software-as-a-service (SaaS), is now extending to hardware, including robotics-as-a-service (RaaS). RaaS is rapidly gaining traction as it enables companies of all sizes and industries to adopt robots more quickly and easily. By connecting with Kim Losey, CMO of Rapid Robotics, this article explores the applications of RaaS and the growing interest from manufacturers in this model. How does the adoption of RaaS benefit manufacturers in terms of addressing labour shortages and reducing the need for in-house engineering expertise, what are the advantages of cloud connectivity and remote support in RaaS, and in what other industries or applications can RaaS have a significant impact?
+
+Read the full article here
+
+Hardware Engineering News
+
+Space Factory Will Manufacture Goods from Orbit
+
+Varda Space Industries, a California-based startup co-founded by a SpaceX veteran, has achieved a significant milestone by successfully launching the “world’s first space factory” into orbit. The W-Series 1 satellite, developed by Varda, serves as a testbed for a complete manufacturing facility designed to operate in zero gravity. The company aims to leverage microgravity conditions in space to manufacture materials, including pharmaceuticals, that are challenging to produce on Earth or yield superior results in space. How does microgravity in space offer advantages for manufacturing certain materials, particularly pharmaceuticals, what challenges does Varda Space Industries anticipate in establishing and operating a manufacturing facility in space, and in what other industries or sectors could in-space manufacturing capabilities have a transformative impact?
+
+Read the full article here
+
+Conversation With ChatGPT Was Enough To Develop Part Of A CPU
+
+A remarkable achievement has been made by researchers at New York University (NYU) who have designed a semiconductor chip without using a hardware definition language (HDL). Through the power of ChatGPT, an AI language model, the team relied solely on plain English to define and describe a semiconductor processor, proving the potential of human ingenuity when coupled with AI capabilities. The chip, which was not only designed but also manufactured and benchmarked successfully, showcases the valuable role that ChatGPT can play in hardware engineering. How does the elimination of the hardware definition language (HDL) stage in chip design impact the productivity and creativity of engineers, what challenges and concerns might arise from automating parts of the chip design process, and with the ability to generate hardware description languages (HDLs) and facilitate conversations for perfecting designs, how can AI language models like ChatGPT contribute to democratizing chip design and lowering the knowledge barrier for entry into the field of electronic design automation (EDA)?
+
+Read the full article here
+
+Physical Servers or Virtual? The Ultimate Guide
+
+When it comes to choosing the right server infrastructure for your business, understanding the advantages and disadvantages of physical and virtual servers is crucial. Physical servers offer full access, customization options, and dedicated power, but they can be costly and require significant floor space and IT team support. On the other hand, virtual servers offer lower upfront costs, easier configuration, reduced labour needs, scalability, and environmental sustainability, but they may depend on external services and come with compatibility concerns. In this article, explore the pros and cons of using physical servers and virtual servers.
+
+Read the full article here
+
+Hardware R&D News
+
+New Sensor Could Protect Firefighters From Harmful Chemicals
+
+Chitvan Killawala and Umer Bakali, graduate students at the University of Miami, have developed a compact sensor that aims to safeguard firefighters from a hidden danger. Their device, no larger than a USB flash drive, can detect the real-time presence of polycyclic aromatic hydrocarbons (PAHs) in the warm zone of structural fires. PAHs are a class of chemicals formed during the combustion of various materials and are known to be carcinogenic, but existing methods of measuring PAH levels involve bulky instruments impractical for field deployment. What is the purpose of the sensor developed by Chitvan Killawala and Umer Bakali, what are polycyclic aromatic hydrocarbons (PAHs), and why are they a potential threat to firefighters?
+
+Read the full article here
+
+Wearable Monitor Detects Stress Hormone Levels Across A Full 24-Hour Day
+
+Researchers in endocrinology have developed a ground-breaking wearable device that can detect early signs of diseases related to dysfunctional stress hormone levels. This innovative technology, a result of collaborative research led by the University of Bristol, University of Birmingham, and University of Bergen, has the potential to revolutionize the diagnosis and treatment of stress hormone-related conditions. The device, called U-RHYTHM, allows for high-resolution tracking of adrenal steroid levels over an extended period, providing valuable insights into the circadian and ultradian rhythms of hormone levels during daily activities. How does the U-RHYTHM wearable device enable the measurement of stress hormone levels during normal daily activities, what are the potential implications of monitoring adrenal steroid levels in real-world settings for diagnosing and treating diseases related to stress hormone dysfunction, and how does the U-RHYTHM device provide a new understanding of healthy hormonal profiles and pave the way for personalized medicine interventions?
+
+Read the full article here
+
+Open-Source Hardware News
+
+RISC-V: The Game-Changer In Microprocessor Investments
+
+The tech industry is witnessing the emergence of a new processor architecture called RISC-V, which challenges the long-standing dominance of a few architectures in the microprocessor market. RISC-V, short for “Reduced Instruction Set Computing – Five,” is an open-source instruction set architecture (ISA) that simplifies processor design and accelerates time-to-market for companies. Its open-source nature and innovative design principles have significant implications for the industry and potential benefits for both developers and consumers. What sets RISC-V apart from traditional proprietary ISAs, how has RISC-V accelerated research and development in the processor space, and which companies have started adopting RISC-V?

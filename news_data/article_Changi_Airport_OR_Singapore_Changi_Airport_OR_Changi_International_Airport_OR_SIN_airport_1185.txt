@@ -1,0 +1,40 @@
+Title: How I failed to avoid roaming charges - Juha Saarinen
+Source: New Zealand Herald
+URL: https://www.nzherald.co.nz/business/how-i-failed-to-avoid-roaming-charges-juha-saarinen/PYS55DPS7BDD3BHK4AE6TYOM7E/
+--------------------------------------------------
+
+So, get an eSim, set it up, and when you land overseas, activate it. Leave the home connection on with data roaming turned off. Don’t answer incoming calls or texts, and put your responses over the phone’s data connection instead, as provided by the eSim.
+
+Now that’s where I scratched my head. Surely roaming would start as soon as the phone registers on the overseas mobile network? Even with wi-fi calling enabled, how would you steer all calls/texts over data?
+
+Long story short, it didn’t work. This was due to an esteemed colleague using his smartphone the wrong way, namely to make a voice call over the cellular phone network.
+
+I mean, who does that when there’s FaceTime Audio, Signal, Messenger, WhatsApp and other over-the-top apps, if you really have to speak instead of sending written messages?
+
+Anyway, there I am, helplessly watching the phone ring. On 2degrees, mobile roaming kicks in if the call goes to voicemail while you’re overseas. I obviously couldn’t send a “STOP STOP STOP!” message, and tried cancelling the calls.
+
+Eventually, as I was faffing around in the phone settings menu to switch off the home Sim, one call went through to voicemail.
+
+Sigh. I thought I would be just $8 poorer, but no, coming home I discovered roaming was turned on for the whole period I was away and not just one day. That was literally money down the drain, as I didn’t use the roaming service at all.
+
+Why would you trombone traffic to faraway NZ and then back to Singapore, if you don’t have to? Mobile roaming is such an antiquated concept; with 3G networks shutting down worldwide, it doesn’t always work unless your telco has negotiated a deal to use the newer 4G Calling, or Voice over LTE (VoLTE) for calls.
+
+One NZ appears to still have issues for customers roaming in the US trying to make calls and send/receive texts.
+
+Part of the problem is that hardly any telco has implemented “local hand-off” which arrived years ago with the 4G specification for roaming. This means you don’t send traffic via the home network, which in the case of New Zealand results in a massive roundtrip with delays that hurt performance and user experience. Instead, the traffic stays on the network you’re visiting which is much faster.
+
+Lesson learnt: prepare better at home to ensure everything goes over data connections. That’s voice, messaging, and authentication with apps.
+
+In a modern urban environment such as Singapore, there’s free wi-fi just about everywhere. At a pinch, budget travellers could probably make do with just wi-fi, and forget about buying a Sim.
+
+For this admittedly failed experiment, I used a Singtel 5G eSim for about NZ$36 in Singapore. This provided really good performance, and 100 gigabytes of data for 28 days, plus normal telco roaming in Australia, Malaysia, Indonesia and Thailand with voice, text and data.
+
+Singtel has cheaper eSim options, starting at $14.50 for 100 GB of 4G eSims. Both are easy to order online before you leave and there’s no need to visit a retail shop, groggy after a long flight, which is a major bonus.
+
+Activation of the eSim takes place in Singapore, for example using the free wi-fi at Changi International Airport.
+
+It’s fairly quick and easy to activate, although you have to provide passport details and scan your face. You get a Singapore phone number assigned, which can be handy, and it’s easy to top up the eSim with an app.
+
+That pricing is pretty sharp, and provides the high-speed data connection you’ll need as places such as Singapore are even more app-oriented than New Zealand. You’re literally expected to use smartphone apps to pay for stuff and communication.
+
+Just keep that home Sim switched off, because mobile roaming just isn’t worth it because data is where it’s at.

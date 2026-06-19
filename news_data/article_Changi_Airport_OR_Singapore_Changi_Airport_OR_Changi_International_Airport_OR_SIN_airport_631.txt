@@ -1,0 +1,65 @@
+Title: Indian Airplane Forced To Divert After Latest Bomb Hoax
+Source: International Business Times
+URL: https://www.ibtimes.com/indian-airplane-forced-divert-after-latest-bomb-hoax-3746909
+--------------------------------------------------
+
+EditionsAustralia EditionKorea EditionJapan EditionIndia EditionSingapore EditionUnited KingdomUnited States
+ doFir.push(function(){if(getCookie('nwsubl')){jQuery(".login-btn .sign-up2").hide();jQuery(".login-btn .myaccount").show()};jQuery(".login-btn .myaccount").on('click',function(e){e.preventDefault();jQuery(".login-btn ul").toggle()});jQuery(document).ready(function(){jQuery(".myaccount").add(".m-manage").each(function(){jQuery(this).attr('href','https://myaccount.ibtimes.com/manage')})})}) fqtag.fscmd.push(function(){LJS("https://users.api.jeeng.com/users/domains/V1DXygbq01/sdk/")}) googletag.cmd.push(function () { if(dfpSlots.slotobjs["top"]){ ibt_log("ADS GPT register ad slot top", Date.now()-timerStart); googletag.display("dfp-ad-top"); } });if(/top\|[0-1]\|1/.test(dfpSlots.pginfo[ibtmedia_device])) document.getElementById("ad-top-wrapper").className+=" block-sticky"  dfpSlots.vplayer=(['ibtuk','ibtus'].indexOf(site_id)>-1)?'primis player':'NoVideo';if(site_id=='ibtuk'&&oa.geo.country!='IL'&&ibtmedia_device=='mobile')dfpSlots.vplayer='NoVideo';if(/adtest=primis/.test(location.href))dfpSlots.vplayer='primis player';else if(/adtest=native/.test(location.href))dfpSlots.vplayer='ibt player';if(dfpSlots.vplayer=='primis player'){if(site_id=='ibtus'){dfpSlots.primis='117767'}else dfpSlots.primis='117814';dfpSlots.primisVideo=function(){if(dfpSlots.primisVideoLoaded)return;dfpSlots.primisVideoLoaded=1;if(adBlock=='Y')return;var d=document,gi='getElementById',s=d.createElement('script');s.type='text/javascript';s.src='https://live.primis.tech/live/liveView.php?s='+dfpSlots.primis+'&cbuster='+Date.now();if(window.ibt_avf){ibt_avf.appendChild(s);d.body.classList.add('video-primis')}else d[gi]('tvplayer').appendChild(s)}}
+if(dfpSlots.vplayer=='NoVideo'&&document.getElementById('ibt-mobile-avf'))document.getElementById('ibt-mobile-avf').remove();dataLayer[0].VideoABTest=dfpSlots.vplayer;var ibt_avf=(brW 
+
+
+Business
+
+ if(document.querySelector(".breadcrumb").innerHTML.trim()==''){document.querySelector(".breadcrumb").parentNode.parentNode.removeChild(document.querySelector(".breadcrumb").parentNode)} 
+Indian Airplane Forced To Divert After Latest Bomb Hoax
+
+
+By
+
+ Aishwarya KUMAR 
+
+
+Published 10/16/24 AT 11:06 AM EDT
+Share on Facebook
+Share on Twitter
+Share on LinkedIn
+Share on Reddit
+Share on Flipboard doFir.push(function(){var flipboard=1;jQuery(".genericon-flipboard").on('click',function(e){e.preventDefault();e.stopPropagation();if(flipboard){flipboard=0;LJ('https://cdn.flipboard.com/web/buttons/js/flbuttons.min.js',function(){jQuery(".genericon-flipboard").trigger('click')})}})}) Share on Pocket
+
+
+
+
+Air India was one of several carriers that has had to divert passenger aircraft after hoax bomb threats
+AFP
+
+An Indian passenger aircraft was diverted on Wednesday after the latest in a string of hoax bomb threats made to airline companies involving the country.
+
+The Akasa Air flight, which was flying from India's capital New Delhi to the southern city of Bengaluru, "received a security alert" and the flight was ordered to return as a "precaution".
+
+Akasa Air said the captain had followed "all required emergency procedures for a safe landing in Delhi".
+
+The flight had 184 people on board, including three infants, the airline said.
+
+Another flight, the domestic carrier IndiGo flying from Mumbai to New Delhi, was diverted to Ahmedabad in Gujarat.
+
+Zulfiquar Hasan, director-general of the Bureau of Civil Aviation Security (BCAS), told the Times of India newspaper that "Indian skies are absolutely safe" and said police were working to identify the culprits.
+
+"We are confident of tracing all those behind these threat messages and very strict action under law will be taken," Hasan told the newspaper.
+
+The Indian Express newspaper reported 12 domestic and international flights have received bomb threats since Monday, including some messages posted on social media.
+
+India's aviation minister Ram Mohan Naidu said in a statement that the police had "arrested a minor responsible for issuing bomb threats targeting three flights".
+
+"All others responsible for the disruptions will be identified and duly prosecuted," the statement added.
+
+Singapore scrambled fighter jets on Tuesday to escort an Air India Express plane after an email warning about a possible bomb on board, the city-state's defence minister said.
+
+Two F-15 jets were deployed to escort the aircraft "away from populated areas" before it landed safely at Changi Airport late on Tuesday.
+
+Air India also said on Tuesday that one of its planes from New Delhi to Chicago had to make an emergency landing in Canada because of "a security threat posted online".
+
+That flight also landed safely at Canada's far northern city of Iqaluit.
+
+Canada's armed forces later airlifted the passengers to Chicago, Canada's Minister of Defence Bill Blair said on X.
+
+Similar hoaxes were received this week by India's low-cost operator IndiGo regarding two flights that were to take off, to Jeddah in Saudi Arabia and to Muscat in Oman, according to Indian media.

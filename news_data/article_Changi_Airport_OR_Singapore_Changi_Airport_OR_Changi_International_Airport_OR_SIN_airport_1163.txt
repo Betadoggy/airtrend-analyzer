@@ -1,0 +1,14 @@
+Title: Major IT outage hits airlines, companies worldwide including Singapore, US and Australia
+Source: CNA
+URL: https://www.channelnewsasia.com/world/it-outage-microsoft-cloudstrike-australia-us-airports-flights-disrupted-banks-4490741
+--------------------------------------------------
+
+SINGAPORE: A tech outage triggered by a software update upended businesses worldwide on Friday (Jul 19).
+
+CrowdStrike, one of the world's most popular cybersecurity firms, said one its updates caused Microsoft Windows operating systems to crash and display a blue screen, known informally as the Blue Screen of Death.
+
+The US company said it was not a security incident or cyberattack and that a fix has been issued.
+
+IT outages took place across the world, affecting flights, banking and company operations in countries such as Singapore, the United States, the United Kingdom, India and Australia.
+
+Here's a recap of what happened.

@@ -1,0 +1,8 @@
+Title: AirAsia’s Tony Fernandes wants Microsoft compensation for the CrowdStrike outage: ‘If I delay my flight, you would come after me for a refund’
+Source: The Star Online
+URL: https://www.thestar.com.my/tech/tech-news/2024/07/25/airasias-tony-fernandes-wants-microsoft-compensation-for-the-crowdstrike-outage-if-i-delay-my-flight-you-would-come-after-me-for-a-refund
+--------------------------------------------------
+
+On July 19, a flawed update from US cybersecurity company CrowdStrike crashed Windows PCs all over the world, with computers displaying the dreaded “blue screen of death”.
+
+The outage hit global airlines particularly hard, disrupting thousands of flights as staff scrambled to get systems back online. Some airlines, like US carrier Delta Air Lines, are still struggling.

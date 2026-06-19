@@ -1,0 +1,110 @@
+Title: August/September in KDE Itinerary
+Source: Volkerkrause.eu
+URL: https://www.volkerkrause.eu/2023/09/29/kde-itinerary-august-september-2023.html
+--------------------------------------------------
+
+Since the last summary two months ago KDE Itinerary got a new top-level navigation bar, more editing capabilities, more export and sharing options and is finally back in the Google Play store.
+
+New Features
+
+The most noticeable change this time is probably the UI work by Mathis Brüchert. This includes a new bottom navigation bar for quickly switching between the timeline, the journey search and the current ticket when facing a ticket check.
+
+There’s also a new journey section design, which is used in the timeline, in transfer elements and transfer searches, for journey searches and the journey live status page. This doesn’t only look much better, it also includes additional relevant information such as the length of a trip and the train destination.
+
+And that’s just the changes that have been integrated already, more is still on the way.
+
+Adding and editing
+
+There have been numerous requests for being able to manually add entries to Itinerary’s timeline. This is now also possible for hotel and restaurant reservations, events, boat or ferry trips as well as program memberships such as DB BahnCard or SNCF Carte Advantage.
+
+As editing existing elements is a prerequisite for this we also have numerous improvements there:
+
+Program memberships can now be assigned to train tickets.
+
+Booking details are now editable for all types.
+
+More edit fields now have inline input validation and show more information about invalid input.
+
+Exporting trips
+
+It is now possible to export a single trip rather than just your entire dataset, using Itinerary’s own data format. This is useful for sharing a trip between two devices for example.
+
+To support that usecase the Linux version of Itinerary can also directly send an exported trip to another device via KDE Connect.
+
+Distribution
+
+After not having been allowed to update Itinerary in the Google Play store due to its feature to store health certificates we finally managed to get updates in there again.
+
+For the nightly Android builds some disruptions have to be expected in the weeks ahead as the KDE PIM and KDE Gear codebases we built on top are in the process of completing the transition to Qt 6. That as such is great and should fix a few long-standing issues for Itinerary as well, but at this point our build infrastructure isn’t able to produce Qt 6 based Android packages yet.
+
+Therefore the nightly builds are currently a mix of libraries from the 23.08 stable branches and the very latest development version of Itinerary itself. This means new features needing newer libraries wont be available just yet there.
+
+Infrastructure Work
+
+Costs/Prices
+
+A feature that has been repeatedly requested is cost tracking for trips, be it for producing expense reports or for managing your vacation budget.
+
+To enable this eventually we now have support for costs in the data model and the travel document extractors. While some ticket barcode formats contain this directly in machine-readable form, in most cases the price of a booking has to be extracted from the human readable text.
+
+In the bulk of the cases this is covered by a generic extractor that can identify a price and its currency in a given text. This has to consider various ambiguities (e.g. “€” uniquely identifies a currency, “$” does not, at least not without further context), different number formats and differences in currency subdivisions (e.g. not all currencies have a 1/100 subdivision).
+
+The extracted information is also shown on the details pages in Itinerary and can be edited there. Prices in foreign currencies can also be shown converted to your home currency.
+
+This is just the foundation though, we yet have to implement per-trip cost aggregation. That’s not entirely straightforward as we need to consider various cases of what a price refers to (one leg, multiple legs, one way or return, one or all travelers, etc).
+
+Texture fills for the map renderer
+
+The map renderer we use for the indoor train station maps now has support for textured polygon fills. That’s mainly useful for better outdoor rendering, closer to what you are used to from the default OpenStreetMap style.
+
+This is part of an effort to rebase our indoor map styles on top of the OSM default style, which should reduce maintenance and developement work for us as well as produce higher quality results. One big still missing piece for this are textured line fills though.
+
+Fixes & Improvements
+
+Travel document extractor
+
+New or improved travel document extractors for Aer Lingus, Air France/KLM, Amtrak, British Airways, Cinemaxx, cooltix.hu, DSB, Iberia, Lufthansa, MÁV, ÖBB, premiumkino, Renfe, Slovak Lines, SNCF, Sprint Airlines, and ZSSK.
+
+Improved generic extractors for ERA FCB, RCT2 and RSP-6 (bug 473326) tickets.
+
+Fixed wrong ticket token type prefixes in a few extractor scripts (bug 473325).
+
+Fixed online import of unidirectional SNCF bookings (bug 474197).
+
+Fixed online import of buses in DB online tickets. However DB online ticket import is currently non-functional for new tickets, following DB migration to a new ticketing backend. This is likely to return once the dust has settled and their own apps work properly again as well.
+
+Fixed detection of multiple barcodes in a single full-page raster image, which fixes e.g. importing of VVS network tickets.
+
+All of this has been made possible thanks to your travel document donations!
+
+Indoor map
+
+Better map area selection when looking at something else than a train station or airport.
+
+Preserve order of translated lists in the amenity details view.
+
+Render more details on the map (waterfalls, public book cases, tourist attractions, showers, luggage lockers, consulates, food courts, airport baggage claim belts).
+
+Show more information for certain map details (co-working spaces, diplomatic offices).
+
+Improve diagnostics for SSL errors (bug 472851).
+
+Itinerary app
+
+Added new permissions needed for showing notifications on Android 13 (bug 474643). This still needs to be enabled manually though, automatic runtime permission requests remain to be implemented.
+
+Fixed journey queries between France and Spain finding no results.
+
+Fixed rendering glitches in certain Apple Wallet passes.
+
+Fixed wrong progress display on the way to the very first stopover in the live status page.
+
+Support adding boat/ferry trips from public transport searches.
+
+Fixed sunset/sunrise computation for switching between day and night weather icons.
+
+Fixed overly aggressive live data update polling in some cases.
+
+Include heading, speed and altitude in shared live locations over Matrix
+
+How you can help

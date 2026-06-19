@@ -1,0 +1,48 @@
+Title: The FAA Is Blocking Remote Towers Used Worldwide—Even Though They’d Help Solve The Controller Shortage For A Fraction Of The Cost
+Source: Viewfromthewing.com
+URL: https://viewfromthewing.com/the-faa-is-blocking-remote-towers-used-worldwide-even-though-theyd-help-solve-the-controller-shortage-for-a-fraction-of-the-cost/
+--------------------------------------------------
+
+Marc Scribner and Ginger Evans have a new report on remote air traffic control towers, looking at why the U.S. won’t adopt them even as they’re being used successfully around the world.
+
+Remote towers would help a lot with the air traffic control shortage. They’re in use around the world, Congress has told the FAA to start using them, but the agency’s intransigence has blocked efforts for years.
+
+These are facilities where controllers are not physically on-site at the airport. They use high-definition cameras, sensors, and communication links to transmit a real-time 360° view of the airport environment to controllers sitting at a n air traffic control center in another location.
+
+They have multiple panoramic screens and integrated displays that replace the out-the-window view, augmented by tools like radar feeds, night-vision cameras, and object tracking that enhance a controller’s situational awareness. Operations are basically the same.
+
+Norway’s Bodø Remote Tower Centre
+
+Digital visuals can improve what controllers see, especially in low-light or bad weather. The remote tower center can also serve as a backup if a tower is evacuated or out of service (if Newark controllers walk off the job!).
+
+Physical proximity no longer matters. Controllers don’t have to sit at the airfield, they can work in whatever metro areas make sense. They don’t have to be deployed to low-volume airports, either.
+
+Sweden launched the world’s first remote tower at Örnsköldsvik Airport in 2015 and has built centers in Sundsvall and Stockholm that control eight airports. Norway operates 11 airports from a single center at Bodø. A single controller will handle multiple low volume airports from that center.
+
+London City Airport has been managed by a remote tower since 2021, with controllers located at NATS’s Swanwick center. Singapore’s Changi Airport has been developing a digital tower concept, and Dubai’s Al Maktoum International (DWC) is planning remote tower capabilities. Nav Canada is working on a digital tower system for Kingston Airport. There are at least 41 remote towers in operation or in advanced development across 11 countries, and 10 remote tower centers that each manage multiple airports. The U.S. has none even though the FAA pioneered the research for them.
+
+The FAA spent $73 million on a 157-foot tower at Teterboro, NJ (completed earlier this year) and $94 million on a new 370-foot tower in Charlotte in 2022. Replacement towers cost tens of millions. But a full remote tower setup can run $3–4 million.
+
+Congress noted this in the recent FAA reauthorization, finding that remote towers significantly reduce per-airport expenses and can help more small airports afford tower services. Why pour $17 million into a 115-foot concrete tower (the FAA estimate for Kissimmee, Florida) when you can get the same digital capability at a fraction of the cost – with safer operations and easier staffing?
+
+Each staffed tower requires a dedicated crew of controllers and supervisors, even if the airport only sees a handful of flights at off-peak hours.
+
+Remote towers centralize personnel, allowing smarter scheduling and multitasking. Instead of three separate single-controller towers each needing their own supervisor and support, you can have one management team overseeing multiple operations from one site. Controllers at a remote center can cover for each other more easily, reducing downtime from breaks or absences.
+
+For late-night shifts, where safety rules require at least two controllers on duty even at sleepy airports, a central facility can meet that redundancy without having two people sitting idle per tower all over the map.
+
+And they can be located in a lower cost of living area, or a more desirable place to live, making recruiting easier.
+
+Many smaller U.S. airports today simply lack control towers entirely, meaning pilots are on their own to sequence landings. That limits the utility of those airports. Remote towers make it possible to give these airports tower services, bringing the safety and commercial benefits of controlled airspace to places that could never afford, say, $100 million.
+
+Remote towers mean more airports can get ATC coverage, for less cost, with better technology and more flexible staffing. That’s why the world is moving this direction.
+
+However, the FAA has been slow, and even obstructive. The FAA basically ignored remote towers, with two state projects launching the concept. Leesburg, Virginia was a successful pilot, performing flawlessly for four years, but the FAA pulled the plug in 2023 anyway. That’s meant a downgrade in safety and capacity for the growing aviation community there.
+
+At the time of final certification, FAA Tech Ops treated the system as if it were a brand new aircraft design, even demanding a “reverse engineering” of the already-working system to justify its safety. And they demanded that the vendor pick up the entire remote tower system and install it at the FAA’s Technical Center in Atlantic City for testing. Saab withdrew from the project under these conditions, costs and timeline.
+
+Air traffic control has been run one way for decades, and any deviation (that could upend staffing assignments and procurement projects) gets killed. What industry can get away with ignoring proven safety technology that can save money and improve service like this? The FAA can because they are their own regulator. FAA lethargy and turf battles killed a safety technology that Europe is advancing far more aggressively.
+
+Last year’s FAA Reauthorization bill, though, included bipartisan language requiring the FAA to reate a clearly defined process for system design and operational approval of remote/digital towers, and publish milestones for testing and deployment and requires the FAA to assess the safety benefits of a remote tower against no tower at all. It also directs FAA to allow remote tower testing at multiple field locations rather than requiring setup in Atlantic City and shouldn’t scrap or duplicate prior testing completed in Leesburg and Fort Collins, Colorado.
+
+There’s something to rethinking how air traffic control works entirely in a digital world. But if we’re realistic, and can only expect incremental improvement, surely this is one we can accomplish?

@@ -1,0 +1,62 @@
+Title: Sustainable business and finance: Why NZ should take inspiration from Singapore for a resilient, lower-carbon economy - Tracey Ryan
+Source: New Zealand Herald
+URL: https://www.nzherald.co.nz/business/inspiration-from-se-asia-for-a-resilient-lower-carbon-economy-tracey-ryan/Z5LCQHLJYVCCFE57B4MNDFFIHA/
+--------------------------------------------------
+
+The ability to navigate ambiguity, make connections, and develop smart solutions is going to be critical as we seek to tackle some of the complex problems we face as a society. Problems like how to simultaneously adapt to the reality of climate change and chart a path to net zero, while meeting the ever-growing need for data and energy in a decarbonised, AI-driven economy.
+
+Aotearoa New Zealand has unique advantages and challenges that require tailored solutions, but looking to other jurisdictions can provide ideas, inspiration and resolve.
+
+Consider Singapore, a country revered for “getting things done” when it comes to infrastructure, but which faces significant natural challenges due to its small size, high density and low-lying land mass. Spending time there recently, I was blown away by the advances in infrastructure, progress in adaptation and development of biofuels and offshore renewables.
+
+Bold moves
+
+Climate change could see sea levels rise up to one metre by 2100 in Singapore, according to Singapore’s Green Plan, which outlines its national agenda for transitioning to a lower-carbon economy, and adapting to climate change.
+
+Safeguarding against rising sea levels and temperatures is a huge focus for the Government, which has pegged SGD100 billion ($125.5b) for investment in adaptation and resilience projects over the next 100 years.
+
+One of the most exciting initiatives is the “Long Island Project”, which seeks to address flood risk and sea level rise in the East Coast area. Flooding already occurs here when high tides coincide with heavy rain, disrupting the operation of critical infrastructure, like Changi Airport and placing communities at risk.
+
+The solution? Reclaiming a series of new islands in front of East Coast Park. This will serve multiple needs, including releasing land for future housing and recreational space; a new reservoir for water resilience; protection against sea level rise and flood resilience. Systems thinking in action.
+
+A bright opportunity
+
+Limited space, population density, high energy demand and a desire for self-sufficiency are also driving Singapore’s approach to the energy transition.
+
+Of the country’s current energy supply, 94% comes from gas but a concerted renewables strategy is in place to change that.
+
+Singapore is already one of the most solar-dense cities in the world and aims to deploy at least two gigawatts of solar energy by 2030, generating enough energy to meet the annual electricity needs of around 350,000 households.
+
+Floating solar is proving a smart choice, leveraging existing water reservoirs to house solar farms, offering a space-saving solution that eliminates the need to acquire land, and straightforward execution - as the fields of panels can be simply assembled on land and moored into place.
+
+Importing energy through regional power grids and storing it in Battery Energy Storage Systems (BESS) helps maintain grid reliability given the intermittent nature of solar.
+
+Aurecon is working with clients in Singapore and across Asia to deliver floating solar schemes, including two farms for Singapore’s national water agency PUB (Public Utilities Board).
+
+The floating approach also keeps the panels at lower temperatures, enabling them to maintain maximum energy output for longer, and shade from the panels reduces evaporation in water reservoirs.
+
+New Zealand doesn’t have Singapore’s space constraints, so floating solar isn’t such a strong focus, however land-based solar farms are scaling up rapidly.
+
+Solar, wind and hydro will play a key role in helping us move from an 85% renewable energy profile to 98% by 2030. With a range of projects in development, we could have close to 1 gigawatt (GW) of solar in operation by the end of 2025.
+
+It’s also encouraging to see nine solar projects listed in the Fast Track consenting legislation. However, grid connection, and building capacity into the system to meet peak demand, remain challenging.
+
+Capacity a challenge in data-hungry economy
+
+The continued expansion of AI, cloud computing and e-commerce is driving growing demand for data centres, with the global data centre market expected to reach US$554.4b ($935.2b) by 2030, from US$192.63b in 2021.
+
+Singapore already has more than 80 data centres. However, land and energy constraints have seen operators looking for alternative locations like Malaysia and Indonesia. In fact, Singapore had a moratorium on all new data centres between 2019 and 2022. Although this has recently been lifted, it is in a limited capacity with strict assessment criteria, and applications must be endorsed by government.
+
+New Zealand’s data centre market is in a state of slight pause, however with the need for data in a knowledge-based economy, that will certainly grow, with the potential to add up to 50% to Auckland’s energy demand. This means that we need a joined-up strategy around demand and supply. New Zealand has two distinct advantages in this sense — our renewable energy mix, and our relatively small size, which gives us the ability to be agile and act cohesively.
+
+Integrated and cohesive strategies
+
+With the urgent need to transition to a net zero future, countries must develop plans to balance the growing need for data and energy, while adapting to the realities of climate change. These are not unique problems, and there is always value in sharing experience and tactics with other countries.
+
+Cohesive and integrated thinking will be the key.
+
+Singapore is making progress due to meticulous planning, aligned to national goals. They know they need a quick transition to a green future, clear strategies, and investment in R+D to develop new technologies, such as biofuels, for shipping at scale. Most impressively they make bold decisions.
+
+New Zealand’s renewable energy mix, relative low-density and available space give us a natural advantage.
+
+The question is, what is our plan for a net-zero future, how will we get there and how fast?

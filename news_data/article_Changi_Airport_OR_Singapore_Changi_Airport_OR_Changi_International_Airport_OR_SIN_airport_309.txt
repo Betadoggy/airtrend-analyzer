@@ -1,0 +1,54 @@
+Title: High Court dismisses Changi Airport Group's appeal for tax savings on S$272 million spent on assets
+Source: CNA
+URL: https://www.channelnewsasia.com/singapore/high-court-dismisses-changi-airport-groups-appeal-tax-savings-s272-million-spent-assets-4722526
+--------------------------------------------------
+
+SINGAPORE: The High Court dismissed an appeal by the operator of Changi Airport to claim capital allowance on S$272 million (US$206 million) it spent on assets over three years.
+
+Changi Airport Group, which was licensed to manage Changi Airport in 2009, made claims for capital allowances under the Income Tax Act in 2011, 2012 and 2013 for capital expenditure in respect of certain assets - two runways, various taxiways and aprons.
+
+Capital allowances are deductions claimable for the wear and tear of certain fixed assets. The amount can be deducted against chargeable business income, lowering the corporate taxes payable.
+
+CAG's capital expenditure in respect of these assets amounted to S$272,575,162 across the three years. However, the Comptroller of Income Tax denied the capital allowance claims.
+
+At the centre of the dispute was how both sides disagreed on whether the assets were considered "plants". Assets that fall under the definition of plant will qualify for capital allowances.
+
+According to the Inland Revenue Authority of Singapore (IRAS), a plant refers to the apparatus with which a person carries on a trade, business or profession. This is as opposed to the premises from which the trade, business or profession is carried on.
+
+CAG contended that the assets were a plant within the meaning of the Income Tax Act. The Comptroller disagreed and granted CAG industrial building allowances on the basis that the assets were structures.
+
+CAG later appealed against the Comptroller's assessment before the Income Tax Board of Review, which determined that the runways, taxiways and aprons were not plants which qualified for capital allowances.
+
+The matter then came before Justice Choo Han Teck in the High Court.
+
+In a judgment dated Nov 1, Justice Choo said he agreed with the board that the basic function of the runways, taxiways and aprons is that they are structures which "(allow) for aircraft to traverse and rest".
+
+"Accordingly, it is the premise on which the appellant’s trade occurs, as opposed to an apparatus used for the trade," Justice Choo said.
+
+ARGUMENTS
+
+CAG was represented by lawyers Tan Kay Kheng, Tan Shao Tong and Goh Ziluo from Wong Partnership, while the Comptroller was represented by IRAS lawyers Bjorn Lee Long Jin and Flora Koh Swee Huang.
+
+Mr Tan Kay Kheng, the lead lawyer for CAG, argued that the board had erred in finding that the runways, taxiways and aprons were more appropriately classified as structures despite accepting their operational role in the business.
+
+Both sides had earlier agreed that the runways, taxiways and aprons were "designed to facilitate and ensure the safe landing, taxiing, and take-off of aircraft" at Terminals, 1, 2, 3 and 4 of Changi Airport.
+
+He also submitted that the runways, taxiways and aprons were “core and critical” to the business, as they performed critical functions in facilitating the safe landing, rollout, take-off, and ground movement of aircraft.
+
+These assets also provided additional functions such as being navigational instruments, preserving the safety of aircraft and preventing skidding, he argued.
+
+However, Justice Choo agreed with the Comptroller, which said in its submissions that the function of navigation and preserving safety was primarily performed by aerodrome equipment, for which capital allowances were already granted.
+
+The judge agreed with the board that the basic function of the runways, taxiways and aprons is that they are structures which allow aircraft to traverse and rest, and are hence the premise on which the trade occurs rather than a plant.
+
+"In this regard, Mr Tan submits that the (runways, taxiways and aprons) should be considered the 'very tools of trade' because it is an integral part of the means required for the trading operations of the appellant.
+
+"However, the focus of the inquiry as to the exact operational role of the asset is not on the extent to which it is functional, or integral to the taxpayer’s business," said Justice Choo.
+
+He said that the runways, taxiways and aprons' integral function did not shed light on whether they functioned as a plant or structure.
+
+In his judgment, Justice Choo also noted that the board was the "primary trier of fact" as it had the benefit of hearing witness testimonies and visiting relevant sites, and was a specialist tribunal with subject-matter expertise.
+
+"Therefore, as long as there is reasonable ground for the Board’s findings, the court should be slow to intervene," he added.
+
+He disagreed with CAG that the decision made by the board was unreasonable, or that it erred in law, and therefore affirmed the board's finding.

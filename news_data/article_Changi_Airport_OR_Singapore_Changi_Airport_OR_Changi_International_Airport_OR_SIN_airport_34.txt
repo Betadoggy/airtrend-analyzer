@@ -1,0 +1,62 @@
+Title: Why consumers calling the shots on how their data is used will transform the next digital decade
+Source: Business Insider
+URL: https://www.businessinsider.com/sc/consumer-control-of-data-will-transform-next-decade
+--------------------------------------------------
+
+By Sandeep Malhotra, executive vice president, products & innovation, Asia Pacific, Mastercard
+
+Companies that succeed in harnessing the power of data will be the leaders of the next decade and will help enrich the lives of billions of people. But they will do so by allowing people to own and control their own data.
+
+Asia Pacific is the perfect region to talk about the future, as experts and analysts believe we are currently living through the "Asian Century." In Southeast Asia, smartphone use is booming and there is a public commitment to digital infrastructure, commonalities found in countries across Asia.
+
+The digital economy has also created a shared regional community. For example, you can travel from Singapore to Thailand, buy a cup of coffee with your digital wallet, and have the transaction debited in near real-time from your Singaporean bank account.
+
+But to think big, we must start small. We must begin with the most basic building block of the digital economy — data.
+
+Data has been historically misused by businesses, and misunderstood by consumers
+
+Up until now, too many businesses have taken advantage of data. Many companies have assumed it's theirs to do whatever they want with. As consumers we often give away our data for free, without knowing why, what happens with it, or that we've even given it away. We give away something valuable without being compensated.
+
+Data is a waste when it's used mindlessly like this. But a smart, well-governed strategy for data and its usage will empower both people and businesses.
+
+The different types of data are changing the way we interact with the physical and digital worlds
+
+Data can create a vibrant portrait of a person's life, their behavior, and their preferences. As such, it's a powerful thing. In the digital economy, there are broadly three different types of data: data of identity, data of places, and data of experiences.
+
+Firstly, data of identity is the information that represents how we identify ourselves and how organizations verify who we are. Data is used as authentication in a growing number of industries, including finance and healthcare. Government services, like filing taxes or collecting benefits, are also digitizing.
+
+This is already having an impact on our physical world. For example, when you fly into Singapore, your passport is a biometric device linked to your fingerprints, with a photograph linked to your face. That information is picked up by facial-recognition systems at Changi Airport, allowing you to enter the country.
+
+Secondly, data of places can be used to geolocate consumer behavior, collecting information on where you shop, drive, and live. This is powerful and sensitive information.
+
+Finally, the speed and convenience of data of identity and places creates data of experiences, which connects us with a community. For example, after you've landed at Changi Airport, data can instantly find you places to go, groups to join, and things to do in Singapore.
+
+Data is 24/7/365 and the digital economy is always on. This has changed our behavior and expectations, meaning goods and services need to be instant and on-demand.
+
+Where does artificial intelligence come in?
+
+A new stage of AI entered our collective conscience in the first half of 2023. Programs like ChatGPT can generate realistic, human-sounding, written conversations. Generative AI like this can take an input, like a written description, and create a new kind of output.
+
+But when AI goes wrong, drawing incorrect conclusions from its data inputs, it can do real damage. For example, in healthcare in the US, AI has made dangerous recommendations for people of color, such as favoring white patients over Black ones. Currently, most data on the internet relates to white men. People of color, women, and marginalized groups are not well represented. To change this, we must look at the data.
+
+Data is the fuel that powers these AI systems; its quality directly impacts their reliability. So it's important to critically examine potential biases within the data, because AI is most effective when combined with human intelligence and expertise in a system of checks and balances.
+
+Data will be a very powerful tool, but only if companies harness it correctly
+
+Machines are getting better at processing data, but they cannot feel, and they do not have ethics.
+
+When it comes to data, we are currently in a "phase of collection," where NFT tickets can contain data to show the holder gets VIP entry or access. So far these have been confined to digital experiences, but soon they will become part of the physical world.
+
+In the coming years, we will enter a "phase of consent" that will increase trust. People will have a say in how their data is used and what they get in return. At the moment, we are often confronted with a long, complicated list of terms and conditions when we give away our data. But soon, we will be able to be more specific about what data we want to give away and for which uses.
+
+Finally, by the close of the decade, we will enter the "phase of commercialization." Data will become a way of paying for goods and services, or of receiving rewards and discounts, online and offline.
+
+For example, take a visit to a sporting event. When the player gets the ball, you could see his stats scrolling by in your VR glasses. You could order a snack from your seat. You might go into a fan zone hosted by a hotel in a virtual-reality world, where your avatar could trade digital collectibles, or meet your friends' avatars. Back in the physical stadium, you could buy a team jersey — and have a stadium drone deliver it to your seat.
+
+In this world, ethics and safeguards will be essential. At Mastercard, ethics will be expressed in good governance, cutting-edge technology, open finance, collaboration, and in giving consumers and users the tools to control their own data.
+
+These changes need to be embraced in how companies handle data, but creating trust is key. Most importantly, it's not companies that should control data — it's consumers.
+
+Companies will need to hold it, protect it, and facilitate the services that others create around it.
+
+Discover more insights from Mastercard.

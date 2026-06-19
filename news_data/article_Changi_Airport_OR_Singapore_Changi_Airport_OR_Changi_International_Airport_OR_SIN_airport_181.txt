@@ -1,0 +1,176 @@
+Title: Complete guide to United’s revenue, award and upgrade fare classes
+Source: The Points Guy
+URL: https://thepointsguy.com/guide/united-fare-classes/
+--------------------------------------------------
+
+The recent changes to United Airlines' MileagePlus program are a mixed bag for customers. For one, the carrier raised thresholds for each tier — Silver, Gold, Platinum and 1K — by roughly 25%, making it harder to achieve Premier status across them. At the same time, however, United has made the perks that come with achieving status easier to redeem — specifically regarding PlusPoints, the airline's flexible upgrade currency for Premier status holders.
+
+The MileagePlus program has a variety of fare classes, and if you're a beginner to the points and miles game, they can be confusing and overwhelming to figure out at first.
+
+United uses different letter codes within its reservation systems to label different buckets of tickets. While we commonly refer to them as economy, premium economy, business class or first class, the reservations systems use designators such as Y, O and J, among others.
+
+Let's consider the United Polaris cabin. Regardless of the seat they choose, passengers in this cabin may have booked their tickets in different fare classes. For example, a passenger in Seat 1A might have booked the "I" class, which typically is the fare class for booking a "Saver Reward" ticket using miles. Another passenger in Seat 8L might have booked a full-fare (cash) "J" ticket. While the inflight experience will remain the same, important distinctions remain between the two.
+
+Understanding fare classes is essential for frequent United flyers as they affect mileage and Premier qualifying point earnings, which are tied to the price of your ticket. For instance, a basic economy passenger with an "N" ticket will earn significantly fewer miles than a business traveler with a full-fare "Y" ticket.
+
+Paying attention to fare classes is important if you're looking to get an upgrade to a higher cabin. An upgrade from economy, the "W" fare class, to Polaris business class requires 40 PlusPoints, while lower-priced fare classes could require double that amount to get bumped on long-haul flights.
+
+These fare class codes also apply when making flight changes. If only a higher fare class is available, you may need to pay the price difference, even when using United's same-day-change policy. Therefore, it's crucial to familiarize yourself with these codes.
+
+Let's take a look at how United breaks them down.
+
+Revenue fare classes
+
+United uses many different fare classes for standard revenue tickets. These letters apply to paid tickets booked directly with United, but they also apply to reservations made via credit card travel portals — including Chase Travel™ and American Express Travel.
+
+To better understand these fare classes, go to the United website and select Expert Mode in your profile settings.
+
+This will allow you to see the complete list of fare classes when searching for paid itineraries on United-operated flights, like this flight below from Miami International Airport (MIA) to Munich Airport (MUC). Note that this setting can sometimes be disabled automatically and may require you to reactivate it when you revisit.
+
+The list of available fare classes includes paid tickets, upgrades and awards, all mixed in.
+
+Starting with revenue fares, here's how it breaks down:
+
+First/business class
+
+J: Full fare
+
+C: High fare
+
+D: High fare
+
+Z: Discounted fare
+
+P: Deepest-discounted fare
+
+Premium Plus
+
+O: High fare
+
+A: Discounted fare
+
+R: Deepest-discounted fare
+
+Economy
+
+Y: Highest full fare — regional instant upgrades for all elite members when PN is available (or PZ if Premier 1K)
+
+B: Full fare — regional instant upgrades for all elite members when PN is available (or PZ if Premier 1K)
+
+M: High fare — regional instant upgrades for Premier 1K when PZ is available
+
+E: High fare
+
+U: High fare
+
+H: High fare
+
+Q: Discounted fare
+
+V: Discounted fare
+
+W: Lowest standard Polaris-upgrade-eligible fare
+
+S: Deep-discounted fare
+
+T: Deep-discounted fare
+
+L: Deep-discounted fare
+
+K: Deep-discounted fare
+
+G: Deepest-discounted fare
+
+N: Basic economy on domestic and short-haul international flights
+
+Notice that the last fare class you see for this ticket in the above example is "K."
+
+In the following itinerary from San Francisco International Airport (SFO) to Singapore Changi Airport (SIN), you'll notice all the previous fare classes along with "G" and "N," which are United's deepest-discounted class and its basic economy class, respectively.
+
+When you book United tickets, you'll often see multiple prices for the same economy fare class. Domestic and short-haul international flights offer an "upgrade" option to convert a discounted fare into a fully refundable one. Meanwhile, long-haul international flights usually have three different options for the lowest-priced economy fare class:
+
+Basic economy (limited perks)
+
+Economy (standard perks)
+
+Flexible economy (standard perks on a fully refundable fare)
+
+Pay close attention to the ticket you book to know exactly what to expect.
+
+How fare classes affect partner mileage rates
+
+When you book United flights via United's website, you earn MileagePlus miles based on the price of your ticket. However, if you opt to credit these flights to a partner program, such as Air Canada Aeroplan, the miles are typically earned based on fare class or distance flown.
+
+Let's use Air Canada Aeroplan as an extended example. Here's the accrual chart for United-operated flights credited to your Aeroplan account:
+
+In the above flight from San Francisco to Singapore, Great Circle Map calculates the distance as 8,446 miles. Booking a ticket in the "S" fare class would accrue Aeroplan points at 50% of said distance — so you'd take home 4,223 points. This is notably higher than the 1,975 United miles you'd earn with United MileagePlus.
+
+Using the same chart, the Miami-to-Munich flight is calculated at 5,007 miles. A "T" fare class ticket would earn 2,950 miles with MileagePlus, a notable improvement over the 2,500 points you would earn with Aeroplan.
+
+Related: United's best-kept elite status secret: How to earn PQPs faster with partner flights
+
+Upgrade fare classes
+
+United also has different fare classes for upgrading to a higher cabin. This includes travelers booked in economy who want to upgrade to Premium Plus or Polaris business class, as well as ticketed passengers in Premium Plus who want to snag a business-class seat. These can also vary depending on your United elite status tier.
+
+First/business class
+
+PN: Reserved for Global Services members, providing instant upgrades and mileage redemptions for Premier 1K customers on eligible full-fare economy tickets
+
+PZ: Available for Premier Platinum and 1K members using PlusPoints or mileage awards; also applies to Complimentary Premier Upgrades
+
+Premium Plus
+
+RN: Upgrades for all members
+
+Upgrade-eligible fare classes
+
+While these upgrade classes are fixed, the price you'll need to pay to upgrade is not, as it depends on the revenue fare class you book. Passengers with tickets in the "W" fare class or higher can use 40 PlusPoints to upgrade to Polaris business class on eligible international flights. However, tickets booked in S, T, L, K or G fare classes require 80 points for the upgrade.
+
+All paid Premium Plus fares are eligible for Polaris upgrades at 30 PlusPoints, and all regular economy fares can be upgraded to Premium Plus for 20 PlusPoints.
+
+Note that United's basic economy fares — which book into the N fare class — aren't eligible for any upgrade.
+
+Related: Why Premium Plus and higher fare classes are the secret to United upgrades
+
+Award fare classes
+
+Now, let's discuss award tickets. There are nine fare classes for mileage tickets, and the rates can differ significantly among the codes. As noted above, you can view all fare class availability by enabling Expert Mode. From there, you'd initiate a revenue search instead of selecting "Book with miles" on United's website.
+
+Here's a breakdown of United's award fare classes:
+
+First/business class
+
+JN: Everyday award for all members (dynamic pricing)
+
+IN: Saver award for Premier Platinum and 1K members
+
+I: Saver award for all other customers and partner redemptions
+
+Premier Platinum, 1K and Global Services members have expanded access to business- and first-class saver awards in the IN fare class on United-operated flights, offering greater availability than standard saver awards in the"I" fare class. These additional award seats are only visible when logged in to an eligible MileagePlus account.
+
+As a general rule of thumb, United typically releases more seats to the "IN" fare than the "I" fare (the standard fare class for business-class and domestic first-class saver awards), so Premier Platinum and 1K members will get more choices.
+
+Just remember that only "I" inventory is bookable using rewards from partner programs like Air Canada Aeroplan and ANA Mileage Club.
+
+Read more: The best websites to search for Star Alliance award availability
+
+Premium Plus
+
+ON: All awards (dynamic pricing)
+
+Economy
+
+YN: Everyday award for all members (dynamic pricing)
+
+XN: Saver award for elite members and select credit card holders
+
+X: Saver award for all other customers and partner redemptions
+
+If you're the primary cardholder of a United℠ Explorer Card (see rates and fees), United℠ Business Card (see rates and fees), United Quest℠ Card (see rates and fees) or United Club℠ Card (see rates and fees), you can access expanded economy-class saver awards, giving you access to the XN fare class. This also applies to all United elite members — including Premier Silver and Premier Gold members. United often releases more seats to the XN fare than the X fare (the standard fare class for economy-class saver awards); however, like with business class, only X inventory is available using partner programs.
+
+Bottom line
+
+While navigating rewards programs like MileagePlus can be confounding at times, frequent flyers should familiarize themselves with fare classes. Understanding their meanings will help make the booking process and earning credit from flights much easier.
+
+While you don't need to memorize all the fare classes immediately, don't forget to enable Expert Mode on United's website. This will grant you access to this valuable information whenever you log in, whether through the airline's website or mobile app. Keep in mind that occasionally the website may disable it — so you may have to go back into your settings and reset it.

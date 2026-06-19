@@ -1,0 +1,30 @@
+Title: Robots, drones and AI: How next-generation tech is changing the global supply chain
+Source: CNBC
+URL: https://www.cnbc.com/2025/03/14/how-ai-and-emerging-tech-is-changing-the-global-supply-chain.html
+--------------------------------------------------
+
+In a world where speed and convenience are paramount to customers, logistic providers are turning to emerging technologies such as artificial intelligence and robotics to stay competitive.
+
+Multinational logistics company DHL has been using robotics "very extensively" across its warehouses, said Javier Bilbao, APAC CEO of DHL Supply Chain.
+
+"It's not replacing — it's complementing humans in the way that we operate," Bilbao told CNBC's Julia Boorstin at CONVERGE LIVE in Singapore on Thursday. "There are tasks ... that previously were taken on by humans that are heavy, are very repetitive, and those are being transferred to those robots."
+
+Jobs such as moving pallets or unloading containers, along with many other parts of the company's warehousing processes are now being helped by robots, Bilbao added.
+
+"We're seeing autonomous capabilities becoming more and more available, allowing for those robots to move around the warehouse on their own," he said. "You don't need gadgets to be present in the warehouse to be able to track where people are moving ... where the heat maps are, [and] where you have bottlenecks."
+
+"The strength in robotics is giving us flexibility," said Bilbao, especially around "peaks that happen ... around Black Friday or Cyber Monday or all these events — they spike up so quickly, it's very difficult to bring people to understand the process, to know how to react."
+
+"Robotics helps us in that ... because they know how to do it from the get-go," he added.
+
+Dubai-based online food ordering service Talabat is also working on developing its AI capabilities. The company is primarily focused on using the technology's predictive abilities to persuade more customers to order on its platform, the company's CEO Tomaso Rodriguez said Thursday at CONVERGE LIVE, a two-day CNBC event at Jewel Changi Airport.
+
+"A vast majority of the customers that open our app every single day end up not ordering for whatever reason," Rodriguez said. "Now, with AI, you can go very deep to the single individual and know exactly what that person is more likely to want or not ... and that's really where all our focus is going right now."
+
+This has allowed the company to provide better recommendations to potential customers and target users with the "right offers" or other incentives, he said.
+
+The company is also experimenting with using drones and robots for deliveries, however local restrictions can be a road block, Rodriguez said.
+
+Both methods also require some effort by the customer to pick up the items, whereas humans can deliver food straight to a customer's door.
+
+"It's a bit too early," Rodriguez said. "I [think] that human interaction is still very important and will not be replaced for quite some time."

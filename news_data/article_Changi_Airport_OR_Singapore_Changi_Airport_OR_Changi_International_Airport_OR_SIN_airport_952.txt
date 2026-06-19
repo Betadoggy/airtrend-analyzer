@@ -1,0 +1,38 @@
+Title: France’s Thales ‘extensively’ ramps up production to meet a global boom in defense spending, says international CEO Pascale Sourisse
+Source: Fortune
+URL: https://fortune.com/2026/02/10/thales-defense-spending-pascale-sourisse-ai-aviation/
+--------------------------------------------------
+
+Arms spending in 2024 reached an unprecedented $2.7 trillion in 2024, according to the Stockholm International Peace Research Institute, a conflict think tank. The same think tank estimated that the world’s top 100 defense companies raked in $679 billion in collective revenue, the highest amount reported since SIPRI started tracking the number in 2002.
+
+“There is a very strong increase in defense spending in Europe, Asia, the Middle East, and in the Americas—it’s growing everywhere,” Sourisse, who is also Thales’s senior vice president for international development, told Fortune on the sidelines of the Singapore Airshow.
+
+That pushed the French company, No. 190 on Fortune’s Europe 500, to “extensively” ramp up production. Sourisse cited radars as an example: Thales has quadrupled its production of radars to cater to rising demand for air surveillance.
+
+Unmanned aircraft—both the aircraft themselves, and how to shoot them down—drove much of the conversation at the Singapore Airshow. Thales, Sourisse said, is working on ways to “manage swarms of drones and solutions to counter drone attacks—what you would call Counter-Unmanned Aerial Systems, or C-UAS.”
+
+Thales shares have risen by more than 50% over the past 12 months, as part of a global boom in defense stocks as investors bet that geopolitical tensions and the return of armed conflict in places like Ukraine will drive demand for new weapons and defenses.
+
+Concerns about the reliability of the U.S. and its security alliances are also pushing companies to think about sourcing arms from other regions, including Europe and East Asia. Defense firms like Germany’s Rheinmetall, South Korea’s Hanwha Aerospace, Japan’s Mitsubishi Heavy Engineering and Singapore’s ST Engineering have all reported more-than-100% gains in share price over the past 12 months.
+
+Civil aviation, avionics and AI
+
+Beyond defense, Thales is also a major player in avionics and civil aviation. The company is investing aggressively in AI-enabled flight systems to optimize flight paths and enhance safety.
+
+In the past, pilots could only react to storm clouds once onboard radars detected them. Sourisse explained that airlines can now feed weather forecast data into Thales’s AI-enabled systems, allowing flight paths to be optimized right after take-off.
+
+AI also powers the company’s air traffic control systems, which can analyze forecasts to minimize delays at busy air hubs like Singapore’s Changi Airport. This reduces the time pilots spend in the air waiting for a slot to land; Sourisse estimates that these tools can cut fuel consumption by about 10%.
+
+Airlines may welcome these tools amid a global surge in travel. “Passenger traffic has already surpassed pre-COVID levels in key hubs like Singapore,” Sourisse said. “You need to handle this growth without compromising safety or security.”
+
+Thales’s cybersecurity arm has grown since its 2019 acquisition of Gemalto, a Dutch digital security firm. Thales’s Singapore facility now produces more than 200 million banking cards, 12 million identity cards, and nearly 10 million passport data pages annually for customers worldwide. “Thales produces consumer-oriented products like these payment cards, which many have in their pockets and use—even without knowing who makes it,” Sourisse quipped.
+
+Last week, Thales announced that it was going to invest in new automated technologies in its Singapore plant, saying it was “fully aligned” with the country’s ambition to be “a global hub for advanced, high-tech manufacturing.”
+
+Moving forward, Sourisse sees the business deepening its roots in Asia, citing Southeast Asia’s Indonesia, Malaysia and Vietnam, and East Asia’s China, Japan and South Korea as markets to watch.
+
+Thales is also expanding its presence in India, where they currently already have a team of 2,300 employees. “That is going to increase tremendously,” Sourisse says. “We have activities in many sectors in India, and very large engineering centers.”
+
+Thales generated 15.3 billion euros ($18.1 billion) in revenue for the first nine months of 2025, an 8.4% year-on-year increase. Almost 80% of that revenue came from what Thales deemed “mature markets”, namely Europe, North America, Australia and New Zealand.
+
+The defense business generated 8.2 billion euros ($9.8 billion) in revenue, making up just over half of the total. Growing at 14% year-on-year, it was also the fastest growing part of Thales’s business.

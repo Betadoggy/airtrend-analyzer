@@ -1,0 +1,58 @@
+Title: Self-driving tech company WeRide accelerates global expansion as transportation industry adopts AI
+Source: CNBC
+URL: https://www.cnbc.com/2024/07/30/weride-expands-globally-as-transportation-industry-adopts-ai.html
+--------------------------------------------------
+
+China News Service | China News Service | Getty Images
+
+Self-driving technology firm WeRide is accelerating its global expansion as the artificial intelligence boom boosts adoption of machine learning in transportation.
+
+"... Logistics delivery and waste transport — these two areas have been moving forward, from indoor robotics to outdoor robotics to autonomous outdoors. Things are moving relatively fast because of the development of AI right now," said Sebastian Yee, Singapore director of business development at WeRide.
+
+In June, the firm began safety testing for "Robosweepers" in Singapore, following similar rollouts in multiple cities in China.
+
+After obtaining the driverless permit and accumulating certain mileage, these vehicles will operate fully autonomous without a safety driver. These AI-powered vehicles can perform various sanitation tasks such as road sweeping, water spraying and disinfection, as well as detect road conditions and avoid pedestrians and obstacles.
+
+In the same month, WeRide also deployed an autonomous public shuttle bus service with a safety driver onboard, at Resorts World Sentosa, a resort island south of Singapore.
+
+Founded in Silicon Valley in 2017, the firm launched a robotaxi service in Guangzhou, China in 2019 and has received strategic investments from global automakers like the Renault -Nissan -Mitsubishi alliance and GAC Group.
+
+The firm develops and tests a range of autonomous driving technologies with the most advanced being one where the vehicle can drive on its own, but still has a safety driver behind the wheel as a precaution.
+
+watch now
+
+"WeRide is the only company which has [autonomous driving] permits from the U.S., China, UAE and Singapore. Some [companies] just have permits from one or two countries, but we have four countries," said Kerry Xu, Singapore general manager of WeRide.
+
+"We are not just a China company, but more of an international company. We actually started expanding to other countries," said Xu.
+
+WeRide is now eyeing other markets such as Japan and Europe.
+
+"We're going to Europe. Two months ago, we actually attended the French Open. We deployed a vehicle. So slowly we will branch out. And I think that is a first step," said Yee.
+
+WeRide on Friday filed for an initial public offering on the Nasdaq, without revealing the sum it aims to raise. This could be the biggest U.S. listing by a Chinese company since Didi's IPO in 2021. The ride-hailing firm subsequently delisted after reports that Chinese regulators asked the firm's executives to formulate a plan to do so.
+
+WeRide, which is incorporated in the Cayman Islands, said in an SEC filing Friday that it may face "various legal and operational risks and uncertainties associated with being based in or having our operations primarily in mainland China." WeRide declined to comment on the IPO.
+
+'Commercial sense'
+
+WeRide decided to enter Singapore and the UAE as they are the hubs of Southeast Asia and the Middle East, respectively, and both countries "are very open" toward autonomous vehicle technology, said Yee.
+
+"We need to have a government and an ecosystem that has been well established," said Yee, adding that there must be a certain level of regulation in the market.
+
+Countries also need to have a "level of understanding of AI development" as well as possess "commercial sense."
+
+"Some of the countries might not have that commercial level, but they have the vision that they want to build. If you don't have that kind of vision, there's no point."
+
+Singapore has been conducting AV trials in the last few years, with A* STAR's self-driving vehicle being the first to be approved for public road testing in July 2015. Changi Airport plans to trial a self-driving bus to transport workers around its restricted area starting this quarter, as part of efforts to increase productivity.
+
+watch now
+
+AV development could help countries with aging populations such as Japan and Singapore overcome workforce constraints. One of Singapore's goals is to ease the pressure of a growing and aging population on roads by using AVs to boost public transport.
+
+While U.S. giants like Tesla and Alphabet 's Waymo have been making significant advances in the AV industry, Chinese automakers have been leading in innovation and production.
+
+In its latest move to increase adoption, the Chinese government in June granted approval to a first group of nine domestic automakers including BYD and Nio to begin testing conditionally automated driving technologies on certain public roads.
+
+Tesla CEO Elon Musk is looking to get regulatory approval for the firm's Full-Self Driving technology in China by end of this year.
+
+Clarification: The story has been updated to reflect that the "Robosweepers" in Singapore will operate fully autonomous without a safety driver after obtaining the driverless permit and accumulating certain mileage.

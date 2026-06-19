@@ -1,0 +1,64 @@
+Title: Flights grounded and passengers warned of delays amid unprecedented IT outage
+Source: CNBC
+URL: https://www.cnbc.com/2024/07/19/flights-grounded-passengers-to-see-delays-amid-unprecedented-it-outage.html
+--------------------------------------------------
+
+Mailee Osten-tan | Getty Images News | Getty Images
+
+Several airlines halted flights on Friday, while others warned of delays and service disruptions as an unprecedented IT outage impacted global operations.
+
+Early on Friday, cybersecurity giant CrowdStrike experienced a major disruption linked to a tech update. Organizations including Microsoft were left scrambling to restore apps and services used by a huge number of firms.
+
+Flight update and check-in monitors at airports around the world displayed the so-called blue screen of death, indicating a Microsoft system error. Images shared to social media showed a whiteboard displaying flight updates at Belfast International Airport in Northern Ireland, and a handwritten boarding pass for a flight with India's IndiGo.
+
+"It seems that for the first time we are facing a real global blackout. ... The disruption affected not only individual users, but especially large institutions such as banks (including central banks), stock exchanges, airports, paralysing operations during the peak holiday season and causing chaos in many other sectors," Grzegorz Drozdz, market analyst at Conotoxia, said in emailed comments.
+
+Over 38,000 flights had been delayed globally as of about 5 p.m. ET Friday, with roughly 9,200 of those delays within, into or out of the United States, according to FlightAware data. More than 4,200 flights had been canceled, with roughly 2,650 of them U.S. flights.
+
+U.S. Secretary of Transportation Pete Buttigieg said Friday on CNBC's "Squawk on the Street" that he expects the transportation delays to be smoothed out and "resembling normal" by Saturday.
+
+"The issue has been identified. It's really a matter of the kind of ripple or cascade effects as they get everything in their networks back to normal," Buttigieg said. "These flights, they run so tightly, so back-to-back that even after a root cause is addressed, you can still be feeling those impacts throughout the day."
+
+Kevin Breuninger | CNBC
+
+Airlines across Europe, the Middle East, the Americas and Asia issued updates outlining the suspected extent of the impact on their flight schedules and wider services, with passengers advised to check their flight status.
+
+The U.S. Federal Aviation Administration said at 10:22 a.m. ET: "The FAA continues to work closely with airlines as they work to resume normal operations. Ground stops and delays will be intermittent at various airports as the airlines work through residual technology issues."
+
+American Airlines said that as of 5 a.m. ET it had been able to "safely reestablish our operation." The carrier also said, "We expect there will be impact to our flight schedule today, including delays and cancellations."
+
+Delta and United both said they had resumed some flight departures but expected delays and cancelations through Friday. All three airlines issued waivers to allow customers to change their travel plans.
+
+Colby Black, 45, took the delays in stride, even though he wasn't sure when his rescheduled flight to Los Angeles would take off.
+
+"It says 8 a.m. on the board, but 9 a.m. on my app, so who knows," he said of the flight that was originally set to depart at 6 a.m. "I'm just tired. I want to sleep," said Black, who woke up at 3 a.m. "But otherwise, yeah, it happens."
+
+Sean Gallup | Getty Images News | Getty Images
+
+In Europe, Dutch airline KLM said its IT issues had been "almost completely resolved" and that air traffic to and from Amsterdam's Schiphol airport could be "fully resumed" after most of KLM's operations were suspended in the morning.
+
+However, the carrier added that many flights had been delayed or canceled and that disruption would continue through the evening and into the weekend, with more cancellations possible.
+
+KLM's partner carrier Air France said late Friday afternoon that its operations were "back to normal on the entire network," after only certain flights to Amsterdam and Berlin were affected during the day, but that delays could not be ruled out.
+
+Germany's Lufthansa was only "slightly affected" by the global outage, it said, with the biggest impact on Berlin, Amsterdam and Zurich routes. Low-cost German airline Eurowings, part of the same group, said it planned to operate around 80% of its flights, with most cancellations on domestic routes.
+
+During the morning, Swiss air navigation service provider Skyguide said it had reduced the capacity of Swiss transit traffic by 30% as a precautionary measure after it was affected by the disruption.
+
+Busiest day for UK flights
+
+U.K. carriers British Airways and Virgin Atlantic both said some flight disruption was expected on Friday.
+
+Aviation analytics firm Cirium said Friday, July 19, was set to be the busiest day of flights of the year, with the highest number of daily departures scheduled — 3,214 — since October 2019.
+
+As of 5 p.m. in London, 4,295 flights had been canceled globally, Cirium said, which equates to 3.9% of all scheduled flights globally.
+
+London airports Gatwick and Heathrow both said they were continuing to manageissues and delays were expected. Gatwick said the issues spanned "some airlines' check-in systems and security, including eGates."
+
+Self-check-in systems went down temporarily at numerous airports Friday, including Taiwan's Taoyuan International Airport, Singapore's Changi Airport and Hong Kong International Airport.
+
+Mainland Chinese airlines such as Air China and China Southern were not impacted as they use a different system, Reuters reported, citing state media.
+
+— CNBC's Kevin Breuninger, Leslie Josephs and Ece Yildirim and NBC News' Carlo Angerer contributed reporting.
+
+Correction: This story has been updated to correct a time reference.

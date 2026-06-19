@@ -1,0 +1,62 @@
+Title: Air and rail travel chaos continues after global IT outage - as passengers describe 'bedlam' conditions
+Source: Sky.com
+URL: https://news.sky.com/story/global-it-outage-air-and-rail-travel-chaos-continues-as-passengers-describe-bedlam-conditions-13180875
+--------------------------------------------------
+
+Transport networks around the world have been thrown into chaos by the global IT outage.
+
+Some of the world's largest airports, including London Heathrow, Singapore's Changi Airport, Schipol Airport in Amsterdam and Melbourne Airport in Australia have faced problems with check-ins and security as online systems run by Microsoft shut down.
+
+As of 11am (UK-time) Friday morning, 1,167 flights were cancelled worldwide, with the number expected to rise, according to data from aviation analysts Cirium.
+
+Read more:
+
+Outages latest: Follow live
+
+What has been impacted and where?
+
+Major US airlines including American Airlines, Delta Airlines and United Airlines grounded all flights on Friday morning citing communication issues, while in Europe, passengers at Amsterdam's Schipol Airport - the continent's busiest - are experiencing average delays of 78 minutes.
+
+Many airports have turned to manual systems, including Belfast International Airport, where whiteboards are being used to provide flight information, as the electronic screens are not functioning.
+
+One passenger at Berlin airport said despite technical issues having been resolved, flights due to take off later today have been cancelled.
+
+Anna, who was meant to travel to Split in Croatia at midday with her four children, said she found out that her flight had been cancelled when she got to the terminal at 9.30am.
+
+"The only information we were able to find was a piece of paper that has been posted to a wall. Of the 20 flights, only about three hadn't been cancelled," she told Sky News.
+
+In the UK, pictures emerged of people waiting in queues at Edinburgh Airport and at Gatwick in London, lines of at least 50 metres formed with staff unpacking boxes of bottled water.
+
+Other airports such as London's Luton and Stansted, Liverpool, Manchester and Birmingham issued warnings to passengers that they may face delays.
+
+One traveller at Gatwick Airport said he had been queuing for more than three-and-a-half hours ahead of a flight to Miami, Florida.
+
+Dean Seddon, 42, from Plymouth, said: "There are just people everywhere, there must be 400 people in this queue for the check in desk I'm at… it's just bedlam."
+
+Read more:
+
+Financial shock for Microsoft and Crowdstrike after outages
+
+IT outage 'causing disruption in majority of GP practices'
+
+The IT outage comes as Friday is expected to be the busiest day for UK flight departures, with over 3,214 departures alone - the highest number of daily departures since October 2019, Cirium reported.
+
+UK air traffic control provider Nats said its systems are "operating normally".
+
+Posting on X, Transport Secretary Louise Haigh said: "We are aware of IT failures impacting several transport operators and terminals today, and we're working at pace with industry and across government on the issue.
+
+"There are no known security issues at present."
+
+Issues across 'entire' UK train network
+
+On the railway, 14 companies run by industry body Rail Delivery Group have been affected, according to Sky News' business correspondent, Paul Kelso.
+
+Those affected include: Avanti, c2c, Gatwick Express, Great Northern, Great Western Railway, Hull Trains, London Northwestern Railway, Lumo, Merseyrail, Northern, Southern, Thameslink, Transport for Wales, TransPennine Express and West Midlands.
+
+National Rail said the IT outage was causing issues "across the entire network" with some train operators "unable to access driver diagrams at certain locations, leading to potential short-notice train cancellations".
+
+Other key systems such as real-time customer information platforms, and ticket machines at certain stations are also affected.
+
+The company said affected customers are able to use their tickets on other services including the London Underground and London buses at no extra cost.
+
+Network Rail assured customers that the "vast majority" of the rail network is open despite the IT outage.

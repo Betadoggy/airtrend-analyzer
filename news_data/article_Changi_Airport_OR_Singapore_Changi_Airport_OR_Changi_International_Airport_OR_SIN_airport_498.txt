@@ -1,0 +1,74 @@
+Title: Microsoft IT Meltdown Affects Thousands of Flights
+Source: Sam Chui
+URL: https://samchui.com/2024/07/19/microsoft-it-meltdown-affects-thousands-of-flights/
+--------------------------------------------------
+
+More than 7,000 flight cancellations
+
+More than 65,000 flight delays
+
+A major IT outage from Crowdstrike on Microsoft Windows platform have caused widespread flight disruptions affecting tens of thousands of passengers worldwide. Thousands of flights have been canceled globally with over 4500 flight cancellations in the US alone.
+
+The Federal Aviation Administration (FAA) reported communication problems stemming from the outage, leading several major US carriers to issue ground stops for all departing flights early in the morning.
+
+Cybersecurity firm Crowdstrike has blamed issues with one of its Windows updates as the problem behind the outage. It affected an estimated 300,000 computers in 150 different countries.
+
+Update 13:00 UTC Time (July 20)
+
+More than 7,000 flights have been canceled around the world today since Thursday evening, according to Flight Aware. Moreover, over 65,000 flights have been delayed and this figure is expected to only get bigger as the knock-on impacts grow.
+
+Delta Air Lines is the most affected airline with more than 1,200 flight cancellations on Friday alone, whereas Delta’s hub Atlanta Hartsfield-Jackson International Airport was the most affected airport with around 900 flight cancellations.
+
+Delta Air Lines: 1206 flight cancellations (Friday)
+
+United Airlines: 693 flight cancellations (Friday)
+
+American Airlines: 407 flight cancellations (Friday)
+
+US Carriers, Airports Take a Hit
+
+The impact was most acutely felt in the United States, with American Airlines, United Airlines, Delta Air Lines, Frontier Airlines, and Spirit Airlines all experiencing significant disruptions.
+
+“Delta has paused its global flight schedule this morning due to a vendor technology issue that is impacting several airlines and businesses around the world. We are working to resolve the issue as quickly as possible to resume operations.”
+
+Delta Air Lines spokesperson
+
+This has affected travel plans into disarray and caused long lines at airports as frustrated passengers sought information and rebooking options.
+
+Major hubs like Atlanta’s Hartsfield-Jackson Airport, Chicago O’Hare International Airport, and Los Angeles International Airport were all affected, with reports of lengthy delays and cancellations throughout the day.
+
+“A third-party outage is impacting computer systems, including at United and many other organizations worldwide. As we work to fully restore these systems, some flights are resuming. Many customers traveling today may experience delays.”
+
+United Airlines spokesperson
+
+Global Impact Beyond the US
+
+The ripple effects of the Microsoft outage extended beyond American borders, impacting airlines and airports across the globe. This included major disruptions in India, where airlines like IndiGo, SpiceJet, and Akasa Air all faced difficulties.
+
+The Indian carriers reported issues with online booking, check-in systems, and communication with air traffic control. Major Indian airports in Delhi, Mumbai, Bengaluru, Kolkata, and Pune were particularly affected, with reports of slow check-in processes, long queues, and flight delays.
+
+As reported by the BBC as of 13:00 local time (11:00 BST), Turkish Airlines canceled 84 flights to and from Istanbul, and various locations across Europe.
+
+Many global airports including those in Germany, Italy, Canada, Singapore, and Malaysia have also been affected, forcing them to cancel dozens of flights.
+
+A Widespread Tech Disruption
+
+While the airline industry has been heavily impacted, reports suggest the Microsoft outage went beyond just Azure cloud software. The outage appeared to be affecting Windows PCs globally, causing additional complications. This could explain why some airlines faced issues beyond just their cloud-based services.
+
+The US DoT’s Secretary Pete Buttigieg, has taken notice of the flight disruptions. The department is monitoring the situation and has emphasized that airlines will be held accountable for meeting passenger needs during this challenging time.
+
+The Microsoft outage began around 6:00 pm ET on Thursday. The company identified a temporary failure within its Azure cloud software, leading to a breakdown in “service management operations and connectivity or availability of services” across the central US region.
+
+Recovery Timeline
+
+Crowdstrike’s CEO George Kutrz has issued a statement stating that the company is actively working with customers impacted by a defect found in a single content update for Windows hosts.
+
+“Mac and Linux hosts are not impacted. This is not a security incident or cyberattack. The issue has been identified, and isolated and a fix has been deployed. We refer customers to the support portal for the latest updates and will continue to provide complete and continuous updates on our website.”
+
+Crowdstrike CEO George Kutrz
+
+Travelers are advised to check directly with their airlines or monitor flight status websites for the latest information.
+
+Flight disruptions may likely continue throughout the weekend, and airlines may need to adjust their schedules to accommodate the backlog of affected passengers.
+
+Featured Image via Karthik Nagarajan

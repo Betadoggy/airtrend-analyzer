@@ -1,0 +1,112 @@
+Title: Flights resume after global IT crash wreaks havoc
+Source: The Times of India
+URL: https://economictimes.indiatimes.com/news/international/world-news/flights-resume-after-global-it-crash-wreaks-havoc/articleshow/111889548.cms
+--------------------------------------------------
+
+Synopsis
+
+A global IT crash caused by an antivirus update led to widespread disruption on Friday, affecting airlines, banks, media, and more. The update to CrowdStrike's Falcon software, running on Microsoft Windows, resulted in system crashes and flight cancellations. By Saturday, airports in Europe and Asia had largely resumed normal operations. CrowdStrike issued an apology and released a fix. The White House and global authorities are monitoring the situation, which has led to increased scam risks. Experts are calling for a reassessment of reliance on major tech systems.
+
+Planes were gradually taking off again Saturday after global airlines, banks and media were thrown into turmoil by one of the biggest IT crashes in recent years, caused by an update to an antivirus program.
+
+Passenger crowds had swelled at airports on Friday as dozens of flights were cancelled after an update to a program operating on Microsoft Windows crashed systems worldwide.
+
+By Saturday, officials said the situation had returned virtually to normal in airports across Germany and France, as Paris prepared to welcome millions for the Olympic Games starting on Friday.
+
+Multiple US airlines and airports across Asia said they had resumed operations, with check-in services restored in Hong Kong, South Korea and Thailand, and mostly back to normal in India, Indonesia and at Singapore's Changi Airport as of Saturday afternoon.
+
+"There are no long queues at the airports as we experienced yesterday," Airports of Thailand president Keerati Kitmanawat told reporters.
+
+Live Events
+
+- CrowdStrike apologises -
+
+Microsoft said the issue began at 1900 GMT on Thursday, affecting Windows users running the CrowdStrike Falcon cybersecurity software.
+
+In a Saturday blog post, CrowdStrike said it had released an update on Thursday night that caused a system crash and the infamous "blue screen of death" fatal error message.
+
+CrowdStrike said it had rolled out a fix for the problem and the company's boss, George Kurtz, told US news channel CNBC he wanted to "personally apologise to every organisation, every group and every person who has been impacted".
+
+The company also said it could take a few days for a full return to normal.
+
+US President Joe Biden's team was talking to CrowdStrike and those affected by the glitch "and is standing by to provide assistance as needed", the White House said in a statement.
+
+"Our understanding is that flight operations have resumed across the country, although some congestion remains," a senior US administration official said.
+
+Reports from the Netherlands and Britain suggested health services might have been affected by the disruption, meaning the full impact might not yet be known.
+
+Media companies were also hit, with Britain's Sky News saying the glitch had ended its Friday morning news broadcasts, and Australia's ABC similarly reporting major difficulties.
+
+Australian, British and German authorities warned of an increase in scam and phishing attempts following the outage, including people offering to help reboot computers and asking for personal information or credit card details.
+
+Banks in Kenya and Ukraine reported issues with their digital services, while some mobile phone carriers were disrupted and customer services in a number of companies went down.
+
+"The scale of this outage is unprecedented, and will no doubt go down in history," said Junade Ali of Britain's Institution of Engineering and Technology, adding that the last incident approaching the same scale was in 2017.
+
+- Flight chaos -
+
+While some airports halted all flights, in others airline staff resorted to manual check-ins for passengers, leading to long lines and frustrated travellers.
+
+The US Federal Aviation Administration (FAA) initially ordered all flights grounded "regardless of destination", though airlines later said they were re-establishing their services and working through the backlog.
+
+India's largest airline Indigo said operations had been "resolved", in a statement posted on X.
+
+"We are diligently working to resume normal operations, and we expect this process to extend into the weekend," the carrier said Saturday.
+
+Low-cost carrier AirAsia said it was still trying to get back online and had been "working around the clock towards recovering its departure control systems". It recommended passengers arrive early at airports and be ready for "manual check-in" at airline counters.
+
+Chinese state media said Beijing's airports had not been affected.
+
+- 'Common cause' -
+
+Companies were left patching up their systems and trying to assess the damage, even as officials tried to tamp down panic by ruling out foul play.
+
+According to CrowdStrike's Saturday blog, the issue was "not the result of or related to a cyberattack".
+
+CrowdStrike boss Kurtz said in a statement his teams were "fully mobilised" to help affected customers and "a fix has been deployed".
+
+But Oli Buckley, a professor at Britain's Loughborough University, was one of many experts who questioned the ease of rolling out a proper fix.
+
+"While experienced users can implement the workaround, expecting millions to do so is impractical," he said.
+
+Other experts said the incident should prompt a widespread reconsideration of how reliant societies are on a handful of tech companies for such an array of services.
+
+"We need to be aware that such software can be a common cause of failure for multiple systems at the same time," said John McDermid, a professor at York University in Britain.
+
+He said infrastructure should be designed "to be resilient against such common cause problems".
+
+(You can now subscribe to our Economic Times WhatsApp channel)
+
+Explore More Stories
+
+‘Thanks Mr Cheap’: Waitress insults customer’s 15% tip; what he did next made the manager offer a free meal card
+
+Mark Stone and Cole Smith shine as Golden Knights sweep Avalanche to reach third Stanley Cup Final in nine seasons
+
+Quote of the Day by Bernard M. Baruch: ‘Be who you are and say what you feel, because those who mind don't matter, and those who matter…’ - The Jewish advisor to Franklin D. Roosevelt on the exhausting urge to be liked by everyone
+
+Nova Scotia Crime: Woman charged with attempted murder after alleged stabbing in Halifax; what do we know so far
+
+Quote of the Day by Pythagoras: ‘Choose rather to be strong of soul than…’ Powerful wisdom by Greek mathematician on importance of inner strength
+
+Halifax Missing Baby Update: Remains of newborn found, two people face charges; cause and manner of infant’s death in spotlight
+
+IT helpdesk worker finds co-workers faking meetings, dodging calls and even sleeping on shifts - now one response from management has them questioning their own honesty
+
+At 16, they managed fast-food night shifts; after a stressful rush, the Illinois student quit; now facing a legal threat over a pair of headsets
+
+Quote of the Day by comedian Jerry Seinfeld: ‘Marriage is like a game of chess except the board is flowing water, the pieces are made of smoke and no move you make will…’
+
+Nova Scotia News: Halifax police search for missing newborn baby, 4 in custody as cops intensify probe
+
+Who was Stewart McLean? ‘Arrow’ and ‘Virgin River’ actor’s remains found amid homicide investigation; chilling details emerge as probe continues
+
+Quote of the Day by Nelson Mandela: ‘To be free is not merely to cast off one’s chains, but to live in a way that…’ Timeless quote on freedom and purpose by South African antiapartheid activist
+
+Barrie man accused of manslaughter in baby’s death granted bail under strict court conditions; check here
+
+1
+
+2
+
+3

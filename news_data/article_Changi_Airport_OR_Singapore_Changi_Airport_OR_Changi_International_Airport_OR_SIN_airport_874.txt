@@ -1,0 +1,166 @@
+Title: Cybersecurity jobs available right now: February 10, 2026
+Source: Help Net Security
+URL: https://www.helpnetsecurity.com/2026/02/10/cybersecurity-jobs-available-right-now-february-10-2026/
+--------------------------------------------------
+
+Cloud Security Engineer
+
+KPMG | Israel | On-site – No longer accepting applications
+
+As a Cloud Security Engineer, you will establish, secure, and support critical Azure cloud infrastructure, with a strong focus on sensitive and regulated environments. You will design and implement secure cloud architectures using infrastructure-as-code practices, maintain and operate cloud systems and servers, and use tools such as Terraform, Bicep, and ARM templates for automation and standardization.
+
+Cloud Security Researcher
+
+Pentera | Israel | Hybrid – No longer accepting applications
+
+As a Cloud Security Researcher, you will research and develop novel attack techniques targeting cloud infrastructure and analyze vulnerabilities across multi-cloud platforms such as AWS, Azure, and GCP. You will identify and document security flaws in cloud configurations, networking, identity, and Kubernetes environments, perform hands-on testing, and develop proofs of concept, tools, and automation.
+
+Cyber Defence Senior Analyst
+
+Google | United Kingdom | Remote – No longer accepting applications
+
+As a Cyber Defence Senior Analyst, you will conduct real-time security analysis using SIEM, endpoint, and network technologies to identify true security events and reduce false positives. You will advise on Cyber Defence Centre (CDC), CSIRT, and SOC management activities, and leverage threat intelligence, attacker techniques, and remediation strategies to improve SOC detection and response capabilities.
+
+Get weekly updates on new cybersecurity job openings. Subscribe here!
+
+Cyber Investigation Specialist
+
+Group-IB | UAE | On-site – No longer accepting applications
+
+As a Cyber Investigation Specialist, you will perform initial incident assessments by analyzing access vectors and defining investigation scope. You will examine network infrastructure, digital assets, and threat indicators, and identify and track threat actors across the clear, deep, and dark web using passive and active intelligence techniques.
+
+Cyber Security Operations Analyst
+
+UNSW | Australia | Hybrid – No longer accepting applications
+
+As a Cyber Security Operations Analyst, you will monitor and analyze security events across controls such as firewalls, EDR, WAF, applications, and systems to identify threats, trends, and risks. You will triage and respond to security incidents and requests, support forensic investigations to understand attack methods and impact, and perform threat hunting to uncover targeted threats and suspicious activity.
+
+ICT Security & Networking Specialist
+
+MENARINI Group | Italy | On-site – No longer accepting applications
+
+As an ICT Security & Networking Specialist, you will configure and upgrade switches, define VLANs and port channels, and apply security controls to protect LAN connectivity while monitoring traffic and performance. You will manage the Wi-Fi environment and PBX infrastructure, and monitor internet data links and SD-WAN connectivity, including coordination with corporate service providers.
+
+Must read:
+
+How to succeed at cybersecurity job interviews
+
+Information Security Analyst
+
+AD Ports Group | UAE | On-site – No longer accepting applications
+
+As an Information Security Analyst, you will conduct penetration testing and red-teaming exercises across systems, networks, applications, mobile platforms, and AI/ML environments to identify vulnerabilities and attack paths. You will perform AI model and system testing focused on adversarial attacks, prompt injection, data poisoning, and model inversion, and assess AI pipelines, APIs, and LLM integrations for misuse, data leakage, and unauthorized access risks.
+
+Information Security Specialist 1
+
+Commonwealth of Pennsylvania | USA | Hybrid – No longer accepting applications
+
+As an Information Security Specialist 1, you will monitor IT security applications and tools to detect anomalies, assess alerts, and differentiate false positives from actual threats. You will investigate alerts to identify root causes, resolve or escalate incidents to the CISO, and ensure compliance with established policy and procedures.
+
+Intern, Cyber Security
+
+Otis Elevator | India | On-site – No longer accepting applications
+
+As an Intern, Cyber Security, you will assist in monitoring security alerts, logs, and incidents, and support vulnerability assessments, patch verification, and basic threat analysis. You will help document security policies, procedures, and incident reports, participate in security tool evaluations such as SIEM, endpoint, and network scanners, and contribute to security awareness and compliance initiatives.
+
+Network Security Architect
+
+Sonepar | France | Hybrid – No longer accepting applications
+
+As Network Security Architect, you will lead secure network architecture and design across datacenter, cloud, and hybrid environments. You will define and enforce foundational security controls, drive Zero Trust and software-defined segmentation, and oversee secure design reviews to ensure networks are consistently implemented, documented, and protected against security threats.
+
+OT and IT Manager
+
+Egis | Ireland | On-site – No longer accepting applications
+
+As an OT and IT Manager, you will lead the convergence of operational and enterprise technologies by defining technology strategy, integration, and digital transformation roadmaps. You will oversee system architecture to ensure interoperability between IT systems and industrial control environments, implement and enforce cybersecurity and risk management practices, and manage IT and OT infrastructure to ensure availability, reliability, and rapid incident response across both domains.
+
+Penetration Tester
+
+PFH Technology Group | Ireland | Hybrid – No longer accepting applications
+
+As a Penetration Tester, you will perform penetration testing of web applications before deployment and during updates to identify vulnerabilities and potential attack paths. You will identify applications at risk of exploitation, including issues that could enable malware infection or data exfiltration, and assess code and system weaknesses to support stronger code reviews, threat analysis, forensic investigations, and incident response.
+
+Penetration Tester
+
+MSC Mediterranean Shipping Company | Italy | Hybrid – No longer accepting applications
+
+As a Penetration Tester, you will plan, execute, and document penetration tests and vulnerability assessments across web applications, network infrastructure, and mobile devices to identify weaknesses and assess impact. You will analyze and classify vulnerabilities by severity, provide clear mitigation recommendations, and produce detailed technical reports outlining methodologies, findings, and remediation guidance.
+
+Platform Engineer – Cloud & Security Automation
+
+KUBRA | Canada | Hybrid – No longer accepting applications
+
+As a Platform Engineer – Cloud & Security Automation, you will build and support Terraform modules, Kubernetes manifests, and GitOps pipelines for the platform and developer portal. You will implement security guardrails and automated controls across cloud environments, contribute to CI/CD workflows, and help strengthen Kubernetes security.
+
+Project Cybersecurity Manager 1
+
+Alstom | Canada | On-site – No longer accepting applications
+
+As a Project Cybersecurity Manager 1, you will define program security objectives and risk strategies, ensuring compliance with applicable laws and regulations. You will plan and oversee cybersecurity activities across the development lifecycle, managing cost, quality, and delivery, while driving risk analysis, architecture and requirements definition, third-party risk management, assurance levels, and evaluation of overall cybersecurity maturity.
+
+Product Security Engineer
+
+Databricks | USA | Remote – View job details
+
+As a Product Security Engineer, you will provide end-to-end SDLC security support, including threat modeling, design and code reviews, and exploit development. You will collaborate on incident and vulnerability response, evaluate SAST and DAST results, and maintain security automation to support compliance requirements such as FedRAMP, PCI, and HIPAA.
+
+Security Operations Lead
+
+Hume City Council | Australia | Hybrid – No longer accepting applications
+
+As a Security Operations Lead, you will ensure continuous monitoring of vulnerabilities and security alerts while managing tools and technologies to detect and respond to threats promptly. You will lead effective incident response and recovery in line with policies and best practices, and oversee independent assessments of security controls to ensure ongoing compliance and identify improvement opportunities.
+
+Security Engineer II
+
+Subsplash | USA | Remote – No longer accepting applications
+
+As a Security Engineer II, you will identify, analyze, and remediate security vulnerabilities across software codebases and cloud infrastructure. You will manage penetration testing and bug bounty programs, and focus on selecting, integrating, and operating tools that automate preventative security measures and reduce manual, reactive work.
+
+Senior Cybersecurity Manager
+
+Spacelabs Healthcare | United Kingdom | Hybrid – View job details
+
+As a Senior Cybersecurity Manager, you will lead cross-functional product teams as the cybersecurity product owner, driving all technical cybersecurity initiatives for cloud products. You will ensure the confidentiality, integrity, and availability of Spacelabs cloud solutions, lead cybersecurity and privacy by design and by default, and represent cybersecurity and privacy within product development teams to ensure they are embedded throughout the product lifecycle.
+
+Senior Offensive Cybersecurity Specialist
+
+Bureau Veritas Cybersecurity | Germany | Remote – No longer accepting applications
+
+As a Senior Offensive Cybersecurity Specialist, you will lead and perform technical security assessments in line with agreed methodologies. You will act as the technical lead for assessments, engage with external customers at both technical and management levels to support assessment and certification activities, and report findings while guiding customers on results and next steps.
+
+Senior Platform Security Engineer
+
+Aignostics | Germany | Hybrid – No longer accepting applications
+
+As a Senior Platform Security Engineer, you will secure the cloud foundation across GCP and AWS by designing and implementing security controls for Kubernetes, storage services, VPCs, Cloud Run, and cloud-native workloads, protecting sensitive healthcare data and AI models in alignment with ISO 27001 controls.
+
+Senior Security Engineer – Data & Identity
+
+Shift Technology | France | Hybrid – No longer accepting applications
+
+As a Senior Security Engineer – Data & Identity, you will design and automate identity and access workflows, including JML processes, IAM integrations, RBAC, DLP, and just-in-time access. You will also support security operations through incident response, vulnerability management, cloud security monitoring, security tooling maintenance, and acting as a technical escalation point for complex identity and access issues.
+
+Senior Vulnerability Management Engineer
+
+Cisco | USA | On-site – No longer accepting applications
+
+As a Senior Vulnerability Management Engineer, you will build and enhance vulnerability management capabilities through automation, data analysis, and process improvements. You will analyze vulnerability data to identify trends and root causes, and help develop security standards and baselines. You will perform vulnerability assessments, respond to emerging threats, and triage vulnerabilities to provide company-specific severity guidance.
+
+Threat Intelligence Analyst
+
+Alignerr | USA | Remote – No longer accepting applications
+
+As a Threat Intelligence Analyst, you will analyze and classify threat reports, campaigns, and adversary behavior. You will evaluate indicators, TTPs, and end-to-end attack narratives. You will help generate, structure, and validate threat-intelligence data used to train and assess AI systems, and review AI-generated outputs for accuracy and consistency.
+
+Vulnerability Management Manager
+
+Changi Airport Group | Singapore | On-site – View job details
+
+As a Vulnerability Management Manager, you will lead and scale the enterprise vulnerability management program across multiple technology domains. You will implement CISO-defined strategies to improve visibility, prioritization, and remediation efficiency, establish centralized SecOps oversight for consistent governance and data-driven decisions, and drive automation and intelligent workflows to sustainably scale vulnerability management operations.
+
+Vulnerability Management Specialist
+
+Droisys | India | Remote – No longer accepting applications
+
+As a Vulnerability Management Specialist, you will manage vulnerability detection, tracking, and remediation using tools such as Qualys, CriticalStart, ServiceNow, MDE, and Azure. You will prioritize risks based on severity, exploitability, and business impact, automate remediation, validation, reporting, and SLA tracking, and collaborate with infrastructure, application, and security teams.

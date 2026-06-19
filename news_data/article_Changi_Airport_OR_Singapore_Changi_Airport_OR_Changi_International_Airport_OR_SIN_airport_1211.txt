@@ -1,0 +1,56 @@
+Title: Who needs ransomware when a faulty software update can shut down critical infrastructure?
+Source: ZDNet
+URL: https://www.zdnet.com/article/who-needs-ransomware-when-a-faulty-software-update-can-shut-down-critical-infrastructure/
+--------------------------------------------------
+
+I was at Changi Airport exactly two weeks before this past Friday, waiting to catch a flight. The airline I was scheduled to take wasn't impacted by the July 19 outage, but I probably would have been caught up in the chaos that ensued if I had chosen to travel this weekend instead.
+
+Like at many airports worldwide, there were long lines at Changi last Friday as several airlines had to resort to manual check-ins following the colossal IT outage caused by CrowdStrike's faulty software update. The cybersecurity vendor had released the update through its endpoint detection and response platform, Falcon, which contained "a defect in a single content update for Windows hosts," according to Crowdstrike CEO George Kurtz's first X post on the incident.
+
+Also: What caused the great CrowdStrike-Windows meltdown of 2024? History has the answer
+
+Kurtz issued an apology in a subsequent post while reiterating that the outage was not the result of a security breach or cyber incident. "We understand the gravity of the situation and are deeply sorry for the inconvenience and disruption," he wrote. CrowdStrike released a temporary fix within hours and followed up later with more detailed remediation guidelines.
+
+Microsoft estimates that more than 8.5 million Windows devices were impacted by the update, or just under 1% of all Windows systems. "While the percentage was small, the broad economic and societal impacts reflect the use of CrowdStrike by enterprises that run many critical services," the software vendor said in a blog post.
+
+Companies worldwide were met with a Blue Screen of Death (BSOD), with those in this part of the world among the first to experience it Friday morning -- presumably because CrowdStrike thought it fitting to push out the global update after business hours on the other side of the globe.
+
+Also: Growing reliance on third-party suppliers signals increasing security risks
+
+Here in Singapore, systems impacted by the outage were "almost fully recovered," Singapore Minister for Digital Development and Information Josephine Teo wrote in a Facebook post on Sunday.
+
+"The incident has left many of us feeling vulnerable and questioning our heavy reliance on technology for everyday activities. These feelings are completely understandable and valid," Teo wrote. "We should be concerned. The real question is what we can do about these concerns."
+
+While it would be difficult to cut our digital interactions, she pointed to "concrete actions" that we can take to "prepare and protect" ourselves and "fortify our defenses."
+
+"It starts with robust testing and putting in the right safeguards, so incidents are prevented in the first place. Testing and red-teaming must be prioritized and conducted across multiple levels so that appropriate safeguards can be put in place," Teo wrote.
+
+Also: Businesses' cloud security fails are 'concerning' - as AI threats accelerate
+
+She further underscored the importance of contingency planning "for suitable responses when things go very wrong," including putting in place business continuity plans (BCPs), which she noted that many organizations already have. "It is vital we update our BCPs and practice them regularly, stress-testing ourselves through tabletop exercises," she added.
+
+Eliminating single points of failure
+
+As Teo suggests, enterprise contingency and backup plans aren't new and have been in place for a while. So, why did none of these kick in? How about the rollbacks and the secondary sites? Aren't businesses expected to review software patches and updates before rolling them out? Shouldn't cybersecurity and tech vendors have thoroughly tested their own updates before pushing them to their global customers, especially those which clientele includes critical infrastructures?
+
+More importantly, why are there still single points of failure? If there was one thing we learned from the other colossal breach involving SolarWinds, it is that supply chain and third-party attacks can have a devastatingly expansive impact. For months afterward, industry and cybersecurity experts, and even governments, preached the need to implement security measures to guard against such attacks.
+
+Also: The best VPN services: Expert tested and reviewed
+
+I guess none of that sank in?
+
+In a note on the CrowdStrike outage, Forrester's principal analyst Allie Mellen wrote: "Reliability of the tools and services cybersecurity teams use is critical in the face of cyberattacks. An incident like this questions that reliability. This will undoubtedly raise questions and concerns from executives about how to ensure the reliability of enterprise systems, especially with technology as integrated into day-to-day operations as cybersecurity software."
+
+Each time a major cybersecurity breach or incident occurs, there almost always are public statements about how it serves as a good wake-up call and an opportunity from which everyone can learn.
+
+Well, there have been several incidents and many learnings, but apparently few lessons actually learned -- as the CrowdStrike outage has shown.
+
+With artificial intelligence expected to now push us into a whole new era, we can probably expect an even wider and, potentially, more destructive impact, when another incident the likes of CrowdStrike or SolarWinds hits.
+
+Also: Regulations are still necessary to compel adoption of cybersecurity measures
+
+It is urgent that we start, really start, looking at what it's going to take to beef up our digital resilience and cyber defenses, so we're ready for the next mega breach.
+
+As Microsoft reminds us: "This incident demonstrates the interconnected nature of our broad ecosystem -- global cloud providers, software platforms, security vendors and other software vendors, and customers. It's also a reminder of how important it is for all of us across the tech ecosystem to prioritize operating with safe deployment and disaster recovery using the mechanisms that exist."
+
+If regulatory enforcement is what it takes to force tech vendors and enterprises to snap out of their inertia, so be it.

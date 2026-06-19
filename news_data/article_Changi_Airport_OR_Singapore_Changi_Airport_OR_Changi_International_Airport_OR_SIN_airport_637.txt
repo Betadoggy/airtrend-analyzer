@@ -1,0 +1,148 @@
+Title: Winners of the 2025 Table Contest
+Source: Posit.co
+URL: https://posit.co/blog/2025-table-contest-winners/
+--------------------------------------------------
+
+The past year has proven to be a good one since we’ve seen so many nice-lookin’ tables in the 2024 Posit Table Contest. We've got a whole bunch of fantastic tables to show you here in this post. The winning entry is simply amazing, we have many other categories with excellent submissions, and there’s a good smattering of honorable mentions that are not to be missed. We’re so happy to be hosting this contest! The community is exceptional and we’re never disappointed with the wonderful submissions that are shared with us.
+
+We at Posit believe that using tables makes for a really great way to express your data. While we know they are indispensable for storing/transforming/summarizing data, they can also be used for reporting data… you just need the right table tools for the job!
+
+Evaluation and Judging
+
+Submissions were evaluated based on technical merit and artistic achievement. We would like to thank all of this year’s judges, which are: Tino Ntentes (Senior Data Scientist at Posit), Greg Lin (Senior Software Engineer at Posit, and maintainer of the reactable R package), Isabel Zimmerman (Senior Software Engineer at Posit), Katie Masiello (Principal Solutions Engineer at Posit), Isabella Velásquez (Senior Product Marketing Manager at Posit), and Simon Couch (Senior Software Engineer at Posit).
+
+They put in quite a lot of time and effort when evaluating submissions and we totally appreciate that!
+
+Before proceeding, I just want to note that it was extremely difficult to pick a single winner. I do think that our judging process was fair and I personally hope that we got it right this year.
+
+Prizes - All winners and runners up receive a free year of shinyapps.io or Posit Cloud Premium. The top prize receives a considerable amount of swag. And all participants receive as many hex-shaped stickers as we're able to fit in an envelope.
+
+The Winner
+
+Exploring United’s Fleet Using fleetR: An Airline Fleet Dashboard
+
+Visit the Repo.
+
+By Martin Stavro - GitHub, LinkedIn
+
+This submission is our winner for 2025 and it goes above and beyond when it comes to using all the stuff! It features all of United Airlines planes in table form. You get tables in a map, tables in a dashboard, and tables even in a book? Yeah, it’s in there. And there’s a ton of documentation concerning the creation of the contest entry, which I love to see. When you really dig into this entry, you’ll see so many wonderous details. To the skies!
+
+The Runners Up
+
+Number of Visits to Singapore’s Places of Interest from 2010 to 2024
+
+Visit the Repo. See the table.
+
+By Jeremy Selva - GitHub, Website, LinkedIn, Bluesky
+
+Sometimes a table can make you want to travel to faraway places. And after looking through Jeremy Selva’s table on Singapore’s Places of Interest (and they really are interesting), I’m saving up my pennies and looking to book a United flight to SIN (Singapore Changi Airport). I really like the varied typefaces used in the table. The plots: they are so nicely put together! Finally, I have to mention that I appreciate the beautiful balance between text, imagery, and that which is plotted.
+
+Pixel Art Using gt
+
+Visit the Repo.
+
+By Melissa Van Bussel - YouTube, GitHub, Website, LinkedIn
+
+Pixel art is awesome. This entry makes it so easy to translate Excel art into gt tables. This pipeline from pixel art authoring to final rendering via gt is brilliant! As I used the tools for my own modest creations, I felt the joy of creating something fresh and new. With steady practice, I hope to keep making better and better aRt with Excel and gt!
+
+Scaling Free Book Distribution with Interactive Data
+
+Visit the Repo. Check out the table.
+
+By Leo Ohyama - GitHub, LinkedIn
+
+OMG this table has a scrolling ticker at the top of it! That, and the promise of free books, firmly puts this table in the category of Runners Up. Also, there is just a ton of information in this table. If you fold back the layers you’ll find useful info just about everywhere. I also appreciate the good graphic use of dark gray, red, and orange throughout!
+
+Special Prize Categories
+
+Best Quarto Dashboard
+
+Visualizing Trending Knitting/Crochet Patterns
+
+Visit the Repo. By Alex McSween GitHub, LinkedIn
+
+This table is pure fiber arts magic! It transforms Ravelry's "hot right now" click-through into an instant visual feast. The greatness lies in the sandwich technique: technical specs (gauge, yarn weight) nestled between eye candy (clickable pattern photos and that delightful 7-day hotness sparkline). This table is what happens when someone deeply understands their users and builds exactly the tool they wish existed.
+
+The Best Tutorial
+
+Recreating All 24 Example Tables from the APA Publication Manual, Seventh Edition
+
+Visit the Repo. See the Tutorial. By W. Joel Scheider GitHub, Bluesky
+
+This exhaustive 24-table recreation of every example from the APA Publication Manual (7th Edition) helps you get the fiddly bits right. What's remarkable isn't just the completeness but the thoughtful improvements that make APA's utility-over-aesthetics philosophy actually readable.
+
+The Best Reactable Table
+
+Culinary Collection Dashboard
+
+Visit the Repo. By Depali Kank GitHub, LinkedIn, Bluesky
+
+This interactive dashboard is just what happens when someone gets tired of clicking through Allrecipes and decides to build something better. This is a good example of scratching your own itch and building exactly the tool you wish existed (then making it real polished, so that others discover the joy of cooking).
+
+The Best Reactablefmtr Table
+
+New York City Ballet's 75th Season
+
+Visit the Repo. Check out the table. By Kristen Akey GitHub, Website
+
+This table is a love letter to dance and it transforms the New York City Ballet's 75th anniversary season into an interactive multimedia experience that captures what makes each performance unique. This table demonstrates how deep domain knowledge can be crossed with thoughtful table design: both a reference tool and a celebration.
+
+The Best gt Table
+
+Visualizing Conserved Regions Across Coronavirus Spike Proteins
+
+Visit the Repo. By Victor Yuan GitHub, LinkedIn, Website
+
+This table submission is remarkable for its audacity: multiple sequence alignment has its own established tooling, yet here's someone doing it with gt and it actually works! It’s obvious to me that the author saw a table package not as a constraint but as a canvas for domain-specific visualization. Maybe the future of bioinformatics might involve more Quarto documents with/ tables and fewer standalone desktop applications?
+
+The Greatest Great Tables Table
+
+Baseball Pitchers: Luck vs. Skill
+
+Visit the Repo. By Jules Walzer-Goldfeld GitHub, Website, LinkedIn
+
+One of baseball's eternal debates: are wins a pitcher stat or a team stat? I love that a table can incorporate visual storytelling like this one does. What makes it special is how it respects both the casual fan (those bars are instantly readable) and the baseball stats enthusiast , all while looking sharp enough to belong on MLB.com.
+
+The Best Sports Table
+
+Estimating National Rugby League Finals Probabilities with Monte Carlo Simulation
+
+Visit the Repo. By Mitch Henderson GitHub, LinkedIn, Bluesky
+
+This table turns 10,000 simulated rugby league seasons into one beautiful, instantly readable answer: "How many wins do we need to make the playoffs?" Those stacked bar charts showing the blue/red split between qualification and elimination tell a story that raw percentages can't. It's a great example of turning complex probability into actionable insight.
+
+The Best Pharma Table
+
+Submission-Ready and Elegant Clinical Tables: Combining {gt} Styling with {gridify} Layout Control
+
+Visit the Repo. By Maciej Nasinski GitHub, LinkedIn
+
+This submission provides the means to create submission-ready table artifacts with protocol numbers, data cutoff dates, confidentiality notices, and complete traceability metadata. Built by combining {gt} for elegant styling with {gridify} for regulatory-compliant framing, it transforms CDISC baseline characteristics into something that would absolutely just sail through FDA review.
+
+Honorable Mentions
+
+This year's contest brought an embarrassment of riches. We saw so many excellent tables that choosing winners felt almost unfair. The truth is, everyone who submitted created something worth celebrating. These Honorable Mentions represent just a slice of the creativity, technical skill, and domain expertise on display across all submissions.
+
+Wind Farm SCADA-Based Reliability Evaluation - Visit the Repo. By Jorge Thomas GitHub
+
+Paris 2024 Olympics: Medal Performance Analysis - Visit the Repo. By Sai Rama Sridatta Prakki GitHub
+
+Sustainable Milk Comparison - Visit the Repo. By Jaspreet Pabla GitHub
+
+Premier League 2024-25 Player Statistics - Visit the Repo. By Sreeram Ravindranathan GitHub
+
+{gt} Tables for Scientific Projects [tutorial] - Visit the Repo. By Eva Maleckova GitHub
+
+Volleyball Analytics - Visit the Repo. By Kevin Baer GitHub
+
+S&P 500 Monitoring Dashboard - Visit the Repo. By Ozancan Ozdemir GitHub
+
+Mapping the Latin American Pharmaceutical Landscape - Visit the Repo. By Lukman Jibril Aliyu GitHub
+
+Migration RecommendeR System - Visit the Repo. By Conrad Messina GitHub
+
+Closing Remarks
+
+Choosing this year's winners was not easy. Many excellent submissions simply couldn't fit into our final list, and it wasn’t that they lacked merit. The judges spent a lot of time with each of their assigned tables and still struggled a bit with their final grades. Rich, in particular, agonized over the finalizing the decisions, second-guessing himself right up until publication. If your submission isn't featured here, please know it reflects the strength of the competition (not any shortcoming in your work).
+
+Thank you to everyone who participated: Deepali Kank, Jules Walzer-Goldfeld, Sydney Bell, Sajjad Ahmadi, Jorge Thomas, Manish Datt, Jeremy Selva, Sai Rama Sridatta Prakki, Maciej Nasinski, Martin Stavro, Victor Yuan, Hari Krishna, Jaspreet Pabla, Alex McSween, Sreeram Ravindranathan, Eva Maleckova, Kristen Akey, Hamid Shafiezadeh, Leo Ohyama, W. Joel Schneider, Anne Hulme, Yvonne Yang, Melissa Van Bussel, Arnav Chauhan, Mitch Henderson, Kevin Baer, Novica Nakov, Ozancan Ozdemir, Arun Rajesh Balakrishnan, Conrad Messina, and Lukman Jibril Aliyu.

@@ -1,0 +1,68 @@
+Title: Nokia and RUCKUS Networks collaborate to deliver integrated fiber and Wi-Fi in-building/campus connectivity
+Source: Investing.com
+URL: https://www.investing.com/news/press-releases/nokia-and-ruckus-networks-collaborate-to-deliver-integrated-fiber-and-wifi-inbuildingcampus-connectivity-93CH-3597210
+--------------------------------------------------
+
+Press Release
+
+Nokia and RUCKUS Networks collaborate to deliver integrated fiber and Wi-Fi in-building/campus connectivity
+
+The joint solution efficiently addresses in-building and campus connectivity needs across key industries, including real estate/MDUs, hospitality, healthcare, and education.
+
+The integrated fiber and Wi-Fi solution can be deployed by Telco, Cable, Managed, and LAN service providers, accelerating time-to-market and reducing operational costs.
+
+Partnership combines the expertise of Nokia and RUCKUS Networks, trusted by over 1,000 global customers, including Marriott, Hyatt, Changi Airport, and the U.S. federal government.
+
+3 September, 2024
+
+Espoo, Finland “ Nokia today announced a collaboration with RUCKUS Networks, a CommScope business, to create an innovative solution for deploying seamless in-building and campus-wide connectivity, uniquely tailored to the needs of diverse industry verticals. This partnership offers an integrated fiber and Wi-Fi solution for delivering broadband service inside MDUs, offices, large venues, hospitality, medical facilities, and other enterprise segments.
+
+Fiber is a game changer for campus and in-building connectivity due to its ability to offer future-proof capacity while significantly reducing power consumption and total cost of ownership. In addition to providing a single network for all services, it is essential to connect Wi-Fi access points. The combination of fiber and Wi-Fi delivers robust and scalable connectivity across mobility, IoT, and digital transformation initiatives.
+
+This joint solution combines Nokia's best-in-class fiber-based Optical LAN with RUCKUS Network's industry-leading enterprise Wi-Fi and switching solutions, creating an integrated infrastructure.
+
+Jaimie Lenderman, Principal Analyst for Broadband Access at Omdia, said: "As broadband access demands continue to grow, this partnership exemplifies the potential of aligning like-minded objectives to deliver fiber-based solutions that can support the diverse network requirements across a variety of industries and verticals."
+
+According to Bart Giordano, SVP and president, Networking Intelligent Cellular Security Solutions, CommScope: The partnership between Nokia and RUCKUS Networks will change the economics for the in-campus connectivity solutions for enterprise and vertical segments. As a single solution, we can now provide everything needed to quickly establish a LAN that can deliver fast, reliable, and secure broadband access services. It will also allow us to future-proof their networks and ensure the next generation of value-added services can be delivered easily.
+
+Sandy Motley, President of Fixed Networks at Nokia, said: Fiber is a fantastic technology with a wide range of benefits. As an Optical LAN, it can reduce energy costs by 40% and TCO by as much as 50%. When combined with RUCKUS's industry-leading Wi-Fi portfolio, we are creating a campus connectivity solution that will allow enterprises to grow their business, reduce their costs, and be more sustainable.
+
+Resources and additional information:
+
+Webpage: Nokia Optical LAN
+
+Video: Changi Airport
+
+Video: Connected Healthcare
+
+Video: Empowering a new innovation society with Nokia Optical LAN
+
+Webpage: RUCKUS Networks -- Purpose-driven enterprise networks
+
+About Nokia
+
+At Nokia, we create technology that helps the world act together.
+
+As a B2B technology innovation leader, we are pioneering networks that sense, think and act by leveraging our work across mobile, fixed and cloud networks. In addition, we create value with intellectual property and long-term research, led by the award-winning Nokia Bell Labs.
+
+With truly open architectures that seamlessly integrate into any ecosystem, our high-performance networks create new opportunities for monetization and scale. Service providers, enterprises and partners worldwide trust Nokia to deliver secure, reliable and sustainable networks today “ and work with us to create the digital services and applications of the future.
+
+About CommScope
+
+CommScope (NASDAQ: COMM) is pushing the boundaries of technology to create the world's most advanced wired and wireless networks. Our global team of employees, innovators and technologists empower customers to anticipate what's next and invent what's possible. Discover more at www.commscope.com.
+
+Media inquiries
+
+Nokia Communications, Corporate
+
+Email: Press.Services@nokia.com
+
+CommScope Communications, Corporate
+
+Email: Luke.Hamer@commscope.com
+
+Follow us on social media
+
+LinkedIn X Instagram Facebook (NASDAQ: ) YouTube
+
+Source: Nokia Oyj (HE: )

@@ -1,0 +1,20 @@
+Title: Singtel: Fixed voice service issues isolated, recovery measures being implemented
+Source: The Online Citizen
+URL: https://www.theonlinecitizen.com/2024/10/08/singtel-fixed-voice-service-issues-isolated-recovery-measures-being-implemented/
+--------------------------------------------------
+
+SINGAPORE: Following the landline service outage occurred on Tuesday (8 October) noon, Singtel in a Facebook post update on 5.07PM noted that their engineers have isolated the problem affecting our fixed voice services
+
+The telco service provider said Recovery measures are being rapidly deployed and services are progressively being restored.
+
+"We apologise for the inconvenience caused and thank you for your patience. "
+
+A check on Downdetector revealed a surge in outage reports for Singtel beginning around 2 PM, peaking at 2,781 complaints. By 5 PM, the number of reports had decreased to over 500.
+
+Earlier, users took to Singtel’s official Facebook page and X (formerly Twitter) to highlight difficulties making calls through landlines, including issues with office lines.
+
+Emergency call services were also affected, with both the Singapore Civil Defence Force (SCDF) and the Singapore Police Force (SPF) reporting disruptions. In a statement issued at 4:22 PM, both agencies acknowledged that members of the public were encountering difficulties when trying to call 995 and 999.
+
+They assured the public that they are working closely with their service provider to resolve the issue as swiftly as possible. In the meantime, individuals experiencing difficulties reaching 995 or 999 are advised to send an SMS to SCDF at 70995 or SPF at 70999.
+
+“The safety and well-being of the public is our top priority. We will provide updates as more information becomes available,” the authorities stated.

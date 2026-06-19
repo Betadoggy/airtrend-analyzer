@@ -1,0 +1,28 @@
+Title: Neo4j eyes GenAI workloads in APAC
+Source: ComputerWeekly.com
+URL: https://www.computerweekly.com/news/366596077/Neo4j-eyes-GenAI-workloads-in-APAC
+--------------------------------------------------
+
+Neo4j is setting its sights on generative AI (GenAI) workloads as it extends its reach across the Asia-Pacific (APAC) region.
+
+In a recent interview with Computer Weekly, Kristen Pimpini, Neo4j’s vice-president and general manager for APAC, highlighted the role of knowledge graphs in mitigating concerns around artificial intelligence (AI) hallucinations and ensuring more accurate, contextually relevant outputs from large language models (LLMs).
+
+“Leveraging knowledge graphs with LLMs helps with preventing hallucinations and enabling explainability, which most people are concerned about,” he said. “We’re starting to see a lot of customer interest and growth in this area.”
+
+In a blog post on the synergy between LLMs and knowledge graphs for GenAI, Neo4j’s senior developer marketing manager, Alexander Erdl, said knowledge graphs are a reliable option for grounding LLMs with their ability to represent both structured and unstructured data, through retrieval augmented generation (RAG).
+
+Explaining the process, Erdl said the LLM first retrieves relevant information from the knowledge graph using vector and semantic search before augmenting the response with contextual data. “This RAG LLM process generates more precise, accurate and contextually relevant output while preventing false information,” he said.
+
+In Singapore, airport operator Changi Airport Group has developed a GenAI search engine, powered by Google’s Vertex AI platform and Neo4j’s graph database, that contains curated data on flights, attractions and other information to deliver accurate and explainable results. In future, the graph could also be used for itinerary planning or to store customer and product information.
+
+To drive adoption of knowledge graphs in GenAI applications, Pimpini said Neo4j has teamed up with Deloitte to drive various use cases across Southeast Asia, where organisations in different industries are experimenting with the technology.
+
+He said the company also provides training for developers to help them understand what graph databases are about, and “the value of graph versus traditional databases that are locked in rows and columns”.
+
+Additionally, integrations between Neo4j’s Graph Data Science, which provides a library of graph algorithms, and platforms like Snowflake, where organisations may be deploying LLMs and machine learning models, also help to reduce friction and ease adoption.
+
+The key APAC markets for Neo4j include Australia, New Zealand, Singapore, India, Malaysia, Indonesia and China. Pimpini said the company is growing from strength to strength, with APAC emerging as its fastest-growing region globally in 2023, recording strong double-digit growth.
+
+On additional investments in the region, he said the company is building a support team in India to cater to customers in APAC and other markets such as the US and Europe, while building a community of partners that can deploy Neo4j on their own.
+
+“We’re also continuing to invest in the government sector with additional headcount because we’re gaining considerable traction in both Singapore and Australia, and India as well,” said Pimpini.

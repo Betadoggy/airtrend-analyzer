@@ -1,0 +1,117 @@
+Title: Massive Disruption After Power Outage Shuts London's Heathrow Airport
+Source: International Business Times
+URL: https://www.ibtimes.com/massive-disruption-after-power-outage-shuts-londons-heathrow-airport-3767188
+--------------------------------------------------
+
+EditionsAustralia EditionKorea EditionJapan EditionIndia EditionSingapore EditionUnited KingdomUnited States
+ doFir.push(function(){if(getCookie('nwsubl')){jQuery(".login-btn .sign-up2").hide();jQuery(".login-btn .myaccount").show()};jQuery(".login-btn .myaccount").on('click',function(e){e.preventDefault();jQuery(".login-btn ul").toggle()});jQuery(document).ready(function(){jQuery(".myaccount").add(".m-manage").each(function(){jQuery(this).attr('href','https://myaccount.ibtimes.com/manage')})})}) fqtag.fscmd.push(function(){LJS("https://users.api.jeeng.com/users/domains/V1DXygbq01/sdk/")}) googletag.cmd.push(function () { if(dfpSlots.slotobjs["top"]){ ibt_log("ADS GPT register ad slot top", Date.now()-timerStart); googletag.display("dfp-ad-top"); } });if(/top\|[0-1]\|1/.test(dfpSlots.pginfo[ibtmedia_device])) document.getElementById("ad-top-wrapper").className+=" block-sticky"  dfpSlots.vplayer=(['ibtuk','ibtus'].indexOf(site_id)>-1)?'primis player':'NoVideo';if(site_id=='ibtuk'&&oa.geo.country!='IL'&&ibtmedia_device=='mobile')dfpSlots.vplayer='NoVideo';if(/adtest=primis/.test(location.href))dfpSlots.vplayer='primis player';else if(/adtest=native/.test(location.href))dfpSlots.vplayer='ibt player';if(dfpSlots.vplayer=='primis player'){if(site_id=='ibtus'){dfpSlots.primis='117767'}else dfpSlots.primis='117814';dfpSlots.primisVideo=function(){if(dfpSlots.primisVideoLoaded)return;dfpSlots.primisVideoLoaded=1;if(adBlock=='Y')return;var d=document,gi='getElementById',s=d.createElement('script');s.type='text/javascript';s.src='https://live.primis.tech/live/liveView.php?s='+dfpSlots.primis+'&cbuster='+Date.now();if(window.ibt_avf){ibt_avf.appendChild(s);d.body.classList.add('video-primis')}else d[gi]('tvplayer').appendChild(s)}}
+if(dfpSlots.vplayer=='NoVideo'&&document.getElementById('ibt-mobile-avf'))document.getElementById('ibt-mobile-avf').remove();dataLayer[0].VideoABTest=dfpSlots.vplayer;var ibt_avf=(brW 
+
+
+Business
+
+ if(document.querySelector(".breadcrumb").innerHTML.trim()==''){document.querySelector(".breadcrumb").parentNode.parentNode.removeChild(document.querySelector(".breadcrumb").parentNode)} 
+Massive Disruption After Power Outage Shuts London’s Heathrow Airport
+
+
+By
+
+ Helen ROWE 
+
+
+Published 03/21/25 AT 5:06 AM EDT
+Share on Facebook
+Share on Twitter
+Share on LinkedIn
+Share on Reddit
+Share on Flipboard doFir.push(function(){var flipboard=1;jQuery(".genericon-flipboard").on('click',function(e){e.preventDefault();e.stopPropagation();if(flipboard){flipboard=0;LJ('https://cdn.flipboard.com/web/buttons/js/flbuttons.min.js',function(){jQuery(".genericon-flipboard").trigger('click')})}})}) Share on Pocket
+
+
+
+
+Heathrow Airport authorities say they "expect significant disruption" over the coming days, with hundreds of flights and thousands of passengers affected
+AFP
+
+Britain's Heathrow airport -- Europe's busiest -- shut down early on Friday after a major fire at an electricity substation cut power to the sprawling hub, causing disruption worldwide to hundreds of flights and thousands of travellers.
+
+Around 120 Heathrow-bound planes were in the air when the closure was announced, according to online flight tracking service FlightRadar24.
+
+Around 70 firefighters were deployed to tackle the "highly visible" blaze at the substation in Hayes, west London.
+
+Videos on social media, apparently shot inside Heathrow's terminals, showed shuttered shops and deserted corridors, lit only by emergency lighting.
+
+Heathrow, which handles more than 80 million passengers a year, has around 1,300 takeoffs or landings a day.
+
+British Airways said the closure of its main hub "will clearly have a significant impact on our operation and our customers".
+
+"We're working as quickly as possible to update them on their travel options for the next 24 hours and beyond," it said.
+
+The UK's second busiest airport, Gatwick, said it would accept some flights from Heathrow.
+
+Others were diverted to Shannon in southwestern Ireland.
+
+"We are aware of the situation at Heathrow Airport today and are supporting as required. Flights from London Gatwick are operating as normal today," Gatwick said on X.
+
+At least six flights were diverted from Heathrow to Shannon Airport, the Irish airport said.
+
+Airport authorities said they "expect significant disruption" over the coming days, while flight FlightRadar24 said at least 1,351 flights to and from the airport would be affected.
+
+"Heathrow is experiencing a significant power outage," the airport operator said on its website, adding it would be closed until just before midnight on Friday (2359 GMT).
+
+"Passengers should not travel to the airport under any circumstances until the airport reopens," it stressed.
+
+London Fire Brigade was called to the "significant" blaze at Hayes in west London at 11:23 pm (2323 GMT)
+
+It said 10 fire engines and dozens of firefighters were sent to the scene, while around 150 people had been evacuated from nearby properties.
+
+London Fire Brigade assistant commissioner Pat Goulbourne said firefighters had worked "tirelessly in challenging conditions" and that around 8:00 am the fire had been brought "under control".
+
+The government would be "doing everything we can" to restore power to Heathrow, Energy Secretary Ed Miliband said.
+
+The outage left 100,000 homes without power overnight, he said, but that power had been restored to all but around 4,000.
+
+It was "speculative" to suggest at the moment that arson might have caused the fire, the chairwoman of a parliamentary transport committee, Ruth Cadbury, said.
+
+"There are obviously questions about it," she told Times Radio.
+
+She said the fact the airport was dependent on one substation "does raise questions".
+
+Other European airports, including Frankfurt, were accepting diverted flights.
+
+In Sydney, Qantas said two flights en route to Heathrow -- a non-stop flight from Perth and another via Singapore -- had both been diverted to Paris's Charles de Gaulle airport.
+
+Seven United Airlines flights returned to their airport of origin or to other airports and all Friday flights to London Heathrow were being cancelled, a company spokesperson said.
+
+A Korean Air flight scheduled to depart for Heathrow from Incheon, South Korea, was delayed by 22 hours, the airline said.
+
+At Singapore's Changi Airport, a couple scheduled to fly to London told AFP they were already in the boarding area when they were notified of the cancellation.
+
+"They told us the flight was cancelled because there's been a fire in London," said the man, who did not want give his name.
+
+"They booked us at a hotel and they will inform us when the next flight is available," he told AFP.
+
+In January, the UK government gave permission for Heathrow to build a third runway -- which could be ready by 2035 -- after years of legal disputes due to opposition from local residents.
+
+Five major airports serve the British capital and towns nearby.
+
+But capacity is stretched, especially at Heathrow, whose two runways each measure almost four kilometres (2.5 miles) in length.
+
+The airport itself covers a total area of 12.3 square kilometres (4.8 square miles).
+
+It opened in 1946 as London Airport before being renamed Heath Row after a hamlet demolished two years earlier to make way for the construction.
+
+Situated 25 kilometres west of central London, Heathrow currently has four terminals and serves 200 destinations in more than 80 countries.
+
+Among its main flight destinations last year were Dublin, Los Angeles, Madrid and New York.
+
+Heathrow handles more than than 80 million passengers a year and the operator says there are around 1,300 takeoffs or landings a day
+AFP
+
+
+
+
+
+Situated 25 kilometres (15 miles) west of central London, the present Heathrow serves 200 destinations in more than 80 countries, with passengers having access to four terminals
+AFP
+
+© Copyright AFP 2025. All rights reserved.

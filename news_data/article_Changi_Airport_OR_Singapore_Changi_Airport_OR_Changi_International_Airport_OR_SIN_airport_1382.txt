@@ -1,0 +1,100 @@
+Title: Airlines resume services after global IT crash wreaks havoc
+Source: VOA News
+URL: https://www.voanews.com/a/airlines-resume-services-after-global-it-crash-wreaks-havoc/7705965.html
+--------------------------------------------------
+
+Transportation providers, businesses and governments on Saturday are rushing to get all their systems back online after long disruptions following a widespread technology outage.
+
+The biggest continuing impact has been on air travel. Carriers canceled thousands of flights on Friday and now have many of their planes and crews in the wrong place, while airports face continued problems with checking in and security.
+
+At the heart of the massive disruption is CrowdStrike, a cybersecurity firm that provides software to scores of companies worldwide. The company says the problem occurred when it deployed a faulty update to computers running Microsoft Windows, noting that the issue behind the outage was not a security incident or cyberattack.
+
+Here are some of the latest related stories:
+
+Austrian doctors' group calls for better data protection
+
+In Austria, a leading doctors organization said the global IT outage exposed the vulnerability of health systems reliant on digital systems.
+
+“Yesterday’s incidents underscore how important it is for hospitals to have analogue backups” to safeguard patient care, Harald Mayer, vice president of the Austrian Chamber of Doctors, said in a statement on the organization’s website.
+
+The organization called on governments to impose high standards in patient data protection and security and on health providers to train staff and put systems in place to manage crises.
+
+“Happily, where there were problems, these were kept small and short-lived and many areas of care were unaffected” in Austria, Mayer said.
+
+Germany warns of scams
+
+The German government’s IT security agency says numerous companies are still struggling with the consequences of a far-reaching technology outage.
+
+“Many business processes and procedures have been disturbed by the breakdown of computer systems,” the BSI agency said on its website. But the agency also said Saturday that many affected areas have returned to normal.
+
+It warned that cybercriminals were trying to take advantage of the situation through phishing, fake websites and other scams and that “unofficial” software code was in circulation.
+
+The agency said it was not yet clear how faulty code ended up in the CrowdStrike software update blamed for triggering the outage.
+
+European airports appear to be close to normal
+
+Europe’s busiest airport, Heathrow, said it is busy but operating normally on Saturday. The airport said in a statement that “all systems are back up and running and passengers are getting on with their journeys smoothly.“
+
+Some 167 flights scheduled to depart from U.K. airports on Friday were canceled, while 171 flights due to land were axed.
+
+Meanwhile, flights at Berlin Airport were departing on or close to schedule, German news agency dpa reported, citing an airport spokesman.
+
+Nineteen flights took off in the early hours of Saturday after authorities exempted them from the usual ban on night flights.
+
+On Friday, 150 of the 552 scheduled inbound and outbound flights at the airport were canceled over the IT outage, disrupting the plans of thousands of passengers at the start of the summer vacation season in the German capital.
+
+German hospital slowly restoring its systems
+
+The Schleswig-Holstein University Hospital in northern Germany, which on Friday canceled all elective surgery because of the global IT outage, said Saturday that it was gradually restoring its systems.
+
+In a statement on its website, it forecast that operations at its two branches in Kiel and Luebeck would return to normal by Monday and that “elective surgery can take place as planned and our ambulances can return to service.”
+
+Britain's transport system still trying to get back on track
+
+Britain’s travel and transport industries are struggling to get back on schedule after the global security outage with airline passengers facing cancellations and delays on the first day of summer holidays for many school pupils.
+
+Gatwick Airport said “a majority” of scheduled flights were expected to take off. Manchester Airport said passengers were being checked in manually and there could be last-minute cancellations.
+
+The Port of Dover said it was seeing an influx of displaced air passengers, with hourlong waits to enter the port to catch ferries to France.
+
+Meanwhile, Britain’s National Cyber Security Center warned people and businesses to be on the lookout for phishing attempts as “opportunistic malicious actors” try to take advantage of the outage.
+
+The National Cyber Security Center’s former head, Ciaran Martin, said the worst of the crisis was over, “because the nature of the crisis is that it went very wrong very quickly. It was spotted quite quickly and essentially it was turned off.”
+
+He told Sky News that some businesses would be able to get back to normal very quickly, but for sectors such as aviation it would take longer.
+
+“If you’re in aviation, you’ve got people, planes and staffs all stranded in the wrong place. … So, we are looking at days. I’d be surprised if we’re looking at weeks.”
+
+German airline expects most of its flights to run normally
+
+Eurowings, a budget subsidiary of Lufthansa, said it expected to return to “largely scheduled” flight operations on Saturday.
+
+On Friday, the global IT outage had forced the airline to cancel about 20% of its flights, mostly on domestic routes. Passengers were asked to take trains instead.
+
+“Online check-in, check-in at the airport, boarding processes, booking and rebooking flights are all possible again,” the airline said Saturday on X. “However, due to the considerable extent of the global IT disruption there may still be isolated disruptions” for passengers, it said.
+
+Delta Air Lines, affiliates canceled hundreds of flights
+
+Delta Air Lines and its regional affiliates canceled more than a quarter of their schedule on the U.S. East Coast by midafternoon Friday, aviation data provider Cirium said.
+
+More than 1,100 flights for Delta and its affiliates have been canceled.
+
+United and United Express had canceled more than 500 flights, or 12% of their schedule, and American Airlines’ network had canceled 450 flights, 7.5% of its schedule.
+
+Southwest and Alaska do not use the CrowdStrike software that led to the global internet outages and had canceled fewer than a half-dozen flights each.
+
+Portland, Oregon, mayor declares an emergency
+
+Mayor Ted Wheeler declared an emergency Friday after more than half of the city’s computer systems were affected by the global internet outage.
+
+Wheeler said during a news conference that while emergency services calls weren’t interrupted, dispatchers were having to manually track 911 calls with pen and paper for a few hours. He said 266 of the city’s 487 computer systems were affected.
+
+Border crossings into the US are delayed
+
+People seeking to enter the U.S. from the north and the south found that the border crossings were delayed by the internet outage.
+
+The San Ysidro Port of Entry was gridlocked Friday morning with pedestrians waiting three hours to cross, according to the San Diego Union-Tribune.
+
+Even cars with people approved for a U.S. Customs and Border Protection “Trusted Traveler” program for low-risk passengers waited up to 90 minutes. The program, known as SENTRI, moves passengers more quickly through customs and passport control if they make an appointment for an interview and submit to a background check.
+
+Meanwhile, at the U.S.-Canada border, Windsor Police reported long delays at the crossings at the Ambassador Bridge and the Detroit-Windsor tunnel.

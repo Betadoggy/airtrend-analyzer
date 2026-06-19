@@ -1,0 +1,49 @@
+Title: Govt okays RM60mil for Sultan Azlan Shah Airport expansion
+Source: The Star Online
+URL: https://www.thestar.com.my/news/nation/2025/02/01/govt-okays-rm60mil-for-sultan-azlan-shah-airport-expansion
+--------------------------------------------------
+
+Stay signed in to save the points you've earned.
+        Click on the points to redeem your rewards at Nexus before they expire.
+
+IPOH: After years of waiting, the expansion of the Sultan Azlan Shah Airport will finally take off.
+
+The Federal Government has approved RM60mil for the much-anticipated project.
+
+Housing and Local Government Minister Nga Kor Ming, who disclosed this, said it was a special festive gift to Perak from Prime Minister Datuk Seri Anwar Ibrahim.
+
+He said the project will be divided into phase one amounting to RM8mil, and phase two involving RM52mil.
+
+“The Ipoh City Council will spend RM4mil to expand the entrance and exit routes of the airport,” he told reporters at the Perak Chinese Chamber of Commerce and Industry (PCCCI) Chinese New Year open house held at a hotel here yesterday.
+
+Nga, who is the Teluk Intan MP, said the airport had a capacity of 500,000 passengers but the number exceeded last year with 512,000 passengers.
+
+Under the expansion project, the airport would be able to handle up to 700,000 passengers, he added.
+
+“There is also a 10.52ha plot adjacent to the airport designated for cargo development.
+
+“The expansion and cargo project will enhance the position of Perak, with high-value products exported through the airport to countries such as Singapore and Thailand,” he said.
+
+In his speech, PCCCI president Datuk Liew Chee Ming said he hoped the Prime Minister would also help improve Perak’s basic infrastructure and expedite the development of Lumut Port to further stimulate economic growth.
+
+He said the Sultan Azlan Shah Airport should be developed into a regional hub, enabling direct flights from Ipoh to destinations such as Bangkok, Jakarta, Hong Kong and Guangzhou.
+
+“We should leverage on Singapore’s Changi Airport by having more direct flights from Ipoh to Singapore, allowing travellers to connect to global destinations.
+
+“Currently, there are three daily flights between Ipoh and Singapore.
+
+“The Perak government should also work towards securing direct flights from Kuala Lumpur to Ipoh to facilitate international investors,” he added.
+
+Liew also noted that it was the first time in PCCCI’s 118-year history that a prime minister attended its Chinese New Year open house, calling it a great honour for the Chinese business community.
+
+Copyright © 1995-
+            
+                
+                    $(document).ready(function () { 
+                        var theDate = new Date();
+                        $('#spanCopyright').text(theDate.getFullYear())
+                    })
+                
+             Star Media Group Berhad [197101000523 (10894-D)]
+
+We would love to keep you posted on the latest promotion. Kindly fill the form below

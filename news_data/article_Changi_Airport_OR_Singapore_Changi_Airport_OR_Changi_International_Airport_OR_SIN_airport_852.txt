@@ -1,0 +1,95 @@
+Title: Global IT Outage: The Main Sectors Impacted
+Source: International Business Times
+URL: https://www.ibtimes.com/global-it-outage-main-sectors-impacted-3737441
+--------------------------------------------------
+
+EditionsAustralia EditionKorea EditionJapan EditionIndia EditionSingapore EditionUnited KingdomUnited States
+ doFir.push(function(){if(getCookie('nwsubl')){jQuery(".login-btn .sign-up2").hide();jQuery(".login-btn .myaccount").show()};jQuery(".login-btn .myaccount").on('click',function(e){e.preventDefault();jQuery(".login-btn ul").toggle()});jQuery(document).ready(function(){jQuery(".myaccount").add(".m-manage").each(function(){jQuery(this).attr('href','https://myaccount.ibtimes.com/manage')})})}) fqtag.fscmd.push(function(){LJS("https://users.api.jeeng.com/users/domains/V1DXygbq01/sdk/")}) googletag.cmd.push(function () { if(dfpSlots.slotobjs["top"]){ ibt_log("ADS GPT register ad slot top", Date.now()-timerStart); googletag.display("dfp-ad-top"); } });if(/top\|[0-1]\|1/.test(dfpSlots.pginfo[ibtmedia_device])) document.getElementById("ad-top-wrapper").className+=" block-sticky"  dfpSlots.vplayer=(['ibtuk','ibtus'].indexOf(site_id)>-1)?'primis player':'NoVideo';if(site_id=='ibtuk'&&oa.geo.country!='IL'&&ibtmedia_device=='mobile')dfpSlots.vplayer='NoVideo';if(/adtest=primis/.test(location.href))dfpSlots.vplayer='primis player';else if(/adtest=native/.test(location.href))dfpSlots.vplayer='ibt player';if(dfpSlots.vplayer=='primis player'){if(site_id=='ibtus'){dfpSlots.primis='117767'}else dfpSlots.primis='117814';dfpSlots.primisVideo=function(){if(dfpSlots.primisVideoLoaded)return;dfpSlots.primisVideoLoaded=1;if(adBlock=='Y')return;var d=document,gi='getElementById',s=d.createElement('script');s.type='text/javascript';s.src='https://live.primis.tech/live/liveView.php?s='+dfpSlots.primis+'&cbuster='+Date.now();if(window.ibt_avf){ibt_avf.appendChild(s);d.body.classList.add('video-primis')}else d[gi]('tvplayer').appendChild(s)}}
+if(dfpSlots.vplayer=='NoVideo'&&document.getElementById('ibt-mobile-avf'))document.getElementById('ibt-mobile-avf').remove();dataLayer[0].VideoABTest=dfpSlots.vplayer;var ibt_avf=(brW 
+
+
+World
+
+ if(document.querySelector(".breadcrumb").innerHTML.trim()==''){document.querySelector(".breadcrumb").parentNode.parentNode.removeChild(document.querySelector(".breadcrumb").parentNode)} 
+Global IT Outage: The Main Sectors Impacted
+
+
+By
+
+ AFP News 
+
+
+Published 07/19/24 AT 9:38 AM EDT
+Share on Facebook
+Share on Twitter
+Share on LinkedIn
+Share on Reddit
+Share on Flipboard doFir.push(function(){var flipboard=1;jQuery(".genericon-flipboard").on('click',function(e){e.preventDefault();e.stopPropagation();if(flipboard){flipboard=0;LJ('https://cdn.flipboard.com/web/buttons/js/flbuttons.min.js',function(){jQuery(".genericon-flipboard").trigger('click')})}})}) Share on Pocket
+
+A massive IT blackout on Friday affected a wide range of sectors around the world, from Japan to the United States.
+
+Airport operations and flights were a major victim of the outage, which forced delays and cancellations globally.
+
+At Sydney Airport in Australia, flight operations and airport services were affected, creating long queues of passengers trying to reach their destinations.
+
+Hong Kong International Airport also announced that some airlines were affected, and Singapore's airport also said it had been impacted.
+
+"Due to a global outage affecting IT systems of many organizations, the check-in process for some airlines at Changi Airport is being managed manually," the airport posted on Facebook.
+
+At Delhi airport, three Indian airlines reported major IT disruptions.
+
+In Europe, Berlin International Airport was blocked on Friday morning before traffic partially resumed at around 11:00 a.m. (0900 GMT).
+
+Flight arrivals were halted at Zurich's airport before it announced Friday afternoon that flights could again land, while in Vienna and Budapest, the check-in systems of several airlines had to be operated manually, causing "significant delays".
+
+Amsterdam-Schiphol airport, a major European hub, was also affected, as were all airports in Spain, causing disruptions at the height of its summer tourism season.
+
+In France, Air France said it was facing IT-related disruption on several of its services, but not at the Charles de Gaulle and Orly airports serving the Olympics host city Paris.
+
+The IT systems of the ADP group, which manages the Paris airports, were unaffected but the breakdown has "had an impact on the operations of the airlines concerned at Paris-Charles de Gaulle and Paris-Orly: slowdown in check-in, delays and temporary suspension of certain flight schedules", the company told AFP.
+
+But Transavia France said it had been forced to cancel nearly 40 flights.
+
+Ireland's Ryanair, Europe's biggest airline in terms of passenger numbers, warned that it was experiencing a "disruption across the network due to a global third-party IT outage which is out of our control".
+
+In North America, major airlines including Delta, United and American Airlines grounded all their planes early on Friday because of "communications issues", according to the Federal Aviation Administration.
+
+They later said they were beginning to resume operations after hours-long delays.
+
+Britain's largest rail operator said it was affected by the IT problems, leading to potential last-minute cancellations as companies were unable to access certain systems relating to drivers.
+
+"We are currently experiencing widespread IT issues across our entire network", the four lines operated by Govia Thameslink Railway (GTR) posted on X.
+
+In Gdansk, northern Poland, the Baltic Hub Container Terminal, a deep-water terminal, also reported disruption before returning to normal.
+
+The London Stock Exchange was hit early by a technical problem affecting its platform for disseminating information to the market.
+
+The FTSE 100, its main index, opened around 20 minutes late
+
+In addition, the applications of several banks were affected in Australia, according to Australian television station ABC.
+
+The problem also affected banks in Ukraine, including the online bank Sense Bank.
+
+In Turkey, Deniz Bank reported disruptions to its customers.
+
+The disruptions also affected the media, such as Australian broadcaster ABC, which said its systems had been paralysed by a "major" problem.
+
+In France, Canal+'s subscriber service explained on Friday morning that it was suffering the "repercussions of a major global technical failure".
+
+TF1, the leading private channel in France and Europe, was also affected, with its morning show starting several minutes late.
+
+British television channel Sky News saw its broadcasting briefly interrupted.
+
+The IT outage is "impacting Paris 2024's IT operations" just a week ahead of the opening ceremony for the Summer Games, the Olympic organising committee said.
+
+The accreditation system has been affected, preventing some people from collecting their badges, a source within the organising committee told AFP.
+
+Flight disruptions could also impede the arrival of athletes and delegations.
+
+In Japan, some operations at McDonald's restaurants were disrupted, and in Australia, self-service checkout terminals at one of the country's largest supermarket chains displayed error messages.
+
+In the Netherlands, several hospitals reported being affected by the outage, leading to the closure of an emergency department and the postponement of operations.
+
+Britain's government activated its civil contingencies committee as general practitioners (GPs) across Britain were unable to access patient records or book appointments.
+
+A National Health Service (NHS) spokesperson said there was an issue with its appointment and patient record service "causing disruption in the majority" of GP services.

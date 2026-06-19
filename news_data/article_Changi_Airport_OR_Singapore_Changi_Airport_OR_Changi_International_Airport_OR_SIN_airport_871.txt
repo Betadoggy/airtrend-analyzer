@@ -1,0 +1,20 @@
+Title: Is geospatial data the real game changer for digital twins?
+Source: Techtarget.com
+URL: https://www.techtarget.com/searcherp/podcast/Is-geospatial-data-the-real-game-changer-for-digital-twins
+--------------------------------------------------
+
+Spatial twins combine live and static data
+
+Liu said the twins contain two main types of data. Static data might be a computer-aided design drawing, 3D model of a building or simple floor plan. Dynamic information is live, real-time data coming from IoT sensors, GPSes, CCTV monitors and other devices.
+
+But all that data isn't much use without an effective way to interact with it. That's where the experience layer of TwinMatrix SpatialVerse software comes in. Graphic visualizations summarize the data to help users understand the essential information at a glance, including the precise location of events that require attention. For example, the airport's fire department can quickly determine whether a smoke alarm is working improperly or reacting to a real fire and pinpoint exactly where it is located. Normally, they might lose precious minutes looking for the fire.
+
+The map on the Changi Airport homepage is the digital twin itself but with limited access for the general public, according to Liu.
+
+Other topics discussed in the podcast include the following:
+
+The No. 1 misconception about digital twins.
+
+Why cost is the biggest barrier to broader adoption of digital twins, and ways to address it.
+
+How SpatialVerse low-code/no-code tools could democratize the technology by making it easier for nontechnical people to configure digital twins.

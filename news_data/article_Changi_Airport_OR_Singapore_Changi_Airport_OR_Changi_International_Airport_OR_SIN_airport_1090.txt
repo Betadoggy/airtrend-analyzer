@@ -1,0 +1,30 @@
+Title: GMR Group selects IDEMIA for DigiYatra face recognition tech
+Source: The Times of India
+URL: https://economictimes.indiatimes.com/tech/technology/gmr-group-selects-idemia-for-digiyatra-face-recognition-tech/articleshow/101138971.cms
+--------------------------------------------------
+
+Synopsis
+
+​​The technology has already been implemented at Delhi International Airport Limited (DIAL) for DigiYatra that facilitates entry of domestic travellers into the airport without showing identity documents.
+
+GMR Group has selected IDEMIA for implementing face recognition technology for DigiYatra service at Delhi International Airport, Hyderabad and Goa, a technology firm said on Tuesday.
+
+The technology has already been implemented at Delhi International Airport Limited (DIAL) for DigiYatra that facilitates entry of domestic travellers into the airport without showing identity documents.
+
+GMR CEO Videh Kumar Jaipuriar said that capturing the biometrics of people on the move - without slowing them down, especially at airports where long queues can lead to costly delays - is crucial.
+
+"We are glad to partner with IDEMIA's Passenger Flow Facilitation solution, which will enable and speed up passenger clearance and increase security with embedded anti-spoofing capabilities with the least manual intervention," GMR CEO Videh Kumar Jaipuriar said.
+
+French company IDEMIA has deployed biometric and digital technologies at over 250 airports across the globe including at Singapore's Changi Airport.
+
+"We are thrilled to collaborate and partner with GMR Group for DigiYatra, yet another exemplary digitalization initiative of the Government of India. As a market leader for passenger flow facilitation solutions, we strive to constantly innovate to safeguard passenger trust and help pave the way for even smoother and more secure future travel," IDEMIA India, India Regional President, Matthew Foxton said in a statement.
+
+IDEMIA is also a technology partner in the government's JandhanYojna and Aadhaar programme where verification is centric to the implementation of the project.
+
+The company said that it worked alongside DIAL in solution development and delivery of a live proof of concept for about last one and a half years.
+
+"Our solution was successfully tested, and IDEMIA was finally awarded the contract. Under this contract, DigiYatra will use IDEMIA's facial recognition technology at Delhi, Hyderabad, and Goa to verify the identity of domestic flyers, making terminal entry and security clearance at the airport a seamless, hassle-free, and paperless process," IDEMIA said.
+
+(Catch all the Technology News News, and Latest News Updates on The Economic Times.)
+
+...more

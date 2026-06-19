@@ -1,0 +1,24 @@
+Title: Error At CrowdStrike Sends Shockwaves Of Disruption Across The World
+Source: The Daily Caller
+URL: https://dailycaller.com/2024/07/19/crowdstrike-outage-microsoft-airports-software-banks/
+--------------------------------------------------
+
+A mass wave of IT outages disrupted the world Friday morning, shutting down airports, banks, airlines and a swath of other institutions as Microsoft ground to a halt.
+
+At least 540 flights were cancelled across the U.S. on Friday morning as American Airlines, Delta, and United asked the Federal Aviation Administration (FAA) for global ground stop on all flights, according to ABC News. Outages also hit Berlin Airport in Germany, the London Stock Exchange, Gatwick Airport in the U.K., Google Cloud, Microsoft, various hospitals and some computers were reportedly impacted at the Department of Justice (DOJ).
+
+By 10:30 am, the FAA said they are still working with airlines while “they work to resume normal operations,” suggesting the outage is ongoing. Multiple airports appear to be closed across the country, while others are on a ground delay.
+
+ESPN is also battling the outage, switching up Friday morning’s programming with “Sports Center” unable to get on air, according to a tweet from “Unsportsmanlike” host Courtney Cronin.
+
+“A Microsoft outage happened around 1 o’clock in the morning Eastern time and Courtney, all hell has broken loose with Microsoft and having pretty much everything shut down until they try to fix this problem,” host Freddie Coleman added, according to the New York Post. Sky Sports in the U.K. also crashed.
+
+The outage was apparently caused by a software issue, and not a cyberattack, according to American cybersecurity firm CrowdStrike. “CrowdStrike is actively working with customers impacted by a defect found in a single content update for Windows hosts. Mac and Linux hosts are not impacted. This is not a security incident or cyberattack. The issue has been identified, isolated and a fix has been deployed,” the firm’s CEO George Kurtz said on social media.
+
+As of 5:50 am EST, the FAA had pinned a tweet telling followers that they are “closely monitoring a technical issue impacting IT systems at U.S. airlines. Several airlines have requested FAA assistance with ground stops until the issue is resolved.” (RELATED: Boeing Whistleblower Dies From Sudden Illness: REPORT)
+
+Flights that were already in the air were allowed to continue following the outage, but no other American, United, or Delta fights have left the ground at the time of writing. Videos and photos posted online show what appears to be countless people stranded at airports around the world as the weekend rolls in.
+
+“A third party software outage is impacting computer systems worldwide, including at United,” United Airlines said in a Friday morning statement. “While we work to restore those systems, we are holding all aircraft at their departure airports. Flights already airborne are continuing to their destinations.”
+
+This is an evolving story, please check back for further updates.

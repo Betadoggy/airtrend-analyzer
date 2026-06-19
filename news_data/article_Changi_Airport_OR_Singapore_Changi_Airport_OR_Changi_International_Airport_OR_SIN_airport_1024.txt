@@ -1,0 +1,46 @@
+Title: How Singapore is bringing convenience to everyday life
+Source: Uxdesign.cc
+URL: https://uxdesign.cc/digital-mastery-singapores-story-part-1-42d1e3a33f31
+--------------------------------------------------
+
+Recently, as I used my iPhone to tap out while exiting a bus, it struck me just how seamless life in Singapore has become. It’s easy to overlook, but the effortless convenience we experience daily is the result of significant innovation, strategic planning, and thoughtful design. Allow me to elaborate…
+
+Before delving into specific use cases, let’s first explore the overarching strategies at play:
+
+Play it safe: Established Technologies
+
+There are always new and existing technologies emerging. They follow what is called the “hype curve” : When emerging technologies are introduced, they often generate significant hype. Only after demonstrating their value to businesses and industries do they reach the ‘plateau of productivity’.
+
+While the Singapore government is trying out plenty of new technologies like drone delivery, digital twin, etc., the technologies that are being deployed to the masses are trusted and proven ones like websites, native apps, NFC, etc. This approach guarantees that the majority of users are well-acquainted with the technology, enabling widespread accessibility. For instance, all Singaporean government services are streamlined through intuitively designed, responsive websites. This user-friendly interface simplifies tasks such as applying for a work permit or filing taxes, allowing you to complete them at your convenience, on any device
+
+Why this sounds intuitive, again it is easy to jump on the “hype train”. Here is an example of this: Deutsche Bahn demoed a voiced controlled ticket ordering machine in a busy railway station. They demoed it on live TV with a lot of reporters present; creating an even more noisy environment. The result was that the voice system got confused and repeatedly said “Sorry I don’t understand” and they had to end the presentation prematurely. It never went live to my knowledge. A simple but better touchscreen UI would have been a more viable innovation.
+
+SingPass
+
+Another smart strategy in Singapore is that you have literally one digital ID which is your NRIC (national ID). So instead of remembering 20 different logins to various government services, you can do everything with one ID. To bring this idea to live, they created a SingPass app that allows me to log in to everything. They then open-source SingPass, so other services like banks can embed it in their apps. Paired with my Face ID on my iPhone, this means I can seamlessly and securely access all my essential services in one app: Immigration, Tax, Notary, Housing, Bank Account, etc.
+
+The concept of one ID is also used for other clever innovations, which I will go into detail below.
+
+Create win & win situations
+
+When crafting digital experiences, one objective should be to collect meaningful data from your users. This data can provide valuable insights that guide you in enhancing their experiences. The more seamless and intuitive the user experience, the more likely users are to engage with it frequently, further enriching your data pool.
+
+Accenture describes this much better than I can do here, so have a look at their banking case studies.
+
+Singapore banks use this concept to perfection: They make it so easy for me to do all my banking services on my app that I use it frequently and for various services: deposits, investment, transfers, etc.. In exchange, the bank gets even more data points from me plus saves a lot of money.
+
+The lesson is clear: Prioritize user value in your digital services and streamline their experience. The more intuitive and valuable your services are, the more data you’ll accumulate.
+
+Human in the Loop
+
+One last point: It’s always good to have human support no matter how reliable or good your technology is. You can observe this concept being successfully applied at Changi Airport, for example, where a lot is automated but there is always someone there to assist you in case you need it. In apps or on website you should always have a chat widget that gives people access to a human operator. Talking to a human being is still the best when you need assistance.
+
+Some cool examples
+
+And finally, here are some of my favorite examples how Singapore is using technology in an ingenious way that makes all our lives so much easier:
+
+Road tax and parking: Every car and motorcycle has a small device that allows you to plugin a card that you top up with money. Then, every time you drive into a parking garage or onto a parking lot, it will deduct the money automatically. The same for road tax. Very convenient and without the user having to do anything: There is no new technology to adopt or any user interface (UI) to learn.
+
+Bus App: Numerous apps serve the same function: providing real-time updates on bus arrival times. This feature is made possible by the built-in GPS in each bus. It’s incredibly helpful because it allows you to make an informed decision between waiting for the bus or taking the train.
+
+Getting Free Covid Masks: A case study how the SingPass is deployed: There were vending machines during the pandemic that dispensed free mask or testing kits; one for each household. All we had to do is scan our SingPass barcode. There was no registration, so signup, no downloading of any app. I just scanned my SingPass and in the next 5 seconds, I received my free masks. Plus, it tracked that I had redeemed my mask. This system is as user-friendly as it gets, and it embodies nearly all the principles we’ve discussed.

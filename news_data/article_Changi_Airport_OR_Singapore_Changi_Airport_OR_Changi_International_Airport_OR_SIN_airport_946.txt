@@ -1,0 +1,48 @@
+Title: Grab's COO thinks there's 'tremendous upside' in fast-growing Southeast Asia after the startup recently reported its first-ever profitable quarter
+Source: Fortune
+URL: https://fortune.com/asia/2024/04/27/grab-coo-alex-hungate-first-profitable-quarter-tremendous-upside-southeast-asia/
+--------------------------------------------------
+
+Grab reported a profit of $11 million for the final three months of 2023, compared to a $391 million loss in the same period a year earlier. Revenue for the quarter also grew to $653 million, a 30% increase from the same period in 2022.
+
+“Crossing the break-even is a point on the line,” Alex Hungate, Grab’s chief operating officer, says. “We’ve got a region where there’s a lot of potential to grow scale, so we just got to keep pushing growth.”
+
+Many tech companies have been forced to tighten their belts in recent years. Backers and investors have soured on continual losses and high spending, due to higher interest rates and a tougher macroeconomic environment.
+
+Grab has never made an annual profit. In 2023, Grab posted a net loss of $485 million, a massive improvement from the $1.74 billion loss it reported in 2022. The startup’s shares have lost almost 75% of their value since their debut in December 2021, when the company listed on the Nasdaq via a merger with a special purpose acquisition company (SPAC).
+
+Grab achieved its first-ever profitable quarter on the back of a series of cost-cutting measures for the Southeast Asian tech firm, including freezes on hiring and salaries for senior managers, and a one-time accounting gain.
+
+The ride-hailing startup will soon show whether it’s been able to build on that momentum in the new year: Grab will report its earnings for the first quarter of 2024 on May 15.
+
+A data science company
+
+Hungate explains that Grab’s previous investments are now starting to bear fruit, allowing the company to reinvest its earnings in its services to attract new users and retain current ones.
+
+Grab is best known as a ride-hailing and food delivery service, tapping into an army of drivers across Southeast Asia to carry passengers and food from place to place. But Hungate instead sees Grab as a data science company with enough internal information to optimize revenue growth.
+
+One example is Grab’s decision to create its own mapping solution, instead of licensing something from a third-party provider (as most other ride-hailing apps do).
+
+Southeast Asian cities are big and messy, with narrow streets and roads that aren’t clearly signposted. Another key feature of Southeast Asian cities? Shopping malls, which often serve as hubs for residential and commercial properties in addition to retail outlets. But drivers can get lost in labyrinthine complexes.
+
+“Fourteen percent of the driver’s time is taken in the last 2% of the journey because they often can’t find the place in the mall where they’re picking up or dropping off,” Hungate says. He claims that better mapping helped drivers earn 14% more per hour last year compared to 2022, as the technology allows the company to better allocate its fleet.
+
+Another area where Grab takes advantage of data is its budding financial services division. Grab offers loans to drivers through its GrabFin service and digibanks. The startup uses data such as driver ratings, safety records, and type of rides accepted when it assesses driver risk. Hungate claims that Grab’s recollection efficiency is higher than traditional banks (though Grab also allows drivers to deduct loan payments from their earnings).
+
+Grab’s growth
+
+Hungate joined Grab after a stint as CEO of Singapore Airport Terminal Services, a food and logistics company known for providing in-flight catering services at Singapore’s Changi Airport. Before that, he led HSBC’s Singapore operations for almost six years.
+
+Grab got its start when Anthony Tan and Tan Hooi Ling launched a Malaysian ride-hailing service called MyTeksi in 2012. The startup quickly expanded to the Philippines, Singapore, Thailand and Indonesia. It moved headquarters to Singapore in 2013, and renamed itself Grab.
+
+The ride-hailing startup managed to push out Uber in Southeast Asia, making it one of the few markets that kept the U.S. ride-hailing giant out. Grab eventually acquired Uber’s Southeast Asia assets in March 2018; in exchange, Uber took a 27.5% stake in Grab. The startup was also backed by Japan’s Softbank, Singapore’s Temasek, and BlackRock.
+
+Grab only serves Southeast Asian markets, all with different levels of per capita income, ranging from wealthy Singapore to relatively poorer Cambodia.
+
+That dictates how Grab operates, Hungate says. Many Southeast Asians are underbanked and so lack credit cards unlike consumers in the West. By creating its own payment system, Grab could eliminate the use of cash and serve the underbanked population—while also tethering customers to the app.
+
+Regional differences are also why Grab is banking on its “superapp” strategy. Southeast Asian consumers prefer to do everything on one app–which Hungate credits to limited capacity on cheap smartphones and limited data bandwidge.
+
+Hungate says that Grab will continue to focus on Southeast Asia. “It’s the third-most populous region in the world, 650 million consumers. Only one in 20 of those 650 million consumers are users of Grab,” he says.
+
+“We think there’s tremendous upside.”

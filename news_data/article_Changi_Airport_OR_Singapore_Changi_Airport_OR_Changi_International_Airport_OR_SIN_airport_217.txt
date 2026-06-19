@@ -1,0 +1,50 @@
+Title: Eclypsium Raises $45M To Lock Down Supply-Chain Security
+Source: Forbes
+URL: https://www.forbes.com/sites/rscottraynovich/2025/01/28/eclypsium-raises-45m-to-lock-down-supply-chain-security/
+--------------------------------------------------
+
+Fans of The Big Lebowski know the movie’s narrator introduces the protagonist as “the man for this time and place.” Like Lebowski, Portland, Oregon-based Eclypsium is seizing its role in the moment, landing a $45M Series C round led by Ten Eleven Ventures.
+
+With the rise of nation-state-backed infrastructure attacks, interest in a more comprehensive approach to supply-chain security is growing. A rash of recent attacks has highlighted the risks, and these raised stakes have helped Eclypsium recently land several major government contracts. Customers use Eclypsium’s platform to scan hardware, firmware, and software components across their IT infrastructure and then flag vulnerabilities, threats, and inventory issues.
+
+Eclypsium establishes trust in every endpoint, server and network appliance in enterprise infrastructure (IT, cloud, data centers, network) by identifying, verifying and fortifying 3rd-party software, firmware and hardware in every device.
+
+“Over the past seven years, Eclypsium has quietly established itself as a market leader in a segment of the cybersecurity market that is currently having a breakout moment,” said Alex Doll with Ten Eleven Ventures, who also invested in the round alongside Singapore sovereign wealth fund Pavillion Capital.
+
+Typhoon Attacks Highlight Risks
+
+So why Eclypsium, and why now?
+
+MORE FOR YOU
+
+The recent series of "typhoon" attacks, many of them believed to be state-sponsored, have targeted critical infrastructure in the United States, including telecommunications infrastructure, military bases, and ports. The Salt Typhoon attacks, which the U.S. government has accused China of sponsoring, compromised the networks of America's largest telecommunication providers, including AT&T and Verizon. Another attack group believed to be sourced from China, Volt Typhoon, penetrated critical infrastructure such as military bases.
+
+These typhoon attacks and others have national security agencies and lawmakers scrambling to assess other risks, such as thousands of cranes and electronic equipment at large ports. Accounting firm and consultancy KPMG and managed service SecurityScorecard also identify the U.S. energy industry as being at high risk of attack.
+
+As noted, these risks have helped Eclypsium’s land major government contracts. Government agencies and other customers use Eclypsium’s platform to get a comprehensive view of all infrastructure components and to flag issues as they appear.
+
+Eclypsium: Born Out of an Intel Lab
+
+So how did Eclypsium start? In the 2010s, Eclypsium’s CEO and founder Yuriy Bulygin was leading hardware and firmware security research at Intel when he spotted a glimpse of the future. A series of high-profile data leaks (Hacking Team, Vault7, Shadow Brokers) exposed that nation-state actors and spies had a set of tools that out-maneuvered the way most organizations approached security.
+
+While virtually all security tools were focused on malware and weaknesses that worked at the operating system level, these attackers were subverting the actual hardware, firmware, and components within the device. With success at this level, hackers could avoid detection at higher levels of the IT stack. This layer of hardware and supply-chain components was virtually invisible to organizations, which had no way to know if the assets were vulnerable or if they’d been compromised. Enterprises had no way to establish trust in the tech they bought from their vendors. To solve this problem, Yuriy and Alex Bazhaniuk founded Eclypsium in 2017 and took on a Herculean challenge: to find critical flaws in the infrastructure hardware that runs our world (Intel Capital was a seed investor).
+
+This was about the same time that Microsoft led an industry coalition to develop Secure Boot, which resulted in a baseline security standard to prevent hackers from taking over victims’ laptops at the firmware level. Since then, attackers and defenders have been in a pitched battle as they try to outwit the latest move from the other side.
+
+The problem is that this battle has largely been played at the level of consumer devices like laptops and smartphones. These standard, commodity devices are in some ways actually easier to protect because they aren’t specialized. Infrastructure, on the other hand, is often very customized. Network devices, security appliances, and AI infrastructure all rely on heavily customized components and supply chains.
+
+When traditional infrastructure vendors look to reinvent the wheel to secure critical infrastructure, they may have an outdated approach. Eclypsium recently published research that claims network firewalls from Palo Alto Networks have many basic vulnerabilities. Common integrity and boot protections that you would expect to find on any off-the-shelf laptop were missing from the firewall hardware. These types of risks were also highlighted in 2020 in the widespread SolarWinds attacks, when hackers were able to insert malicious code in that vendor’s Orion software, gaining back-door access to thousands of devices at the boot level.
+
+Leading voices in the cyber world realize how challenging the situation can get. Unqork’s CISO, Ali Khan, commented that “if experts like Palo Alto Networks are challenged by the complexity of this issue, imagine how overwhelmed your enterprise security teams must feel.” Meanwhile, the U.S. Senate is currently unraveling just how the entirety of our country’s critical telecommunications infrastructure got compromised by nation-state actors.
+
+Starting Anew with AI Infrastructure
+
+The next wave of threats will only be accelerated with AI. I recently spoke with a large Eclypsium customer spinning up new AI datacenters as quickly as possible to meet today’s insatiable market demand. His take was:
+
+“It’s our job to provide access to the most bleeding-edge AI infrastructure while making it consumable for customers. However, it’s madness thinking through how we secure infrastructure from dozens of suppliers. We want to know for a fact if their code has vulnerabilities or has been altered. If something changes in the firmware of one of our servers, we need to know instantly.”
+
+Former CISO and now nFactor co-founder Saikat Maiti agrees. “Security teams must assure their customers that their systems haven’t been compromised by supply chain attacks from hackers or nation-state actors,” he said. This is a massive challenge, and the industry has often relied on provider assurances—many of which have proven unreliable. Despite the promise of GenAI, most security teams still lack the critical data to assess the integrity of their infrastructure supply chains. As Saikat pointed out, “In my previous infosec role at a large enterprise, we evaluated Eclypsium. They brought the deep expertise our in-house team could trust, simplifying the complexity of the task and offering concrete assurance on supply-chain integrity.”
+
+Finally, I caught word from Eclypsium’s CEO and founder Bulygin, who was recently waiting on a flight at the Singapore Changi Airport. “The conversation now is about securing the supply chains of the future and approaching them as, effectively, shared infrastructure.”
+
+Given the serious gaps that have been identified in the supply chain and critical infrastructure, it looks as if Eclypsium’s approach has found its time and place.

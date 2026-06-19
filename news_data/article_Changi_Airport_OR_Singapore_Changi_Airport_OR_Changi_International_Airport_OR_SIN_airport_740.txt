@@ -1,0 +1,36 @@
+Title: Singapore now requires crypto exchanges that only serve offshore clients to get a license
+Source: Fortune
+URL: https://fortune.com/asia/2025/06/30/singapore-crypto-exchanges-offshore-clients-must-have-license/
+--------------------------------------------------
+
+The city-state’s central bank last month said digital token service providers (DTSPs) that served only overseas clients must have a license to continue operations past June 30—or close up shop.
+
+The Monetary Authority of Singapore in a subsequent statement added that it has “set the bar high for licensing and will generally not issue a license” for such operations.
+
+Singapore, a major Asian financial hub, has taken a hit to its reputation after several high-profile recent cases dented trust in the emerging crypto sector.
+
+These included the collapse of cryptocurrency hedge fund Three Arrows Capital and Terraform Labs, which both filed for bankruptcy in 2022.
+
+“The money laundering risks are higher in such business models and if their substantive regulated activity is outside of Singapore, the MAS is unable to effectively supervise such persons,” the central bank said, referring to firms serving solely foreign clients.
+
+Analysts welcomed the move to tighten controls on crypto exchanges.
+
+“With the new DTSP regime, MAS is reinforcing that financial integrity is a red line,” Chengyi Ong, head of Asia Pacific policy at crypto data group Chainalysis, told AFP.
+
+“The goal is to insulate Singapore from the reputational risk that a crypto business based in Singapore, operating without sufficient oversight, is knowingly or unknowingly involved in illicit activity.”
+
+Law firm Gibson, Dunn & Crutcher said in a comment on its website that the move will “allow Singapore to be fully compliant” with the requirements of the Financial Action Task Force, the France-based global money laundering and terrorist financing watchdog.
+
+Three Arrows Capital filed for bankruptcy in 2022 when its fortunes suffered a sharp decline after a massive sell-off of assets it had bet on as prices nosedived in crypto markets.
+
+Its Singaporean co-founder Su Zhu was arrested at Changi Airport while trying to leave the country and jailed for four months.
+
+A court in the British Virgin Islands later ordered a $1.14 billion worldwide asset freeze on the company’s founders.
+
+Singapore-based Terraform Labs also saw its cryptocurrencies crash dramatically in 2022, forcing it to file for bankruptcy protection in the United States.
+
+The collapse of the firm’s TerraUSD and Luna wiped out around $40 billion in investments and caused wider losses in the global crypto market estimated at more than $400 billion.
+
+South Korean Do Kwon, who co-founded Terraform in 2018, was arrested in 2023 in Montenegro and later extradited to the United States on fraud charges related to the crash.
+
+He had been on the run after fleeing Singapore and South Korea.

@@ -1,0 +1,116 @@
+Title: CNA Explains: What are the implications of Singapore unmasking NRIC numbers?
+Source: CNA
+URL: https://www.channelnewsasia.com/singapore/singapore-nric-privacy-verification-identity-data-security-mddi-4809241
+--------------------------------------------------
+
+SINGAPORE: The government said over the weekend that it will be changing the practice of masking National Registration Identity Card (NRIC) numbers, which means citizens' NRIC numbers may be publicly known.
+
+It had intended to make the change only after explaining to citizens the rationale but before it could do so, the Accounting and Corporate Regulatory Authority (ACRA) went ahead and launched a new portal with a search function that produced people's names and full NRIC numbers, raising concern and anxiety on the ground.
+
+How did the NRIC come about?
+
+The NRIC is a document which Singaporeans have to register for within a year of turning 15, or when someone becomes a citizen or permanent resident, mandated under the National Registration Act of 1965.
+
+Those born before the year 2000 have NRIC numbers prefixed with “S”, while those born after the turn of the millennium have NRIC numbers starting with “T”.
+
+For those born before 1968, their NRIC numbers typically begin with 0 or 1 as they were assigned in order of issuance, instead of based on their birth year.
+
+The first NRIC number was issued in 1966 to Singapore’s first president, Yusof Ishak.
+
+NUS associate professor of political science Bilveer Singh told CNA: “It has become the key overt marker of a Singaporean identity, something which we carry around on a daily basis.”
+
+It is used to register everything an individual did across many aspects of life, such as buying a house, opening a bank account and getting married, he said.
+
+Has its role changed?
+
+The rise of new technologies, digitalisation and threats such as scams, have over the years presented new security concerns, with questions over whether nefarious actors can steal one’s personal data and details that are tied to a particular NRIC number, said Assoc Prof Singh.
+
+Singapore Management University’s associate professor of law Eugene Tan said the NRIC number remains an important means of identification. “People may share the same name but they each have unique NRIC numbers.”
+
+Not revealing one's full NRIC number has become accepted as a privacy norm, while the Personal Data Protection Act classifies NRIC numbers as “private data and enjoying the protection of the law”, he added.
+
+From September 2019, organisations here also had to stop the practice of indiscriminately collecting people's NRIC details, and can only request for it if it is required by law, or if it is necessary to prove someone's identity.
+
+Hence, the government’s stance now that "there should therefore not be any sensitivity in having one’s full NRIC number made public" is at odds with the public understanding and comfort level, said Assoc Prof Tan.
+
+However, Assoc Prof Tan noted that despite the recent statements by the authorities, “the law has not changed and it’s not a case that NRIC numbers can now be made freely available to all and sundry”.
+
+“The unfortunate unintended consequence from last week’s statements is that it has given rise to the belief that NRIC numbers are being normalised as open information. This is not the case,” he said, adding that they are confined only to the public sector.
+
+Even then, they only apply to specific instances where the disclosure of full NRIC numbers will make more meaningful identification, such as in the case of ACRA’s portal where it is needed for entities to perform due diligence checks, said Assoc Prof Tan.
+
+“There is no ‘big bang’ change to how NRIC numbers are to be handled from personal data protection and privacy,” he said.
+
+“The best way is to take it that it is business as usual,” said Assoc Prof Tan, adding that businesses and other organisations should still use masked NRIC numbers as the default for now.
+
+The Personal Data Protection Commission (PDPC) said it will adjust its guidelines for NRIC and national identification numbers to align with the new policy intent, after consultations with industry and members of the public.
+
+It was natural that the initial rollout of the new policy through ACRA’s Bizfile portal caused some public concern, “given how NRIC numbers have been treated historically in Singapore”, said Singapore University of Social Sciences (SUSS) law lecturer Ben Chester Cheong.
+
+What’s the difference between identifying and verifying?
+
+The government’s shift in stance towards the NRIC “reflects a mature understanding of modern identity management”, said Mr Cheong.
+
+“This evolution acknowledges that masking NRIC numbers creates a false sense of security, while recognising the growing need for corporate transparency and alignment with global digital identity practices,” he said.
+
+“The digital age has transformed our approach to security,” said Mr Cheong, adding that static identifiers like NRIC numbers now have less value for verification as more sophisticated authentication methods become standard.
+
+“Modern digital security relies on dynamic credentials that can be changed if compromised, along with multi-factor authentication systems and encrypted communications,” he explained.
+
+Associate Professor Razwana Begum Abdul Rahim, head of the public safety and security programme at SUSS, said the change presents “a more honest and practical approach to identity management in our digital age”.
+
+Experts told CNA that identification, for which privacy concerns arise for most people, is a separate issue from verification, which is driven by security considerations.
+
+“Identification simply declares who you are, like stating your name or showing your NRIC. Verification, on the other hand, proves you are who you claim to be,” said Mr Cheong.
+
+He emphasised that the government’s policy shift is focusing “on strong authentication methods rather than treating identifiers as secrets”.
+
+The timing of this move makes sense at a juncture where Singapore’s digital economy is maturing, with a rising need for clearer frameworks around identity management, he added.
+
+This shift becomes even more relevant in light of future technological developments, said Mr Cheong. “With the advent of quantum computing on the horizon, many current cryptographic methods may become vulnerable.”
+
+What are other options beyond NRIC numbers?
+
+Emphasising the need to verify rather than just identify individuals in the digital age, Assoc Prof Razwana suggested methods such as facial verification, biometric authentication, two-factor authentication and SMS one-time passwords, moving forward.
+
+These are already employed by Singpass, she noted.
+
+Experts noted that key travel nodes, such as Changi Airport and Marina Bay Cruise Centre, have already implemented facial and iris biometrics as a form of verification, with no need for travellers to present physical passports.
+
+Mr Cheong said that implementing various security elements, like behavioural patterns and digital certificates, is stronger than relying on just one single factor for authentication.
+
+He noted that they each come with their own limitations.
+
+“Push notifications through authenticated mobile apps provide a secure and user-friendly option, though they require smartphones and technical literacy, Biometric verification offers high security but needs specific hardware,” said Mr Cheong.
+
+“SMS one-time passwords are widely used but vulnerable to SIM swapping attacks. Physical security tokens provide robust security but can be inconvenient and costly to distribute.”
+
+Knowledge-based authentication using dynamic personal questions, such as asking customers a rotating set of questions drawn from their transaction history or relationship with the company, is another possible strategy to be adopted, said Mr Cheong.
+
+Ultimately, a multi-factor authentication strategy works better than any standalone solution, he said.
+
+For instance, combining knowledge-based authentication with SMS one-time passwords or in-app notifications, provides stronger security while maintaining accessibility for customers who might not be comfortable with purely digital solutions, said Mr Cheong.
+
+What are some challenges that may come with this policy shift?
+
+Mr Cheong noted that there potentially may be public confusion initially, along with the need to implement safeguards for organisations still using NRIC numbers for authentication.
+
+However, experts believed that the challenges can be managed, and that the change would ultimately bring about greater accountability, stronger authentication systems and digital literacy in the country.
+
+To achieve this, the authorities will have to work closely with the various stakeholders, service providers and organisations as Singapore society shifts towards the new norm, they said.
+
+The public must also be more aware of potential threats like scams, said Assoc Prof Razwana, such as by knowing that just because someone knows your name, NRIC number or birthdate, it does not mean that the individual is a legitimate service provider or product distributor.
+
+Assoc Prof Tan said the reality in the first place is that NRIC numbers are never ideal for verification purposes, as there is no guarantee that one’s NRIC number is not already known to others.
+
+“Going forward, we should refrain from using our NRIC numbers or any combination of it as passwords immediately. This is more of a precautionary measure,” he said.
+
+Businesses and other entities that use NRIC numbers for verification purposes should cease doing so, and advise their clients to refrain from using NRIC numbers as their passwords, along with implementing more than one level of verification, said Assoc Prof Tan.
+
+Experts called for the government to engage the public deeply on this topic, to educate people about proper NRIC usage and also enhance public awareness about digital security in this modern age.
+
+MDDI and PDPC will be carrying out public education next year about the purpose of the NRIC number and "how it should be used freely as a personal identifier".
+
+Mr Cheong added that just because NRIC numbers will be made public, does not diminish the responsibility of organisations to protect personal data holistically.
+
+“Organisations should continue maintaining robust data protection measures, not because NRIC numbers are confidential, but because comprehensive data security remains crucial for protecting other sensitive information that might be linked to these identifiers,” he said.

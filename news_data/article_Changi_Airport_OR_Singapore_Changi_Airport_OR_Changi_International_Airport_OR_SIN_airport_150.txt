@@ -1,0 +1,86 @@
+Title: Forbes Daily: A New Face Joins List Of World’s 10 Richest People
+Source: Forbes
+URL: https://www.forbes.com/sites/daniellechemtob/2024/10/22/forbes-daily-a-new-face-joins-list-of-worlds-10-richest-people/
+--------------------------------------------------
+
+This is a published version of the Forbes Daily newsletter, you can sign-up to get Forbes Daily in your inbox here.
+
+Good morning,
+
+One of the most stressful experiences high schoolers face is preparing for life after graduation—whether it’s college or starting a career. But one edtech startup is betting it can “gamify” the post-grad process—and it’s paying off.
+
+SchooLinks, from 2018 Forbes Under 30 lister Katie Fang, recently raised $80 million, Forbes exclusively reported, despite tough times for education technology startups. The company’s digital platform includes aptitude tests, job and internship search functions and virtual college tours.
+
+The company pivoted from working with consumers to school districts, a risky move as many operate on tight budgets. But it was key to reaching students who needed the platform most. “We understood it’s about the group of students or families that are not searching for resources and thinking about planning for their futures,” Fang told Forbes.
+
+FIRST UP
+
+Nvidia CEO Jensen Huang joined the top 10 in Forbes’ real-time billionaire rankings Monday, as the tech company has become the poster child for the 2020s generative AI boom. A former waiter and Denny’s busboy, Huang is the first Asian American to break into Forbes’ top 10 after his net worth climbed $3.6 billion to $125.4 billion, topping the fortune of former Microsoft CEO Steve Ballmer.
+
+TECH + INNOVATION
+
+Hugging Face, the online repository where users can download generative AI models, has hosted tens of thousands of models containing hidden code that can poison data and steal information from users, security researchers say. “The old Trojan horse computer viruses that tried to sneak malicious code onto your system have evolved for the AI era,” said Ian Swanson, founder of security startup Protect AI. Some of the bad actors are even setting up fake profiles to pose as Meta or other tech companies to lure downloads from the unwary, Swanson says.
+
+MONEY + POLITICS
+
+The Biden Administration proposed new rules that would require insurers to offer free over-the-counter birth control without a prescription under the Affordable Care Act, though it’s unlikely to be finalized before President Joe Biden leaves office. The ACA already requires most private insurance plans to cover birth control at no cost, but birth control without a prescription had not been authorized by the FDA when it became law in 2010.
+
+The five men who were wrongly accused and convicted of a brutal New York City assault in 1989, now known as the “Central Park 5,” sued former President Donald Trump for defamation in federal court. During his debate with Vice President Kamala Harris last month, Trump repeated a claim he’s often made that the men were responsible for the crime and falsely stated the victim of the attack had died.
+
+SPORTS + ENTERTAINMENT
+
+Disney indicated that it expects to name a successor to 73-year-old CEO Bob Iger by 2026, as it announced shakeups to top leadership positions Monday, including a new chairman of its board. Iger, who was previously the entertainment conglomerate’s leader from 2005 to 2020, returned to lead Disney again in 2022. His focus on the bottom line has yielded results, though profits are still a far cry from the late 2010s heyday as legacy media struggles.
+
+TRAVEL + LIFESTYLE
+
+For many traveling this upcoming holiday season, the airport marks the first leg of the journey.Forbes Travel Guide launched its first Verified Air Travel Awards, which include a range of categories, from fine airport dining and lavish lounges, to top-of-the-line first-class suites and in-flight cocktail bars. Emirates and Delta Air Lines were named Best International Airline and Best U.S. Airline, respectively, while Singapore Changi Airport earned the title of Best International Airport, and LaGuardia’s recent renovation ranked it the Best U.S. Airport.
+
+Spirit Airlines’ stock popped 53% Monday, its best day since going public, after announcing an extension to refinance its debt while temporarily avoiding the threat of bankruptcy. Still, the low-cost carrier has seen its stock plummet this year after a federal judge blocked a $3.8 billion merger between Spirit and JetBlue in January, and recent reports suggested it was discussing a potential bankruptcy filing.
+
+DAILY COVER STORY
+
+Your VPN May Not Be Private. This Blockchain Startup Nym Has A Fix
+
+TOPLINE Over the past two decades, “free” internet services like Google and Facebook have built giant businesses by essentially selling their customer data to advertisers.
+
+Virtual private networks (VPNs) are far more insidious. These products are marketed as a simple way to browse the internet privately, free from governments and companies’ prying eyes. The market for VPNs is more than $50 billion, and more than a billion people worldwide are using VPNs.
+
+But talk to industry insiders like Roger Dingledine, founder of the Tor Project, whose website promises, “You have the right to browse without being watched,” and you will soon find out that most VPNs are private-in-name-only. Key privacy threats, according to Dingledine, include a company keeping a log of user activities, even if it promises not to, and the ability of VPN operators to monitor traffic flows to deduce when a user visits a website.
+
+Many people don’t value privacy enough to pay for it, so many VPNs sell customer data to fund operations in addition to offering subscription plans.
+
+The latest entry into the virtual private network market is a Swiss-based blockchain startup called Nym Technologies. Founder Harry Halpin says his new NymVPN doesn’t need to sell customer data because blockchain technology is being used to create “self-sustaining economics.” NymVPN falls under the crypto category of DePIN, for decentralized physical infrastructure because it relies on a blockchain to coordinate the operation of its network.
+
+WHY IT MATTERS “The rise of artificial intelligence is making it almost impossible for someone to keep their digital footprints hidden,” says Steven Ehrlich, Director of Research, Digital Assets at Forbes. “VPNs promote themselves as the antidote to this surveillance industry, but in many cases, they just exacerbate the problem. Nym claims to have finally found a way to help internet users keep their online activity safe from the prying eyes of governments and corporations.”
+
+MORE LinkedIn Is Using Your Data To Train Microsoft And Its Own AI Models–Here’s How To Turn It Off
+
+FACTS + COMMENTS
+
+Some of former President Donald Trump’s proposals would “dramatically worsen” Social Security solvency, the nonpartisan Committee for a Responsible Federal Budget said Monday. Trump has promised not to tax Social Security benefits, tips or overtime, and has pledged to impose steep tariffs if elected:
+
+$2.3 trillion: The amount Social Security’s 10-year cash shortfall would increase by, according to the committee’s report
+
+33%: How much Social Security benefits would have to be cut by under Trump’s plans by 2035, compared to 23% under current law
+
+$400,000: Vice President Kamala Harris has vowed not to raise taxes for people earning less than this amount, though the report did not address Harris’ plans
+
+STRATEGY + SUCCESS
+
+Many job seekers struggle to answer the question, ‘What do you dislike about your job?’ because they don’t want to be seen as bad-mouthing a previous employer. The key is to start with something positive, and rather than discussing interpersonal issues, explain how you tried to address any problems. End with a focus on how the role you’re applying for fits into your career development plans.
+
+QUIZ
+
+The production company behind a popular sci-fi film sued Elon Musk and Tesla over allegedly feeding images from the movie into an AI generator without permission. What film is it?
+
+A. “Blade Runner 2049”
+
+B. “2001: A Space Odyssey”
+
+C. “The Matrix”
+
+D. “Dune”
+
+Check your answer.
+
+Thanks for reading! This edition of Forbes Daily was edited by Sarah Whitmire, Chris Dobstaff and Caroline Howard.

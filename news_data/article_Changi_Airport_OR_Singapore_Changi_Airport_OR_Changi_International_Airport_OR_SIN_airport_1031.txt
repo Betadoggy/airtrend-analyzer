@@ -1,0 +1,50 @@
+Title: Alibaba's Tsai discusses AI's potential: 'Research analysts can be completely replaced'
+Source: CNBC
+URL: https://www.cnbc.com/2025/03/12/alibabas-tsai-on-ai-research-analysts-can-be-completely-replaced.html
+--------------------------------------------------
+
+CNBC
+
+Artificial intelligence may eliminate the need for equity research analysts in the future, Alibaba's Chairman Joe Tsai said Wednesday at CNBC's CONVERGE LIVE event in Singapore.
+
+"Equity research analysts can be completely replaced ... you can ask it to put together a report on Nvidia or Apple, and it'll do a great job," he told CNBC's David Faber.
+
+That doesn't mean, however, that analyst roles will be eliminated altogether, he said during CNBC's two-day live event at Jewel Changi Airport.
+
+"I don't think it'll entirely replace human beings. It'll just actually enhance the quality of work," he said.
+
+"I think the quality of research can really be improved if a lot of the mundane research related stuff can be done by the machine, and then humans can apply their judgment and make better recommendations."
+
+AI also stands to fundamentally change the practice of law, he said, citing his own background as an attorney.
+
+watch now
+
+"When you write a contract ... the whole document has to fit well together, every sentence, every definition, has to fit with each other. Well, AI can do a lot of that, I would say most of it," he said. "Does that mean in the future, lawyers will be replaced by AI? Not necessarily."
+
+He said that when clients hire "sophisticated lawyers," they are really asking for counsel.
+
+"Counsel is not something that is technical, or black and white — it is judgment," he said. "I still think that these jobs can just be enhanced by AI rather than being replaced."
+
+AI has a total addressable market of at least $10 trillion, "if not bigger," Tsai said at CNBC's CONVERGE LIVE, noting that makes it bigger than industries like transportation and health-care insurance.
+
+Alibaba to benefit
+
+Alibaba is positioned to benefit from this proliferation of AI thanks to its cloud computing business, the chairman said.
+
+"Every time someone trains and model or runs inference or do post training, they have they need cloud computing infrastructure," he added.
+
+Experts previously told CNBC that Alibaba has been making "significant strides" in advancing its AI cloud business. The company posted a sharp profit hike in the December quarter on the strength of its Cloud Intelligence unit and e-commerce segment.
+
+Tsai also said that Alibaba can also benefit a lot from AI within its own business, for example, by enhancing advertisements on its platforms.
+
+watch now
+
+Tsai emphasized in a recent column for the South China Morning Post that practical applications were key to maximizing intelligence in AI model development.
+
+And Alibaba.com President Kuo Zhangrecently told the same paper that the e-commerce platform expects all its sellers to adopt its AI tools by 2025, with more than half of the 200,000 merchants already using such tools weekly for marketing, product management, customer interactions and risk control.
+
+Last week, the e-commerce giant revealed a new AI model, which it says "rivals" other reasoning models, such as the Chinese AI startup DeepSeek's R1.
+
+Manus AI, created by Chinese startup Butterfly Effect, announced on Tuesday a strategic partnership with Alibaba. Developed by the Chinese startup company Monica, Manis AI is a so-called general AI agent which claims performance superior to that of OpenAI's AI agent, DeepResearch.
+
+Clarification: This article has been updated to clarify the title of Alibaba.com's President Kuo Zhang.

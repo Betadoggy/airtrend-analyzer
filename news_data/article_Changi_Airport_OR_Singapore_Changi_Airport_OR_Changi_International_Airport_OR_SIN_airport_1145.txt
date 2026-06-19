@@ -1,0 +1,62 @@
+Title: Defense Backlog Builds, AI Arms Race Escalates, and Cash-Rich Operators Raise the Stakes
+Source: GlobeNewswire
+URL: https://www.globenewswire.com/news-release/2026/02/24/3243783/0/en/Defense-Backlog-Builds-AI-Arms-Race-Escalates-and-Cash-Rich-Operators-Raise-the-Stakes.html
+--------------------------------------------------
+
+DENVER, Feb. 24, 2026 (GLOBE NEWSWIRE) -- Wall Street heads into the session with a crosscurrent of themes: defense contracting visibility stretching into the next decade, AI infrastructure commitments measured in gigawatts, capital raises to fund energy storage buildouts, and disciplined cash deployment from global gaming and data intelligence platforms. Here’s what’s driving the early narrative:
+
+Defense: Long-Duration Backlog Lifts Visibility
+
+NAPC Defense (OTCID: BLIS) announced $38,166,873.04 in new and recently finalized U.S. government task orders through strategic partner Obera LLC, with performance extending into 2032.
+
+The awards represent hard backlog through January 2027 under existing Department of Defense and Department of State contract vehicles, embedded within broader IDIQ frameworks that carry significantly larger ceiling potential through the end of 2032.
+
+CEO Edward K. West framed the development as a foundational moment, stating the Obera transaction “represents our first major award platform and positions NAPC Defense to build a profitable, sustained U.S. government contracting business for at least the next six years.”
+
+For a microcap defense name, multi-year contract visibility is often the dividing line between speculative narrative and institutional viability. Investors will likely focus on execution cadence, margin profile, and whether follow-on awards materialize under the IDIQ umbrella.
+
+Enterprise Intelligence: Portfolio Streamlining at Clarivate
+
+Clarivate (NYSE: CLVT) reported fourth quarter and full year 2025 results, highlighting progress on its Value Creation Plan and signaling continued operational tightening into 2026.
+
+Fourth quarter revenue came in at $617.0 million, down from $663.0 million a year earlier, reflecting prior divestitures. Net income improved sharply to $3.1 million versus a $191.8 million loss in the prior year period. Full-year revenue totaled $2.46 billion, with organic revenue down 0.1%, but organic ACV up 1.8% and recurring revenue mix expanding to 88% of total revenue.
+
+Management guided for 2026 revenue between $2.30 billion and $2.42 billion, Adjusted EBITDA of $980 million to $1.04 billion, and free cash flow of $365 million to $435 million.
+
+Importantly, the company is actively pursuing a sale of its Life Sciences & Healthcare segment, with Morgan Stanley retained as advisor. A successful divestiture could accelerate deleveraging and sharpen focus on Academia & Government and Intellectual Property markets, two segments central to Clarivate’s subscription-led strategy.
+
+AI Infrastructure: Gigawatt-Scale Commitment
+
+In one of the most consequential announcements of the cycle, Advanced Micro Devices (NASDAQ: AMD) and Meta Platforms unveiled a multi-year, multi-generation agreement to deploy up to 6 gigawatts of AMD Instinct GPUs for Meta’s AI infrastructure.
+
+Shipments supporting the first gigawatt deployment are expected to begin in the second half of 2026, using a custom MI450-based GPU architecture alongside 6th Gen EPYC CPUs.
+
+The agreement includes a performance-based warrant structure for up to 160 million AMD shares, tied to shipment milestones and stock price thresholds, aligning execution with long-term value creation.
+
+For AMD, this marks a meaningful deepening of hyperscaler alignment and reinforces its positioning in the AI compute arms race. For Meta, it diversifies compute supply at a time when AI infrastructure scale is becoming a defining competitive edge.
+
+Infrastructure Buildout in Asia
+
+Ten-League International Holdings Limited (NASDAQ: TLIH) issued fiscal 2025 guidance projecting revenue between S$75.0 million and S$76.0 million, up roughly 28% to 30% year-over-year, with net income expected to surge more than 165%.
+
+Growth is tied in part to infrastructure demand related to Singapore’s Changi Airport Terminal 5 development. For small-cap infrastructure suppliers, visibility into national mega-project pipelines often drives both revenue acceleration and margin expansion.
+
+For further information, please go to www.napcdefense.com
+
+About 24/7 Market News
+
+In today's fast-moving markets, visibility is everything and 24/7 Market News (24/7) provides a powerful suite of investor relations and public relations solutions designed to elevate your company’s profile quickly and effectively. Whether you're an established name seeking broader awareness, or a micro-cap looking to break out of obscurity, 24/7 delivers targeted, high-impact coverage through timely news distribution, analyst report placements, featured editorials, and multi-channel amplification across financial platforms, social media, and investor communities. Our services help cut through the noise, attract institutional interest, drive exposure, and build long-term shareholder credibility, all while maintaining full SEC compliance and transparency. For Analyst Report coverage, custom IR campaigns, press release syndication, or other tailored investor and public relations solutions, contact sales@247marketnews.com to discuss how 24/7 can help accelerate your company’s visibility and valuation trajectory.
+
+PAID EDITORIAL DISCLOSURE: This is a paid editorial communication intended for informational purposes only. 24/7 is a third-party media provider that will be compensated by NAPC to publish a series of announcements today and potentially provide ongoing NAPC market outreach and other services.. This press release may include technical analysis and should not be construed as financial or investment advice. Trading stocks involves risks, and readers should consult with their financial advisor before making investment decisions.
+
+For further information, please visit 247marketnews.com or https://go.247marketnews.com/kblb-disclosure/
+
+CONTACT:
+
+24/7 Market News
+
+Editor@247marketnews.com
+
+Cautionary Note Regarding Forward-Looking Statements
+
+This press release contains forward-looking statements that are subject to various risks and uncertainties. Such statements include statements regarding the Company's ability to grow its business and other statements that are not historical facts, including statements which may be accompanied by the words "intends," "may," "will," "plans," "expects," "anticipates," "projects," "predicts," "estimates," "aims," "believes," "hopes," "potential" or similar words. Actual results could differ materially from those described in these forward-looking statements due to a number of factors, including without limitation, the Company's ability to continue as a going concern, general economic conditions, and other risk factors detailed in the Company's filings with the SEC. The forward-looking statements contained in this press release are made as of the date of this press release, and the Company does not undertake any responsibility to update such forward-looking statements except in accordance with applicable law.

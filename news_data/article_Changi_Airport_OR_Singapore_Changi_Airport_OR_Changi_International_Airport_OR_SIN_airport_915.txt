@@ -1,0 +1,78 @@
+Title: News24 | Flights resume after global IT crash wreaks havoc
+Source: News24
+URL: https://www.news24.com/news24/world/news/flights-resume-after-global-it-crash-wreaks-havoc-20240720
+--------------------------------------------------
+
+Dozens of flights were cancelled after an update to a program operating on Microsoft Windows crashed systems worldwide.
+
+Officials said the situation had returned virtually to normal in airports across Germany and France.
+
+This as Paris is preparing to welcome millions for the Olympic Games starting on Friday.
+
+Planes were gradually taking off again Saturday after global airlines, banks and media were thrown into turmoil by one of the biggest IT crashes in recent years, caused by an update to an antivirus program.
+
+Passenger crowds had swelled at airports on Friday as dozens of flights were cancelled after an update to a program operating on Microsoft Windows crashed systems worldwide.
+
+By Saturday, officials said the situation had returned virtually to normal in airports across Germany and France, as Paris prepared to welcome millions for the Olympic Games starting on Friday.
+
+Multiple US airlines and airports across Asia said they had resumed operations, with check-in services restored in Hong Kong, South Korea and Thailand, and mostly back to normal in India, Indonesia and at Singapore's Changi Airport as of Saturday afternoon.
+
+ADVERTISEMENT
+
+CrowdStrike apologises
+
+Microsoft estimated Saturday that 8.5 million Windows devices were affected in the global IT crash, adding that the number amounted to less than one percent of all Windows machines."While the percentage was small, the broad economic and societal impacts reflect the use of CrowdStrike by enterprises that run many critical services", it said.
+
+Microsoft said the issue began at 1900 GMT on Thursday, affecting Windows users running the CrowdStrike Falcon cybersecurity software.
+
+In a Saturday blog post, CrowdStrike said it had released an update on Thursday night that caused a system crash and the infamous "blue screen of death" fatal error message.
+
+ADVERTISEMENT
+
+CrowdStrike said it had rolled out a fix for the problem, and the company's boss, George Kurtz, told US news channel CNBC he wanted to "personally apologise to every organisation, every group and every person who has been impacted".
+
+The company also said it could take a few days for a full return to normal.
+
+Reports from the Netherlands and Britain suggested health services might have been affected by the disruption, meaning the full impact might not yet be known.
+
+Media companies were also hit, with Britain's Sky News saying the glitch had ended its Friday morning news broadcasts, and Australia's ABC similarly reporting major difficulties.
+
+Australian, British and German authorities warned of an increase in scam and phishing attempts following the outage, including people offering to help reboot computers and asking for personal information or credit card details.
+
+READ | Possible flight disruptions expected at several SA airports
+
+Banks in Kenya and Ukraine reported issues with their digital services, while some mobile phone carriers were disrupted and customer services in a number of companies went down.
+
+"The scale of this outage is unprecedented, and will no doubt go down in history," said Junade Ali of Britain's Institution of Engineering and Technology, adding that the last incident approaching the same scale was in 2017.
+
+Flight chaos
+
+While some airports halted all flights, in others airline staff resorted to manual check-ins for passengers, leading to long lines and frustrated travellers.
+
+Thousands of US flights were grounded, although airlines later said they were re-establishing their services and working through the backlog.
+
+A senior US administration official said Friday that "our understanding is that flight operations have resumed across the country, although some congestion remains".
+
+ADVERTISEMENT
+
+READ | Global IT failure puts cyber-firm CrowdStrike in spotlight
+
+India's largest airline Indigo said Saturday that operations had been "resolved", adding in a statement on X that the process of resuming normal operations would "extend into the weekend".
+
+Low-cost carrier AirAsia said it was still trying to get back online and had been "working around the clock towards recovering its departure control systems".Chinese state media said Beijing's airports had not been affected.
+
+'Common cause'
+
+Companies were left patching up their systems and trying to assess the damage, even as officials tried to tamp down panic by ruling out foul play.
+
+According to CrowdStrike's Saturday blog, the issue was "not the result of or related to a cyberattack".
+
+Although CrowdStrike had rolled out a fix, many experts questioned the ease of such a process.
+
+"While experienced users can implement the workaround, expecting millions to do so is impractical," said Oli Buckley, a professor at Britain's Loughborough University.
+
+Other experts said the incident should prompt a widespread reconsideration of how reliant societies are on a handful of tech companies.
+
+"We need to be aware that such software can be a common cause of failure for multiple systems at the same time," said John McDermid, a professor at York University in Britain.
+
+He said infrastructure should be designed "to be resilient against such common cause problems".

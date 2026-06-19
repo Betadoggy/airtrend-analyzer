@@ -1,0 +1,26 @@
+Title: Emergency phone services restored following Singtel landline outage
+Source: The Online Citizen
+URL: https://www.theonlinecitizen.com/2024/10/08/emergency-phone-services-restored-following-singtel-landline-outage/
+--------------------------------------------------
+
+SINGAPORE: Both the Singapore Police Force (SPF) and Singapore Civil Defence Force (SCDF) announced via Facebook at around 7:00 PM on 8 October that the earlier disruption affecting the 995 and 999 emergency hotlines has been resolved.
+
+The issue followed an island-wide outage of Singtel’s landline services, which occurred around noon.
+
+The authorities confirmed that the public can now resume using the hotlines for emergencies and expressed their gratitude for the public's understanding during the disruption.
+
+At 5:07 PM, Singtel posted an update on Facebook stating that their engineers had isolated the problem affecting their fixed voice services.
+
+The telco provider added that recovery measures were swiftly being deployed, and services were progressively being restored.
+
+Earlier, users had taken to Singtel’s official Facebook page and X (formerly Twitter) to report difficulties making landline calls, including issues with office lines.
+
+A check on Downdetector revealed a surge in outage reports for SingTel starting around 2 PM.
+
+According to the feedback on Downdetector, most of the problems faced by users pertain to landlines, which matches the responses from netizens on social media platforms.
+
+Major institutions were also affected by the outage. KK Women’s and Children’s Hospital (KKH), the National Cancer Centre, and Changi General Hospital (CGH), all under SingHealth, alerted the public to the disruption.
+
+By approximately 6:30 PM, all three institutions confirmed that their telephone services had been restored.
+
+Additionally, Singapore's three local banks—DBS, UOB, and OCBC—reported similar issues with their customer service hotlines during the outage.

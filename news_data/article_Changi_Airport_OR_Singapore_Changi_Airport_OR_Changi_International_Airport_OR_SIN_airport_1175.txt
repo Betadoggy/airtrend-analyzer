@@ -1,0 +1,210 @@
+Title: No, You Won’t Be Flying In Hydrogen-Powered Passenger Planes
+Source: CleanTechnica
+URL: https://cleantechnica.com/2023/07/27/no-you-wont-be-flying-in-hydrogen-powered-passenger-planes/
+--------------------------------------------------
+
+Throwing Money At Hydrogen Aviation Won’t Make It Safe Or Sensible
+
+This week I had an excellent discussion related to hydrogen as an aviation fuel. A master’s thesis candidate assembled a panel of experts to enable her thesis, and I was delighted to participate as the acknowledged “It ain’t gonna fly” representative among a panel of people who were much more positive about hydrogen’s potential.
+
+The scope of the discussion was broad, from technical characteristics to safety to economics to airport operations. It struck me that while I have published perspectives on the scope of concerns, I hadn’t done so in a single integrated piece, and that the framework structured by the researcher provided a useful mechanism to create one. This piece draws together my primary arguments against hydrogen in aviation based on my publications, discussions with global experts, and positions on electric aviation advisory boards.
+
+The researcher is working working toward their masters of science in airport planning and management at Cranfield University. For those unaware of Cranfield, all things aerospace and aviation in the UK end up there a lot of the time. It was founded as the College of Aeronautics in 1946, after all, and has grown into a world class post-graduate research institute. British aerospace giant Rolls Royce jointly founded the Rolls-Royce University Technology Centre (UTC) at Cranfield in 1998. Also headquartered at Cranfield is the UK Aerospace Technology Institute (ATI), which creates the technology strategy for the UK aerospace sector and funds world-class research and development.
+
+FLIMAX, the electric aviation startup I am on the Advisory Board of, has ties to Cranfield as an indicator, and it’s one of many aerospace startups and spin offs with connections to or which are actually quartered within the Cranfield campus.
+
+The panel I was on had an excellent set of participants. They included a senior lecturer in air transport, a transport sustainability specialist and technical director with a large global consultancy who had participated in UK’s ATI FlyZero study and another professor who has worked academically with hydrogen combustion aviation engines since the 1990s.
+
+As I told the panel in my brief introduction, I was the odd person out, as I didn’t work full time in aviation or aerospace and did not hold senior positions in research or academics related to the industry. I was there because I’ve independently published a projection through 2100 of aviation decarbonization. It’s just a scenario, but one that is multifactorial and based on my assessments of all aspects of ground, maritime, and air transport. Obviously, it will be wrong, but I think it’s defensible and less wrong than most other scenarios.
+
+Briefly, let’s walk through the full systems perspective of hydrogen for aviation, and assess each of the points.
+
+Economics of hydrogen
+
+First up is hydrogen manufacturing costs. I’ve published cost work ups for green and blue hydrogen manufacturing a few times. My assessment of European efforts to have northern Africa manufacture green and blue hydrogen for European energy consumption purposes concluded that hydrogen can be green, but it won’t be cheap.
+
+My post-mortem of the abandoned effort by Equinor, Aire Liquide and Eviny to establish a Norwegian liquid hydrogen manufacturing facility for maritime shipping found that the costs would likely be in the range of US$9.30 per kg at the facility, never mind delivery or bunkering in other ports. As a note, liquid hydrogen would be required for aviation fuels, and that US$9.30 is three times the cost of Jet A today, without any delivery or operational cost adders which will cause it to likely double if used in aviation.
+
+And the recent DNV study on manufacturing green hydrogen offshore at wind farms, while rife with dubious assumptions to fulfill its paid for mission of making hydrogen pipelines seem like a good idea, found that the absolute cheapest green hydrogen could be at end of transmission before any distribution, was US$3.50 per kilogram. That’s 10 times the cost per unit of energy of liquid natural gas, the most expensive form of imported energy economies use today, and hence radically uneconomic by itself as a store and transmission pathway for electricity, including jet fuel.
+
+As I noted to the panel, in a recent effort I had the opportunity to review cost workups in proposals for power-to-X hydrogen investment opportunities. One example of the type had the assumption that they would have firmed electricity at least 60% of the time at US$15 per MWh their cost. That’s 1.5 cents per kWh for reliable electricity, radically under any realistic price for delivered, firmed electricity at an industrial facility. But that’s the kind of assumption in hydrogen-for-energy cost workups these days, along with electrolyzers being dirt cheap. That the roughly 27 other components in an industrial hydrogen facility are already commoditized, optimized commercial components that aren’t getting cheaper is excluded from these very optimistic manufacturing concerns.
+
+However, the people on the panel had not done hydrogen manufacturing cost workups, as they quite clearly stated, but were basing their work on assertions by other organizations that it would be cheap. It’s an assumption which is pervasive in these types of discussions, but it’s a fundamental flaw in models and studies in my experience.
+
+Moving hydrogen around
+
+Next up was hydrogen distribution. The numbers above are at the point of manufacturing or in the DNV case, the end of a hydrogen high-pressure transmission backbone before it’s distributed to off takers. But that last few kilometers or hundreds of kilometers matters a lot.
+
+85% or so of all hydrogen manufactured today is done so at the point of consumption because hydrogen is so expensive to distribute. We don’t move the stuff around if we don’t have to for basic economic reasons.
+
+Discussions with the panel separated airports and use cases into multiple types. The lowest were smaller airports where the assumption was that bowsers — airport fuel delivery trucks — could supply the requirement and no on airport facilities would be required. Then there were mid-sized and larger airports that would require hydrogen pipelines going to them, or industrial scale hydrogen manufacturing facilities on the airport grounds, storage tanks for gaseous hydrogen, hydrogen liquification facilities on the airport grounds and finally logistical trucks to get 20° above absolute zero liquid hydrogen into aircraft.
+
+Starting with the first and simplest case, it falls apart fairly immediately. Most hydrogen today is delivered in gaseous form in tube trailers. And gaseous hydrogen has such low energy density and requires such massive tanks that ranges for hydrogen-gas fueled aircraft are far too short to be considered. There is the option of delivering it in liquid form, which is better for aviation, but it’s even more problematic as driving down roads in the sunshine with a tube of 20° Kelvin hydrogen leads to significant boil off very quickly. ZeroAvia makes that claim that this is all fine, but that’s because they are flying a tiny demonstrator filled with hydrogen tanks on investors’ dime, when they aren’t crashing them.
+
+Further, gaseous hydrogen delivered by truck is very expensive. Recently I reviewed US and European costs per kg delivered by truck and they were around US$10 per kg. That’s true for both gaseous and liquid hydrogen, by the way. Note that that was for the cheapest form of hydrogen, gray or black hydrogen manufactured from natural gas or coal with a manufacturing cost of US$1.00 or less. With the realistic costs above for decarbonized hydrogen, that price point is only going to go up.
+
+That’s a big reason why hydrogen at hydrogen vehicle refueling stations is so expensive, with recent California prices hitting US$25 per kg in some cases. They receive gaseous hydrogen by tanker truck, and as the US Department of Energy notes, a single tanker of gasoline contains 14 times the energy as a tanker of hydrogen. 14 trucks instead of 1. If a big hydrogen refueling station was busy — and they tend to be so busy that operators like Shell shut them down permanently because their is insufficient volume to make any money off them — then they would require a constant stream of trucks.
+
+Let’s take an example. The average gas station today services about 1,000 cars. A Toyota Mirai holds 5.5 kg of hydrogen. Assuming that they don’t arrive empty, let’s assume they would fill up with 5 kg of hydrogen. That’s a requirement of 5,000 kg of hydrogen per day.
+
+Gaseous hydrogen tanker trucks, per the US DOE, hold about 600 kg of hydrogen. Straightforward division leads to just over eight tankers per day driving in and pumping hydrogen into the station’s storage tanks. Liquid hydrogen trucks hold about 3,500 kg of hydrogen, so that’s three trucks every two days. For cars, of course, liquid hydrogen does no good, so it has to be shifted to gas form which requires more expensive kit at the station.
+
+What does this have to do with aviation? Well, prior to the discussion, I looked up the fuel capacity of an Airbus A321, a common and efficient airplane used globally today. The lower range version holds 24,000 liters of Jet A, or about 18 tons of kerosene. Liquid hydrogen has about 2.5 times more energy per kilogram than kerosene, so that’s the equivalent of about 7.4 tons of liquid hydrogen.
+
+Just getting the hydrogen to an airport in liquified trucks for a single passenger jet refueling would require a couple of trucks. Dozens or hundreds of passenger jets refuel at airports daily. There would be a traffic jam a dozen kilometers long if hydrogen were delivered by truck, so that’s a non starter. And as noted, at a cost of US$10 per kg delivered, that’s over ten times the cost of Jet A today.
+
+Hydrogen does get delivered by pipeline today to end consumers in some places. But the end consumers are worth considering. Virtually every such pipeline is going from natural gas steam reformation facilities to oil refineries. The largest use case for hydrogen, about 40 million tons or a third of global demand, is for delsulfurizing, hydrotreating and hydrocracking crude oil. So there are a lot of hydrogen pipelines going relatively short distances from a natural gas fed industrial facility to a refinery that’s nearby. An example of this is the blue hydrogen facility expected to be built near Edmonton, Alberta in Canada, with the hydrogen piped to an Edmonton refinery 30 km away. The USA only has about 2,500 km of hydrogen pipelines, and they are highly concentrated around refineries.
+
+It’s cheaper to deliver gaseous hydrogen in large volumes by pipeline than by truck, but green hydrogen isn’t going to be manufactured nearly as close to airports as gray hydrogen is to refineries, so the distances become much longer and the concerns about hydrogen pipelines are multiplied. Not to mention that indirect global warming forcing from hydrogen is up to twelve times that of CO2, and pipeline infrastructures tend to leak, especially with slippery hydrogen molecules. But of course, there are exactly zero hydrogen pipelines going into airports today, so that is another expense.
+
+And hydrogen pipelines don’t deliver the liquid hydrogen airplanes would require, so that means electricity intensive hydrogen liquification facilities on the airport grounds, which would require a third of the energy in the hydrogen in the form of electricity. So that means massive upgrades to electricity delivery systems as well, which is fine if efficient use of the electricity is the intent, but if it’s throwing a bunch of it away to liquify hydrogen? Well, not so much. Liquification facilities are expense to build and expensive to operate.
+
+As a note, that third of the energy in the form of electricity? Well, electric drive trains would use that a lot more efficiently than hydrogen drive trains would, something true all the way through the power system. Let’s do a little simple math.
+
+Let’s start with 10 MWh of electricity. Turning water into hydrogen is about 70% efficient. That leaves about 7 MWh of chemical energy in the resulting hydrogen. Then compressing, storing, transporting and distribution the hydrogen eats up another 10% or so. Down to 6.3 MWh of energy. Then liquifying it is about 66% efficient. Down to 4.2 MWh of energy. Then boil off eats another 5% at this scale, so that’s down to about 4 MWh of energy. And then burning it in a hydrogen jet engine is perhaps 50% efficient at optimum cruising altitude and speed but really closer to 40% efficient gate to gate.
+
+That means of the 10 MWh of green electricity we start with, we’d have about 1.6 MWh moving the plane usefully.
+
+What about a battery electric efficiency? Well, from wind farm to airport including batteries at the airport, it’s about 90% efficient. That’s 9 MWh of energy left. And then from airport and airplane batteries to electric motors is about 90% efficient.
+
+So a battery electric turboprop would conceivably have about 8 MWh of energy to move the plane forward usefully, or five times the energy as the hydrogen pathway. More on this later, but this makes clear that perhaps, just perhaps, there are better alternatives. Oh, and the biofuel pathway has some very interesting similarities.
+
+Airport infrastructure & operational challenges
+
+Next let’s look at airport facilities and operations. The person from the consultancy was especially useful here, as they had looked at Heathrow and Gatwick space requirements for hydrogen infrastructure. With the FlyZero team, they could find room for at least some of the infrastructure on the space-constrained area of the airports, while meeting the safety requirements (and more on safety later). The discussion was a bit vague on this point from my perspective, but that was a matter of time rather than lack of knowledge on their part.
+
+But let’s explore this, as I’ve looked at airport space requirements for solar panels, battery storage, charging and the like. And I’m aware of height and safety concerns for airport verges, and in fact in the entire restricted airspace. Solar farms are pretty easy to site on airports, as long as you manage glint that might affect pilots, which is actually quite easy to do operationally and technically.
+
+But let’s play out the infrastructure requirements. It’s going to require net new hydrogen pipeline construction and more robust electricity wires and transformers. Then there needs to be gaseous hydrogen storage tanks which are very large. Then there’s the hydrogen liquification facility, which is a large, multistep industrial process by itself. Then there are liquid hydrogen storage tanks capable of holding about three days worth of flights. Then there are, presumably, liquid hydrogen bowsers, which take liquid hydrogen from the tanks to the planes.
+
+Let’s poke at that liquid hydrogen facility. How much liquid hydrogen might be required at a reasonably sized airport? Heathrow sees about 550 flights per day arriving or departing, mostly both and mostly with refueling. Heathrow isn’t a parking lot for planes. Let’s call it 500 refuelings per day. Let’s use the 7.4 tons of hydrogen from the A321 example. That’s about 3,700 tons of liquid hydrogen a day, likely in the range of US$37 million per day or US$13 billion per year. Let’s call it 10,000 tons for the three day operation requirement. Per the US DOE, hydrogen liquification facilities capex costs for that range are likely around US$50 million by itself.
+
+Obviously liquification would require a lot of electricity, about 41 GWh per day at a likely cost of over US$2 billion per year just for the electricity at British industrial electricity rates. That’s 15% of the cost of getting the hydrogen in the first place. Remember how far you can get on just the electricity through a battery electric drive train?
+
+So big tanks of gaseous hydrogen, well off the runway. Smaller, but must be ball-shaped tanks with 10,000 tons of liquid hydrogen. The ball-shape is important as height is restricted. Apparently that can be managed per the consultant, but it’s a bit of a jigsaw puzzle fitting into large airports like Heathrow, which have already optimized space as much as possible. The Terminal 5 construction, for example, took up a lot of the free room that was available. Smaller airports that are less used tend to have a lot more spare space, but every airport has different space constraints.
+
+Of course, some people are proposing electrolysis on airports. That means much bigger grid connections, not to mention finding room for an industrial scale electrolysis facility to go with the rest of the infrastructure. But that’s not the real problem. 3,700 tons of hydrogen a day would require about 200 GWh of electricity costing about US$20 billion a day at London industrial electricity rates. For context, London’s total electricity demand is about 100 GWh per day today. More than doubling all of London’s electrical demands to power electrolysis and liquification of hydrogen for jets for a single one of the six airports around the city is a non-starter, as is the cost of the fuel.
+
+Safety
+
+Next up are safety concerns. As a reminder, passenger aviation is the safest form of transportation in the world on a per passenger kilometer basis. It’s vastly safer to get on a modern passenger jet at Heathrow for a 5,000 km flight than it is to cross the street in London, or to get in your car in your driveway and commute to work. That’s due to 50 years of NASA collecting aviation safety incidents and making them available to researchers, aerospace companies and aviation operators to continually eliminate things which make airplanes drop out of the sky.
+
+Safety concerns are paramount in passenger aviation. It’s hard to overstate this.
+
+Hydrogen is a safety challenge. It likes to leak because it’s such a tiny molecule. Hydrogen that will be used in fuel cells can’t have odorants as natural gas does, so leaks won’t be something a human nose can detect, if as one panelist suggested, fuel cells were used to replace aircraft auxiliary power units. Hydrogen as a gas has a combustion range that is much wider than methane’s, 4% to 74% mixtures in air vs 5% to 15%. Among other things, that means that an enclosed space can have a lot more explosive energy in it with hydrogen, which is a very bad thing in pressurized aluminum tubes at 38,000 feet. And hydrogen has an ignition temperature that’s pretty low too, 500° Celsius vs methane’s 580°. The comparison to methane was at hand, but Jet A kerosene is virtually non-existent as a risk on planes.
+
+Why is this a concern? Just keep the hydrogen outside of the fuselage where the passengers are, right? Well, no.
+
+Liquid hydrogen must be kept in ball-shaped tanks that are as big as possible in order not to boil off, i.e. turn back into a gas, rapidly. That’s just the basics of thermal management with liquids at 20° above absolute zero that are operating in human temperature ranges that are 290° warmer than that. Currently, Jet A is mostly loaded into wings, where it conveniently doesn’t make nearly as much of a difference to mean takeoff weight calculations, but ball-shaped tanks won’t fit in the wings of planes.
+
+Bernard van Dijk, formerly lecturer on airplane performance at the Amsterdam University of Applied Sciences and a founding member of the Hydrogen Science Coalition has a useful explainer on the problems of hydrogen in the fuselage and its very negative implications for mean takeoff weights.
+
+Even then, if the plane sits on a runway for too long waiting to take off, sufficient boil off occurs that in many cases it would have to return to a gate to refuel, even if the boil off weren’t going into the fuselage.
+
+That’s why virtually all of the renderings of hydrogen-fueled planes look like flying wings instead of narrow tubes with long wings. That design gives space for the hydrogen tanks that can be separated from the passengers, and enough room for enough fuel to be carried in the plane. Of course, these airplanes don’t exist, aren’t being built and won’t fit in current airports, so there are a lot of people trying desperately to find alternatives to this.
+
+One of them is the hydrogen combustion aviation engine expert. He and his team explored the concept of longitudinal tanks underneath the passengers. That’s a non-starter in my opinion, as the boil off problem would be maximized as well as the potential for hydrogen to leak into the under deck that is directly below the passengers or into the passenger cabin of the aircraft in sufficient quantities that a simple electrical short or closing circuit or coffee machine coil or microwave could cause ignition.
+
+Another concept is being touted by Robert Miller, Professor of Aerothermal Engineering at the University of Cambridge and Director of the Whittle Laboratory. In a recent discussion with Michael Liebreich, he posited the idea that somehow it would be possible to simply elongate the fuselage and have enough hydrogen inside the fuselage in ball-shaped tanks for 5,000 km ranges. This seemed reasonable, but as I said to Liebreich when I dined with him and others in London recently, it fails the simple sniff test of ballasting the plane. As noted, you can’t intersperse the hydrogen with the passengers. You can’t put some ball-shaped tanks behind the cockpit others in the middle of the plane and others at the rear. The boil off and leaking safety concern and the massive temperature differential between liquid hydrogen and flesh and blood passengers, as well as flight attendants being able to service passengers and flight crew, precludes it.
+
+The only place that you might — might — safely be able to have the ball-shaped tanks is at the rear of the plane. Even then, a brief point in the discussion was regarding the common practice of jettisoning fuel in the event of emergency landings to get to maximum landing weight. This is less common as a requirement in modern jets, but attempting to jettison 20° above absolute zero liquid quickly in a flying aircraft is a thermal management problem so great that one of the panelists asserted that they had done a bunch of exploration of collision-hardened hydrogen tanks that would survive impacts.
+
+And the 7.4 tons of liquid hydrogen that would be turned into a gas and fed into hydrogen jet turbine engines would turn into zero tons. All of that loss of weight would be far behind the wings. The ballast of the plane would be irretrievably lost, it would fight hard to nose down into an uncontrollable descent and crash. This is really basic stuff. Getting ballast right in passenger jets is a big job. Things as simple as replacing cargo doors or installing reinforcing plates on struts require recalculating the center of gravity. IATA has a 40 hour course just on weight and balance. Early jumbo jets used to use depleted uranium as a ballast to get the center of gravity right.
+
+Jet fuel today is carefully positioned within aircraft and then used so that it doesn’t materially change the center of gravity. That’s impossible with safe storage of hydrogen within the fuselage, and it’s remarkable that an aerospace professional would suggest that this is viable.
+
+We have a few examples of what happens when hydrogen blows up to consider. The first is the NASA Artemis 1 moon rocket mission that was scrubbed a couple of times because liquid hydrogen kept leaking. NASA, one of the most competent engineering organizations in the world with decades of experience working with liquid hydrogen, took three months from first attempt to fuel and launch to finally get Artemis off the ground because part of the fuel delivery mechanism was leaking. When they thought they’d fixed it and tried again, it was worse. They know exactly the dangers and challenges of liquid hydrogen, they spend rather absurd amounts of money to engineer and manage it and still took weeks to fix the problem.
+
+This is why the space industry is increasingly turning away from liquid hydrogen as a rocket fuel, with SpaceX as a key example shifting to liquid methane, which while still cryogenically chilled to around 100° above absolute zero, is much easier and safer to work with. When actual rocket scientists give up on something, perhaps aerospace engineers designing for constant safe high volume flights with a lot more ground staff globally to train to NASA standards and a couple of hundred souls per plane should consider the implications.
+
+The next example is the recent explosion of a US$1.1 million hydrogen-fueled bus at at refueling station in Bakersfield, California. Thankfully no one was hurt, but the compressed hydrogen cylinders in the bus were supplied by Hexagon Purus. Danish green hydrogen firm Everfuel found multiple defects in its cylinders from Hexagon Purus, and has halted all of its deliveries until the issue is sorted out.
+
+Once again, hydrogen is a very explosive gas that’s easy to ignite, and keeping it on the inside of its tanks is a difficult engineering, operational and maintenance challenge.
+
+Certification of commercial aircraft
+
+What does this mean for certification of aircraft? I’ve spent a lot of time looking at aviation certification requirements, although to be clear a trivial amount compared to aerospace engineers and entrepreneurs I’ve dealt with in the past few years. EASA in Europe and the FAA in the USA have fairly well aligned certifications that are accepted globally.
+
+Certifying a rotorcraft, for example, costs about US$100 million per ton of empty aircraft weight. Certifying a new large passenger jet takes years and hundreds of millions of dollars. The process is an n times n safety validation process that looks at every possible combination of things that could fail and requires extensive manufacturing quality process and flight testing.
+
+Certification is a primary tool that keeps passengers safe in aviation. It’s remarkable that some aviation entrepreneurs were clueless about it, for example virtually everybody involved in origami electric vtol Jetson fantasy SPAC plays over the past three years.
+
+Think I’m joking? Vertical Aerospace is one of the bigger contenders in the urban air mobility nonsense-land. They went public with a reverse takeover special purpose acquisition company (SPAC) deal with a $2.2 billion valuation in 2021, after being a going seed-funded concern since 2017. Yet founder Stephen Fitzpatrick admitted this year at a conference that he and his team were completely unaware that certification would be required. It’s part of why the entire space of origami evtols is never going to take off.
+
+But back to hydrogen. Any aircraft that wishes to carry passengers on a commercial basis must be certified to be safe before it can be sold and operated. No commercial aircraft today use hydrogen. It requires novel fuel storage, novel airframes, novel fuel routing, novel safety monitoring equipment and processes, novel maintenance processes, novel engines, novel flight management technologies and novel cockpit monitoring and communication technologies.
+
+Anywhere the word novel appears in the previous paragraph, multiply certification costs and duration by a factor of two.
+
+In my opinion, hydrogen passenger aircraft are uncertifiable. There is no path to certification for them without massive relaxation of aviation safety requirements which would inevitably lead to a lot of dead passengers, and quite probably a lot of dead airport ground staff in separate incidents.
+
+There are better alternatives
+
+What if hydrogen were the only option that could decarbonize aviation? If it were, perhaps we would suck up this massive fuel cost, airport infrastructure transformation, safety concerns and the like. We’d fly an awful lot less because aviation would be ten times as expensive at minimum. But aviation could persist.
+
+However, hydrogen isn’t the only option, and arguments against the other options are based on equally faulty assumptions to the fantasy that low-carbon hydrogen will be a cheap aviation fuel.
+
+I’ve done a lot of work considering repowering transportation across every mode that exists. I have created freight tonnage, energy requirement and repowering curves for all maritime shipping through 2100. I’ve looked at rail repowering on every major continent, where it’s grid-tied and battery electric for the win except in backward North America. I’ve looked at light electric vehicles and built oil demand projections through 2050. I’ve assessed heavy road freight and talked with global expert David Cebon, Director, Centre for Sustainable Road Freight and Professor of Mechanical Engineering at University of Cambridge about our overlapping perspectives. I’ve done the work up for how big a renewables farm would be required to create the liquid hydrogen and oxygen to get the Space Shuttle into space (about a 10 MW wind farm for a month).
+
+I’ve also looked closely at battery chemistries as board observer and strategic advisor to Agora Energy Technologies, in my assessments of energy density implications for transportation and in conversations with electrochemists and battery experts globally. Most recently I spent 90 minutes talking silicon anode chemistries with Vincent Pluvinage, CEO and co-founder of OneD Battery Sciences (podcasts coming in August).
+
+And, as noted earlier, I’ve done energy demand and repowering projections for aviation through 2100 as well. I’ve also looked at hydrogen in every one of those spaces, and compared them to the alternatives, and found hydrogen to be lacking.
+
+Let’s start with the basics. All ground transportation is going to be electric. That test is already done for light vehicles with major analysts no longer even bothering to forecast fuel cell cars.
+
+Trains will be grid-tied with batteries to get through through legacy tunnels and over legacy bridges that are too expensive to electrify. 85% heading for 100% by 2025 grid-tied in India. 72% and climbing grid-tied in China. 60% and climbing in Europe, with batteries bridging expensive bits per studies. North America is the very odd continent out with 0% grid tied heavy rail, but train demand will plummet as the four million coal cars and 70,000 oil cars on the continent disappear.
+
+All trucking will be electric, in smart regions with some catenary-overhead connections along heavy freight routes, but increasingly just with really high energy density batteries.
+
+Ground transportation is 80% of global fuel demand. Global fuel demand is going to plummet.
+
+All inland shipping and two-thirds or so of nearshore shipping is going to go battery electric. Deepwater shipping is going to plummet in tonnage as coal, oil and gas bulk shipments disappear. I’ve dealt with bulk shipping concerns in Europe and Malaysia professionally, and they are very well aware that their market is disappearing. And a lot of the ships will just use containers of batteries that are winched out and charge in transshipment ports, with some of the containers being loaded onto trains to get them through places without grid connections.
+
+Maritime shipping liquid fuel demands are going to plummet to about 70 million tons by 2100.
+
+What about aviation? Well, electric light aircraft are already being delivered globally. There are at least 50 real aviation startups developing fixed wing battery electric and hybrid electric aircraft from four to 100 passengers. They have energy requirements that current battery electric energy densities — densities like the ones in Teslas — can provide 300-400 km of flights with, and divert and reserve supplied by generators putting power back into the batteries. About 95% of their flights will be purely on electrons.
+
+The efficiency of the SINANODE process can increase the energy density of EV batteries by more than 25%, just by growing 10 to 20% silicon onto commercial EV graphite. GM is an investor and OneD is working with North American and European firms as part of the effort to catch up to China. That’s 400-500 km range.
+
+CATL and Amprius, the Chinese industry leader in EV batteries and a Silicon Valley startup that’s delivering batteries respectively, have just announced double Tesla’s energy density in deliverable batteries, with CATL’s being specifically for aviation with ground transportation coming later this year. While Amprius is in the Silicon Valley bubble of hype, so should be considered as only somewhat reliable, CATL is the industry leader and doesn’t make promises it can’t keep. That’s 600–800 km range on electrons for the same weight.
+
+And silicon anode chemistries have a theoretical maximum energy density ten times what Tesla is currently delivering. That’s 3,000 to 4,000 km range. Gander Newfoundland to Ireland is 3,000 km, for context. In continent hub-and-spoke flights, Miami to Seattle is one of the longest at about 4,400 km, so two hops could get a passenger there on purely electrons.
+
+Every time an electric airplane replaces its battery pack for the next 20 years, it’s going to get potentially a doubling of range with the same weight and ballast characteristics.
+
+For whatever reason, aviation experts who get into hydrogen groupthink completely discount the massive improvements in battery energy densities and the clear advantages of ground vehicles driving massive improvement in battery performance to price ratios.
+
+But what about if you want to fly from New York to Honolulu, or from Seattle to Hong Kong? Batteries won’t cut it, at least not until 2070 or so when I suspect (but don’t have a solid handle on) battery energy densities will enable that.
+
+Well, sustainable aviation biofuels are already a multi million ton market globally. Neste just doubled capacity of its Singapore biofuels plant, with a million of the 1.3 million tons expansion for next door Changi Airport. That’s about 15% of Singapore Airline’s annual demand.
+
+We already make 100 million tons of biofuels annually and growing rapidly, with biodiesel — very energetically similar to biokerosene — being the dominant component. In other words, we’re already close to total maritime requirements once we get rid of inessential ground and shorter distance use cases and we’ve barely started exploiting biofuels.
+
+Right now these are generation one biofuels, which are problematic. But generation two biofuels are coming up from behind rapidly. For another client, I recently extended my full survey of biomass sources, assessing it by sustainability, volumes and economic factors like existing collection points and automation. I also looked at all biofuel technological pathways, from stalk cellulosic ethanol to jet fuel, to pyrolysis of biomass to biocrude to jet fuel and the many others.
+
+Contextually, we waste absurd amounts of biomass in our food and industry systems right now. About 2.5 billion tons of food is landfilled annually. About 1.5 billion tons of livestock dung piles up in Europe alone annually. The stalks of our three major grain crops — corn, rice and wheat — have sufficient biomass that if they went through the stalk cellulosic to ethanol to kerosene pathway, they would cover all liquid fuel requirements for aviation in my projection, and that biomass source is one of ten.
+
+Further, our waste biomass streams are a major climate change problem, as many of them end up decomposing without contact with oxygen, which means that they emit a lot of methane, which is a global warming problem over 80 times bigger than carbon dioxide in the 20 year time frame. Leveraging those massive waste biomass which eclipse all fuel requirements is a win win.
+
+Let’s take one specific example. Imagine that we take a ton of hydrogen and use it to power a plane. That gets the plane a few hundred kilometers. What if we put that hydrogen into ammonia fertilizer instead? Ammonia is one nitrogen atom and three hydrogen atoms. Nitrogen has a chemical mass of 14. Hydrogen has a chemical mass of one. Ammonia has a chemical mass of 17, and 80% of that is nitrogen.
+
+When we take a ton of hydrogen and make ammonia, in a reasonably efficient process we get about four tons of ammonia. With me so far?
+
+What happens when we put the ammonia on a field? Well, every ton of ammonia fertilizer we apply increases crop yields by a factor of 28 or so. That’s because nitrogen is so essential to plant growth. So now we are at perhaps 100 tons of biomass for that ton of hydrogen.
+
+And biomass turns into biofuels with a ratio of about 40% of biomass to fuel, so we would get about 40 tons of biofuels for that ton of hydrogen. Biofuels like biodiesel and biokerosene exist as liquids at room temperature and can be put into existing distribution systems and will work in existing engines.
+
+Yet somehow people touting hydrogen for aviation don’t think we have enough biomass and that we must use hydrogen directly or make even more expensive synthetic fuels out of it.
+
+Why? Well, the FlyZero study used some additional interesting assumptions. They required 100% carbon neutral, not net zero fuels. And they asserted that biofuels couldn’t be 100% carbon neutral and that there wouldn’t be enough of them, and so discarded them. ATI and the Jet Zero council had other work streams that included SAF, but excluded it from this study. I disagree with that choice, obviously.
+
+Oh, by the way, agriculture is a major global warming problem as well, and that’s due to not only anthropogenic biomethane emissions, but also due to black and gray ammonia fertilizers. Green hydrogen for green ammonia fertilizer cuts stalk cellulosic emissions a lot, and of course diverting biomass waste from agriculture to biofuels reduces that problem as well.
+
+As my points here should make clear, we have vastly more biomass than all global fuel requirements for actual future needs, and that the biomass is creating a major climate headache so converting it into biofuels is actually carbon negative.
+
+The maritime industry is starting to get this, by the way. Methanol is a major maritime shipping fuel contender, even though I think it’s merely the best of the also rans. Maersk is running a small container ship from Ursan, South Korea to Europe with biomethanol manufactured by OCI Global from landfill methane emissions. It’s a slightly murky green as the methanol is manufactured in the USA and being tankered to Ursan, Singapore and Egypt for refueling stops, but it’s vastly better than the egregious greenwashing Methanex tried with its cross-Atlantic ship powered by 96% unabated fossil methanol mixed with 4% landfill biomethanol.
+
+What’s the net?
+
+So we have alternatives for aviation zero carbon repowering that are completely fit for purpose, that are much simpler and cheaper than hydrogen, that will be much cheaper than hydrogen, that work well with existing infrastructure and technologies, that are carbon neutral are negative, and are completely fit for purpose. Yet hydrogen for aviation analyses bend over backward to assert that none of this is true, and further that a whole bunch of non-viable and deeply expensive things related to hydrogen will be cheap and viable. The motivated reasoning and groupthink bakes off the space.
+
+You really have to work hard to make hydrogen the right choice for aviation, and if the industry succeeds, its costs will be an order of magnitude higher, destroying most of their market. The discussion with the panel for the thesis candidate left me perplexed at the underlying assumptions that are driving so much of this.

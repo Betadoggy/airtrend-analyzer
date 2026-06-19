@@ -1,0 +1,62 @@
+Title: ‘8.5 million’: Staggering truth about Microsoft tech outage
+Source: News.com.au
+URL: https://www.news.com.au/technology/85-million-staggering-truth-about-microsoft-tech-outage/news-story/bd564082d47fc10ef042c64a11a95176
+--------------------------------------------------
+
+Microsoft has estimated 8.5 million Windows devices were affected in the global IT crash that caused chaos on Friday and Saturday.
+
+It may sound like a large number, but that is less than one per cent of all Windows machines worldwide, the company said.
+
+“While the percentage was small, the broad economic and societal impacts reflect the use of CrowdStrike by enterprises that run many critical services,” it acknowledged.
+
+Microsoft said the issue began at 3pm Friday AEST, affecting Windows users running the CrowdStrike Falcon cybersecurity software.
+
+In a blog post, CrowdStrike said it had released an update on Friday night that caused a system crash and the infamous “blue screen of death” fatal error message.
+
+CrowdStrike said it had rolled out a fix for the problem, and the company’s boss, George Kurtz, told US news channel CNBC he wanted to “personally apologise to every organisation, every group and every person who has been impacted”.
+
+The company also said it could take a few days for a full return to normal.
+
+Reports from the Netherlands and Britain suggested health services might have been affected by the disruption, meaning the full impact might not yet be known.
+
+Media companies were also hit, with Britain’s Sky News saying the glitch had ended its Friday morning news broadcasts, and Australia’s ABC similarly reporting major difficulties.
+
+Australian, British and German authorities warned of an increase in scam and phishing attempts following the outage, including people offering to help reboot computers and asking for personal information or credit card details.
+
+Banks in Kenya and Ukraine reported issues with their digital services, while some mobile phone carriers were disrupted and customer services in a number of companies went down.
+
+“The scale of this outage is unprecedented, and will no doubt go down in history,” said Junade Ali of Britain’s Institution of Engineering and Technology, adding that the last incident approaching the same scale was in 2017.
+
+The WannaCry ransomware attack that year is estimated to have impacted around 300,000 computers in 150 countries.
+
+Flight chaos
+
+While some airports worldwide halted all flights, in others airline staff resorted to manual check-ins for passengers, leading to long lines and frustrated travellers.
+
+In Australia, Jetstar was forced to cancel all flights on Friday evening until 2am on Saturday.
+
+Pictures at Sydney Airport showed the airline’s check-in computers taken over by what has become known as “the blue screen of death”.
+
+The airport’s arrival and departure boards also turned blue.
+
+Thousands of US flights were grounded, although airlines later said they were re-establishing their services and working through the backlog.
+
+By Saturday local time, officials said the situation had returned virtually to normal in airports across Germany and France, as Paris prepared to welcome millions for the Olympic Games starting on Friday.
+
+Multiple US airlines and airports across Asia have also resumed operations, with check-in services restored in Hong Kong, South Korea and Thailand, and mostly back to normal in India, Indonesia and at Singapore’s Changi Airport.
+
+‘Common cause’
+
+Companies were left patching up their systems and trying to assess the damage, even as officials tried to tamp down panic by ruling out foul play.
+
+According to CrowdStrike’s Saturday blog, the issue was “not the result of or related to a cyberattack”.
+
+Although CrowdStrike had rolled out a fix, many experts questioned the ease of such a process.
+
+“While experienced users can implement the workaround, expecting millions to do so is impractical,” said Oli Buckley, a professor at Britain’s Loughborough University.
+
+Other experts said the incident should prompt a widespread reconsideration of how reliant societies are on a handful of tech companies.
+
+“We need to be aware that such software can be a common cause of failure for multiple systems at the same time,” said John McDermid, a professor at York University in Britain.
+
+He said infrastructure should be designed “to be resilient against such common cause problems”.

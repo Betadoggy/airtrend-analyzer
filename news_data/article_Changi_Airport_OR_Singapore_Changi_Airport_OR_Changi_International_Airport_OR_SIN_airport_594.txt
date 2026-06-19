@@ -1,0 +1,74 @@
+Title: Building Hybrid Resilience In A Tech-Dependent World: Lessons Learned
+Source: Forbes
+URL: https://www.forbes.com/sites/corneliawalther/2024/07/21/building-hybrid-resilience-in-a-tech-dependent-world-lessons-learned/
+--------------------------------------------------
+
+In our increasingly digitized world, recent high-profile tech outages have exposed a critical vulnerability: our over-reliance on seamless technological functionality. From CrowdStrike's IT outage affecting 8.5 million computers over 48 hours, to Microsoft's cloud service disruption in February 2024, and various airline system failures in 2023, these incidents remind us of the fragility of our tech-dependent systems. As we navigate this digital landscape, it is imperative to systematically strike a balance between embracing innovation and maintaining resilience against technological disruptions. Harnessing hybrid resilience is the name of the game.
+
+The Case For Hybrid Systems
+
+Hybrid systems, which combine digital and analog elements, are already being implemented successfully across various sectors. These systems ensure continuity and resilience even when technological components fail. Here are some notable examples:
+
+Healthcare: Johns Hopkins and Cleveland Clinic use hybrid systems, maintaining both electronic health records (EHRs) and paper backups for critical patient information.
+
+Transportation: Changi Airport in Singapore and Lufthansa Airlines integrate manual procedures alongside digital systems for check-in and security screening. (Which did not protect them completely from being stricken by CrowdStrike’s outage, yet mitigated the impact of the latter.)
+
+Financial Services: JPMorgan Chase and Bank of America employ hybrid approaches in data management and transaction processing.
+
+Retail: Walmart and Target utilize hybrid systems for inventory management and point-of-sale operations.
+
+Education: Harvard and Stanford maintain both digital platforms and paper records for critical functions.
+
+Government: Estonia's e-Government System and Singapore's Smart Nation Initiative integrate hybrid systems across their services, in parallel to the offer of all vital services in traditional formats; which is essential for digitally less agile individuals, including those from older generations who did grow up before technology became all-pervasive, but also people from lower-incomes who may not dispose of access to high-speed internet, or the necessary hardware to use it. Digital (i)literacy must not prevent citizens from benefiting from services that they depend on. Nor should these types of essential services be acutely vulnerable to digital blackouts.
+
+Preserving Human Agency in an AI-Driven World
+
+Imagine a world where algorithms dictate every part of public, professional and privat life. Picture a landscape in which every major decision is delegated to technology, and human intuition and creativity are relegated to the sidelines. This isn't just a sci-fi scenario; it's a looming reality if we blindly embrace AI without preserving our agency. The siren song of bleeding-edge technology is seductive, promising unprecedented efficiency and innovation. However, jumping on so-called ‚bleeding edge technology’ without a solid grasp of its potential downsides can have worrisome consequences, both ethically and operationally, for individuals and companies, as highlighted by Gartner‘s 2023 report.
+
+As we are cruising the 21st century we are not tasked to resist technological progress, but to systematically harness AI as an ally. We can transform AI from a potential threat to an invaluable tool that amplifies our decision-making prowess. But this requires agency, and a holistic understanding of both natural intelligence – our own ‘home-grown’ assets – and artificial intelligence. Combining such double literacy builds a bulwark against the hidden pitfalls of immature technologies, ensuring that in our quest for advancement, we do not inadvertently engineer our own descent.
+
+Paradoxically as AI is becoming increasingly integrated into our decision-making processes, candid human oversight is ever more essential. Meaningful human control in AI systems, especially in high-stakes environments like healthcare, transportation, and criminal justice, starts with human mindsets geared towards deliberate decision-making processes and the accountability that arises from them. This involves the choice of values to live by and personal accountability for our own behavior. We cannot expect technology to reflect standards that we as humans do not manifest in practice. Artificial systems mirror human mindsets. We can act to understand, and shape the latter in order to influence the former; this is the only way to prevent the reverse from happening.
+
+Implementing Systematic Guardrails
+
+Building resilience against technological failures requires systematic guardrails. The World Economic Forum's 2024 Global Risks Report identifies technological disruptions as a major concern and recommends developing robust regulatory frameworks and stress testing for critical systems. Such a proactive approach can help organizations and societies better prepare for and mitigate the impacts of tech outages. Our new challenge is to safeguard what matters to us, both offline and online, with a 360-degree perspective to guardrails.
+
+Key strategies for companies in that context include
+
+Regulatory frameworks: Develop and enforce standards for system redundancy and failsafe mechanisms in critical infrastructure.
+
+Education and training: Ensure that employees are prepared to operate without full technological support when necessary.
+
+Regular stress tests: Conduct simulations of technology outages to identify weaknesses and improve response strategies.
+
+Diverse skill sets: Maintain a workforce with a mix of digital and traditional skills to ensure operational continuity during disruptions.
+
+Conclusion: Embracing AGENCY In A Tech-Driven World
+
+As we continue to innovate and digitize, it's crucial to maintain our ability to function independently of technology when necessary. Our future depends not just on our capacity to advance technologically, but on our resilience in the face of inevitable disruptions.
+
+Embracing AGENCY might help each of us to navigate this complex landscape:
+
+A - Assess your tech dependencies regularly
+
+G - Generate backup plans for critical systems
+
+E - Educate yourself and your team on manual processes
+
+N - Navigate between digital and analog solutions flexibly
+
+C - Cultivate a culture of resilience in your organization
+
+Y - Yield to caution when adopting bleeding-edge technologies
+
+By following these principles, individuals and organizations can build a more robust and resilient approach to technology use, ensuring continuity and stability even in the face of technological disruptions. The future isn't about humans versus AI; it's about forging a symbiotic relationship where technology enhances rather than eclipses human potential.
+
+If you are interested in the topic of Agency Amid AI for all, please check my previous articles in this series.
+
+Harnessing Human Intelligence In An AI-Driven World
+
+How Can AI Compensate For Age-Related Cognitive Decline.
+
+Should you have comments or ideas please reach out via LinkedIn
+
+Thank you

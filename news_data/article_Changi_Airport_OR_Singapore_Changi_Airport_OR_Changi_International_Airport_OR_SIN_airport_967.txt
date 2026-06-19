@@ -1,0 +1,32 @@
+Title: The new battle for passenger time
+Source: Hurriyet Daily News
+URL: https://www.hurriyetdailynews.com/the-new-battle-for-passenger-time-221726
+--------------------------------------------------
+
+Orkun Bulut
+
+Airports have long competed through concrete: Bigger terminals, faster passport control, wider duty-free zones. But the real fracture in the passenger journey is not physical, it is digital. Today, a single trip is still experienced as a fragmented flow: An airline app, a separate airport interface, another system for lounge access, and yet another for transfers. Infrastructure has become seamless; the experience has not.
+
+Digital Gap in the airports
+
+In recent years, a clear shift has begun to address this gap. In the U.S., Clear Secure has accelerated airport access through biometric identity, while Grab enables passengers to order ahead and pick up at the gate. In Europe, Heathrow Airport Holdings, and in Asia, Changi Airport Group, are increasingly reading the passenger not through the lens of “flight,” but through “experience.” The common thread is clear: The airport is no longer a transit space, but a data-driven environment competing for time and attention.
+
+Within this context, Treva, developed by TAV Operation Services positions itself as a Türkiye-origin platform aligned with this global shift. It brings together fragmented services from lounge access and fast track to duty-free shopping, private transfers and car rental into a single, unified flow. On the surface, the model is straightforward, aggregate services in one interface. But the real value lies elsewhere in restructuring these services around the passenger’s time.
+
+From Marketplace to orchestration
+
+Execution, in this case, matters as much as vision. Aylin Alpay, CMO of TAV, led a long development process to bring Treva to market as a functioning, integrated product an outcome many similar platforms fail to achieve. Her background in technology and telecommunications appears to have played a decisive role, particularly in aligning multiple service providers under a consistent digital standard. The challenge here is not integration alone, but orchestration.
+
+Treva’s core proposition is built on this premise: Reading the passenger’s shifting needs throughout the journey. The traveler operates in different modes before leaving home, inside the terminal and approaching boarding each with distinct expectations. Most platforms have failed to interpret these transitions, offering services without context. Treva aims to respond in real time, delivering the right service at the right moment. This moves it beyond a traditional marketplace model into what is effectively a digital orchestration layer.
+
+The platform’s initial rollout across İzmir Adnan Menderes Airport, Milas-Bodrum Airport, and Ankara Esenboğa Airport positions Türkiye as an early testing ground for this transition. Expansion plans include Almaty International Airport and Tbilisi International Airport. More notably, Treva already provides access to lounges in over 300 airports and car rental services across 160 countries, an indication that it is not a local application, but an emerging global service layer.
+
+Artificial intelligence represents the next critical layer. Personalization, long discussed but rarely executed effectively in travel, is becoming operational. Airlines have experimented with it, largely limited to pricing and seat upgrades. Airports, however, hold richer behavioral data: Arrival times, dwell time, movement patterns. If leveraged correctly, this data can transform the airport experience from a static sequence into a dynamic flow.
+
+Race for passenger time
+
+Treva’s positioning as a “super app” reflects a broader structural shift. In Asia, platforms like WeChat and Alipay have already demonstrated how integrated ecosystems can dominate user behavior. Applied to travel, the model carries a different constraint: The airport concentrates the user’s most limited and valuable resource time. Attention is short, expectations are high. A platform that succeeds in this environment has the potential to extend far beyond it.
+
+This also clarifies Treva’s longer-term ambition to build a globally connected passenger base that extends beyond TAV’s own operational network. In this model, the user is not tied to a single airport but engaged across the entire journey through multiple touchpoints. It is a shift that pushes airport operations beyond their traditional boundaries.
+
+Ultimately, the challenge is not building another app. It is transforming a fragmented experience into a coherent flow. If executed at scale, competition among airports may shift away from physical infrastructure toward digital capability. And in that equation, the winner will not be the one with the largest terminal, but the one that manages the passenger’s time most effectively.

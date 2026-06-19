@@ -1,0 +1,71 @@
+Title: 'Re-Experience' A Tour Or 'Preview' A Travel Location? How The Metaverse Could Reshape Tourism
+Source: International Business Times
+URL: https://www.ibtimes.com/re-experience-tour-preview-travel-location-how-metaverse-could-reshape-tourism-3707183
+--------------------------------------------------
+
+EditionsAustralia EditionKorea EditionJapan EditionIndia EditionSingapore EditionUnited KingdomUnited States
+ doFir.push(function(){if(getCookie('nwsubl')){jQuery(".login-btn .sign-up2").hide();jQuery(".login-btn .myaccount").show()};jQuery(".login-btn .myaccount").on('click',function(e){e.preventDefault();jQuery(".login-btn ul").toggle()});jQuery(document).ready(function(){jQuery(".myaccount").add(".m-manage").each(function(){jQuery(this).attr('href','https://myaccount.ibtimes.com/manage')})})}) fqtag.fscmd.push(function(){LJS("https://users.api.jeeng.com/users/domains/V1DXygbq01/sdk/")}) googletag.cmd.push(function () { if(dfpSlots.slotobjs["top"]){ ibt_log("ADS GPT register ad slot top", Date.now()-timerStart); googletag.display("dfp-ad-top"); } });if(/top\|[0-1]\|1/.test(dfpSlots.pginfo[ibtmedia_device])) document.getElementById("ad-top-wrapper").className+=" block-sticky"  dfpSlots.vplayer=(['ibtuk','ibtus'].indexOf(site_id)>-1)?'primis player':'NoVideo';if(site_id=='ibtuk'&&oa.geo.country!='IL'&&ibtmedia_device=='mobile')dfpSlots.vplayer='NoVideo';if(/adtest=primis/.test(location.href))dfpSlots.vplayer='primis player';else if(/adtest=native/.test(location.href))dfpSlots.vplayer='ibt player';if(dfpSlots.vplayer=='primis player'){if(site_id=='ibtus'){dfpSlots.primis='117767'}else dfpSlots.primis='117814';dfpSlots.primisVideo=function(){if(dfpSlots.primisVideoLoaded)return;dfpSlots.primisVideoLoaded=1;if(adBlock=='Y')return;var d=document,gi='getElementById',s=d.createElement('script');s.type='text/javascript';s.src='https://live.primis.tech/live/liveView.php?s='+dfpSlots.primis+'&cbuster='+Date.now();if(window.ibt_avf){ibt_avf.appendChild(s);d.body.classList.add('video-primis')}else d[gi]('tvplayer').appendChild(s)}}
+if(dfpSlots.vplayer=='NoVideo'&&document.getElementById('ibt-mobile-avf'))document.getElementById('ibt-mobile-avf').remove();dataLayer[0].VideoABTest=dfpSlots.vplayer;var ibt_avf=(brW 
+
+
+Technology
+
+ if(document.querySelector(".breadcrumb").innerHTML.trim()==''){document.querySelector(".breadcrumb").parentNode.parentNode.removeChild(document.querySelector(".breadcrumb").parentNode)} 
+‘Re-Experience’ A Tour Or ‘Preview’ A Travel Location? How The Metaverse Could Reshape Tourism
+
+
+By
+
+
+
+          
+
+
+
+
+ Marvie Basilan 
+ @marvbuzzilan 
+
+
+Published 08/01/23 AT 6:22 AM EDT
+Share on Facebook
+Share on Twitter
+Share on LinkedIn
+Share on Reddit
+Share on Flipboard doFir.push(function(){var flipboard=1;jQuery(".genericon-flipboard").on('click',function(e){e.preventDefault();e.stopPropagation();if(flipboard){flipboard=0;LJ('https://cdn.flipboard.com/web/buttons/js/flbuttons.min.js',function(){jQuery(".genericon-flipboard").trigger('click')})}})}) Share on Pocket
+
+
+
+
+Representative image of a metaverse location.
+Pixabay
+
+KEY POINTSThere is growing interest in virtual geographical experiences: S&P Global Market Intelligence's Mike PaxtonMetaverse integration presents a $20 billion opportunity for the travel industry by 2030: McKinsey & CoThe pandemic exposed the industry's vulnerability, but metaverse technology can change itTalk of the metaverse appears to have fizzled out earlier this year as people returned to the physical world post-Covid, but that could be changing again -- a recent survey showed that consumers are growing interested in what the 3D virtual space can do for tourism.
+
+The results of a recent global consumer survey by S&P Global Market Intelligence indicated that some consumers are "ready" to experience the metaverse even as the next stage of the virtual world may still be years away.
+
+In the survey, which polled 4,000 adults in 42 different countries during the spring and early summer of 2023, 80% of respondents said they were "somewhat" or "very" interested in the metaverse and more than half of those polled said they believe the 3D virtual world will have a "revolutionary" or at least a "very large" impact on society in the next decade.
+
+Mike Paxton, a senior research analyst specializing in technology and consumer IoT (Internet of Things) at S&P Global Market Intelligence, told International Business Times that the survey's results also showed how interest in geographical experiences is growing.
+
+When asked to select five experiences from a list of 16 that respondents "would most like to try in the metaverse," the third experience that garnered the most number of selections was "explore new geographical places virtually" (49.5%). The said metaverse experience was only behind "interact with friends" (50.0%) and "play video games" (55.1%). The results "offer some insight about the potential tourism tie-ins to the metaverse," Paxton said.
+
+The role of the metaverse in the tourism industry won't be limited to offering new geographical locations for consumers to explore, he added.
+
+"One key feature of metaverse experiences is to recreate an existing place or event, which can assist in previewing or experiencing a location before travelling – or to gather socially and re-experience a location or event again, this time bringing your own content, photos, videos, etc.," he said.
+
+When customers are given a more immersive and more detailed "preview" of the places they want to visit, it could provide greater value to their travel experience. In turn, it could "increase the likelihood that a traveller or tourist will actually book a trip to a certain location," Paxton said.
+
+Other industry observers agree that the metaverse has various opportunities in the hospitality and tourism industry. Travel industry knowledge platform Revfine noted that the Covid-19 pandemic demonstrated the vulnerability of the sector, but virtual worlds could help change the way consumers engage with locations and replace physical travel without impacting the industry.
+
+In May, partners at global management consulting firm McKinsey & Company projected that the metaverse presents a $20 billion opportunity for the travel industry by 2030. They said the industry can prepare for metaverse-leaning travel by enabling interoperable connections between decentralized worlds, securing the availability of immersive devices and ensuring the security of data.
+
+The global metaverse market is expected to rise from $65.5 billion in 2022 to $82 billion this year. The market is then projected to reach $936.6 billion by 2030, data by Statista show. Driving the growth is the increased interest from tech giants other than Facebook parent Meta, such as Apple, Nvidia and Qualcomm.
+
+While the metaverse has already been an area of interest in the West for years, some Asian countries have recently shown increasing interest in the potential of utilizing metaverse technologies in tourism.
+
+Malaysian tech company UnBound has been working on its UnBound Metaverse since 2017 where users can "traverse the world that you create with your loved ones." Malaysia's metaverse industry is expected to grow by 47.6% on an annual basis to reach $1.14 billion this year and hit $8 billion by 2030.
+
+Earlier this year, Singapore opened its Changi Airport to the 3D space through the launch of ChangiVerse on online gaming platform Roblox. In addition to featuring the Changi control tower and other popular sites at the airport, ChangiVerse also has a variety of mini games "which emulate the airport experience, such as check-in and baggage claim." Singapore's metaverse sector is expected to reach $3.41 billion this year and potentially hit $23.2 billion in the next seven years.
+
+The Tourism Authority of Thailand (TAT) in May signed a memorandum of understanding with Bangkok-based Bitkub Blockchain Technology for a partnership that will see the development of the Bitkub Metaverse. The deal is part of the TAT's "Smart Tourism" goals. The metaverse market in Thailand is expected to reach $260.9 million this year and soar to $2.69 billion by 2030.

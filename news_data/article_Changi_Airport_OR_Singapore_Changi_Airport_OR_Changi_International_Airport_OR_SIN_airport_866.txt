@@ -1,0 +1,24 @@
+Title: Singapore Airport Tests AI for Baggage Security
+Source: pymnts.com
+URL: https://www.pymnts.com/news/artificial-intelligence/2023/singapore-airport-tests-ai-baggage-security/
+--------------------------------------------------
+
+The airport is using AI and machine learning at one of its terminals to examine and interpret X-ray images during baggage check-ins, The Straits Times reported Sunday (Nov. 26).
+
+According to the report, airport officials said this cuts down on the time needed to process the images and lowers the likelihood of human error. So far, the AI-powered system has done as well as human security screeners — and in some cases exceeded them — in spotting some of the prohibited items that it has been trained to look for, such as cigarette lighters or sharp objects.
+
+If the tests go well, the airport believes it could reduce check-in times by half, the report said.
+
+The test is happening as consumers are demonstrating an interest in mixing AI with travel, as shown by the increase in digital travel-planning tools helping to create personalized travel itineraries and generative AI chatbots helping people book flights.
+
+In all, 63% of consumers said they are at least slightly interested in AI-enabled travel, according to PYMNTS Intelligence data.
+
+Advertisement: Scroll to Continue
+
+This interest has led travel-sector companies like Airbnb to invest more in AI. Earlier this month, that company announced it had acquired GamePlanner.AI, a 12-person startup, in a deal reportedly valued at just under $200 million.
+
+“Imagine having a personalized travel assistant at your fingertips, capable of understanding your preferences and curating the perfect itinerary — this is the promise of AI as a travel agent, and it is the future that Airbnb, as well as many other businesses, wants to build,” PYMNTS wrote earlier this month.
+
+The use of AI copilots to improve travel offer platforms with a built-in agent outfitted with the ability to comb through large amounts of data quickly and pull out relevant information to design a travel experience unique to each customer.
+
+“These intelligent systems leverage machine learning algorithms to understand user behavior, preferences, and past travel patterns, ensuring that every recommendation aligns with the traveler’s desires,” the report stated.

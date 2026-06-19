@@ -1,0 +1,91 @@
+Title: Singapore to go passport-free but what are the risks and could Australia follow suit?
+Source: ABC News (AU)
+URL: https://www.abc.net.au/news/2023-10-08/singapore-announce-automated-airport-clearance-in-2024/102927602
+--------------------------------------------------
+
+More from ABCClose menuABC ABC News ABC iview ABC listen Kids & Students Indigenous Information & ServicesEditorial PoliciesRead our editorial guiding principlesFollow the ABCnewsiviewlistenABC NewsJust InFor YouPoliticsWorldBusinessAnalysisSportLifestyleEntertainmentQuizzesMoreSearchLog inNews HomeJust InFor YouAnalysisRuralWatch LiveHealthIndigenousPoliticsScienceDeep TimeElectionsWorldEnvironmentInvestigationsBusinessLocal newsQuizzesSportAFLNRLFootballTennisCricketNetballLifestyleWellbeingRelationships & FamilyFood & RecipesPersonal FinanceHome & GardenEntertainmentTV & MoviesBooksMusicPop CultureArtsYour ABC AccountPersonalise the news and
+
+Appearance (BETA) Follow system settings Select an optionAlways lightAlways darkFollow system settingsFind any issues using dark mode? Please let us know
+
+@media (forced-colors: active) {
+          .background { fill: none; }
+        }
+      ABC iViewABC ListenABC NewsNews HomeSingapore to go passport-free but what are the risks and how soon could Australia follow suit?ShareShare articleSingapore to go passport-free but what are the risks and how soon could Australia follow suit?By Widia Jalal
+
+Almost 32 million passengers travelled through Singapore's Changi airport in 2022 as the country moves towards a more efficient processing system. (Getty Images: gollykim)
+
+Link copiedShareShare articleThe days of lining up to have your passport stamped and boarding pass checked multiple times are soon to end at one of the world's busiest airports.
+
+Singapore has approved an automated, passport-free immigration clearance system that will begin operating at Changi Airport in 2024.
+
+The move was announced in a parliamentary session this week during which several changes to the country’s Immigration Act were passed.
+
+Biometrics will be used to create a single token of authentication that will be employed at various automated touchpoints, from bag-drop to immigration and boarding, according to the country's Communications Minister Josephine Teo.
+
+"This will reduce the need for passengers to repeatedly present their travel documents at these touchpoints, allowing for more seamless and convenient processing," she said.
+
+However, Ms Teo, who is also the Second Minister for Home Affairs, told the parliament: "It is likely that physical passports will still be required for many countries outside of Singapore."
+
+Changi Airport is one of the busiest international airports and a major air hub in Asia. (Reuters: Edgar Su)
+
+The shift away from manual labour has been a work in progress since 2020.
+
+Currently, both manual and automated checkpoints are running in tandem at Changi Airport, where biometric technology is already used along with facial recognition software.
+
+The change will allow Singapore to "provide an even more seamless, secure, and efficient immigration clearance experience for all travellers," said Ms Teo.
+
+Ms Teo said a strong commitment to fully phase out traditional methods of identifying and authenticating travellers was needed as "the alternative of running two systems in parallel is not only costly but cumbersome."
+
+Traveller data will only be retained for a short time, described by Ms Teo as the period "necessary for immigration processing, analytics or investigation".
+
+"Once these tasks are completed and ICA (Immigration & Checkpoints Authority) no longer needs the data, it will be de-personalised and properly deleted."
+
+All data will be encrypted with controls set-up to protect against unauthorised access, use disclosure, modification or misuse — with regular checks and audits in place, the bill read.
+
+Changi Airport is undergoing expansion to bring its overall capacity to 90 million passengers a year. (Reuters: Edgar Su)
+
+But Dr Bo Liu, an Associate Professor from University of Technology Sydney (UTS) who specialises in cybersecurity and privacy, warned that collecting and storing biometric data raises significant privacy questions.
+
+"On the contrary, you can change your passport if your information is leaked or if you lose it," said Dr Liu.
+
+He also said that biometric systems "must be highly accurate and reliable to avoid false positives or false negatives.
+
+"Although the current techniques are quite accurate in normal cases, there are still potential risks facing advanced attacks in the context of AI."
+
+However, UTS Image processing and machine learning researcher Dr Qiang Wu described the technology as "safe, mature and stable".
+
+Dr Wu, whose research covers biometrics, says the existence of fingerprint and face recognition has long been around with many protocols and guidelines developed since.
+
+As long as they are strictly followed and carefully monitored, he believes Australia is ready to adopt the technology.
+
+However, Dr Wu says the real challenge lies in how the information is shared across different countries, "given that each country has different laws and regulations in terms of bio-management and privacy protection requirements".
+
+Australian Border Force said it is considering a number of seamless traveller initiatives which includes the use of digital credentials.
+
+Here's where Australia and other countries, rank according to The Henley Passport Index.
+
+"Like Singapore and UAE, Australia is looking at contactless processing using biometrics" so passengers can pass through immigration checks without their passport, a spokesperson said.
+
+However, it is unclear as to when this would be implemented.
+
+With the technology still in its early adoption days coupled with the potential cyber security risks, University of Queensland associate professor in Data Science Gianluca Demartini said a "Watch-and-wait could be a good strategy for Australia."
+
+Dr Demartini says Australia could decide to embrace innovation once "more benefits than issues are observed in those countries" following improvement to the technology and its security over time.
+
+Dubai already offers passport-free clearance for certain enrolled travellers and will deploy their biometric system more widely in November.
+
+The country has 122 Smart Gates that allow passengers to complete immigration clearance within five to nine seconds.
+
+This means Singapore will be one of the first few countries to announce and execute plans for an automated clearance, given its 2024 rollout target.
+
+Copy linkFacebookX (formerly Twitter)Top StoriesAFL matriarch stored guns for Dezi Freeman, helped wife get to AustraliaTopic:Law, Crime and Justice
+
+Regional mayor poised to challenge UK's PM after 'circus' by-election winTopic:World Politics
+
+Back to topFooterABC News homepageYour home of Australian stories, conversations and events that shape our nation.
+
+This service may include material from Agence France-Presse (AFP), APTN, Reuters, AAP, CNN and the BBC World Service which is copyright and cannot be reproduced.
+
+We acknowledge Aboriginal and Torres Strait Islander peoples as the First Australians and Traditional Custodians of the lands where we live, learn, and work.
+
+TiktokFacebookInstagramYouTubeApple NewsXMusic & AudiolistenTriple JTriple J UnearthedLive RadioHottest 100Movies & TViviewList of ABC ShowsLive TVTV GuideKids & StudentsEducationBTNABC KidsSign up to our newslettersSign up to get the latest on your favourite topics from the ABC

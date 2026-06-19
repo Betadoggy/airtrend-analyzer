@@ -1,0 +1,67 @@
+Title: Brain, Skull And Spine Injuries On Turbulent Singapore Flight
+Source: International Business Times
+URL: https://www.ibtimes.com/brain-skull-spine-injuries-turbulent-singapore-flight-3732710
+--------------------------------------------------
+
+EditionsAustralia EditionKorea EditionJapan EditionIndia EditionSingapore EditionUnited KingdomUnited States
+ doFir.push(function(){if(getCookie('nwsubl')){jQuery(".login-btn .sign-up2").hide();jQuery(".login-btn .myaccount").show()};jQuery(".login-btn .myaccount").on('click',function(e){e.preventDefault();jQuery(".login-btn ul").toggle()});jQuery(document).ready(function(){jQuery(".myaccount").add(".m-manage").each(function(){jQuery(this).attr('href','https://myaccount.ibtimes.com/manage')})})}) fqtag.fscmd.push(function(){LJS("https://users.api.jeeng.com/users/domains/V1DXygbq01/sdk/")}) googletag.cmd.push(function () { if(dfpSlots.slotobjs["top"]){ ibt_log("ADS GPT register ad slot top", Date.now()-timerStart); googletag.display("dfp-ad-top"); } });if(/top\|[0-1]\|1/.test(dfpSlots.pginfo[ibtmedia_device])) document.getElementById("ad-top-wrapper").className+=" block-sticky"  dfpSlots.vplayer=(['ibtuk','ibtus'].indexOf(site_id)>-1)?'primis player':'NoVideo';if(site_id=='ibtuk'&&oa.geo.country!='IL'&&ibtmedia_device=='mobile')dfpSlots.vplayer='NoVideo';if(/adtest=primis/.test(location.href))dfpSlots.vplayer='primis player';else if(/adtest=native/.test(location.href))dfpSlots.vplayer='ibt player';if(dfpSlots.vplayer=='primis player'){if(site_id=='ibtus'){dfpSlots.primis='117767'}else dfpSlots.primis='117814';dfpSlots.primisVideo=function(){if(dfpSlots.primisVideoLoaded)return;dfpSlots.primisVideoLoaded=1;if(adBlock=='Y')return;var d=document,gi='getElementById',s=d.createElement('script');s.type='text/javascript';s.src='https://live.primis.tech/live/liveView.php?s='+dfpSlots.primis+'&cbuster='+Date.now();if(window.ibt_avf){ibt_avf.appendChild(s);d.body.classList.add('video-primis')}else d[gi]('tvplayer').appendChild(s)}}
+if(dfpSlots.vplayer=='NoVideo'&&document.getElementById('ibt-mobile-avf'))document.getElementById('ibt-mobile-avf').remove();dataLayer[0].VideoABTest=dfpSlots.vplayer;var ibt_avf=(brW 
+
+
+Business
+
+ if(document.querySelector(".breadcrumb").innerHTML.trim()==''){document.querySelector(".breadcrumb").parentNode.parentNode.removeChild(document.querySelector(".breadcrumb").parentNode)} 
+Brain, Skull And Spine Injuries On Turbulent Singapore Flight
+
+
+By
+
+ Stuart GRAHAM 
+
+
+Published 05/23/24 AT 8:00 AM EDT
+Share on Facebook
+Share on Twitter
+Share on LinkedIn
+Share on Reddit
+Share on Flipboard doFir.push(function(){var flipboard=1;jQuery(".genericon-flipboard").on('click',function(e){e.preventDefault();e.stopPropagation();if(flipboard){flipboard=0;LJ('https://cdn.flipboard.com/web/buttons/js/flbuttons.min.js',function(){jQuery(".genericon-flipboard").trigger('click')})}})}) Share on Pocket
+
+
+
+
+Adinun Kittiratanapaibool, director of Bangkok's Samitivej Srinakarin Hospital, said his staff were treating passengers and crew on a Singapore Airlines flight for skull, brain and spinal injuries
+AFP
+
+Passengers on a Singapore Airlines flight that hit extreme turbulence over Asia suffered skull, brain and spinal injuries, the head of a Bangkok hospital said Thursday.
+
+Twenty people remain in intensive care in the Thai capital, where flight SQ321 made an emergency landing on Tuesday after the terrifying high-altitude ordeal.
+
+The Boeing 777-300ER hit what an airline official described as "sudden extreme turbulence" over Myanmar, sending passengers and crew flying and slamming some into the ceiling.
+
+A 73-year-old British man died and 104 people were injured on the flight, which was carrying 211 passengers and 18 crew from London to Singapore.
+
+Adinun Kittiratanapaibool, director of Bangkok's Samitivej Srinakarin Hospital, said his staff were treating six people for skull and brain injuries, 22 for spinal injuries, and 13 for bone, muscle and other injuries.
+
+"We have never treated people with these kinds of injuries caused by turbulence," he told reporters.
+
+The injured at the hospital range in age from two to 83, he added.
+
+One passenger said people were thrown around the cabin so violently they put dents in the ceiling during the drama at 11,300 metres (37,000 feet).
+
+Nine of the 16 Malaysians who were on the flight are being treated in hospital in Bangkok, the country's ambassador to Thailand told AFP.
+
+"Five of them are in ICU and under observation and one victim is in normal ward. They are all in stable condition," said Jojie Samuel.
+
+"But one is in critical condition but stable. He has multiple injuries to his head, back and leg. He is one of the crew."
+
+Passenger accounts are still emerging after the incident in which the plane plummeted 1,800 metres (6,000 feet) in just a few minutes, with too little warning for many passengers to fasten their seatbelts.
+
+"I fell onto the floor, I didn't realise what happened. I must have hit my head somewhere. Everyone was screaming on the plane. People were scared," Josh Silverstone, a 24-year-old Briton on his way to the Indonesian holiday island of Bali, told reporters.
+
+"I turned on the plane WiFi that I bought and texted my mum to say 'I love you'," he added after leaving hospital, where he was treated for a cut to the head, on Wednesday.
+
+Singapore Airlines chief executive Goh Choon Phong has apologised for the "traumatic experience" and expressed condolences to the family of the deceased.
+
+Photos taken inside the plane after it landed in Bangkok show the cabin in chaos, strewn with food, drinks and luggage, and with oxygen masks dangling from the ceiling.
+
+A relief flight took 131 passengers and 12 crew to Singapore's Changi Airport on Wednesday to continue their journeys or return home.

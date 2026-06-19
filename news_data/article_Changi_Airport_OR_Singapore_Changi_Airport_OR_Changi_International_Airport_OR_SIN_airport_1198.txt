@@ -1,0 +1,32 @@
+Title: Singapore pushes for global standard to test generative AI
+Source: ComputerWeekly.com
+URL: https://www.computerweekly.com/news/366641943/Singapore-pushes-for-global-standard-to-test-generative-AI
+--------------------------------------------------
+
+Singapore is proposing a global standard to standardise testing methodologies for generative AI and ensure artificial intelligence (AI) systems are deployed safely and reliably.
+
+The proposed standard, ISO/IEC 42119-8, is the first international standard of its kind. It was announced as Singapore hosts a global AI standardisation plenary meeting this week.
+
+Co-organised by the Infocomm Media Development Authority (IMDA) and Enterprise Singapore (EnterpriseSG), the biannual meeting, held in ASEAN for the first time, brings together over 250 AI experts and more than 35 national bodies, including representatives from the US, UK, China, Japan, Germany, France and South Korea.
+
+Delivering the opening address on 20 April, IMDA chief executive Ng Cher Pong stressed the urgent need for standardisation, noting that the breakneck pace of AI development has seen the technology evolve from generative AI, to multimodal AI, which can process and generate multiple types of data, and now to agentic AI, all in just over three years. “For AI, the standards-setting process cannot afford to move at a glacial pace,” he said. “Otherwise, it risks being made irrelevant by the speed of change in AI.”
+
+Ng described standards as the “quiet infrastructure that enables interoperability, consistency and trust at scale”, helping to drive the adoption and diffusion of new technologies across national borders.
+
+Singapore’s proposed standard focuses heavily on benchmarking and red teaming, the practice of rigorously testing AI systems for flaws and vulnerabilities. By establishing an important framework for standardised testing approaches, the initiative aims to make AI testing results more reproducible and comparable, ultimately building trust between deployers and users.
+
+The framework builds on Singapore’s previous efforts to foster AI governance, such as the AI Verify Toolkit and the Global AI Assurance Sandbox launched last year.
+
+During his speech, Ng also noted how local companies are proactively embracing AI governance, with Changi Airport Group being the first enterprise in Singapore to obtain the ISO/IEC 42001 certification for AI management systems.
+
+The certification, launched globally in December 2023, has helped CAG “institutionalise clearer internal accountability, risk assessment and oversight of AI use cases across the organisation”, said Ng.
+
+Beyond keeping pace with technological advancements, Ng said global AI standards must cater to diverse regions.
+
+“We need to recognise that standards have to be representative and inclusive – not just across sectors and use cases, but also across languages and cultures,” he noted, adding that highly diverse regions like Southeast Asia must be plugged into the standards development process.
+
+To bridge this gap, Singapore recently partnered with the American National Standards Institute to conduct a capacity-building workshop on international AI standards for ASEAN member states, equipping them to develop action plans for their jurisdictions.
+
+Besides the plenary, IMDA and EnterpriseSG are also hosting a series of events, including the AI Assurance Exchange, which gathers global policymakers and industry leaders to discuss translating AI standards into real-world practice.
+
+The efforts are part of Singapore’s broader commitment to develop a trusted AI ecosystem, which includes its national AI Safety Institute and its leadership role in the ASEAN Working Group on AI governance.

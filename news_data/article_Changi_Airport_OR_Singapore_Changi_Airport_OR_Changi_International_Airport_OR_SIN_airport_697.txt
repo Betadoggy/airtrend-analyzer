@@ -1,0 +1,94 @@
+Title: Relieved Travellers Land In Singapore After Deadly Turbulence
+Source: International Business Times
+URL: https://www.ibtimes.com/relieved-travellers-land-singapore-after-deadly-turbulence-3732555
+--------------------------------------------------
+
+EditionsAustralia EditionKorea EditionJapan EditionIndia EditionSingapore EditionUnited KingdomUnited States
+ doFir.push(function(){if(getCookie('nwsubl')){jQuery(".login-btn .sign-up2").hide();jQuery(".login-btn .myaccount").show()};jQuery(".login-btn .myaccount").on('click',function(e){e.preventDefault();jQuery(".login-btn ul").toggle()});jQuery(document).ready(function(){jQuery(".myaccount").add(".m-manage").each(function(){jQuery(this).attr('href','https://myaccount.ibtimes.com/manage')})})}) fqtag.fscmd.push(function(){LJS("https://users.api.jeeng.com/users/domains/V1DXygbq01/sdk/")}) googletag.cmd.push(function () { if(dfpSlots.slotobjs["top"]){ ibt_log("ADS GPT register ad slot top", Date.now()-timerStart); googletag.display("dfp-ad-top"); } });if(/top\|[0-1]\|1/.test(dfpSlots.pginfo[ibtmedia_device])) document.getElementById("ad-top-wrapper").className+=" block-sticky"  dfpSlots.vplayer=(['ibtuk','ibtus'].indexOf(site_id)>-1)?'primis player':'NoVideo';if(site_id=='ibtuk'&&oa.geo.country!='IL'&&ibtmedia_device=='mobile')dfpSlots.vplayer='NoVideo';if(/adtest=primis/.test(location.href))dfpSlots.vplayer='primis player';else if(/adtest=native/.test(location.href))dfpSlots.vplayer='ibt player';if(dfpSlots.vplayer=='primis player'){if(site_id=='ibtus'){dfpSlots.primis='117767'}else dfpSlots.primis='117814';dfpSlots.primisVideo=function(){if(dfpSlots.primisVideoLoaded)return;dfpSlots.primisVideoLoaded=1;if(adBlock=='Y')return;var d=document,gi='getElementById',s=d.createElement('script');s.type='text/javascript';s.src='https://live.primis.tech/live/liveView.php?s='+dfpSlots.primis+'&cbuster='+Date.now();if(window.ibt_avf){ibt_avf.appendChild(s);d.body.classList.add('video-primis')}else d[gi]('tvplayer').appendChild(s)}}
+if(dfpSlots.vplayer=='NoVideo'&&document.getElementById('ibt-mobile-avf'))document.getElementById('ibt-mobile-avf').remove();dataLayer[0].VideoABTest=dfpSlots.vplayer;var ibt_avf=(brW 
+
+
+U.S.
+
+
+
+
+Science
+
+ if(document.querySelector(".breadcrumb").innerHTML.trim()==''){document.querySelector(".breadcrumb").parentNode.parentNode.removeChild(document.querySelector(".breadcrumb").parentNode)} 
+Relieved Travellers Land In Singapore After Deadly Turbulence
+
+
+By
+
+ AFP News 
+
+
+Published 05/21/24 AT 11:57 PM EDT
+Share on Facebook
+Share on Twitter
+Share on LinkedIn
+Share on Reddit
+Share on Flipboard doFir.push(function(){var flipboard=1;jQuery(".genericon-flipboard").on('click',function(e){e.preventDefault();e.stopPropagation();if(flipboard){flipboard=0;LJ('https://cdn.flipboard.com/web/buttons/js/flbuttons.min.js',function(){jQuery(".genericon-flipboard").trigger('click')})}})}) Share on Pocket
+
+
+
+
+Relieved passengers arrive in Singapore after Singapore Airlines flight SQ321 hit severe turbulence, leaving one person dead and more than 80 injured, and was forced to make an emergency landing in Bangkok
+AFP
+
+Rattled travellers and crew landed in Singapore Wednesday after a terrifying high-altitude plunge on a flight from London during which an elderly passenger died and more than 80 were injured.
+
+Singapore Airlines flight SQ321 hit "sudden extreme turbulence" over Myanmar 10 hours into its journey on Tuesday, abruptly rising and plunging several times.
+
+One passenger said people were thrown around the cabin so violently they put dents in the ceiling during the drama at 11,300 metres (37,000 feet), leaving dozens with head injuries.
+
+Photos from inside the plane show the cabin in chaos, strewn with food, drinks bottles and luggage, and with oxygen masks dangling from the ceiling.
+
+The plane, carrying 211 passengers and 18 crew, made an emergency landing at Bangkok's Suvarnabhumi Airport, where medical staff used gurneys to ferry the injured to ambulances waiting on the tarmac.
+
+A 73-year-old British man died, while Bangkok's Samitivej Srinakarin Hospital said late Tuesday 71 people had been sent for treatment -- six of them seriously injured.
+
+The airport in the Thai capital said 83 passengers and crew were hurt.
+
+A relief flight carrying 131 passengers and 12 crew landed at Singapore's Changi Airport on Wednesday morning.
+
+Relieved relatives greeted the arrivals with hugs but all were too shaken to talk to waiting reporters.
+
+Andrew Davies, a British passenger aboard the Boeing 777-300ER, told BBC radio that the plane "suddenly dropped" and there was "very little warning".
+
+"During the few seconds of the plane dropping, there was an awful screaming and what sounded like a thud," he said, adding that he helped a woman who was "screaming in agony" with a "gash on her head".
+
+Separately, he told a BBC podcast he feared the plane was going to crash.
+
+"Remembering the plane now -- the huge dents in the roof that people had obviously hit with their head. There was a water bottle stuck in a gap in the ceiling," he said.
+
+Singapore Prime Minister Lawrence Wong sent his "deepest condolences" to the family and loved ones of the dead man -- identified as Geoff Kitchen, a musical theatre director from near Bristol.
+
+The city-state is sending investigators to Bangkok to probe the incident and Wong posted on Facebook that they were "working closely with Thai authorities."
+
+Of the passengers, 56 were Australians, 47 British and 41 Singaporeans, according to the airline.
+
+"In terms of exactly what happened, it's too early to tell. But I think passengers are too casual on board commercial aircraft," US-based aerospace safety expert Anthony Brickhouse told AFP.
+
+"The moment the captain turns off the seatbelt sign, people literally unbuckle."
+
+Davies, the passenger, said "the plane suddenly dropped" at the very moment a seatbelt sign came on.
+
+Allison Barker told the BBC her son Josh, who was aboard the plane, texted her that he was on "a crazy flight" that was making an emergency landing.
+
+Scientists have long warned that climate change is likely to increase so-called clear air turbulence, which is invisible to radar.
+
+A 2023 study found the annual duration of clear air turbulence increased 17 percent from 1979 to 2020, with the most severe cases increasing more than 50 percent.
+
+Relieved passengers arrive in Singapore after Singapore Airlines flight SQ321 hit severe turbulence, leaving one person dead and more than 80 injured, and was forced to make an emergency landing in Bangkok
+AFP
+
+
+
+
+
+Singapore Airlines flight SQ321, which was headed to Singapore from London before making an emergency landing in Bangkok due to severe turbulence that left one passenger dead and more than 80 injured
+AFP
+
+© Copyright AFP 2025. All rights reserved.

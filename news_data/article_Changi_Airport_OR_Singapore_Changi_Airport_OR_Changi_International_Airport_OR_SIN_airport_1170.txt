@@ -1,0 +1,78 @@
+Title: How one country is engineering its way out of a construction cost crisis
+Source: CNBC
+URL: https://www.cnbc.com/2026/02/04/singapore-construction-boom-how-the-city-state-is-managing-costs.html
+--------------------------------------------------
+
+Source: Safdie Architects
+
+Construction in Singapore has boomed since the pandemic.
+
+Several mega projects are underway, with the $8 billion Las Vegas Sands development and a new terminal at Changi Airport both breaking ground in 2025. Another major public sector project is the Tengah General & Community Hospital, which will add 4,000 patient beds by 2030.
+
+In January, Singapore's Building and Construction Authority (BCA) projected that construction demand would reach up to 53 billion Singapore dollars (around $42 billion) in the island nation this year — up 15% from its previous estimate.
+
+"Following the Covid-19 pandemic, the construction industry surged, and we haven't looked back since," Alex Saez, partner and managing director for APAC at engineering consultancy Cundall, told CNBC.
+
+For building contractors, getting the work done means finding the right people, working with developers and using new technology, with one consultant describing a "digital renaissance" for some firms.
+
+Construction challenges
+
+While a building boom is good for the economy, it presents challenges, with construction costs in Singapore consistently ranked among the highest in the world.
+
+In an email to CNBC, construction consultant Turner & Townsend estimated that costs will go up as much as 5% this year, due to supply chain disruption for products like cement and ready-mixed concrete, as well as long lead times for plumbing and electrical systems and surging prices of the semiconductors needed within those systems.
+
+Mohd Rasfan | Afp | Getty Images
+
+And, along with a shortage of general labor, in Singapore the market for so-called PMET roles — professionals, managers, executives and technicians — is "noticeably tight," according to Khoo Sze Boon, Turner & Townsend's managing director for Singapore.
+
+"Capability gaps still affect timelines and quality, particularly for specialist subcontractors on major projects," Khoo told CNBC via email. To help address this, the BCA will launch an additional training program for project managers later this year, he said.
+
+There's also a trend for "double hatting," where workers are trained so they can take on additional responsibilities, according to Natalie Ong and Then Wan Lin, analysts at CGS International Securities Singapore.
+
+They forecast another strong year of contract awards in 2026, followed by "four years of elevated construction awards."
+
+In an email to CNBC, Ong and Then said "Some companies are adapting to the labor shortage challenge by cross-training their workers (i.e. double hatting), enabling a smaller workforce to perform multiple functions." For example, they said, engineers are being trained to use technology that minimizes repetitive tasks, meaning they can focus on "execution."
+
+Robots and drones
+
+For Singapore-based contractor Soilbuild, there has been a shift from labor-intensive activities towards "high-value, high-specification industrial buildings," CEO Han Ren Lim told CNBC.
+
+Along with using prefabrication — where parts of buildings are assembled offsite — Soilbuild expects to see greater adoption of technology such as an enterprise risk management systems "to further enhance cost efficiency," Lim said.
+
+Construction firms are turning to technology to help them address skills gaps, according to the CGS International analysts.
+
+Building maintenance company ISOTeam already uses drones and AI to inspect building facades for defects, and is developing drones that will be able to wash and paint exteriors, reducing the need for scaffolding and minimizing the risk of working at height.
+
+And, while the investment in such technology costs money, it should ultimately "translate into better earnings," Ong and Then told CNBC.
+
+Legend Robot
+
+From April, Singapore's BCA will provide new grants to small companies to invest in technology, including robots and automation that it says can achieve "up to 50% manpower savings." The BCA also wants firms to improve their digital capabilities, for example in contract management and regulatory approvals.
+
+Firms in Singapore are using computer vision technology from start-up OpenSpace to track construction projects, and software from PlanRadar for scheduling and defect tracking, with both companies reporting an uptick in business from the region in emails to CNBC.
+
+Turner & Townsend's Khoo says it won't be enough for companies to simply adopt new digital tools. Many firms will have to "rethink how technology supports their commercial goals," he told CNBC. "Some may find themselves undergoing a kind of digital renaissance that reshapes their operating models," he said.
+
+Legend Robot makes machinery that can spray putty and latex paint on to the interior walls of residential buildings, as well as robots that can grind floors and lay tiles. An average human worker can paint around 200 square meters per day, while one of the company's robots can handle up to 1,500 square meters daily, according to Legend Robot's Marketing Director Jason Liang — more than seven times as productive.
+
+The company works in Singapore, China, the Middle East and Europe and its machines cost around $70,000 for a 3.3m tall latex paint spraying robot, or up to around $120,000 for a model that can tackle larger areas, Liang told CNBC. "We're seeing rising demand in multiple countries," he said.
+
+Project peak
+
+Despite billions of dollars being poured into new projects, building activity hasn't yet reached its peak. Analysts at CGS International revised their construction industry estimates upwards in January, describing an "extended upcycle" and forecasting that contractors' earnings would peak in the 2028-29 financial year, against a previously estimated 2027-28 high.
+
+Annice Lyn | Getty Images
+
+CGS International expects names in its coverage to see earnings-per-share growth of 16% to 41% between 2026 and 2028, according to a Jan. 23 research note.
+
+Added to this, the city-state's master plan for the next 10 to 15 years will see new parks, residential areas and subway lines become part of the landscape. But with land being scarce in Singapore, "decisions about what to build and what to preserve are becoming increasingly complex," Saez told CNBC.
+
+Higher building costs means a higher cost of living. Jonathan Denis-Jacob, a director at Singapore real estate consultancy Cistri said new private housing is becoming extremely expensive. Singapore topped a list of the most expensive cities for high net worth individuals last year.
+
+But construction projects, especially new infrastructure, tend to be delivered on time and within budget, Denis-Jacob said. This is due in part to projects being "guided by actual needs, rather than a political agenda," because the government focuses on the long-term, he said.
+
+For Wynn Cam, director of architecture firm Morrow, the city-state does more than use construction simply as a means to address housing and infrastructure shortages. "Singapore moved beyond just 'building' to 'sculpting and greening' the city," he told CNBC.
+
+And Charu Kokate, a senior partner at Safdie Architects, said the government has been careful to make sure that new buildings fit in with neighborhoods, and that green initiatives such as rainwater harvesting are integral to projects.
+
+"All these efforts to make everything habitable, make it comfortable for people. I think it's just one of its kind over here, you don't see that anywhere else." Kokate said.

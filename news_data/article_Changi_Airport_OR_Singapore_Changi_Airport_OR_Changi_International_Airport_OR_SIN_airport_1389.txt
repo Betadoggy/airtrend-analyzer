@@ -1,0 +1,38 @@
+Title: Airlines resume services after global IT crash wreaks havoc
+Source: eNCA
+URL: https://www.enca.com/business/airlines-resume-services-after-global-it-crash-wreaks-havoc
+--------------------------------------------------
+
+PARIS - Airlines were gradually coming back online Saturday after global carriers, banks and financial institutions were thrown into turmoil by one of the biggest IT crashes in recent years, caused by an update to an antivirus program.
+
+Passenger crowds had swelled at airports on Friday to wait for news as dozens of flights were cancelled and operators struggled to keep services on track, after an update to a program operating on Microsoft Windows crashed systems worldwide.
+
+Multiple US airlines and airports across Asia said they were now resuming operations, with check-in services restored in Hong Kong, South Korea and Thailand, and mostly back to normal in India, Indonesia and at Singapore's Changi Airport as of Saturday afternoon.
+
+By Saturday, services in Australia had mostly returned to normal, but Sydney Airport was still reporting flight delays.
+
+"The check-in systems have come back to normal (at Thailand's five major airports). There are no long queues at the airports as we experienced yesterday," Airports of Thailand president Keerati Kitmanawat told reporters at Don Mueang airport in Bangkok.
+
+Microsoft said the issue began on Thursday night, affecting Windows users running the CrowdStrike Falcon cybersecurity software.
+
+CrowdStrike said it had rolled out a fix for the problem and the company's boss, George Kurtz, told US news channel CNBC he wanted to "personally apologise to every organisation, every group and every person who has been impacted".
+
+It also said it could take a few days to return to normal.
+
+US President Joe Biden's team was talking to CrowdStrike and those affected by the glitch "and is standing by to provide assistance as needed", the White House said in a statement.
+
+"Our understanding is that flight operations have resumed across the country, although some congestion remains," a senior US administration official said.
+
+While some airports halted all flights, in others airline staff resorted to manual check-ins for passengers, leading to long lines and frustrated travellers.
+
+The US Federal Aviation Administration (FAA) initially ordered all flights grounded "regardless of destination", though airlines later said they were re-establishing their services and working through the backlog.
+
+India's largest airline Indigo said operations had been "resolved", in a statement posted on X.
+
+"While the outage has been resolved and our systems are back online, we are diligently working to resume normal operations, and we expect this process to extend into the weekend," the carrier said Saturday.
+
+Low-cost carrier AirAsia said it was still trying to get back online, and had been "working around the clock towards recovering its departure control systems (DCS)" after the global outage. It recommended passengers arrive early at airports and be ready for "manual check-in" at airline counters.
+
+Chinese state media said Beijing's airports had not been affected.
+
+In Europe, major airports including Berlin, which had suspended all flights earlier on Friday, said departures and arrivals were resuming.

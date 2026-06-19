@@ -1,0 +1,60 @@
+Title: New law paves way for passport-free, biometric clearance for Changi Airport departures from 2024
+Source: CNA
+URL: https://www.channelnewsasia.com/singapore/no-passport-biometric-immigration-clearance-changi-airport-depart-3779036
+--------------------------------------------------
+
+SINGAPORE: From the first half of 2024, passengers departing Changi Airport will go through automated immigration clearance using biometric data, with no passports needed.
+
+This comes after Singapore's parliament on Monday (Sep 18) passed a series of amendments to the Immigration Act.
+
+One key provision is for the Minister for Home Affairs to authorise the disclosure of passenger and crew information to the airport operator, for specific uses such as bag drops and passenger tracing within the airport.
+
+This allows for end-to-end biometric clearance, meaning the passenger does not need to produce their passport, ticket and boarding pass multiple times during the boarding process.
+
+Instead, biometrics will create a "single token of authentication" that passengers can use at various automated touchpoints, said Second Minister for Home Affairs Josephine Teo on Monday.
+
+The Bill also contains changes to better deal with exigencies such as pandemics, strengthen border controls and streamline the administration of passes and permits for foreigners and permanent residents (PRs).
+
+It provides for powers to collect advance passenger and crew information across all modes of entry, and to issue no-boarding directives to airlines and other transport operators to deny "undesirable persons" from boarding at the point of departure for Singapore.
+
+Another change is to clarify when a PR is deemed to have lost their status. A re-entry permit is required whenever a PR travels outside of Singapore.
+
+Currently, a PR overseas without a valid re-entry permit is considered to have lost their PR status, with a grace period of one month after the permit has expired to apply to reinstate their status.
+
+The new Bill requires a PR who is outside Singapore and without a valid re-entry permit to apply for one within a prescribed period, failing which their PR status will be lost immediately. The Ministry of Home Affairs intends to set this prescribed period at six months.
+
+"Given that six months is more than enough for PRs to regularise their status, there will be no avenue for reinstatement once a PR loses his PR status in accordance with the revised framework," said Mrs Teo.
+
+The individual will then have to make a fresh application to become a PR again.
+
+GOVERNMENT’S RESPONSE
+
+On data privacy and cybersecurity, Mrs Teo said only Singapore companies will be able to take on IT projects related to ICA. Their employees must undergo security screening and get clearance before they can work on the project. Vendors will be bound by a non-disclosure agreement and can be criminally liable for breaches.
+
+Mrs Teo said the Home Team Science and Technology Agency (HTX) also carries out independent vulnerability assessments before and after commissioning the vendor.
+
+Travellers’ data will be encrypted and go through secured data exchange gateways. The Minister for Home Affairs’ approval will be required to access and disclose the data, for purposes limited to what's stated in the Immigration Act, such as the enforcement of criminal law.
+
+For biometrics-enabled departures from Changi Airport, Changi Airport Group (CAG) will be bound by a data-sharing agreement with ICA. This puts the onus on CAG to take all reasonable measures to protect data, and ICA will audit its compliance, said Mrs Teo.
+
+The systems will also be designed to be resilient. For example, there will be “failover capabilities” such as an uninterruptible power supply so that travellers can continue to use automated gates even if there are outages.
+
+If disruptions do happen, there are business continuity plans, she said, such as recalling off-duty officers and prioritising traveller clearance according to departure times.
+
+Mrs Teo said that although automated clearance will be the default in future, travellers who are not able to provide certain biometrics or not digitally savvy can still get help from immigration officers and other avenues for manual clearance.
+
+On concerns about bus operators’ ability to provide traveller information in advance, Mrs Teo said ICA has been engaging the industry since July last year, and will continue to do so before firming up any plans for implementation.
+
+“Similarly for No Boarding Directives … we will continue discussions with the operators to find a practicable way forward before proceeding,” she said.
+
+On the removal of statutory appeals by those who have lost their PR status, Mrs Teo said that as foreigners do not have the right to enter or remain in Singapore, "it follows then that they should not be entitled to challenge the terms of their entry or stay under the law".
+
+She noted that "there has never been a right of statutory appeal" when it comes to long-term passes and citizenship.
+
+"And this has also not prevented us from according the affected foreigners fair and reasonable treatment and protection from harm under prevailing laws," said Mrs Teo. "We are now simply updating and rationalising our laws so that the position for entry permit holders who are PRs is aligned with that of applicants for long-term passes and citizenship."
+
+She added that immigration decisions take into consideration a wide range of factors, at times including "sensitive intelligence information", and are based on "a polycentric evaluation of factors relating to our policies and security needs".
+
+Foreigners affected by immigration decisions will continue to be allowed to make representations and provide explanations to authorities. For certain decisions, ICA also advises the individual in broad terms why a decision was made, she said.
+
+Mrs Teo added that affected foreigners can submit appeals through a general feedback form on ICA's website.

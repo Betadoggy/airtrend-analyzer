@@ -1,0 +1,28 @@
+Title: More than 100 flights delayed at Changi Airport due to IT outage triggered by CrowdStrike
+Source: CNA
+URL: https://www.channelnewsasia.com/singapore/100-flights-delayed-changi-airport-it-outage-crowdstrike-update-4530546
+--------------------------------------------------
+
+SINGAPORE: Over 100 flights at Changi Airport were delayed by more than 30 minutes due to the systems outage triggered by a CrowdStrike update in July, said Transport Minister Chee Hong Tat on Tuesday (Aug 6).
+
+The global tech glitch affected flights and airports around the world. At Changi Airport, airlines were forced to implement manual check-ins, with self-service machines going down.
+
+In his written parliamentary reply, Mr Chee said: “Changi Airport handles an average of 1,000 flights daily.
+
+"Due to the systems outage triggered by CrowdStrike on Jul 19, 108 departing flights were delayed by more than 30 minutes, and one departing flight and its turnaround arriving flight were cancelled."
+
+He was responding to a question from MP Saktiandi Supaat (PAP – Bishan-Toa Payoh) about the number of flights affected by the CrowdStrike outage and how Singapore can further enhance the resilience of its air hub status.
+
+During the incident, Changi Airport ­Group (CAG), affected airlines and ground handlers activated its business continuity plans such as the use of manual check-in processes and active management of congestion on the ground, Mr Chee said.
+
+For instance, adjustments were made to convert common check-in operations by airlines to dedicated flight check-ins to better manage passengers and prioritise flights with earlier departing times.
+
+“These measures allowed the airport and airlines to continue operations, albeit at lower efficiency levels,” he said.
+
+“CAG is working with affected airlines and ground handlers to review their business continuity plans, taking into account the learning points from this incident, including how back-up measures can be implemented more efficiently,” Mr Chee added.
+
+The aviation sector, particularly sensitive to scheduling disruptions, was among those hit. Some airports halted all flights and thousands of US flights were grounded.
+
+The day after the IT outage, Changi Airport announced that check-in operations had returned to normal for all affected airlines.
+
+The Ministry for Digital Development and Information also said that most companies affected by the outage had restored their services to the public as of 6am on Jul 20.

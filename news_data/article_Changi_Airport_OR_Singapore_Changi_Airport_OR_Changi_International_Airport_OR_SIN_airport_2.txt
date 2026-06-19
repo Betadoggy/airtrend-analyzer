@@ -1,0 +1,30 @@
+Title: Some airports were forced to use whiteboards to handwrite flight information due to the global IT outage
+Source: Business Insider
+URL: https://www.businessinsider.com/it-outage-forced-airports-to-handwrite-flight-info-on-whiteboards-2024-7
+--------------------------------------------------
+
+Staff at several airports had to handwrite flight information on whiteboards due to a worldwide IT outage.
+
+Business Insider saw whiteboards at Singapore Changi Airport being used to allocate check-in lines for the budget airline Scoot.
+
+Almost 7,000 miles away in Northern Ireland, a Belfast International Airport spokesperson told BI that whiteboards were being used, but all systems have since been restored.
+
+A user on X shared a photo she said was taken by her brother-in-law.
+
+In the background, monitors usually used for flight information can be seen displaying the "blue screen of death."
+
+Major airlines, banks, and supermarkets are experiencing widespread disruptions because of an IT outage after Microsoft reported problems with its online services, linked to an issue at the cybersecurity firm CrowdStrike.
+
+"A global IT system outage is impacting the airport alongside many other businesses, but flights remain operational," the Belfast International spokesperson said in a statement.
+
+"Our IT teams are working hard to resolve the issue but there are longer wait times than usual at the airport and we thank passengers for their patience while the issue is resolved."
+
+A spokesperson for Singapore Changi Airport said the check-in process for some airlines was "being managed manually," which included issuing boarding passes.
+
+The disruption has affected aviation across the globe.
+
+Delta Air Lines, United Airlines, and American Airlines — the big three US carriers — all issued ground stops early Friday morning. United and American also alerted pilots of communication issues.
+
+Ryanair, Europe's largest airline, has several routes out of Belfast International. It advised passengers to arrive at least three hours early as it experienced "disruption across the network" due to the outage.
+
+Wizz Air, British Airways, and KLM have also warned of delays.

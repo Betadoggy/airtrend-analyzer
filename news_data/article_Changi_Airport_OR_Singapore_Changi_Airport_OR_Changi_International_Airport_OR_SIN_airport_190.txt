@@ -1,0 +1,104 @@
+Title: Co-founder of collapsed crypto biz Three Arrows cuffed at airport
+Source: Theregister.com
+URL: https://www.theregister.com/2023/10/03/asia_in_brief/
+--------------------------------------------------
+
+ASIA IN BRIEF Zhu Su, co-founder of fallen crypto business Three Arrows Capital (3AC), was arrested last Friday at Changi Airport in Singapore as he attempted to leave the country.
+
+Zhu is expected to spend four months in jail for failing to comply with investigations into his ill-fated company, according to the 3AC's liquidators, consultancy firm Teneo. Three Arrows co-founder Kyle Davies would likely share the same fate, if his whereabouts were known, Teneo said.
+
+The liquidators said that while Zhu is in custody, they would "seek to engage with him on matters relating to 3AC, focusing on the recovery of assets that are either the property of 3AC or that have been acquired using 3AC's funds."
+
+REG AD
+
+The Monetary Authority of Singapore (MAS) previously issued a nine-year ban to the 3AC founders for failings including neglecting to implement appropriate risk management.
+
+REG AD
+
+Having once managed $10 billion in assets, the company collapsed in 2022 and filed for Chapter 15 bankruptcy that July in New York.
+
+Philippine state health org back online after ransomware attack
+
+The Philippine Health Insurance Corporation (PhilHealth) website has been back online since September 29 after being taken out by a ransomware attack for about a week.
+
+On September 22, the state health insurance operator experienced an "information security incident," according to its Facebook page. While investigating, affected systems were shut down.
+
+PhilHealth said shutting down its application systems was "done immediately upon the advice of the Department of Information and Communication Technology (DICT) to isolate these key services and to ensure threat the ransomware infection will not spread to critical computers."
+
+During the shutdown, members were required to show a photocopy of their health identification card or other documents when using healthcare services.
+
+Last weekend, ransomware gang Medusa took credit for the attack. The group demanded $100,000 to extend the ransomware's deadline and $300,000 to delete stolen data.
+
+PhilHealth said last Friday it had not verified the allegedly leaked members' data was actually on the dark web. It also indicated that paying ransoms was against government policy.
+
+REG AD
+
+China relaxes data export laws
+
+China's cyberspace regulator last week floated a plan to relax some rules on cross-border data transfers.
+
+The move is a welcome change for foreign companies doing business overseas as the rules were generally tough to follow. For example, companies exporting "important data" or "personal data" were required to get a security assessment from the the Cyberspace Administration of China (CAC) without the terms being fully defined.
+
+Now the CAC is taking comments on a plan to waive assessments for international trade, academic cooperation, cross-border manufacturing, and marketing if they do not contain personal or important data.
+
+The proposed regime will also see authorities notify organizations if it believes they hold "important data". Further, personal information shared for the purpose of entering the country like visa applications, plane tickets, and hotel reservations are no longer held to the obligation.
+
+Also not required to take action are companies transferring personal information of less than 10,000 people in a year. Personal information intended to protect life, health, and property in emergencies.
+
+Apple supplier Pegatron on fire in India - literally
+
+Taiwanese component manufacturer Pegatron shut its iPhone assembly factory in Chennai for three days last week after a fire.
+
+REG AD
+
+Pegatron confirmed the blaze on September 24 with a statement on the Taiwan stock exchange. According to the company, there were no casualties or damage to other assets.
+
+"The cause of accident is currently under investigation by relevant authority, and the incident does not have significant financial or operational impact to Pegatron Corporation," it wrote in the statement.
+
+Indian outlet The Economic Times reported that the factory resumed production on Wednesday in a phased manner.
+
+Taiwan's first homegrown submarine unveiled
+
+On Thursday, Taiwan unveiled its first of eight indigenous submarines, Hai Kun - aka "Narwhal" - after a seven years of construction.
+
+However, the underwater vehicle will not enter service until 2025. Taiwan currently operates two existing submarines sourced from the Netherlands. President Tsai Ing-wen reportedly said the submarine would strengthen the Taiwanese navy's "asymmetric warfare."
+
+China's defense ministry spokesman, Wu Qian, reportedly called the endeavor "idiotic nonsense."
+
+Meanwhile, state media quoted Taiwan's first military officer as calling it the fist step toward "defense autonomy."
+
+Grab ends investment feature
+
+Singapore-based superapp Grab will shutter its investment service, GrabInvest, after determining it "would not be commercially viable," according to a September 25 email to customers.
+
+Customers were given 18 days to withdraw money from products on their own. The company will not allow transactions on AutoInvest and/or Earn+ accounts from October 14 and accounts will be closed at the end of October.
+
+Those who fail to withdraw money will have it done for them at market rate and deposited in their GrabPay Wallet.
+
+South Korean president warns of AI and digital disinformation
+
+The president of South Korea, Yoon Suk Yeol, said the battle against disinformation will be addressed within the nation's forthcoming Digital Bill of Rights during a recent speech at New York University.
+
+According to local media, Yoon said there was a need to build and operate a regulatory system for AI and digital technologies.
+
+"If we fail to counter the spread of disinformation fueled by the malicious misuse of AI and digital technologies, it could threaten liberal democracy, put market economies based on liberal democracy at risk and jeopardize our future and the lives of future generations," he reportedly said.
+
+In other news ...
+
+Indonesia, banned social media platforms like TikTok from embedding ecommerce facilities.
+
+Chinese minister for national security Chen Yixin raised alarm bells against fake news and other issues, including alliances designed to isolate Chinese tech.
+
+Alibaba Cloud introduced AI-enabled cloud services, some which are even available outside of China.
+
+China released a list of 14 techs it wants to develop, including underwater comms and optoelectric semiconductors.
+
+Indian IT outsourcer Infosys launched an aviation cloud platform that it claims can reduce lost luggage by half.
+
+Japan's Transport Safety Board deemed that 1,000 tons of fuel oil was spilled into a pristine marine environment on the Mauritius coast because the captain was chasing cellular phone service.
+
+China's ban on some local orgs buying Micron Technology memory has started to bite as the company reported that revenue fell by almost half year-on-year.
+
+Hong Kong said it will publish lists of crypto players applying for an operating license.
+
+Samsung announced its new memory product takes on the CAMM format.

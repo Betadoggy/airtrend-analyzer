@@ -1,0 +1,58 @@
+Title: The future of tech in hospitality
+Source: Hospitality Net
+URL: https://www.hospitalitynet.org/opinion/4120352.html
+--------------------------------------------------
+
+In prehistoric times, our technology was limited to tools made of stone and bone. In the 21st century, we live in an era of technological innovation that is changing almost every aspect of our lives, from communication and education to recreation and entertainment. Technology continues to evolve and in the hospitality industry we have seen drastic changes in recent years. A look into the future is necessary today, if only to better understand the current situation and to plan for 2024, as well as to understand what existing players are already doing and, undoubtedly, what guests and customers expect.
+
+Hospitality rides the wave of AI
+
+The hospitality industry is undergoing notable shifts. Global gross hotel bookings, one of the major and rapidly expanding sectors of the travel industry, increased from $450 billion in 2022 to $510 billion in 2023 and is projected to reach $560 billion in 2024. Amadeus has also released a report revealing that the global hotel occupancy rate was 10% higher in August 2023 compared to the same period in 2022. This positive scenario drives growth and investments, where artificial intelligence (AI) plays a special role. A software-based system, which learns, reasons, and makes decisions based on data inputs, has been a dream of humanity for centuries. Nowadays, its application ranges from intelligent virtual assistants to autonomous vehicles, offering vast potential to enhance productivity, optimize processes and drives innovation.
+
+In 2023, the world witnessed the meteoric rise of AI. Its market is predicted to reach a revenue of $383.3 billion by 2030, according to GlobalData report on AI. In the hospitality sector, the implementation of generative AI is coming to the forefront for many players. The trend is illustrated by the SITA report, which showed that 97% of airlines are actively planning programs to leverage this technology. Indeed, AI holds the potential to transform customer experience. According to IDC, hoteliers expect over 40% of their AI investments to be in predictive AI in the coming year. In collaboration with innovation partners, 86% of airlines have started developing AI, machine learning, and computer vision technologies. Of these airlines, 39% are already implementing such technologies, and another 47% are planning to do so in the near future.
+
+Turning raw data into diamonds
+
+To ensure that AI investments will pay off, companies need to gather more and more customer data. Collecting data on customer behavior becomes essential for personalizing the guest experience, where there is no room for guesswork. By 2026, it’s expected that nearly two-thirds of hospitality players will add location-based awareness to their unified customer data strategies. This move aims to boost loyalty and lifetime value, potentially enhancing offer and marketing effectiveness by 35%. And mobile devices are likely to be the primary source of this data.
+
+Continuing the discussion, it’s worth recognizing that data is a raw material that must be processed into a valuable product. All businesses need to interpret data effectively. In response to this need, we can expect a surge of innovative solutions for the hospitality industry. For instance, AI platforms that can transform hotel guests’ speech into actionable data and insights are already here.
+
+Travel industry: Navigating the world of AI
+
+The proliferation of AI-based travel planning tools from leading companies like Google, Meta, Expedia, Kayak, Booking.com and WhatsApp, among others, is set to continue. In July 2023, TUI Group introduced a ChatGPT-based chatbot on its UK app, marking the first step of an anticipated integration of generative AI into the company's technology suite. Other hospitality companies are also adopting similar approaches.
+
+Mobile innovation will continue to evolve. The success of mobile tools for travelers, such as Emburse Go, which aims to provide the most seamless travel experience to customers, will attract additional players to this space. DeepMind cofounder Mustafa Suleyman has indicated that the next phase after generative AI will be interactive AI. Unlike generative AI, which produces content based on incoming information, interactive AI will enable bots to actually execute tasks assigned to them, using other programs and people to accomplish them. This transition will further advance mobile concierge technology, which has begun to gain popularity in recent years. In 2024, we can expect to see a greater variety of use cases for AI and possible the blossoming of new fields.
+
+Certainly, the need for more data means companies must improve their existing infrastructure. Today, one of the biggest challenges for hoteliers is unreliable or slow internet connections for their onsite systems. To address this, 55.8% plan to increase their spending on physical infrastructure this year. In the wake of the pandemic, some hotels have increased their technology investments. In 2023, big hotel brands have started partnering with tech companies to modernize their operations and services. This move is also partly due to ongoing staff shortages, pushing hotels to adopt new technologies more quickly.
+
+Hi, Robot!: Can AI take over the industry?
+
+Travel service providers are actively using next-generation technology to address labor shortages. Almost all airports and half of all hotels, according to a recent survey of travel executives conducted by Deloitte, are adopting new technology for this purpose. Despite an increasing reliance on automation, only a third of those surveyed believe it will reduce their workforce over the next five years. Instead, the majority anticipate that technology will enhance the work experience and create new opportunities for frontline staff. As reported by The Washington Post, to solve the same issue, the Hawks Cay Resort in the Florida Keys employs a team of six robots: two of these robots serve food and assist staff in the hotel restaurant, two vacuum common areas like hallways and ballrooms, and the remaining two sweep floors. Robots such as “Connie” at Hilton or Softbank’s “Pepper” have been around for a while and self-service automated solutions are increasingly seen as “the future of customer service”, according to Harvard Business Review.
+
+In the food industry, robotics and automation are making significant strides. The I-Robo from TechMagic, a Tokyo-based company, is one example. It is currently being tested in restaurants across east Asia, where robots have shown success in serving meals, while helping to reduce labor costs.
+
+“I see you”
+
+Advancements in biometric technology are impactful. For instance, Singapore’s Changi Airport is preparing to be the first international hub to go completely passport-free by early 2024. It plans to introduce an automated immigration checkpoint using passenger biometrics. Travelers will undergo a facial scan to verify their identity, replacing the need to show their passports to an immigration officer. Similarly, Dubai International Airport is also moving towards eliminating the need for passports or boarding passes, opting for biometric identification instead.
+
+Smart technology: Making the experience more comfortable
+
+Smart technology and the Internet of Things continue to evolve. More and more smart room and smart home solutions are emerging. For instance, SALTO has introduced Smart Locks, a system designed to modernize traditional mechanical locks that provides secure keyless and mobile access to a property’s various doors using a smartphone, with compatibility extending to Apple Wallet.
+
+The popularity and appreciation of smart bed technology is also growing. At the Lake Nona Wave Hotel in the US, guests have the luxury of sleeping on smart beds. These beds automatically adjust to create optimal sleeping conditions for each individual. They monitor and regulate temperature and adapt to remove pressure points, ensuring a fabulous sleep experience.
+
+Immersive escape via meta-travel
+
+Hospitality is also jumping at opportunities to take up virtual and augmented reality (VR and AR). The global virtual tourism market is projected to expand to over $847 billion by 2028. Virtual reality is increasingly being used to give travelers a preview of what they might experience at a particular destination. For example, Patagonia offers an Oculus Rift experience that presents Monte Fitzroy, Argentina’s most famous yet remote mountain, situated near a glacial lake. Users can explore the scenic beauty of this distant location online.
+
+Travel brands, including the Singapore Tourism Board, are using augmented reality to increase interest in their attractions and history tourism by creating a more immersive experience for their guests. In this virtual space, Roblox users have the opportunity to explore “Qatar Adventure”, a virtual world in the metaverse. It features authentic Qatari cultural events and some of the country’s most iconic landmarks. The incorporation of extended reality, including VR and AR, offers many promising avenues for hospitality.
+
+Between digitazation and human touch: Finding the golden mean
+
+It’s noteworthy that the study by Deloitte on the staff shortages mentioned above showed some other insightful results for the hospitality sector. It revealed that only one in four hoteliers are convinced that AI can significantly improve guest service. Furthermore, 54% of hoteliers feel that the available technology is not sufficiently advanced to meet their ever-changing customer demands. The industry thus faces the challenge of balancing operational excellence with a human touch. Finding the ‘golden mean’ between automation, digitization and authentic human connection remains a significant hurdle. Work is also underway to develop AI that can recognize and interpret human emotions.
+
+The sky-high standards of the hospitality industry
+
+In the hospitality industry, 2024 could be the year for advancing mobile technologies, user interfaces, and intelligent tools for better personalization and unique customer experiences. Rooted in the human touch, care and empathy, the hospitality industry is adopting contactless check-in and check-out options, keyless door locks, chatbots, robots and smart room controls to keep evolving and “satisfy the growing and increasingly complex needs of guests”. Today’s customers are more sophisticated and most of them expect seamless customer experience in everything. For instance, United mobile app offers a nice user experience, with subtle touches like customized departure times, intuitive bag tracking and personalized rebooking options. “In a world of mediocrity and bad design, this really stands out”, as noted by Skift, which recognized the app for its “best digital experience”.
+
+When it comes to customers, the bar is higher than ever. They demand immediate, fast, and hassle-free services. This trend is sometimes described as “Amazonification” of the consumer because Amazon set the high standards for rapid delivery, leading to frustration when other companies fail to meet this expectation. Reflecting on this shift in priorities, Salesforce’s research, highlighted in Tiffany Bova’s book The Experience Mindset found that “88% of customers believe that the experience a company provides is as important as its product or service”. In a world where there is an abundance of “stuff”, experience becomes a more valuable currency.

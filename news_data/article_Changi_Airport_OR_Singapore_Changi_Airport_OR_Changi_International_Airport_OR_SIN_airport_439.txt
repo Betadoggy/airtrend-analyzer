@@ -1,0 +1,32 @@
+Title: Singapore begins outfitting its airport with solar panels
+Source: ZDNet
+URL: https://www.zdnet.com/home-and-office/energy/singapore-begins-outfitting-its-airport-with-solar-panels/
+--------------------------------------------------
+
+Singapore has begun outfitting its airport with solar panels in what will be the nation's largest single-site rooftop solar photovoltaic (PV) system.
+
+Slated for completion in early 2025, the site will have a combined capacity of 43 megawatt peak (MWp), of which 38MWp will be generated from panels installed on its rooftops, according to Changi Airport Group (CAG). These panels will comprise areas on its terminal buildings, terminal auxiliary structures, airfield, and cargo buildings.
+
+Also: Run your Raspberry Pi off-grid with solar power. Here's what you need
+
+The remaining 5MWp of solar generation capacity will be sourced from a system installed within the airport's airfield, spanning 40,000 square meters, outside of aircraft operational areas. This marks the first time a solar PV system is deployed on Changi's airfield, signaling the potential for such systems to be built beyond conventional rooftop spaces, CAG said.
+
+"Deploying solar PV systems in the airport involves a set of unique challenges as compared to conventional installation at commercial, industrial, or residential sites," it said. Robust simulation, for instance, had to be conducted to ensure the solar panels do not pose glare and glint effects to air traffic controllers and pilots or interfere with communications, navigation, and surveillance as well as meteorological signals.
+
+CAG added that the necessary installation and maintenance processes must comply with aviation safety and security requirements, including fire safety code mandates from the Singapore Civil Defence Force.
+
+The rooftop and airfield sites collectively are expected to generate enough solar energy to power more than 10,000 four-room public housing flats annually. This will also cut the airport group's carbon emissions by some 20,000 tonnes every year, or 10% of its consumption in 2019.
+
+Also: Singapore keeping its eye on data centers and data models as AI adoption grows
+
+CAG inked a 25-year deal for Keppel to design, develop, own, and operate the solar system, which will be integrated with the latter's Operations Nerve Center, located within the Keppel Infrastructure@Changi building. The center will provide remote monitoring and real-time reporting of solar generation metrics, as well as fault detection and diagnostics for predictive maintenance.
+
+The Keppel Center also uses artificial intelligence and machine learning algorithms to run models that generate forecasting and energy management designed to optimize performance and operations, CAG said.
+
+CAG's executive vice president of engineering and development, Koh Ming Sue, said efforts to make Changi a more sustainable aviation hub had included upgrading its frontline airport building and systems with energy-efficient models and transitioning toward cleaner energy vehicles.
+
+Also: Tropical datacenter now up and running in Singapore
+
+Koh noted that another partner, SolarGy, was appointed to install a 640kWp rooftop solar PV system and move CAG's airport maintenance and storage center toward a greener facility. This is expected to slash the site's emissions by half.
+
+Almost 100 airlines operate more than 6,400 flights weekly at Changi Airport, which connects Singapore to some 150 cities globally. Jewel Changi Airport also comprises more than 600 food and beverage and retail outlets.

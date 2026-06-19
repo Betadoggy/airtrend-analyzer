@@ -1,0 +1,36 @@
+Title: Three Arrows Capital-Backed OPNX Exchange Faces Imminent Shutdown
+Source: Bitcoinist
+URL: https://bitcoinist.com/opnx-exchange-faces-imminent-shutdown/
+--------------------------------------------------
+
+Trusted Editorial content, reviewed by leading industry experts and seasoned editors. Ad Disclosure
+
+OPNX (Open Exchange), a Singapore-based cryptocurrency exchange established by the co-founders of the failed crypto hedge fund Three Arrows Capital (3AC), is set to cease operations less than a year after its inception.
+
+OPNX To Shut Down Amidst Legal Issues
+
+OPNX was launched by Zhu Su and Kyle Davies, along with co-founders Mark Lamb and Leslie Lamb, to make a comeback following the collapse of Three Arrows Capital and the infamous fall of Sam Bankman-Fried’s crypto exchange FTX.
+
+Mark and Leslie Lamb are also known for their involvement in CoinFlex, a digital asset exchange filed for restructuring in the Seychelles in August 2022. OPNX aimed to enable creditors of insolvent exchanges, such as FTX, to tokenize their claims and use them as collateral.
+
+Zhu Su and Kyle Davies, schoolmates, university friends, and former Credit Suisse traders, founded Three Arrows Capital in 2012. However, the firm became the first major crypto company to go bankrupt in 2022, losing billions of investors’ funds due to the collapse of cryptocurrencies Luna and TerraUSD in May of that year.
+
+In September 2023, Zhu Su was arrested at Changi Airport while attempting to leave the country. Both Zhu Su and Kyle Davies were sentenced to four months’ imprisonment for failing to cooperate with investigations into the failure of Three Arrows.
+
+The Monetary Authority of Singapore also banned them for nine years, preventing their involvement in the management, directorship, or substantial ownership of any regulated capital market services company in Singapore.
+
+OPNX’s decision to shut down comes after a relatively short period of operation. Users of the exchange have been informed via email that they need to settle their accounts and make necessary withdrawals before February 14.
+
+The closure marks the end of OPNX’s attempt to facilitate the trading of bankruptcy claims and collateralization of such claims on insolvent exchanges.
+
+OX Token Plummets Following Closure Announcement
+
+Following the announcement of OPNX’s shutdown on February 1st, the native token of the exchange, OX, experienced a significant decline in value. The downward trend began on January 16 and was further exacerbated on Thursday when the token recorded a notable drop of 28.8%.
+
+As of the time of writing, OX is trading at $0.00827. Despite the 28.8% drop within the past 24 hours, the token has shown signs of recovery since reaching a low of $0.00600 on Thursday.
+
+However, it is important to note that the token has also experienced substantial price decreases across various time frames. Over the past seven, fourteen, and thirty days, OX has recorded price declines of 36%, 50%, and 34%, respectively.
+
+The future of the OX token, which currently boasts a market capitalization of over $82 million, remains uncertain. Investors and market participants await further statements from the exchange to shed light on the situation and its potential impact on the token’s value and market performance.
+
+Featured image from Shutterstock, chart from TradingView.com

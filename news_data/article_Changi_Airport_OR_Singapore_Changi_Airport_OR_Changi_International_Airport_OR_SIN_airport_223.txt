@@ -1,0 +1,40 @@
+Title: Singapore Airlines Pilots Turned On Seatbelt Sign During Turbulence
+Source: Forbes
+URL: https://www.forbes.com/sites/marisagarcia/2024/05/29/singapore-airlines-pilots-turned-on-seatbelt-sign-during-turbulence/
+--------------------------------------------------
+
+The Transport Safety Investigation Bureau of Singapore has released preliminary findings regarding the recent severe and sudden turbulence incident involving Singapore Airlines flight SQ32, after extracting and analyzing data from the flight data recorder and cockpit voice recorder.
+
+The flight departed from London on May 20, and experienced a severe turbulence event on May 21 while flying over southern Myanmar at an altitude of 37,000 feet. Over 100 people suffered injuries resulting from the sudden changes in gravitational force as a convective force lifted the plane and pilots adjusted. One passenger died and is reported to have suffered a heart attack. The airline confirmed yesterday that 28 passengers are still in hospital in Bangkok, where the flight diverted.
+
+The investigation team includes TSIB investigators, along with representatives from the National Transportation Safety Board, Federal Aviation Administration and BoeingBoeing. According to the preliminary report, the flight was operating normally until the turbulence began.
+
+Rapid Gravitational Force Fluctuations Caused Injuries
+
+As the TSIB reports, at 07:49:21 UTC on May 21, while passing over southern Myanmar, the aircraft experienced slight vibrations due to fluctuating gravitational forces. These ranged from +0.44G to +1.57G, over a 19-second period.
+
+Around the same time as the vibrations, the flight recorder notes an uncommanded increase in altitude to 37,362 feet which investigators attribute to “developing convective activity” in the region. The autopilot pitched the aircraft down to return to the selected altitude of 37,000 feet. At the same time, pilots extended speed breaks to counteract an uncommanded increase in airspeed.
+
+The report states that at this point, the CVR record shows “a pilot called out that the fasten seat belt sign had been switched on.” However, passengers onboard the aircraft who have shared their experience have not noted the seatbelt light was on and cabin crew continued with their meal service. This discrepancy will likely be part of the ongoing TSIB investigation, and further analysis of the incident is being conducted to understand all contributing factors.
+
+Investigators so far have determined the uncommanded changes in altitude and airspeed were likely caused by an updraft. The autopilot remained engaged. At 07:49:40 UTC, the aircraft experienced a rapid change in gravitational forces, dropping from +1.35G to -1.5G in 0.6 seconds.
+
+Investigators report that this sudden shift in gravitational force likely sent unbelted passengers airborne. Immediately after, the gravitational force shifted from -1.5G to +1.5G within four seconds, which caused passengers to fall back down. This fall is the most likely cause of the severe injuries to crew and passengers. The aircraft’s altitude decreased by 178 feet, from 37,362 feet to 37,184 feet.
+
+Pilots responded to these rapid changes by disengaging the autopilot and manually stabilizing the aircraft for 21 seconds, before re-engaging the autopilot at 07:50:05 UTC. The aircraft showed more gradual fluctuations in gravitational force over the next 24 seconds, ranging from +0.9G to +1.1G, and returned to 37,000 feet by 07:50:23 UTC.
+
+After being informed of injuries among passengers, the pilots decided to divert to Suvarnabhumi Airport in Bangkok, Thailand. They requested medical services to meet the aircraft upon arrival. Approximately 17 minutes after the turbulence event, at 08:06:51 UTC, the pilots initiated a controlled descent. The aircraft did not encounter further severe turbulence during this diversion and landed safely at Suvarnabhumi Airport.
+
+Singapore Airlines Changes Turbulence Procedures
+
+Since the incident, Singapore Airlines has made a number of important safety changes, including the suspension of hot beverage service and meal service when the seat belt sign is on. Crew members will continue the current policy of securing all loose items and equipment in the cabin during poor weather conditions. They will also ensure that passengers return to their seats and put on their seatbelts, and look out for passengers who may need assistance, including any passengers in the lavatories. The crew will also return to their seats and secure their seat belts.
+
+“Pilots and cabin crew are aware of the hazards associated with turbulence. They are also trained to assist customers and ensure cabin safety throughout the flight,” the airline stated. “SIA will continue to review our processes as the safety of our passengers and crew is of utmost importance.”
+
+While the recent Singapore Airlines turbulence incident was sudden and severe, it wasn’t the airline’s first serious turbulence incident which led to injuries and aircraft damage. Twenty-two passengers and crew onboard a Singapore Airlines Flight SQ424 from Singapore to Mumbai in 2014 raised questions on the airline’s procedures for handling turbulence. The flight had 408 passengers and 25 crew onboard and encountered sudden turbulence on the descent, with eight passengers and 14 crew members injured during that incident.
+
+How To Protect Yourself During Severe Turbulence
+
+While airlines do their best to navigate around the known and controllable causes of flight turbulence, sometimes it is inevitable, invisible and dangerous. This past Sunday, twelve people suffered injuries on a Qatar Airways flight from Doha to Dublin. Last month, a passenger broke his leg on an Air New Zealand flight from Indonesia to Auckland during a sudden turbulence event as he was returning from the lavatory. In April, a Southwest Airlines flight diverted to Tampa International Airport after a attendant and a passenger were injured during a sudden turbulence event.
+
+There are thousands of flights operating daily, and most encounter little more than a light chop. However, invisible turbulence incidents, undetectable by radar, can be harrowing. One simple practice can protect you from these unpredictable events: Always wear your seatbelt while seated on a plane, no matter what the seatbelt sign says. Aircraft seats, equipped with seatbelts, are tested to withstand up to 16Gs of force in the event of an airline accident and keep passengers safe.

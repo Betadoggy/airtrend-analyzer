@@ -1,0 +1,72 @@
+Title: Fugitive Behind Crypto Hedge Fund That Lost $10B Arrested At Changi Airport While Trying To Flee
+Source: International Business Times
+URL: https://www.ibtimes.com/fugitive-behind-crypto-hedge-fund-that-lost-10b-arrested-changi-airport-while-trying-flee-3713661
+--------------------------------------------------
+
+EditionsAustralia EditionKorea EditionJapan EditionIndia EditionSingapore EditionUnited KingdomUnited States
+ doFir.push(function(){if(getCookie('nwsubl')){jQuery(".login-btn .sign-up2").hide();jQuery(".login-btn .myaccount").show()};jQuery(".login-btn .myaccount").on('click',function(e){e.preventDefault();jQuery(".login-btn ul").toggle()});jQuery(document).ready(function(){jQuery(".myaccount").add(".m-manage").each(function(){jQuery(this).attr('href','https://myaccount.ibtimes.com/manage')})})}) fqtag.fscmd.push(function(){LJS("https://users.api.jeeng.com/users/domains/V1DXygbq01/sdk/")}) googletag.cmd.push(function () { if(dfpSlots.slotobjs["top"]){ ibt_log("ADS GPT register ad slot top", Date.now()-timerStart); googletag.display("dfp-ad-top"); } });if(/top\|[0-1]\|1/.test(dfpSlots.pginfo[ibtmedia_device])) document.getElementById("ad-top-wrapper").className+=" block-sticky"  dfpSlots.vplayer=(['ibtuk','ibtus'].indexOf(site_id)>-1)?'primis player':'NoVideo';if(site_id=='ibtuk'&&oa.geo.country!='IL'&&ibtmedia_device=='mobile')dfpSlots.vplayer='NoVideo';if(/adtest=primis/.test(location.href))dfpSlots.vplayer='primis player';else if(/adtest=native/.test(location.href))dfpSlots.vplayer='ibt player';if(dfpSlots.vplayer=='primis player'){if(site_id=='ibtus'){dfpSlots.primis='117767'}else dfpSlots.primis='117814';dfpSlots.primisVideo=function(){if(dfpSlots.primisVideoLoaded)return;dfpSlots.primisVideoLoaded=1;if(adBlock=='Y')return;var d=document,gi='getElementById',s=d.createElement('script');s.type='text/javascript';s.src='https://live.primis.tech/live/liveView.php?s='+dfpSlots.primis+'&cbuster='+Date.now();if(window.ibt_avf){ibt_avf.appendChild(s);d.body.classList.add('video-primis')}else d[gi]('tvplayer').appendChild(s)}}
+if(dfpSlots.vplayer=='NoVideo'&&document.getElementById('ibt-mobile-avf'))document.getElementById('ibt-mobile-avf').remove();dataLayer[0].VideoABTest=dfpSlots.vplayer;var ibt_avf=(brW 
+
+
+Crypto
+
+
+
+
+Crypto Business
+
+ if(document.querySelector(".breadcrumb").innerHTML.trim()==''){document.querySelector(".breadcrumb").parentNode.parentNode.removeChild(document.querySelector(".breadcrumb").parentNode)} 
+Fugitive Behind Crypto Hedge Fund That Lost $10B Arrested At Changi Airport While Trying To Flee
+
+
+By
+
+
+
+          
+
+
+
+
+ Nica Osorio 
+ @nicaIBTimes 
+
+
+Published 10/02/23 AT 12:06 AM EDT
+Share on Facebook
+Share on Twitter
+Share on LinkedIn
+Share on Reddit
+Share on Flipboard doFir.push(function(){var flipboard=1;jQuery(".genericon-flipboard").on('click',function(e){e.preventDefault();e.stopPropagation();if(flipboard){flipboard=0;LJ('https://cdn.flipboard.com/web/buttons/js/flbuttons.min.js',function(){jQuery(".genericon-flipboard").trigger('click')})}})}) Share on Pocket
+
+
+
+
+Crypto Crime and Theft
+Bybit/flickr.com
+
+KEY POINTS3AC collapsed in the summer of 2022 after terraUSD lost its dollar pegZhu refused to comply with a court order compelling him to cooperate with the liquidatorThe liquidator obtained a court order for Zhu's arrest on Sept. 25Su Zhu, one of the founders of the now-defunct crypto hedge fund Three Arrows Capital (3AC), was nabbed by authorities at Changi Airport on Sept. 29 while attempting to flee Singapore.
+
+"Su Zhu was apprehended at Changi Airport whilst attempting to travel out of Singapore following a committal order by the Singapore courts against him," a statement from 3AC liquidator Teneo said, as per Decrypt.
+
+Teneo obtained a court order for Zhu's arrest on Sept. 25 after the crypto executive refused to comply with an earlier Singapore court order compelling him to cooperate with the liquidator as he was conducting the liquidation investigation.
+
+"A similar committal order was granted against the other co-founder of 3AC, Mr. Kyle Livingston Davis," Teneo disclosed.
+
+Zhu will be held in prison for four months. While there, liquidators will engage him in an investigation related to the failed crypto hedge fund, including the recovery of assets that belong to the business or were acquired using its funds.
+
+Davies' whereabouts, on the other hand, remain unknown.
+
+"Throughout the process, the liquidators' priority has been recovering the assets of 3AC and maximizing returns for its creditors," Teneo said.
+
+The Monetary Authority of Singapore (MAS), the country's central bank and financial regulatory authority, slapped Zhu and Davies with a nine-year finance ban a few weeks ago.
+
+"The Monetary Authority of Singapore (MAS) has issued nine-year prohibition orders (POs) against Mr. Zhu Su and Mr. Kyle Livingston Davies for contraventions of the Securities and Futures Act 2001 (SFA) and Securities and Futures (Licensing and Conduct of Business) Regulations (SFR)," the regulator said in an announcement.
+
+The ban prohibits the executives from doing business and regulated activities in Singapore due to contraventions of the Securities and Futures Act 2001 (SFA) and Securities and Futures Regulations (SFR).
+
+Zhu and Davies also made headlines in August when the Virtual Assets Regulatory Authority (VARA), a regulator in Dubai, revealed that the executives had been fined since May for violating Dubai's regulations.
+
+Each of the executives was slapped with a fine of 200,000 UAE dirhams (around $54,000) for "violations of administrative order No. 01/22 relating to the regulation of marketing, advertising and promotions related to virtual assets," particularly for failing "to ensure marketing meets the requirements of paragraph II.1 and/or II.5 of the marketing regulation."
+
+3AC, which managed around $10 billion worth of assets during its peak in 2022, collapsed in the summer of the same year after the so-called algorithmic stablecoin terraUSD (UST) de-pegged from the dollar.

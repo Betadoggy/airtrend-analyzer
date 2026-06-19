@@ -1,0 +1,26 @@
+Title: Tender requirements for ERP 2.0 include IEC-60068 and IEC-60529 qualifications: Chee Hong Tat
+Source: The Online Citizen
+URL: https://www.theonlinecitizen.com/2024/09/10/tender-requirements-for-erp-2-0-include-iec-60068-and-iec-60529-qualifications-chee-hong-tat/
+--------------------------------------------------
+
+In response to a parliamentary question filed by Workers' Party MP for Sengkang GRC, Assoc Prof Jamus Jerome Lim, Minister for Transport Chee Hong Tat provided clarification regarding the technical specifications and standards outlined in the tender documentation for the ERP 2.0 On-Board Unit (OBU).
+
+Assoc Prof Lim had specifically inquired whether the tender required the OBU to meet automotive-grade temperature ranges and adhere to international standards, particularly the International Electrotechnical Commission’s IEC-60068 and IEC-60529 certifications.
+
+In a written reply on Tuesday (10 Sep), Mr Chee confirmed that the ERP 2.0 tender required the contractor to ensure compliance with all necessary test certifications and standards, including the IEC-60068 and IEC-60529 qualifications.
+
+These standards assess the OBU's resilience to environmental factors such as temperature variations and ingress protection. Additionally, the OBU must be suitable for use in Singapore's automotive environment, reflecting local climatic conditions.
+
+This exchange follows concerns raised earlier regarding the three-piece design of the OBU, an issue that has sparked discontent among motorists due to the device’s multiple components and placement within the vehicle.
+
+The question comes in the wake of a previous explanation provided by Mr Chee in Parliament on 8 May, where he addressed why a one-piece OBU could not be used for both motorcycles and cars.
+
+During that session, Mr Chee elaborated on the heat-related challenges associated with placing the OBU on a car’s dashboard. He explained that in an enclosed vehicle environment, such as a car, temperatures on the dashboard could soar as high as 50 to 52 degrees Celsius on a sunny day, significantly higher than in a motorcycle, which is exposed to ambient temperatures. By contrast, temperatures in the car's footwell were recorded at 38 to 39 degrees Celsius.
+
+Mr Chee warned that a single-piece OBU, housing the antenna, display, and processing unit on the dashboard, could overheat and potentially malfunction in such conditions.
+
+To address the risk of overheating, the OBU would require a bulky cooling fan, which Mr Chee indicated would not be a practical or desirable solution for motorists.
+
+Despite these concerns, Assoc Prof Lim's question highlights the apparent discrepancy between the stringent temperature qualifications set by the IEC-60068 standard, which includes environmental stress testing across a range suitable for automotive use (-40°C to +125°C), and the limitations cited for dashboard placement, which should at least fall under Commercial Grade (0°C to +70°C).
+
+Many other consumer electronics, such as dashboard cameras, are routinely installed in similar locations without such issues.

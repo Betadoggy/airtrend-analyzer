@@ -1,0 +1,14 @@
+Title: Global IT Outage Disrupts 1,000s of Flights
+Source: Skift
+URL: http://skift.com/2024/07/19/global-it-outage-disrupts-1000s-of-flights/
+--------------------------------------------------
+
+Airlines around the world are attempting to recover from a catastrophic global IT outage. Companies in the United States, UK, India, and Australia are among those badly affected.
+
+Earlier on Friday, Delta Air Lines “paused” all flights in its global network as it “worked through a vendor technology issue.” United Airlines was among the other big names to halt all departures, with problems "impacting [its] ability to access reservation tools" for rebooking passengers. The carrier has since restarted some services.
+
+Elsewhere, Canada's Porter Airlines cancelled all departures until 12pm ET, and Eurowings scrapped all domestic German and UK services until 3pm CET.
+
+As of 12pm ET (4pm GMT), aviation analytics firm Cirium said 4,295 flights had been canceled globally on Friday, with thousands more delayed. This number is expected to rise throughout the day.
+
+KLM said on X on Friday morning that the cyber challenges had made "flight handling

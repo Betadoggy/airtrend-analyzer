@@ -1,0 +1,196 @@
+Title: The probiotic home: where microbes are welcome guests
+Source: Nature.com
+URL: https://www.nature.com/articles/d41586-025-03291-2
+--------------------------------------------------
+
+The natural world teems with microorganisms. Billions of species of bacteria, archaea, viruses and fungi make up complex ecosystems in the soil, water and air. The activity of these microbes sustains plants through their roots, animals through their guts and skin, and helps to regulate the planet’s climate and chemical cycles.
+
+But people spend about 90% of their time indoors, sealed inside environments that are, by design, hostile to many microbes.
+
+The sterile nature of modern architecture offers a certain amount of protection from infectious diseases. But some scientists think that it contributes to the development of other maladies, particularly those related to the immune system. And they are exploring whether the built environment can be turned probiotic, providing exposure to a diverse set of beneficial microbes indoors.
+
+Probiotic architecture means “we can target harmful microbes, but at the same time we still allow other benign microbes — or even potentially the microbes that are good for us — to exist”, says Richard Beckett, an architect specializing in bioaugmented design at University College London. “It’s recalibrating the idea that sterility is safest for our built environments.”
+
+But using homes, offices and schools as vectors for engineered exposure to microbes is controversial. Scientists are still learning which microbes can, and do, live indoors, and it’s not clear which ones to introduce — or how to do so in a way that would be safe and effective. it has been measured.”
+
+Antibiotic architecture
+
+Most of the world’s population lives in cities, and many people spend most of their days inside. A 2001 survey1 found that respondents in the United States spent 87% of their time inside sealed buildings, and a further 6% in vehicles.
+
+Exposure to dust, farm animals and their associated microbes can have a positive effect on children’s immune systems. “People who grow up on a farm have a 50% reduction in the likelihood of developing atopy,” says Jack Gilbert, a paediatrician and microbiome researcher at the University of California, San Diego. Atopy, which causes people to overproduce certain kinds of antibody, can manifest as conditions such as asthma, dermatitis and food allergy.
+
+People in the Amish community in the United States and Canada farm much of their own food and often travel in horse-drawn vehicles, bringing them unusually close to animals, plants, soil and the microbes that they harbour. The prevalence of asthma among Amish schoolchildren is 5.2% (ref. 2) — lower than the US average of 8.1%.
+
+If children’s developing immune systems need exposure to environmental microbes — and if such exposures turn out to have benefits for adults, too — then urban dwellers will often miss out.
+
+Modern architecture has been shaped partly by the desire to improve people’s health. Avoidance of tuberculosis, in particular, drove design ideas from the mid-nineteenth and into the twentieth century.
+
+Antibiotic architecture
+
+Most of the world’s population lives in cities, and many people spend most of their days inside. A 2001 survey1 found that respondents in the United States spent 87% of their time inside sealed buildings, and a further 6% in vehicles.
+
+Exposure to dust, farm animals and their associated microbes can have a positive effect on children’s immune systems. “People who grow up on a farm have a 50% reduction in the likelihood of developing atopy,” says Jack Gilbert, a paediatrician and microbiome researcher at the University of California, San Diego. Atopy, which causes people to overproduce certain kinds of antibody, can manifest as conditions such as asthma, dermatitis and food allergy.
+
+People in the Amish community in the United States and Canada farm much of their own food and often travel in horse-drawn vehicles, bringing them unusually close to animals, plants, soil and the microbes that they harbour. The prevalence of asthma among Amish schoolchildren is 5.2% (ref. 2) — lower than the US average of 8.1%.
+
+If children’s developing immune systems need exposure to environmental microbes — and if such exposures turn out to have benefits for adults, too — then urban dwellers will often miss out.
+
+Modern architecture has been shaped partly by the desire to improve people’s health. Avoidance of tuberculosis, in particular, drove design ideas from the mid-nineteenth and into the twentieth century.
+
+“Modernizing architecture was firstly a form of disinfection, a purification of buildings leading to a health-giving environment of light, air, cleanliness and smooth white surfaces without cracks or crevices where contagion might lurk,” writes architectural historian Beatriz Colomina at Princeton University in New Jersey in The Architectural Review (see go.nature.com/48r6vw0).
+
+These strategies saved lives, but some architects and scientists argue that designing for cleanliness has gone too far.
+
+In the early twentieth century, most buildings had windows that could be opened to let in fresh air. What’s more, the horizontal area of each storey in a building — the ‘floor plate’ to architects — was small. Those two design conventions meant that people were never far from ventilation and natural light during the day.
+
+That changed mid-century, says architect Mark Fretz, who is co-director of the Institute for Health in the Built Environment at the University of Oregon in Eugene. “The floor plates got very deep,” he says — people in some office buildings can work all day away from any window. And those windows are not likely to be operable. As concern for conserving energy grew in the 1970s, architects began cutting off access to outside air to ensure efficient operation of heating and cooling systems.
+
+“This creates a sealed environment that’s more synthetic and controlled by technical means,” Fretz says. “We’ve transitioned metaphorically from caves to spaceships.”
+
+“Modernizing architecture was firstly a form of disinfection, a purification of buildings leading to a health-giving environment of light, air, cleanliness and smooth white surfaces without cracks or crevices where contagion might lurk,” writes architectural historian Beatriz Colomina at Princeton University in New Jersey in The Architectural Review (see go.nature.com/48r6vw0).
+
+These strategies saved lives, but some architects and scientists argue that designing for cleanliness has gone too far.
+
+In the early twentieth century, most buildings had windows that could be opened to let in fresh air. What’s more, the horizontal area of each storey in a building — the ‘floor plate’ to architects — was small. Those two design conventions meant that people were never far from ventilation and natural light during the day.
+
+That changed mid-century, says architect Mark Fretz, who is co-director of the Institute for Health in the Built Environment at the University of Oregon in Eugene. “The floor plates got very deep,” he says — people in some office buildings can work all day away from any window. And those windows are not likely to be operable. As concern for conserving energy grew in the 1970s, architects began cutting off access to outside air to ensure efficient operation of heating and cooling systems.
+
+“This creates a sealed environment that’s more synthetic and controlled by technical means,” Fretz says. “We’ve transitioned metaphorically from caves to spaceships.”
+
+These ‘spaceships’ are hostile to many microbes. Plastic, glass and metal surfaces are smooth and dry. There’s nowhere for a soil microbe that ends up there to gain purchase, and nothing for them to eat or drink. Flooring, furniture and work surfaces can contain antimicrobial chemicals, and those that don’t are often regularly squirted with household cleaners containing these compounds.
+
+“We can think of the built environment as a kind of extreme environment,” says Erica Hartmann, who studies the microbiome of the built environment at Northwestern University in Evanston, Illinois.
+
+With the exception of a handful of damp and relatively fertile niches, such as sink drains, microbial diversity is distinctly lower indoors than it is outside. Studies of household microbiomes have found that homes are populated mostly by microbes from the bodies of the people who live there — particularly those found on people’s hands and feet, and in their noses — and from their pets.
+
+Rather than establishing themselves in the environment, these microbiomes are transient, and travel with a building’s occupants. In one study3, for example, three families who moved house were found to take their indoor microbiome with them. One group even deposited it for a time in a hotel room that the family stayed in ahead of the move.
+
+These ‘spaceships’ are hostile to many microbes. Plastic, glass and metal surfaces are smooth and dry. There’s nowhere for a soil microbe that ends up there to gain purchase, and nothing for them to eat or drink. Flooring, furniture and work surfaces can contain antimicrobial chemicals, and those that don’t are often regularly squirted with household cleaners containing these compounds.
+
+“We can think of the built environment as a kind of extreme environment,” says Erica Hartmann, who studies the microbiome of the built environment at Northwestern University in Evanston, Illinois.
+
+With the exception of a handful of damp and relatively fertile niches, such as sink drains, microbial diversity is distinctly lower indoors than it is outside. Studies of household microbiomes have found that homes are populated mostly by microbes from the bodies of the people who live there — particularly those found on people’s hands and feet, and in their noses — and from their pets.
+
+Rather than establishing themselves in the environment, these microbiomes are transient, and travel with a building’s occupants. In one study3, for example, three families who moved house were found to take their indoor microbiome with them. One group even deposited it for a time in a hotel room that the family stayed in ahead of the move.
+
+Living materials
+
+Colomina compares modern architecture to antibiotics. Just as the widespread use of these drugs has driven antibiotic resistance, architecture has “created its own monsters”, she writes in The Architectural Review. There is evidence that autoimmune diseases, allergies and metabolic diseases, such as obesity, are influenced by the microbes that people are exposed to, and that the diversity of these microbes is decreasing.
+
+Architecture, she argues, should instead be more like the human gut: porous and diverse. But bringing the wild inside is easier said than done. Microbes and architecture can make an uneasy pairing, says Beckett. Architects try to design for permanence and stability, but microbes are “unruly”, he says. “They don’t always behave.”
+
+One approach is to integrate environmental microbes into building materials. Beckett, who studied biochemistry and worked as a researcher at the UK pharmaceutical company GlaxoSmithKline before becoming an architect, hopes that benign microbiota incorporated into the built environment might outcompete or repel drug-resistant pathogens. Antimicrobial resistance is a major public-health concern, estimated4 to have been involved in nearly five million deaths in 2019.
+
+To try to overcome this, Beckett has worked with microbiologists on a project called Niches for Organic Territories in Bio-Augmented Design (NOTBAD).
+
+The NOTBAD team chose as its model pathogen a strain of methicillin-resistant Staphylococcus aureus (MRSA) that can repel many antibiotics and has become a scourge in hospitals. The team’s benign microbes were strains of the soil bacterium Bacillus subtilis that have shown antimicrobial properties in the lab and can survive in dry indoor conditions.
+
+The next task was choosing a material that could incorporate the benign microbes. Beckett’s work draws on the concept of bioreceptivity: the ability of a material to be colonized by living organisms. This idea, which draws together materials science and ecology, reframes such colonization — moss or algae growing on a stone monument, for example — in a positive or neutral way, rather than viewing it as a destructive process. “Some materials are receptive to microbial growth,” says Beckett, and to him that isn’t a bad thing.
+
+Smooth materials that lack pores, such as glass, are generally not bioreceptive. Lab-made materials, such as squishy water-filled polymers called hydrogels, are very bioreceptive, but they’re only available in small pieces, and are not durable enough for architectural use.
+
+The NOTBAD team has explored several materials, including 3D printed plastics, aluminium and various formulations of concrete as a medium for B. subtilis. The team tested whether the microbes were viable in each material, then assessed whether the microbe–material composite repelled MRSA.
+
+A ceramic-based material performed best, inhibiting growth of the pathogen. The material is relatively sturdy and has rough surfaces and pores that can hold moisture and act as microbe-friendly niches.
+
+The living ceramics could be used to make tiles for indoor use. “We are positioning ourselves against the glazed white tiles of laboratories — we look to challenge that,” says Beckett.
+
+For now, it is just a proof of concept. It’s not clear whether a B. subtilis population would remain viable over the life of a building without maintenance, such as water or nourishment. It’s also unclear whether the bacteria would be distributed throughout an indoor environment over time — and if that were to happen, whether this would be beneficial or harmful. The microbe is prevalent outdoors and is harmless to most people, but there are rare instances of B. subtilis infection in older people or those who are immunocompromised.
+
+Living materials
+
+Colomina compares modern architecture to antibiotics. Just as the widespread use of these drugs has driven antibiotic resistance, architecture has “created its own monsters”, she writes in The Architectural Review. There is evidence that autoimmune diseases, allergies and metabolic diseases, such as obesity, are influenced by the microbes that people are exposed to, and that the diversity of these microbes is decreasing.
+
+Architecture, she argues, should instead be more like the human gut: porous and diverse. But bringing the wild inside is easier said than done. Microbes and architecture can make an uneasy pairing, says Beckett. Architects try to design for permanence and stability, but microbes are “unruly”, he says. “They don’t always behave.”
+
+One approach is to integrate environmental microbes into building materials. Beckett, who studied biochemistry and worked as a researcher at the UK pharmaceutical company GlaxoSmithKline before becoming an architect, hopes that benign microbiota incorporated into the built environment might outcompete or repel drug-resistant pathogens. Antimicrobial resistance is a major public-health concern, estimated4 to have been involved in nearly five million deaths in 2019.
+
+To try to overcome this, Beckett has worked with microbiologists on a project called Niches for Organic Territories in Bio-Augmented Design (NOTBAD).
+
+The NOTBAD team chose as its model pathogen a strain of methicillin-resistant Staphylococcus aureus (MRSA) that can repel many antibiotics and has become a scourge in hospitals. The team’s benign microbes were strains of the soil bacterium Bacillus subtilis that have shown antimicrobial properties in the lab and can survive in dry indoor conditions.
+
+The next task was choosing a material that could incorporate the benign microbes. Beckett’s work draws on the concept of bioreceptivity: the ability of a material to be colonized by living organisms. This idea, which draws together materials science and ecology, reframes such colonization — moss or algae growing on a stone monument, for example — in a positive or neutral way, rather than viewing it as a destructive process. “Some materials are receptive to microbial growth,” says Beckett, and to him that isn’t a bad thing.
+
+Smooth materials that lack pores, such as glass, are generally not bioreceptive. Lab-made materials, such as squishy water-filled polymers called hydrogels, are very bioreceptive, but they’re only available in small pieces, and are not durable enough for architectural use.
+
+The NOTBAD team has explored several materials, including 3D printed plastics, aluminium and various formulations of concrete as a medium for B. subtilis. The team tested whether the microbes were viable in each material, then assessed whether the microbe–material composite repelled MRSA.
+
+A ceramic-based material performed best, inhibiting growth of the pathogen. The material is relatively sturdy and has rough surfaces and pores that can hold moisture and act as microbe-friendly niches.
+
+The living ceramics could be used to make tiles for indoor use. “We are positioning ourselves against the glazed white tiles of laboratories — we look to challenge that,” says Beckett.
+
+For now, it is just a proof of concept. It’s not clear whether a B. subtilis population would remain viable over the life of a building without maintenance, such as water or nourishment. It’s also unclear whether the bacteria would be distributed throughout an indoor environment over time — and if that were to happen, whether this would be beneficial or harmful. The microbe is prevalent outdoors and is harmless to most people, but there are rare instances of B. subtilis infection in older people or those who are immunocompromised.
+
+Buildings in bloom
+
+Another way to introduce microbes into indoor spaces is to bring in plants and their microbe-rich soils. There are some indications that this has health benefits for adults.
+
+A 2022 study6 showed that office workers who are exposed to green walls — large vertical structures covered with living plants, sometimes coupled with ventilation systems — had a greater diversity of benign microbes on their skin. This diversity was also associated with a decrease in the levels of some inflammation-driving proteins in the blood. There is also evidence7 that being in a room with plants can reduce some physiological indicators of stress.
+
+It is not yet certain, however, what it is about the plants that brings benefits, says Jeffrey Siegel, a buildings scientist who specializes in air quality at the University of Toronto in Canada.
+
+Siegel is currently running a study to determine whether sharing a space with plants is still beneficial when people can’t see them — something that would be expected if the effects were mediated by microbes or air quality, but not if a psychological effect is at play. “Maybe adding microorganisms is not the thing, it’s what people see,” Siegel says. “We expect we won’t see benefits if the plants are hidden.”
+
+Researchers are also interested in how the soil of indoor plants might affect people. When people buy a bag of soil from the hardware store, its contents are usually something of a mystery to them. Often these commercial products contain fungi that can trigger allergies, as well as fungus gnats that can live in drains, says Cynthia Gibas, who studies microbial genomics at the University of North Carolina in Charlotte.
+
+Because the indoor environment is a challenging one for plants to survive in, people might supplement the soil with plant probiotics — the make-up of which is also often unclear. Gibas and her team have purchased several of these products online and are currently testing what’s in them, ahead of studies that will assess their effects on people.
+
+Buildings in bloom
+
+Another way to introduce microbes into indoor spaces is to bring in plants and their microbe-rich soils. There are some indications that this has health benefits for adults.
+
+A 2022 study6 showed that office workers who are exposed to green walls — large vertical structures covered with living plants, sometimes coupled with ventilation systems — had a greater diversity of benign microbes on their skin. This diversity was also associated with a decrease in the levels of some inflammation-driving proteins in the blood. There is also evidence7 that being in a room with plants can reduce some physiological indicators of stress.
+
+It is not yet certain, however, what it is about the plants that brings benefits, says Jeffrey Siegel, a buildings scientist who specializes in air quality at the University of Toronto in Canada.
+
+Siegel is currently running a study to determine whether sharing a space with plants is still beneficial when people can’t see them — something that would be expected if the effects were mediated by microbes or air quality, but not if a psychological effect is at play. “Maybe adding microorganisms is not the thing, it’s what people see,” Siegel says. “We expect we won’t see benefits if the plants are hidden.”
+
+Researchers are also interested in how the soil of indoor plants might affect people. When people buy a bag of soil from the hardware store, its contents are usually something of a mystery to them. Often these commercial products contain fungi that can trigger allergies, as well as fungus gnats that can live in drains, says Cynthia Gibas, who studies microbial genomics at the University of North Carolina in Charlotte.
+
+Because the indoor environment is a challenging one for plants to survive in, people might supplement the soil with plant probiotics — the make-up of which is also often unclear. Gibas and her team have purchased several of these products online and are currently testing what’s in them, ahead of studies that will assess their effects on people.
+
+Beckett is experimenting with a different way of bringing microbe-rich soil indoors that could require less upkeep than a plant wall. He and his team have created a set of bioreceptive concrete tiles that are embedded with soil extract containing viable microbes.
+
+The extract was supplied by Helsinki-based firm Uute Scientific, and combines commercial plant-based composts and plant material from the Finnish forest floor. A 2020 study8 showed that adding forest-floor materials to the outdoor spaces of Finnish daycare centres diversified the microbiota of children’s skin, and that this was associated with changes in the levels of immune proteins in their blood.
+
+Beckett anticipates that his concrete tiles will release similarly ‘friendly’ microbes that will have measurable effects on the people who share a space with them. As part of the project, he spent three weeks sitting near the tiles, while his collaborators periodically took samples of his blood. The samples are currently being analysed to test whether Beckett’s immune system responded.
+
+Beckett is experimenting with a different way of bringing microbe-rich soil indoors that could require much less upkeep than a plant wall. He and his team have created a set of bioreceptive concrete tiles that are embedded with soil extract containing viable microbes.
+
+The extract was supplied by Helsinki-based firm Uute Scientific, and combines commercial plant-based composts and plant material from the Finnish forest floor. A 2020 study8 showed that adding forest-floor materials to the outdoor spaces of Finnish daycare centres diversified the microbiota of children’s skin, and that this was associated with changes in the levels of immune proteins in their blood.
+
+Beckett anticipates that his concrete tiles will release similarly ‘friendly’ microbes that will have measurable effects on the people who share a space with them. As part of the project, he spent three weeks sitting near the tiles, while his collaborators periodically took samples of his blood. The samples are currently being analysed to test whether Beckett’s immune system responded.
+
+Prescription buildings
+
+Probiotic architecture is not a universally popular prospect. “Just because sterility is bad, it doesn’t mean the opposite is good,” says Siegel. Releasing microbes into a space “has the potential for some enormous negative consequences”, he says.
+
+Someone with a suppressed immune system owing to medication or a health condition would be particularly at risk of unintended effects. And this is not a small group of people. It is estimated9 that as many as 7% of the adult US population could be immunosuppressed. Among women, the prevalence might be nearer 8%.
+
+Deliberately seeding hospitals and offices with microbes, perhaps without giving notice to the people inhabiting the spaces, might therefore be a risk. “If a diverse community of microorganisms is a good thing to give babies, don’t try to give it indirectly through a building,” says Siegel. “We’ve been controlling the temperature of buildings for hundreds of years, and we still don’t have that right.”
+
+Fretz still thinks it’s worth exploring probiotic design now. “The unseen environment influences so much, but we don’t design for it,” he says. His goal is to create spaces that are microbially “rich and diverse, so that the commensal organisms we need can outcompete the pathogens”. But the first moves in that direction could be as simple as enabling people to open their windows. In places with good outdoor air quality, ventilating buildings during summer nights could allow some outdoor microbes in while also reducing cooling costs.
+
+Scientists are only just beginning to understand the microbiology of the built environment. Microbiologists know very little about what kinds of microbe to engineer exposures to, and have much to learn about the complex ecologies at play in the built environment. “Kitchen counters are not like agar,” says Hartmann. Initial results are “tantalizing”, Gilbert says, but firm recommendations are still a way off. It’s “enough to justify careful probiotic-building experiments, but not yet a prescription”, he says.
+
+Hartmann says that researchers need better tools to understand which microbes are present in indoor environments, how they might influence our health, and what the mechanisms behind those influences are. Siegel agrees: “We need good science with placebos, starting small scale,” he says. “Anything else, and you’re using people as guinea pigs.”
+
+As experiments continue, it is clear that the mood about microbes is changing. Whereas once they were seen as nothing but pests to remove from our homes and offices, now there is growing appreciation that a little microbial exposure might do some good. “There are myriad bacteria, fungi, archaea and viruses around us,” says Hartmann. “We should accept and embrace them. We should approach this with a sense of wonder.”
+
+Prescription buildings
+
+Probiotic architecture is not a universally popular prospect. “Just because sterility is bad, it doesn’t mean the opposite is good,” says Siegel. Releasing microbes into a space “has the potential for some enormous negative consequences”, he says.
+
+Someone with a suppressed immune system owing to medication or a health condition would be particularly at risk of unintended effects. And this is not a small group of people. It is estimated9 that as many as 7% of the adult US population could be immunosuppressed. Among women, the prevalence might be nearer 8%.
+
+Deliberately seeding hospitals and offices with microbes, perhaps without giving notice to the people inhabiting the spaces, might therefore be a risk. “If a diverse community of microorganisms is a good thing to give babies, don’t try to give it indirectly through a building,” says Siegel. “We’ve been controlling the temperature of buildings for hundreds of years, and we still don’t have that right.”
+
+Fretz still thinks it’s worth exploring probiotic design now. “The unseen environment influences so much, but we don’t design for it,” he says. His goal is to create spaces that are microbially “rich and diverse, so that the commensal organisms we need can outcompete the pathogens”. But the first moves in that direction could be as simple as enabling people to open their windows. In places with good outdoor air quality, ventilating buildings during summer nights could allow some outdoor microbes in while also reducing cooling costs.
+
+Scientists are only just beginning to understand the microbiology of the built environment. Microbiologists know very little about what kinds of microbe to engineer exposures to, and have much to learn about the complex ecologies at play in the built environment. “Kitchen counters are not like agar,” says Hartmann. Initial results are “tantalizing”, Gilbert says, but firm recommendations are still a way off. It’s “enough to justify careful probiotic-building experiments, but not yet a prescription”, he says.
+
+Hartmann says that researchers need better tools to understand which microbes are present in indoor environments, how they might influence our health, and what the mechanisms behind those influences are. Siegel agrees: “We need good science with placebos, starting small scale,” he says. “Anything else, and you’re using people as guinea pigs.”
+
+As experiments continue, it is clear that the mood about microbes is changing. Whereas once they were seen as nothing but pests to remove from our homes and offices, now there is growing appreciation that a little microbial exposure might do some good. “There are myriad bacteria, fungi, archaea and viruses around us,” says Hartmann. “We should accept and embrace them. We should approach this with a sense of wonder.”
+
+doi: https://doi.org/10.1038/d41586-025-03291-2

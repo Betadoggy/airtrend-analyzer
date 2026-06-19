@@ -1,0 +1,34 @@
+Title: Largest single-site rooftop solar panel system to be built at Changi Airport
+Source: CNA
+URL: https://www.channelnewsasia.com/singapore/changi-airport-largest-single-site-rooftop-solar-pv-system-keppel-clean-energy-4119846
+--------------------------------------------------
+
+SINGAPORE: Changi Airport will be home to Singapore's largest single-site rooftop solar panel system when it is completed in early 2025.
+
+Changi Airport Group (CAG) has appointed Keppel to design, build, own and operate the solar photovoltaic (PV) system for a period of 25 years, CAG and Keppel said on Wednesday (Feb 14).
+
+The system will be built on the rooftop areas of Changi Airport's terminal buildings, auxiliary structures, airfield and cargo buildings, according to the joint media release.
+
+When completed, the solar PV system will have a combined generation capacity of 43 mega-watt peak (MWp) - 38MWp will be installed on rooftops and the remaining 5MWp installed at a 40,000 sq m turf area within Changi Airport's airfield outside of aircraft operational areas.
+
+CAG and Keppel said that this will be the first time a solar PV system is installed in the airfield.
+
+Combined, both sites are expected to generate "sufficient solar energy equal to what is needed to power more than 10,000 four-room HDB (Housing and Development Board) flats yearly".
+
+"With the system, CAG will reduce its carbon emissions by about 20,000 tonnes each year, or about 10 per cent of its consumption in 2019."
+
+CAG also appointed SolarGY to transform the airport maintenance and storage centre into a greener facility by installing a 640kWp rooftop solar PV system, which will cut the facility’s emissions by around 50 per cent, said Koh Ming Sue, the group's executive vice president of engineering and development.
+
+CAG and Keppel said in the media release that deploying solar PV systems in the airport "involves a set of unique challenges" as compared to conventional installation at commercial, industrial, or residential sites.
+
+"For example, robust simulation had to be carried out to ensure that the solar panels do not pose glare and glint effects to air traffic controllers and pilots or interfere with communications, navigation & surveillance and meteorological signals."
+
+They added that the associated installation and maintenance processes will also need to comply with aviation safety and security requirements, including fire safety code requirements prescribed by the Singapore Civil Defence Force.
+
+The completed system will be integrated with Keppel's Operations Nerve Centre located within the Keppel Infrastructure@Changi building, which will provide remote monitoring and real-time reporting of solar generation metrics, including advanced fault detection and diagnostics for predictive maintenance.
+
+Artificial intelligence and machine learning algorithms are also deployed at the centre "to form adaptable models for better forecasting and energy management to optimise asset performance and operational outcomes", said CAG and Keppel.
+
+Mr Koh said: "We have been addressing the airport’s energy demands at its core, which includes upgrading our frontline airport building and systems with best-in-class energy efficient models and expanding our support for the airport community to switch to cleaner energy vehicles."
+
+"Partnering Keppel in this project, which is Changi Airport’s largest deployment of solar PV system to date and our first foray into solar PV systems in the airfield, we have taken a significant step forward in our decarbonisation journey."

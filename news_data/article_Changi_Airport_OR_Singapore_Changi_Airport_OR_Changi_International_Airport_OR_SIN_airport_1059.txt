@@ -1,0 +1,60 @@
+Title: Politicians love comparing NZ’s economy to Singapore or Ireland – but it’s simplistic and misleading
+Source: The Conversation Africa
+URL: https://theconversation.com/politicians-love-comparing-nzs-economy-to-singapore-or-ireland-but-its-simplistic-and-misleading-264679
+--------------------------------------------------
+
+Unveiling Amazon Web Services’ long-awaited NZ$7.5 billion “cloud region” – a cluster of local data centres – Prime Minister Christopher Luxon specifically referenced Ireland and Singapore as “two economies we often look to for inspiration on investment and technology”.
+
+This kind of comparison has been a familiar refrain in New Zealand politics. More than a decade ago, then prime minister John Key imagined the country as the “Switzerland of the South Pacific”.
+
+Earlier this year, Luxon described his proposed Invest New Zealand agency as being “modelled off the success of Ireland and Singapore”, pitched as a “concierge” service for large foreign investors.
+
+But based on my research on how big-tech cloud providers expand and dominate markets across the globe, I argue such comparisons are simplistic and misleading.
+
+Unlike Ireland, New Zealand does not sit at the junction of the European Union and the United States. And it is not a logistics-finance hub strategically perched on global shipping routes like Singapore.
+
+Rather, New Zealand is a distant, mid-sized economy whose digital sector has largely grown by meeting domestic demand rather than exporting at scale.
+
+The limits of comparison
+
+The comparisons suffer in deeper ways too. Singapore’s success in capitalising on foreign investment has always rested on massive state-led investment and equity in infrastructure and firms.
+
+Sovereign wealth funds such as Temasek and GIC own majority stakes in airlines, banks, ports and telecommunications. Government planning also underpinned the famous Changi Airport and Jurong Industrial Estate – cornerstones of Singapore’s global hub status.
+
+This is the opposite of the current New Zealand government’s policy of shrinking the public sector and the country’s lack of long-term infrastructure planning and spending.
+
+Ireland’s path has been different again. It became the European gateway for big tech, drawing in Amazon, Microsoft, Google and Meta through low taxes, EU membership and access to transatlantic data flows.
+
+The so-called “Double Irish” tax loophole allowed companies to funnel profits through Ireland. But beyond enjoying a tax haven, this foreign investment also created real jobs, industry clusters and export capacity.
+
+Amazon, Microsoft and Google did not simply book profits there; they built major European operations anchored in Dublin’s “Silicon Docks” – plots of cheap land with favourable tax status.
+
+Amazon Web Services’ own expansion illustrates the point. Ireland and Singapore were its first cloud regions outside the US and were meant to take advantage of their unique political and economic geographies. Each was chosen because it provided a genuine hub: Dublin gave access to the EU market, Singapore to Asia.
+
+New Zealand, by contrast, is a latecomer. For nearly 13 years, much of its public and private digital needs have been met seamlessly out of Amazon Web Services’ Sydney cloud region.
+
+The Auckland mystery – a warning
+
+Long before the Auckland cloud region went live, Amazon Web Services built substantial revenue from New Zealand markets, particularly the public sector. Company documents show that after its coordinated cloud region announcement with the Labour government in 2021, New Zealand revenues jumped from $93.7 million in 2021 to $364.1 million in 2022.
+
+This near-300% increase was likely driven by pandemic-era contracts for critical infrastructure. Amazon provided cloud services for contact tracing, small business loans and Ministry of Health infrastructure, among other things.
+
+While Amazon has undoubtedly captured significant domestic value, the promised economic multipliers – jobs, exportable digital industries, global competitiveness – remain largely hypothetical.
+
+Meanwhile, the tax benefits to New Zealand are minimal. Amazon Web Services books most of its local revenue through its Irish subsidiary, using inter-company “service fees” to shift profits offshore and minimise tax liabilities, a longstanding practice.
+
+The Auckland development itself has been shrouded in mystery. The original 2021 announcement promised the first data centres would go live in 2024. Instead, the project was delayed, with little clarity about construction sites or the scale of local employment.
+
+When Amazon finally declared the region open last week, again it offered little transparency on construction progress, workforce numbers, or the scale of its footprint. For New Zealand’s largest ever digital infrastructural investment, the lack of clarity is striking.
+
+Sovereignty, regulation and risk
+
+The Ireland and Singapore analogies obscure more than they reveal. New Zealand is not an anchor point in global trade and data flows, and Amazon Web Services’ delays, lack of clarity and tax avoidance on domestic consumption make that plain.
+
+The Auckland cloud region will likely cut the time it takes for data to travel between users and servers, enable some local innovation, and support jobs. But the coalition government needs to be honest about what it represents and the appropriate way to respond.
+
+The economic advantages of Singapore and Ireland are not just hard to reproduce, they reflect very different sets of political commitments that have turned those countries into rare winners in the global race to the bottom to attract foreign capital.
+
+Ireland has been willing to compete as a tax haven despite repeated reprimands from the EU, and Singapore’s success depends on a tightly controlled political system that prioritises stability and growth over open democratic debate.
+
+Neither represents a path that can, or should, be easily transplanted elsewhere.

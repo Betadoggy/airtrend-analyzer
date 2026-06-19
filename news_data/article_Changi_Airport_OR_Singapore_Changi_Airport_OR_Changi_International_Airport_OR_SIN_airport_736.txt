@@ -1,0 +1,22 @@
+Title: AirAsia’s Tony Fernandes wants Microsoft compensation for the CrowdStrike outage: ‘If I delay my flight, you would come after me for a refund’
+Source: Fortune
+URL: https://fortune.com/asia/2024/07/25/airasia-tony-fernandes-wants-microsoft-compensation-crowdstrike-outage-airlines-delays-cancellations/
+--------------------------------------------------
+
+Tony Fernandes, CEO of Capital A, owner of low-cost carrier AirAsia, says he’s “100%” asking for compensation from Microsoft, developer of the Windows operating system.
+
+“If I delay my flight, you would come after me for a refund, right? Or if I cancel my flight, it means I need to give you a refund,” Fernandes told reporters at an event in Subang, Malaysia.
+
+“The principle is, if we do something wrong, we have to compensate. They did something wrong. We and other airlines lost a lot,” he said.
+
+Total financial losses from the CrowdStrike outage could reach as high as $15 billion, insurer Parametrix estimated on Wednesday. The cost to Fortune 500 companies alone could be over $5 billion.
+
+Malaysia’s digital minister has also chimed in. On Wednesday, Gobind Singh Deo suggested to reporters that five government agencies and nine companies were among those affected in Malaysia, and that he’d met with representatives from Microsoft and CrowdStrike to seek a full report, according to Reuters.
+
+Services at Asian airports needed to be done manually when the outage first hit on Friday, with passengers facing delays at both Singapore’s Changi Airport and Hong Kong International Airport. The outage affected services at over 10 airlines in Singapore and at least five in Hong Kong, according to local media reports.
+
+Airlines are still picking up the pieces from Friday’s outage. Delta is still canceling hundreds of flights, with over 6,000 cancellations since the outage began. It’s the worst affected among the major U.S. carriers, and is now being probed by the U.S. Department of Transportation.
+
+Fernandes has been on the warpath regarding Microsoft and CrowdStrike since the outage. On Sunday, the airline executive complained in a LinkedIn post that “tech companies have little empathy” for what airlines went through during the pandemic.
+
+“Now they have issues they expect us all to understand. Well, I’m not going to. Airlines need answers and compensation,” he wrote.

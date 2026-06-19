@@ -1,0 +1,54 @@
+Title: Yes, Singapore immigration plans to scan your face instead of your passport
+Source: Theregister.com
+URL: https://www.theregister.com/2023/10/02/singapore_face_scan_passports/
+--------------------------------------------------
+
+Last week the internet was abuzz with talk that Singapore's commercial Changi airport was no longer going to require passports for clearance at immigration. Although it is true the paper documentation will be replaced by biometric measures, it's not quite time to pack the document away.
+
+The news came through as Singapore passed its Immigration Amendment Bill which, among other things, enables the use of end-to-end biometric clearance at airports and checkpoints, beginning in the first half of 2024.
+
+"Singapore will be one of the first few countries in the world to introduce automated, passport-free immigration clearance," said minister for communications and information Josephine Teo in a wrap-up speech for the bill. Teo did concede that Dubai had such clearance for select enrolled travelers, but there was no assurance of other countries planning similar actions.
+
+REG AD
+
+And therein lies one of the most important reasons passports will not yet go away.
+
+REG AD
+
+Within Singapore's 283 square miles (732 square kilometers) there are nine airports, but Changi is the sole commercial airport, meaning domestic flights are not a part of the discussion. This thereby guarantees, at least for the time being, travelers will need that passport when they travel to another country.
+
+Another consideration for why passports will likely remain relevant in Singapore airports is for checking in with airlines. Airlines check passports not just to confirm identity, but also visas and more. Airlines are often held responsible for stranded passengers so will likely be required to confirm travelers have the documentation required to enter their destination.
+
+The Register asked Singapore Airlines to confirm if passports will still be required on the airline after the implementation of biometric clearance. They deferred to Changi's operator, Changi Airport Group (CAG), which The Reg also contacted – and we will update if a relevant reply arises.
+
+What travelers will see is an expansion of a program already taking form. Changi airport currently uses facial recognition software and automated clearance for some parts of immigration.
+
+The plan is to expand to universal coverage, which Teo called one of the keys to the successful implementation of the New Clearance Concept (NCC).
+
+"This requires a willingness to phase out traditional methods of identifying and authenticating travelers. The alternative of running two systems in parallel is not only costly but also cumbersome," said Teo.
+
+Passengers who pre-submit required declarations online can already get through Singapore's current automated immigration lanes in 20 to 30 seconds once they arrive to the front of the queue. It's one reason Changi has a reputation for being quick to navigate.
+
+Teo explained that the new policy will see even more streamlined travel for passengers as they will no longer have to search and produce travel documents at multiple touch points.
+
+REG AD
+
+According to CAG, the airport handled 5.12 million passenger movements in June 2023 alone. This figure is expected to only increase as it currently stands at 88 percent of pre-COVID levels and the government sees such efficiency as critical to managing the impending growth.
+
+But the reasoning for biometric clearance go beyond a boom in travelers. With an aging population and shrinking workforce, Singapore's Immigration & Checkpoints Authority (ICA) will have "to cope without a significant increase in manpower," said Teo.
+
+Additionally, security threats including pandemics and terrorism call for Singapore to "go upstream" on immigration measures, "such as the collection of advance passenger and crew information, and entry restrictions to be imposed on undesirable foreigners, even before they arrive at our shores," added the minister.
+
+This collection and sharing of biometric information is what enables the passport-free immigration process – passenger and crew information will need to be disclosed to the airport operator to use for bag management, access control, gate boarding, duty-free purchases, as well as tracing individuals within the airport for security purposes.
+
+The shared biometrics will serve as a "single token of authentication" across all touch points.
+
+Members of Singapore's parliament have raised concerns about shifting to universal automated clearance, including data privacy, and managing technical glitches.
+
+According to Teo, only Singaporean companies will be allowed ICA-related IT contracts, vendors will be given non-disclosure agreements, and employees of such firms must undergo security screening. Traveler data will be encrypted and transported through data exchange gateways.
+
+As for who will protect the data, that role goes to CAG, with ICA auditing its compliance.
+
+REG AD
+
+In case of disruptions that can't be handled by an uninterruptible power supply, off-duty officers will be called in to go back to analog.

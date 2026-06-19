@@ -1,0 +1,66 @@
+Title: Australia’s tech lobby wants deregulated ‘digital embassies’ for offshore clients. Here’s why that might not be a great idea
+Source: The Conversation Africa
+URL: https://theconversation.com/australias-tech-lobby-wants-deregulated-digital-embassies-for-offshore-clients-heres-why-that-might-not-be-a-great-idea-266769
+--------------------------------------------------
+
+When Australian Prime Minister Anthony Albanese meets US President Donald Trump on Monday, the visit is expected to seal major big tech investment deals on artificial intelligence (AI) and data centres.
+
+In the lead-up, Atlassian cofounder Scott Farquhar (in his role as chair of the Tech Council of Australia) has been pitching a plan to make Australia a “regional AI hub”.
+
+In July, Farquhar unveiled his vision in a speech at the National Press Club of Australia in which he held up Singapore and Estonia as proof that nimble regulation to attract foreign capital can turn nations into digital powerhouses.
+
+But based on my research on the geopolitics of data-centre markets, these examples don’t quite hold up – and following them risks narrowing the debate about Australia’s tech future at a crucial moment.
+
+However, as Australia advances its AI agenda, these examples can offer important lessons if read more carefully.
+
+The Estonian data embassy
+
+Farquhar proposes Australia should host “digital embassies”. These would be datacentres on Australian soil owned by foreign companies and exempt from Australian law. He cites as a precedent Estonia’s data embassy in Luxembourg.
+
+Estonia’s case, though, is quite different from what Farquhar proposes. After a series of Russian cyberattacks in 2007, Estonia sought to guarantee the continuity of government if its domestic systems were ever disabled.
+
+The result was a bilateral treaty with Luxembourg. The treaty allows encrypted copies of critical state registries – citizenship, land and business records – to be stored under Estonian jurisdiction abroad.
+
+It was an act of defensive statecraft built on the Vienna Convention. This agreement grants diplomatic immunity to state functions but explicitly excludes commercial activity.
+
+By contrast, the digital embassies proposed by Farquhar would cater both to states and to foreign corporates. It would allow them to operate under their own law but draw on Australian resources.
+
+Farquhar himself concedes this would necessitate revising the Vienna Convention. But this would undermine six decades of established diplomatic practice and further destabilise an already fragile international system.
+
+Without the diplomatic costume, Farquhar’s digital embassies look more like special economic zones. These are areas designed to attract investment through the strategic loosening of laws.
+
+What really transformed Singapore
+
+Farquhar’s reading of Singapore’s example similarly overlooks its deeper economic and political foundations.
+
+Singapore is often romanticised by neoliberal thinkers as a haven of free enterprise. But Singapore’s success in using its natural strengths and foreign direct investment has rested on massive state-led investment and equity in infrastructure and firms.
+
+Through its sovereign wealth funds, Temasek and GIC, Singapore retains dominant stakes in its airlines, banks, ports and telecoms. That same strategic state investment produced Changi Airport and the Jurong Industrial Estate, cornerstones of Singapore’s regional hub status.
+
+Australia has taken a different path.
+
+For example, recent Australian Tax Office data shows major technology firms – such as Amazon Web Services, Microsoft and Google – have secured billions in government contracts while contributing relatively little in tax.
+
+In 2024, Microsoft reported $8.63 billion in Australian revenue, but only $118 million – about 1.4% – was payable in tax. Amazon Web Services earned $3.4 billion locally yet paid just $61 million after deductions reduced its taxable income to $204 million.
+
+Much of this is explained by profit-shifting arrangements. Most revenue is booked in tax havens such as Ireland through inter-company “service fees”.
+
+US tech companies have undoubtedly captured significant domestic value. However, local benefits, such as jobs, exportable digital industries and global competitiveness, remain largely hypothetical.
+
+A cloudy memory
+
+Australia has chased the dream of jurisdictional deregulation before.
+
+More than a decade ago, Google and Microsoft told then prime minister Julia Gillard they could build a “Silicon Beach” here. This echoed Ireland’s “Silicon Docks” – a digital growth strategy of creating a deregulated haven for big tech.
+
+Farquhar’s AI-hub vision appeals to the same logic. However, it has even thinner appreciation for the statecraft and public investment required.
+
+Without it, Australia is unlikely to achieve AI hub status.
+
+Some will argue Australia’s minerals and favorable relations with the US make it an inevitable frontier of data-centre expansion. Yet that position also gives Australia leverage to define sovereign growth on its own terms.
+
+As economist Alison Pennington has asked, “is a shift from foreign-owned mining to foreign-owned data mining with even less control the best we can do?”
+
+If Australia wants to build a resilient and credible AI sector, it won’t find its edge by joining the global race to the bottom – puncturing its territory with legal carve-outs and filling them with foreign-owned and unfettered direct investment.
+
+Instead, Australia could build a model of sovereign control by investing in public infrastructure, skills and governance frameworks that secure national forms of ownership and accountability.
