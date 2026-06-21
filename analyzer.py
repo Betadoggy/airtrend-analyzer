@@ -40,9 +40,9 @@ class TextAnalyzer:
         domain_stopwords = {
             'according', 'air', 'aircraft', 'airline', 'airlines', 'airport', 'airports', 'also', 
             'aviation', 'city', 'could', 'country', 'day', 'first', 'flights', 'flight', 
-            'icn', 'incheon', 'international', 'korea', 'korean', 'like', 'million', 'new', 
+            'singapore', 'singaporean', 'international', 'korea', 'korean', 'like', 'million', 'new', 
             'news', 'north', 'one', 'passengers', 'passenger', 'reported', 'said', 'second', 
-            'seoul', 'since', 'south', 'time', 'travelers', 'traveler', 'travel', 'two', 
+            'since', 'south', 'time', 'travelers', 'traveler', 'travel', 'two', 
             'world', 'years', 'year', 'vna' # 🌟 이전 단계에서 발견된 원형복원 찌꺼기 불용어 사전 추가
         }
         self.stop_words.update(domain_stopwords)
@@ -89,8 +89,8 @@ class TextAnalyzer:
                 url = lines[2].replace("URL: ", "").strip() if len(lines) > 2 else ""
                 content = "".join(lines[5:]) if len(lines) > 5 else ""
                 
-                # [가드레일 필터링] 제니, 트럼프 기사 같이 인천공항과 관계없는 순수 외부 노이즈 차단
-                required_keywords = ['incheon', 'incheon airport', 'icn', 'incheon international airport', 'icn airport']
+                # [가드레일 필터링] 공항과 관계없는 순수 외부 노이즈 차단
+                required_keywords = ['singapore', 'changi', 'sin', 'changi airport', 'sin airport']
                 content_lower = content.lower()
                 if not any(kw in content_lower for kw in required_keywords):
                     # 소음 기사는 원천적으로 제외 메시지를 띄우고 수집하지 않음
