@@ -43,7 +43,7 @@ class TextAnalyzer:
             'singapore', 'singaporean', 'international', 'korea', 'korean', 'like', 'million', 'new', 
             'news', 'north', 'one', 'passengers', 'passenger', 'reported', 'said', 'second', 
             'since', 'south', 'time', 'travelers', 'traveler', 'travel', 'two', 
-            'world', 'years', 'year', 'vna' # 🌟 이전 단계에서 발견된 원형복원 찌꺼기 불용어 사전 추가
+            'world', 'years', 'year', 'vna', 'changi', 'plane'
         }
         self.stop_words.update(domain_stopwords)
 
